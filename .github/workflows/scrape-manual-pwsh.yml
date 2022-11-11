@@ -1,0 +1,35 @@
+name: Scrape manually with pwsh in windows
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API. 
+on:
+  workflow_dispatch
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job
+  scrape:
+    # The type of runner that the job will run on
+    runs-on: windows-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+    # Load repo
+    - uses: actions/checkout@v3
+
+    # Run script
+    - name: Run scrape
+      run: pwsh ./scrape.ps1
+
+    # Add new files in data folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "GH ACTION Add products $(date)"
+        git push origin master
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
