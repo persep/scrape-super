@@ -1,18 +1,5 @@
 #!/bin/bash -e
 
-#last_date=$(sqlite3 db/products.db 'select max(date) from products')
-
-#startdate='2022-11-28'
-#enddate='2022-12-02'
-#
-#echo "From $startdate to $enddate"
-#enddate=$( date --date="$enddate" +'%Y-%m-%d' )
-#thedate=$( date --date="$startdate + 1 day" +'%Y-%m-%d' )
-#while [[ "$thedate" < "$enddate" ]] || [[ "$thedate" == "$enddate" ]]; do
-#    echo $thedate
-#    thedate=$( date --date="$thedate + 1 day" +'%Y-%m-%d' )
-#done
-
 data_dir='data'
 db_dir='db'
 
@@ -23,14 +10,14 @@ enddate=$(date +'%Y-%m-%d')
 
 thedate=$( date --date="$startdate + 1 day" +'%Y-%m-%d' )
 
-if [[ "$thedate" < "$enddate" ]]; then
+if [[ "$thedate" < "$enddate" || "$thedate" == "$enddate" ]]; then
     echo "Inserting from $thedate to $enddate"
 else
     echo "Nothing to insert"
     exit 0
 fi
 
-while [[ "$thedate" < "$enddate" ]] || [[ "$thedate" == "$enddate" ]]; do
+while [[ "$thedate" < "$enddate" || "$thedate" == "$enddate" ]]; do
     file=$thedate-products.json
     if [[ -f $data_dir/$file ]]
     then
