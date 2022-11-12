@@ -4,7 +4,9 @@ data_dir='data'
 db_dir='db'
 
 echo -n "Accessing last date in db: "
-startdate=$(sqlite3 db/products.db 'select max(date) from products')
+#startdate=$(sqlite3 db/products.db 'select max(date) from products')
+#Ultrafast version
+startdate=$(sqlite3 db/products.db 'select date from products ORDER BY ROWID DESC limit 1')
 echo $startdate
 enddate=$(date +'%Y-%m-%d')
 
