@@ -36,7 +36,7 @@ jobs:
 
   job_3:
     needs: [job_1, job_2]
-    name: Join files and import
+    name: Join files
     runs-on: ubuntu-22.04
     steps:
       - name: Get ip
