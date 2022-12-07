@@ -15,7 +15,7 @@ echo "Uploading product to Tb"
 #
 #rm ./temp.json
 
-echo $TB_TOKEN
+echo "token: $TB_TOKEN"
 
 curl \
   -H 'Authorization: Bearer $TB_TOKEN' \
