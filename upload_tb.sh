@@ -15,6 +15,8 @@ echo "Uploading product to Tb"
 #
 #rm ./temp.json
 
+echo $TB_TOKEN
+
 curl \
   -H 'Authorization: Bearer $TB_TOKEN' \
   -X POST 'https://api.tinybird.co/v0/datasources?format=csv&name=products&mode=append' \
