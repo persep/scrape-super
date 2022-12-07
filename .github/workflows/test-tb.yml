@@ -23,4 +23,3 @@ jobs:
       run: bash ./upload_tb.sh
       env:
         TB_TOKEN: ${{secrets.TB_TOKEN}}
-
