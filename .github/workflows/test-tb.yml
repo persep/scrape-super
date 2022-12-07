@@ -1,4 +1,4 @@
-name: Scrape manually with bash linux
+name: Upload manually to Tb
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API. 
