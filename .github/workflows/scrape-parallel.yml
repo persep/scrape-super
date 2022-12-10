@@ -71,3 +71,7 @@ jobs:
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
           username: github-actions
+      - name: Run upload to Tb
+        run: bash ./upload_tb.sh
+        env:
+          TB_TOKEN: ${{secrets.TB_TOKEN}}
