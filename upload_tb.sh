@@ -11,6 +11,7 @@ jq -r '.[] | [.[]] | @csv' $data_dir/$file > temp.csv
 echo "Uploading product to Tb"
 
 curl \
+  -sS \
   -H "Authorization: Bearer ${TB_TOKEN}" \
   -X POST "https://api.tinybird.co/v0/datasources?format=csv&name=products&mode=append" \
   -F "csv=@temp.csv"
