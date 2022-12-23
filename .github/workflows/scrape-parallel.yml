@@ -2,7 +2,7 @@ name: Scrape Parallel Scheduled
 
 on:
   schedule:
-    - cron: '5 3 * * *'
+    - cron: '5 7 * * *'
 
 jobs:
   job_1:
