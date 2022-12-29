@@ -37,7 +37,7 @@ jobs:
 
   job_3:
     needs: [job_1, job_2]
-    name: Join files
+    name: Join files and upload
     runs-on: ubuntu-22.04
     steps:
       - name: Get ip
@@ -68,6 +68,6 @@ jobs:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
           username: github-actions
       - name: Run upload to Tb
-        run: bash ./upload_tb.sh
+        run: bash ./upload_tb_ndjson.sh
         env:
           TB_TOKEN: ${{secrets.TB_TOKEN}}

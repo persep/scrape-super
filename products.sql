@@ -15,3 +15,4 @@ select
   value ->> '$.date',
   value ->> '$.id'
 from json_each(readfile('temp.json'));
+
