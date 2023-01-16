@@ -4,9 +4,7 @@ data_dir='data'
 db_dir='db'
 
 echo -n "Accessing last date in db: "
-#startdate=$(sqlite3 db/products.db 'select max(date) from products')
-#Ultrafast version
-startdate=$(sqlite3 db/products.db 'select date from products ORDER BY ROWID DESC limit 1')
+startdate=$(duckdb -noheader -list db/products.duck 'select max(date) from products')
 echo $startdate
 enddate=$(date +'%Y-%m-%d')
 
