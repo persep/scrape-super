@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS products(url VARCHAR, category VARCHAR, 
-	"name" VARCHAR, description VARCHAR, price DOUBLE, reference_price DOUBLE, 
-	reference_unit VARCHAR, date DATE, id DOUBLE);
+	name VARCHAR, description VARCHAR, price DOUBLE, reference_price DOUBLE, 
+	reference_unit VARCHAR, date DATE, id VARCHAR);
 
 insert into products(url, category, name, description, price, reference_price, reference_unit, date, id)
 select
