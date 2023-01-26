@@ -35,15 +35,15 @@ map(
     	.price_instructions.unit_price
     end) as $price| 
 		{
-	  	url: .share_url,	
-	  	category: "\(.categories[0].name)_\($category)" | slugify,
-	  	name: .display_name,
-	  	description: .packaging,
-			price: $price,
-			reference_price: .price_instructions.reference_price,
-			reference_unit: .price_instructions.reference_format | ascii_downcase,
-			date: now | strftime("%Y-%m-%d"),
-			id
+    	  	url: .share_url,	
+	      	category: "\(.categories[0].name)_\($category)" | slugify,
+	  	    name: .display_name,
+    	  	description: .packaging,
+	    	price: $price,
+    		reference_price: .price_instructions.reference_price,
+    		reference_unit: .price_instructions.reference_format | ascii_downcase,
+    		date: now | strftime("%Y-%m-%d"),
+    		id
 		}
 ) | # equivalent to sort_by | unique_by https://jqplay.org/s/DC9_EcnmCsr
 [group_by(.id)[] | sort_by(.category)[0]] 
