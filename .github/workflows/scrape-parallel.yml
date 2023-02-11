@@ -7,13 +7,16 @@ on:
 jobs:
   job_1:
     name: Scrape odds
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Get ip
         run: echo $(curl -s https://httpbin.org/ip)
+      
       - uses: actions/checkout@v3
+      
       - name: Run scrape
         run: bash ./scrapep.sh
+      
       - name: Upload products
         uses: actions/upload-artifact@v3
         with:
@@ -22,13 +25,16 @@ jobs:
 
   job_2:
    name: Scrape even
-   runs-on: ubuntu-22.04
+   runs-on: ubuntu-latest
    steps:
      - name: Get ip
        run: echo $(curl -s https://httpbin.org/ip)
+     
      - uses: actions/checkout@v3
+     
      - name: Run scrape even
        run: bash ./scrape2p.sh
+     
      - name: Upload products
        uses: actions/upload-artifact@v3
        with:
@@ -42,31 +48,41 @@ jobs:
     steps:
       - name: Get ip
         run: echo $(curl -s https://httpbin.org/ip)
+      
       - uses: actions/checkout@v3
+      
       - name: Download products odds
         uses: actions/download-artifact@v3
         with:
           name: products-odd
           path: tmp
+      
       - name: Download products even
         uses: actions/download-artifact@v3
         with:
           name: products-even
           path: tmp
+      
       - name: Display structure of downloaded files
         run: ls tmp
+      
       - name: Join jsons 
         run: bash ./join_jsons.sh
+      
+      - name: Get eans 
+        run: bash ./ean.sh
+      
       - name: Commit files
         run: |
           git config --local user.name actions-user
           git config --local user.email "actions@github.com"
-          git add data/*
+          git add data/* data-ean/*
           git commit -m "GH ACTION Add products $(date)" || echo "Nothing to commit"
           git push origin master
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
           username: github-actions
+      
       - name: Run upload to Tb
         run: bash ./upload_tb_ndjson.sh
         env:
