@@ -40,6 +40,7 @@ map(
 	  	    name: .display_name,
     	  	description: .packaging,
 	    	price: $price,
+	    	iva: .price_instructions.iva,
     		reference_price: .price_instructions.reference_price,
     		reference_unit: .price_instructions.reference_format | ascii_downcase,
     		date: now | strftime("%Y-%m-%d"),
