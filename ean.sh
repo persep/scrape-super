@@ -14,7 +14,7 @@ echo "Cheking for new products ean"
 while read id; do
     file="product-$id.json"
     url="https://tienda.mercadona.es/api/products/$id/?lang=es&wh=alc1"
-    if [ -z lookup[$id] ]; then
+    if [ -z ${lookup[$id]} ]; then
         echo "$n. $id"
         curl --fail --show-error --silent --compressed $url --output "data-ean/data-raw/$file"
         ((n++))
