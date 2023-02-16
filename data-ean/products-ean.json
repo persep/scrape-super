@@ -8829,6 +8829,24 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "22301",
+    "ean": "8480000223012",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22301/pila-alcalina-aaa-lr03-bosque-verde-paquete",
+    "name": "Pila alcalina AAA LR03 Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
+  },
+  {
+    "id": "22302",
+    "ean": "8480000223029",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22302/pila-alcalina-aa-lr6-bosque-verde-paquete",
+    "name": "Pila alcalina AA-LR6 Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
+  },
+  {
     "id": "22310",
     "ean": "8480000223104",
     "brand": "Hacendado",
@@ -19395,6 +19413,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35564",
+    "ean": "8414640191691",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35564/neceser-negro-hipster-mediano-con-asa-lateral-260-x-150-x-100-mm",
+    "name": "Neceser negro hípster mediano con asa lateral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "3561",
     "ean": "8436021411396",
     "brand": null,
@@ -26874,6 +26901,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "5036",
+    "ean": "8480000050366",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5036/manzana-envy-pieza",
+    "name": "Manzana Envy",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "50360",
     "ean": "8410573105286",
     "brand": "Snakis",
@@ -30220,6 +30256,15 @@
     "name": "Film Transparente Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "6037",
+    "ean": "8480000060372",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/6037/manzanas-envy-bolsa",
+    "name": "Manzanas Envy",
+    "description": "Bolsa",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "6040",
