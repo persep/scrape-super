@@ -14,4 +14,4 @@ select
   json ->> '$.reference_unit',
   json ->> '$.date',
   json ->> '$.id'
-from read_json_objects('temp.ndjson');
+from read_ndjson_objects('temp.ndjson');
