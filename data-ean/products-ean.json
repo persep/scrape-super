@@ -19044,6 +19044,15 @@
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
+    "id": "35364",
+    "ean": "8436596040243",
+    "brand": "Muy Tú",
+    "url": "https://tienda.mercadona.es/product/35364/serum-labial-roll-on-mystic-muy-aumenta-repara",
+    "name": "Sérum labial roll-on Mystic Muy Tú aumenta y repara",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35365",
     "ean": "8402001005374",
     "brand": "Deliplus",
@@ -19231,6 +19240,15 @@
     "name": "Acondicionador Suavidad y Brillo Deliplus todo tipo de cabello",
     "description": "Botella",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "35421",
+    "ean": "8402001006593",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35421/paleta-sombras-ojos-nude-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombras de ojos Nude Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35422",
@@ -45261,6 +45279,15 @@
     "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
+    "id": "86593",
+    "ean": "8480000865939",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86593/aceitunas-negras-hacendado-rodajas-pack-3",
+    "name": "Aceitunas negras Hacendado a rodajas",
+    "description": "Pack-3",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "86641",
     "ean": "8480000866417",
     "brand": "Bosque Verde",
@@ -45383,6 +45410,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/86809/cocktail-natural-hacendado-paquete",
     "name": "Cocktail natural Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "86811",
+    "ean": "8480000868114",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86811/mezcla-semillas-hacendado-paquete",
+    "name": "Mezcla semillas Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
@@ -46150,6 +46186,15 @@
     "name": "Cereales copos de trigo integral y arroz Special K con chocolate negro",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "9280",
+    "ean": "8410175056597",
+    "brand": "Hero baby",
+    "url": "https://tienda.mercadona.es/product/9280/papilla-verduritas-con-merluza-hero-baby-8-meses-tarrito",
+    "name": "Papilla verduritas con merluza Hero baby +6 meses",
+    "description": "Tarrito",
+    "category": "Bebé > Alimentación infantil"
   },
   {
     "id": "9281",
