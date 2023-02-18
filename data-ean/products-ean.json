@@ -27090,6 +27090,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "50589",
+    "ean": "8480000505897",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50589/queso-dop-curado-manchego-hacendado-pieza",
+    "name": "Queso DOP curado manchego Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50613",
     "ean": "8480000506139",
     "brand": "Hacendado",
@@ -31507,6 +31516,15 @@
     "name": "Redondos frescos berenjena, tomate y mozzarella Bel Canto",
     "description": "Bandeja",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "61405",
+    "ean": "8480000614056",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/61405/patatas-corte-grueso-hacendado-ultracongeladas-paquete",
+    "name": "Patatas corte grueso Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "6141",
