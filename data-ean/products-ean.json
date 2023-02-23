@@ -1485,6 +1485,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "11744",
+    "ean": "8480000117441",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11744/cafe-molido-descafeinado-hacendado-espresso-paquete",
+    "name": "Café molido descafeinado Hacendado Espresso",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Café molido y en grano"
+  },
+  {
     "id": "11752",
     "ean": "8480000117526",
     "brand": "Hacendado",
@@ -17955,6 +17964,15 @@
     "category": "Carne > Vacuno"
   },
   {
+    "id": "34605",
+    "ean": "8480000346056",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/34605/arandanos-deshidratados-hacendado-paquete",
+    "name": "Arándanos deshidratados Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "34606",
     "ean": "8480000607201",
     "brand": "Hacendado",
@@ -19348,6 +19366,15 @@
     "name": "Eau de toilette mujer Deliplus Monogotas manzana",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35455",
+    "ean": "8402001007859",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35455/vela-perfumada-aqua-bosque-verde-vaso-cristal-caja",
+    "name": "Vela perfumada Aqua Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "35456",
@@ -42125,6 +42152,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/80454/pastel-queso-hacendado-congelado-bandeja",
     "name": "Pastel de queso Hacendado congelado",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "80455",
+    "ean": "8480000804556",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80455/pastel-queso-congelado-bandeja",
+    "name": "Pastel de queso congelado",
     "description": "Bandeja",
     "category": "Congelados > Tartas y churros"
   },
