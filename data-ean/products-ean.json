@@ -5103,6 +5103,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "15779",
+    "ean": "8480000157799",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15779/pincel-colorete-deliplus",
+    "name": "Pincel colorete Deliplus",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "15780",
     "ean": "8480000157805",
     "brand": "Deliplus",
@@ -14904,6 +14913,15 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "28506",
+    "ean": "8480000285065",
+    "brand": "Puente Pazos",
+    "url": "https://tienda.mercadona.es/product/28506/licor-crema-puente-pazos-botella",
+    "name": "Licor crema Puente Pazos",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "28507",
     "ean": "8480000285072",
     "brand": "Puente Pazos",
@@ -19546,6 +19564,24 @@
     "name": "Burger de pavo y pollo",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "35614",
+    "ean": "8006540532782",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35614/ampollas-tratamiento-intensivo-repara-protege-pantene-cabello-danado-caja",
+    "name": "Ampollas tratamiento intensivo Repara & Protege Pantene cabello dañado",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "35619",
+    "ean": "8006540875940",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35619/champu-purificante-pantene-cabello-graso-bote",
+    "name": "Champú Purificante Pantene cabello graso",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
   },
   {
     "id": "3566",
@@ -42210,6 +42246,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "80476",
+    "ean": "8410199024923",
+    "brand": "Munchos",
+    "url": "https://tienda.mercadona.es/product/80476/crunchy-picante-munchos-paquete",
+    "name": "Crunchy picante Munchos",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "8050",
     "ean": "8480000080509",
     "brand": "Hacendado",
@@ -44818,6 +44863,15 @@
     "name": "Cerveza Amstel",
     "description": "Pack-6",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "86074",
+    "ean": "8480000860743",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86074/jamon-cocido-extra-hacendado-finas-lonchas-pack-2",
+    "name": "Jamón cocido extra Hacendado finas lonchas",
+    "description": "Pack-2",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "86076",
