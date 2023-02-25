@@ -18468,6 +18468,24 @@
     "category": "Carne > Embutido"
   },
   {
+    "id": "3505.1",
+    "ean": "8480000035059",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3505.1/media-sandia-baja-semillas-12-pieza",
+    "name": "Media sandía baja en semillas",
+    "description": "1/2 Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3505.2",
+    "ean": "8480000035059",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3505.2/14-sandia-baja-semillas-14-pieza",
+    "name": "1/4 Sandía baja en semillas",
+    "description": "1/4 Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3508",
     "ean": "2303508002469",
     "brand": null,
@@ -18855,6 +18873,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "3529",
+    "ean": "8480000035295",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3529/sandia-baja-semillas-pieza",
+    "name": "Sandía baja en semillas",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "35291",
     "ean": "8432405140364",
     "brand": "Vitakraft",
@@ -19195,6 +19222,60 @@
     "name": "Laca de uñas secado rápido Deliplus 159 naranja",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35377",
+    "ean": "8402001006449",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35377/brillo-labios-volumizer-gloss-deliplus-01-transparente",
+    "name": "Brillo de labios Volumizer gloss Deliplus 01 transparente",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35378",
+    "ean": "8402001006456",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35378/brillo-labios-volumizer-gloss-deliplus-02-nude",
+    "name": "Brillo de labios Volumizer gloss Deliplus 02 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35379",
+    "ean": "8402001006463",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35379/brillo-labios-volumizer-gloss-deliplus-03-pink-nude",
+    "name": "Brillo de labios Volumizer gloss Deliplus 03 pink nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35380",
+    "ean": "8402001006470",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35380/brillo-labios-volumizer-gloss-deliplus-04-coral",
+    "name": "Brillo de labios Volumizer gloss Deliplus 04 coral",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35381",
+    "ean": "8402001006487",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35381/brillo-labios-volumizer-gloss-deliplus-05-rosa",
+    "name": "Brillo de labios Volumizer gloss Deliplus 05 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35382",
+    "ean": "8402001006494",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35382/brillo-labios-volumizer-gloss-deliplus-06-morado",
+    "name": "Brillo de labios Volumizer gloss Deliplus 06 morado",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "35393",
