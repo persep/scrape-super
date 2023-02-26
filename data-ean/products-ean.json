@@ -17892,6 +17892,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "34235",
+    "ean": "8005120203791",
+    "brand": "Noberasco",
+    "url": "https://tienda.mercadona.es/product/34235/higos-tiernos-deshidratados-noberasco-paquete",
+    "name": "Higos tiernos deshidratados Noberasco",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "34242",
     "ean": "8480000342423",
     "brand": "Hacendado",
@@ -19521,6 +19530,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "35484",
+    "ean": "8402001007699",
+    "brand": "Nuske",
+    "url": "https://tienda.mercadona.es/product/35484/lecho-papel-pequenas-mascotas-nuske-saco",
+    "name": "Lecho papel para pequeñas mascotas Nuske",
+    "description": "Saco",
+    "category": "Mascotas > Otros"
+  },
+  {
     "id": "35487",
     "ean": "8410175050823",
     "brand": "Hero baby",
@@ -19602,6 +19620,24 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "35506",
+    "ean": "8436601370143",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35506/paleta-sombras-ojos-magnolia-acabado-mate-satinado",
+    "name": "Paleta sombras de ojos Magnolia",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35508",
+    "ean": "8436601370129",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35508/brillo-labios-daisy-01",
+    "name": "Brillo de labios Daisy 01",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35516",
     "ean": "8428076006658",
     "brand": "Nenuco",
@@ -19636,6 +19672,15 @@
     "name": "Neceser negro hípster mediano con asa lateral",
     "description": null,
     "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35601",
+    "ean": "8445290686848",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/35601/papilla-8-cereales-con-miel-nestle-6-meses-caja",
+    "name": "Papilla 8 cereales con miel Nestlé +6 meses",
+    "description": "Caja",
+    "category": "Bebé > Alimentación infantil"
   },
   {
     "id": "3561",
