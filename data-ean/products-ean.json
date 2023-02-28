@@ -8397,6 +8397,33 @@
     "category": "Postres y yogures > Yogures líquidos"
   },
   {
+    "id": "22004",
+    "ean": "8480000220042",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/22004/pate-perro-junior-delikuit-con-pollo-pavo-verduras-tarrina",
+    "name": "Paté perro júnior Delikuit con pollo, pavo y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
+  },
+  {
+    "id": "22005",
+    "ean": "8480000220059",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/22005/pate-perro-adulto-delikuit-con-ternera-higado-verduras-tarrina",
+    "name": "Paté perro adulto Delikuit con ternera, hígado y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
+  },
+  {
+    "id": "22006",
+    "ean": "8480000220066",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/22006/pate-perro-adulto-delikuit-con-salmon-verduras-tarrina",
+    "name": "Paté perro adulto Delikuit con salmón y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "22007",
     "ean": "8480000220073",
     "brand": "Delikuit",
@@ -19350,6 +19377,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "35411",
+    "ean": "8402001007705",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35411/lote-precision-system-6-deliplus-contiene-maquinilla-5-recambios-estuche-caja",
+    "name": "Lote Precision System 6 Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "35419",
     "ean": "8402001006029",
     "brand": "Deliplus",
@@ -19638,6 +19674,42 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35509",
+    "ean": "8436601370082",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35509/pintalabios-semi-mate-lily-01",
+    "name": "Pintalabios semi mate Lily 01",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35510",
+    "ean": "8436601370099",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35510/pintalabios-semi-mate-lotus-02",
+    "name": "Pintalabios semi mate Lotus 02",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35511",
+    "ean": "8436601370105",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35511/pintalabios-semi-mate-peony-03",
+    "name": "Pintalabios semi mate Peony 03",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35512",
+    "ean": "8436601370112",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35512/pintalabios-semi-mate-poppy-04",
+    "name": "Pintalabios semi mate Poppy 04",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35516",
     "ean": "8428076006658",
     "brand": "Nenuco",
@@ -19674,11 +19746,38 @@
     "category": "Cuidado facial y corporal > Neceseres"
   },
   {
+    "id": "35582",
+    "ean": "8411061067611",
+    "brand": "Antonio Banderas",
+    "url": "https://tienda.mercadona.es/product/35582/lote-hombre-antonio-banderas-the-golden-secret-contiene-eau-toilette-50-ml-after-shave-75-ml-caja",
+    "name": "Lote hombre Antonio Banderas The golden secret",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35583",
+    "ean": "3616303475499",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/35583/lote-hombre-adidas-champions-best-of-the-best-contiene-eau-toilette-100-ml-gel-ducha-250-ml-desodorante-spray-150-ml-caja",
+    "name": "Lote hombre Adidas Champions Best of the Best",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35601",
     "ean": "8445290686848",
     "brand": "Nestlé",
     "url": "https://tienda.mercadona.es/product/35601/papilla-8-cereales-con-miel-nestle-6-meses-caja",
     "name": "Papilla 8 cereales con miel Nestlé +6 meses",
+    "description": "Caja",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "35602",
+    "ean": "8445290686879",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/35602/papilla-8-cereales-con-galleta-maria-nestle-6-meses-0-azucares-anadidos-caja",
+    "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
     "description": "Caja",
     "category": "Bebé > Alimentación infantil"
   },
@@ -19717,6 +19816,15 @@
     "name": "Chuletas de cordero palo y riñonada",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35666",
+    "ean": "8437018565597",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35666/pelota-murciana-cerdo-bandeja",
+    "name": "Pelota Murciana de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Arreglos"
   },
   {
     "id": "3567",
