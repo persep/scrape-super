@@ -9360,6 +9360,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "22605",
+    "ean": "8480000226051",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22605/guisantes-hacendado-ultracongelados-paquete",
+    "name": "Guisantes Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "22610",
     "ean": "8480000226105",
     "brand": "Hacendado",
@@ -19314,6 +19323,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35386",
+    "ean": "8402001007446",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35386/tampones-regular-deliplus-con-aplicador-compacto-caja",
+    "name": "Tampones regular Deliplus con aplicador compacto",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "35393",
     "ean": "8402001005411",
     "brand": "Deliplus",
@@ -19744,6 +19762,24 @@
     "name": "Neceser negro hípster mediano con asa lateral",
     "description": null,
     "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35576",
+    "ean": "8428390829346",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/35576/mini-eau-parfum-hombre-flor-mayo-549-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo 549",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35579",
+    "ean": "8480000609113",
+    "brand": "Capítulo",
+    "url": "https://tienda.mercadona.es/product/35579/lote-hombre-capitulo-amaderado-contiene-eau-toilette-200-ml-gel-bano-100-ml-after-shave-100-ml-caja",
+    "name": "Lote hombre Capítulo Amaderado",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "35582",
@@ -30600,6 +30636,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "60221",
+    "ean": "8480000602213",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60221/ensalada-pasta-con-atun-surimi-listo-comer-compuesta-pasta-cocida-atun-huevo-cocido-surimi-queso-cebolla-bol",
+    "name": "Ensalada de pasta con atún y surimi Listo para Comer",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
     "id": "60236",
     "ean": "8480000602367",
     "brand": "Hacendado",
@@ -34308,6 +34353,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "66427",
+    "ean": "8437006684378",
+    "brand": "ValdeSalud",
+    "url": "https://tienda.mercadona.es/product/66427/vino-rosado-do-cigales-valdesalud-botella",
+    "name": "Vino rosado D.O Cigales ValdeSalud",
+    "description": "Botella",
+    "category": "Bodega > Vino rosado"
+  },
+  {
     "id": "66432",
     "ean": "8480000664327",
     "brand": null,
@@ -35982,6 +36036,15 @@
     "category": "Postres y yogures > Yogures y postres infantiles"
   },
   {
+    "id": "68037",
+    "ean": "8436003308034",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/68037/hierbabuena-paquete",
+    "name": "Hierbabuena",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "68106",
     "ean": "8480000681065",
     "brand": "Hacendado",
@@ -36799,6 +36862,15 @@
     "name": "Preparado de verdura para cocido",
     "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69591",
+    "ean": "8432175147259",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69591/endibias-bandeja",
+    "name": "Endibias",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
     "id": "69607",
@@ -42093,6 +42165,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "80361",
+    "ean": "8480000803610",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/80361/brioche-listo-comer-con-jamon-cocido-lechuga-huevo-cocido-mayonesa-paquete",
+    "name": "Brioche Listo para Comer",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados fríos"
+  },
+  {
     "id": "8038",
     "ean": "8480000080387",
     "brand": "Hacendado",
@@ -42478,6 +42559,15 @@
     "name": "Sopa de pollo Hacendado con fideos finos",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "80474",
+    "ean": "8480000804747",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80474/datiles-rama-hacendado-caja",
+    "name": "Dátiles en rama Hacendado",
+    "description": "Caja",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "80476",
