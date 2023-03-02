@@ -16893,6 +16893,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "33184",
+    "ean": "8480000331847",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33184/pepinillos-pequenos-hacendado-tarro",
+    "name": "Pepinillos pequeños Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "33187",
     "ean": "8480000331878",
     "brand": "Hacendado",
@@ -19773,6 +19782,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35577",
+    "ean": "8402001007101",
+    "brand": "Verissime",
+    "url": "https://tienda.mercadona.es/product/35577/lote-hombre-verissime-sicily-contiene-eau-parfum-100-ml-mochila-bandolera-con-asa",
+    "name": "Lote hombre Verissime Sicily",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35579",
     "ean": "8480000609113",
     "brand": "Capítulo",
@@ -19798,6 +19816,15 @@
     "name": "Lote hombre Adidas Champions Best of the Best",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35596",
+    "ean": "8410500026936",
+    "brand": "Danone",
+    "url": "https://tienda.mercadona.es/product/35596/yogur-griego-con-chocolate-valor-oikos-danone-pack-2",
+    "name": "Yogur griego con chocolate Valor Oikos Danone",
+    "description": "Pack-2",
+    "category": "Postres y yogures > Yogures griegos"
   },
   {
     "id": "35601",
