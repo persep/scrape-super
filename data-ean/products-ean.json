@@ -5985,6 +5985,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "16808",
+    "ean": "8480000168085",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16808/salvado-avena-hacendado-con-16-fibra-paquete",
+    "name": "Salvado de avena Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "16812",
     "ean": "8480000168122",
     "brand": "Hacendado",
@@ -12022,6 +12031,15 @@
     "name": "Gel de baño oliva Deliplus piel seca",
     "description": "Botella",
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "23837",
+    "ean": "8480000238375",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23837/chocolate-con-leche-hacendado-almendras-troceadas-tableta",
+    "name": "Chocolate con leche Hacendado almendras troceadas",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "23847",
@@ -19681,6 +19699,15 @@
     "name": "Laca de uñas Love Deliplus 172 azul",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35498",
+    "ean": "8428076000281",
+    "brand": "Veet",
+    "url": "https://tienda.mercadona.es/product/35498/bandas-cera-cuerpo-piernas-pure-veet-piel-sensible-caja",
+    "name": "Bandas de cera cuerpo y piernas Pure Veet piel sensible",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "35506",
