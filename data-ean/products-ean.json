@@ -16137,6 +16137,15 @@
     "category": "Panadería y pastelería > Harina y preparado repostería"
   },
   {
+    "id": "29247",
+    "ean": "8414100314646",
+    "brand": "Schweppes",
+    "url": "https://tienda.mercadona.es/product/29247/tonica-original-schweppes-botella",
+    "name": "Tónica original Schweppes",
+    "description": "Botella",
+    "category": "Agua y refrescos > Tónica y bitter"
+  },
+  {
     "id": "29266",
     "ean": "8007640982941",
     "brand": "Enervit Sport",
@@ -16493,6 +16502,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza",
     "name": "Plátano macho",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3170",
+    "ean": "8480000031709",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3170/pera-ercolina-pieza",
+    "name": "Pera Ercolina",
     "description": "Pieza",
     "category": "Fruta y verdura > Fruta"
   },
@@ -19359,6 +19377,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35387",
+    "ean": "8402001007453",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35387/tampones-super-deliplus-con-aplicador-compacto-caja",
+    "name": "Tampones super Deliplus con aplicador compacto",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "35393",
     "ean": "8402001005411",
     "brand": "Deliplus",
@@ -20185,6 +20212,15 @@
     "name": "Vino tinto D.O Jumilla Thader crianza",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "3716",
+    "ean": "8480000037169",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3716/freson-bandeja",
+    "name": "Fresón",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "37160",
@@ -24165,6 +24201,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "45913",
+    "ean": "83800037339",
+    "brand": "Montagne Jeunesse",
+    "url": "https://tienda.mercadona.es/product/45913/mascarilla-facial-peeling-alga-negra-montagne-jeunesse-paquete",
+    "name": "Mascarilla facial peeling de alga negra Montagne Jeunesse",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "45925",
     "ean": "8410104274160",
     "brand": "Veet",
@@ -27106,6 +27151,15 @@
     "name": "Queso Gruyère Natual",
     "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "50031",
+    "ean": "8480000500311",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50031/cocktail-leguminosas-frutos-cascara-tostados-fruta-desecada-hacendado-paquete",
+    "name": "Cocktail de leguminosas, frutos de cáscara tostados y fruta desecada Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "5005",
@@ -39436,6 +39490,15 @@
     "name": "Tinte cabello hombre 5 castaño natural Deliplus 0% amoníaco",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "73331",
+    "ean": "8480000733313",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/73331/mix-encurtidos-hacendado-tarro",
+    "name": "Mix de encurtidos Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "73348",
