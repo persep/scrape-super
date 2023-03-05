@@ -9027,6 +9027,15 @@
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
+    "id": "22399",
+    "ean": "8480000223999",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/22399/pan-cristal-redondo",
+    "name": "Pan de cristal redondo",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "22408",
     "ean": "8480000224088",
     "brand": "Hacendado",
@@ -46796,6 +46805,15 @@
     "brand": "Hero baby",
     "url": "https://tienda.mercadona.es/product/9246/papilla-verduritas-con-delicias-pavo-hero-baby-natur-6-meses-tarrito",
     "name": "Papilla verduritas con delicias de pavo Hero baby natur +6 meses",
+    "description": "Tarrito",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "9247",
+    "ean": "8410175056542",
+    "brand": "Hero baby",
+    "url": "https://tienda.mercadona.es/product/9247/papilla-arroz-con-pollo-hero-baby-6-meses-tarrito",
+    "name": "Papilla arroz con pollo Hero baby +6 meses",
     "description": "Tarrito",
     "category": "Bebé > Alimentación infantil"
   },
