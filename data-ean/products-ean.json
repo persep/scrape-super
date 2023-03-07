@@ -9072,6 +9072,15 @@
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
+    "id": "22430",
+    "ean": "8480000224309",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22430/maxi-pavo-hacendado-finas-lonchas-paquete",
+    "name": "Maxi pavo Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "22434",
     "ean": "8413164016749",
     "brand": "Estrella",
@@ -19400,6 +19409,15 @@
     "brand": "Dodot",
     "url": "https://tienda.mercadona.es/product/35391/panales-bebe-talla-5-11-16-kg-dodot-paquete",
     "name": "Pañales bebé talla 5 de 11-16 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "35392",
+    "ean": "8006540854440",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/35392/panales-bebe-talla-6-13-19-kg-dodot-paquete",
+    "name": "Pañales bebé talla 6 de 13-19 kg Dodot",
     "description": "Paquete",
     "category": "Bebé > Toallitas y pañales"
   },
@@ -31320,6 +31338,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60926",
+    "ean": "8480000609267",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60926/bebida-avena-con-chocolate-sin-azucares-anadidos-hacendado-pack-3",
+    "name": "Bebida de avena con chocolate sin azúcares añadidos Hacendado",
+    "description": "Pack-3",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "60928",
     "ean": "8480000609281",
     "brand": "Deliplus",
@@ -42714,6 +42741,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "80497",
+    "ean": "8480000804976",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80497/bebida-soja-sabor-cafe-sin-azucares-anadidos-hacendado-pack-6",
+    "name": "Bebida de soja sabor café sin azúcares añadidos Hacendado",
+    "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "8050",
     "ean": "8480000080509",
     "brand": "Hacendado",
@@ -42721,6 +42757,15 @@
     "name": "Sopa maravilla Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "80504",
+    "ean": "8480000805041",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80504/bebida-soja-sabor-cafe-sin-azucares-anadidos-hacendado-brick",
+    "name": "Bebida de soja sabor café sin azúcares añadidos Hacendado",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
     "id": "80644",
