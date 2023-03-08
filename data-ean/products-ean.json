@@ -3177,6 +3177,15 @@
     "category": "Cacao, café e infusiones > Café molido y en grano"
   },
   {
+    "id": "13705",
+    "ean": "2105171137055",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13705/alitas-pollo-asadas-hacendado-bote",
+    "name": "Alitas de pollo asadas Hacendado",
+    "description": "Bote",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "13706",
     "ean": "2105171137062",
     "brand": "Hacendado",
@@ -5724,11 +5733,29 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16313",
+    "ean": "8480000163134",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16313/judias-verdes-planas-hacendado-tarro",
+    "name": "Judías verdes planas Hacendado",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "16314",
     "ean": "8480000163141",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/16314/acelgas-troceadas-hacendado-tarro",
     "name": "Acelgas troceadas Hacendado",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "16315",
+    "ean": "8480000163158",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16315/judias-verdes-redondas-hacendado-tarro",
+    "name": "Judías verdes redondas Hacendado",
     "description": "Tarro",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
@@ -12058,6 +12085,15 @@
     "name": "Chocolate con leche Hacendado almendras troceadas",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "23842",
+    "ean": "8402001007811",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/23842/ambientador-automatico-delice-bosque-verde-recambio-bote",
+    "name": "Ambientador automático Delice Bosque Verde",
+    "description": "Bote",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "23847",
@@ -19980,6 +20016,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "35668",
+    "ean": "8411135007147",
+    "brand": "Lactovit",
+    "url": "https://tienda.mercadona.es/product/35668/gel-bano-nutritivo-lactovit-piel-normal-seca-botella",
+    "name": "Gel de baño nutritivo Lactovit piel normal-seca",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "3567",
     "ean": "8437019040420",
     "brand": null,
@@ -20986,6 +21031,15 @@
     "name": "Bebida zumo de frutas con gas Magic sin alcohol",
     "description": "Botella",
     "category": "Bodega > Sidra y cava"
+  },
+  {
+    "id": "39710",
+    "ean": "8410577110033",
+    "brand": "Dama De Baza",
+    "url": "https://tienda.mercadona.es/product/39710/concentrado-lima-sin-alcohol-dama-baza-botella",
+    "name": "Concentrado de lima sin alcohol Dama De Baza",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "39712",
@@ -42181,6 +42235,15 @@
     "name": "Nata montada La Panna Ken",
     "description": "Bote",
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
+    "id": "80292",
+    "ean": "8480000802927",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80292/preparado-panificacion-reposteria-hacendado-paquete",
+    "name": "Preparado panificación y repostería Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
   },
   {
     "id": "80293",
