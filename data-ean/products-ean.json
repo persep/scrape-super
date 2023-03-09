@@ -6102,6 +6102,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "16833",
+    "ean": "8480000168337",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16833/combinado-frutos-secos-frutas-desecadas-semillas-calabaza-hacendado-ideal-ensaladas-pastas-paquete",
+    "name": "Combinado frutos secos, frutas desecadas y semillas de calabaza Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "16834",
     "ean": "3600531469498",
     "brand": "Maybelline",
@@ -10924,6 +10933,15 @@
     "name": "Migas Hacendado",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "23291",
+    "ean": "8480000232915",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/23291/guantes-latex-bosque-verde-talla-mediana-desechables-caja",
+    "name": "Guantes de látex Bosque Verde talla mediana",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
     "id": "23293",
@@ -19440,6 +19458,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35389",
+    "ean": "8006540618820",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/35389/panales-bebe-talla-3-6-10-kg-dodot-paquete",
+    "name": "Pañales bebé talla 3 de 6-10 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "35391",
     "ean": "8006540618882",
     "brand": "Dodot",
@@ -19978,6 +20005,15 @@
     "name": "Burger de pavo y pollo",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "35611",
+    "ean": "8006540765852",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/35611/gel-afeitar-piel-sensible-gillette-con-aloe-bote",
+    "name": "Gel de afeitar piel sensible Gillette con aloe",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "35614",
@@ -46150,6 +46186,15 @@
     "name": "Salsa bechamel Knorr",
     "description": "Brick",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "86755",
+    "ean": "8480000867551",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86755/mermelada-fresa-hacendado-tarro",
+    "name": "Mermelada de fresa Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
     "id": "86758",
