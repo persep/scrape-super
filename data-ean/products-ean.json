@@ -8811,6 +8811,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "22213",
+    "ean": "8480000222138",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22213/mini-biscotes-100-integral-hacendado-trigo-con-sesamo-paquete",
+    "name": "Mini biscotes 100% integral Hacendado de trigo con sésamo",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
     "id": "22233",
     "ean": "8480000222336",
     "brand": "Deliplus",
@@ -11453,6 +11462,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/23540/pintalabios-mate-deliplus-101-nude",
     "name": "Pintalabios mate Deliplus 101 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "23541",
+    "ean": "8480000235411",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23541/pintalabios-mate-deliplus-102-caramelo",
+    "name": "Pintalabios mate Deliplus 102 caramelo",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -20041,6 +20059,15 @@
     "name": "Chuletas de cordero palo y riñonada",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35663",
+    "ean": "5000204307825",
+    "brand": "Pronto",
+    "url": "https://tienda.mercadona.es/product/35663/limpiador-muebles-classic-pronto-spray",
+    "name": "Limpiador de Muebles Classic Pronto",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Limpieza muebles y multiusos"
   },
   {
     "id": "35666",
