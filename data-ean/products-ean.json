@@ -1890,6 +1890,42 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "12413",
+    "ean": "8480000124135",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12413/huevos-chocolate-con-disquitos-colores-pascua-hacendado-chocolate-blanco-chocolate-con-leche-paquete",
+    "name": "Huevos de chocolate con disquitos de colores Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12415",
+    "ean": "8421699223464",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12415/piruleta-chocolate-con-leche-pascua-hacendado",
+    "name": "Piruleta de chocolate con leche Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12417",
+    "ean": "8480000124173",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12417/huevo-chocolate-con-leche-dragon-ball-pascua-hacendado-con-sorpresa",
+    "name": "Huevo de chocolate con leche Pokemon Pascua Hacendado con sorpresa",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12418",
+    "ean": "8480000124180",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12418/huevo-chocolate-con-leche-barbie-pascua-hacendado-con-sorpresa",
+    "name": "Huevo de chocolate con leche My Little Pony Pascua Hacendado con sorpresa",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "12420",
     "ean": "8421699224461",
     "brand": null,
@@ -1905,6 +1941,15 @@
     "url": "https://tienda.mercadona.es/product/12421/huevo-chocolate-hacendado-con-sorpresa",
     "name": "Huevo de chocolate Hacendado",
     "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12426",
+    "ean": "8421699531767",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12426/figuras-chocolate-pascua-hacendado-caja",
+    "name": "Figuras de chocolate Pascua Hacendado",
+    "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
@@ -2331,6 +2376,15 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "13389",
+    "ean": "8480000133892",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13389/chicle-reductor-con-zinc-probiotico-deliplus-sabor-menta-suave-gragea-bote",
+    "name": "Chicle reductor con zinc y probiótico Deliplus sabor menta suave gragea",
+    "description": "Bote",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "13390",
     "ean": "8480000133908",
     "brand": "Hacendado",
@@ -2455,6 +2509,15 @@
     "name": "Eau de parfum hombre Verissime Spirit for him",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "13432",
+    "ean": "8480000134325",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13432/aftersun-gel-con-aloe-vera-deliplus-bote",
+    "name": "Aftersun gel con aloe vera Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "13435",
@@ -3201,6 +3264,15 @@
     "url": "https://tienda.mercadona.es/product/13707/pollo-asado-troceado-hacendado-paquete",
     "name": "Pollo asado troceado Hacendado",
     "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "13709",
+    "ean": "2105171137093",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13709/costillas-cerdo-barbacoa-cortadas-hacendado-bote",
+    "name": "Costillas de cerdo a la barbacoa cortadas Hacendado",
+    "description": "Bote",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
@@ -5029,6 +5101,15 @@
     "name": "Pincel polvos Deliplus",
     "description": null,
     "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
+    "id": "15756",
+    "ean": "8436556087202",
+    "brand": "Systal",
+    "url": "https://tienda.mercadona.es/product/15756/sticks-pro-celulit-systal-caja",
+    "name": "Sticks Pro Celulit Systal",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "15757",
@@ -11277,6 +11358,33 @@
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
+    "id": "23429",
+    "ean": "8480000234292",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23429/crema-proteccion-solar-deliplus-fps-50-resistente-agua-bote",
+    "name": "Crema protección solar Deliplus FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "23430",
+    "ean": "8480000234308",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23430/crema-proteccion-solar-deliplus-fps-50-resistente-agua-bote",
+    "name": "Crema protección solar Deliplus FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "23431",
+    "ean": "8480000234315",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/23431/crema-proteccion-solar-fps-30-resistente-agua-bote",
+    "name": "Crema protección solar FPS 30+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "23434",
     "ean": "8480000234346",
     "brand": "Deliplus",
@@ -11313,6 +11421,15 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "23454",
+    "ean": "8480000234544",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23454/garbanzo-pedrosillano-hacendado-categoria-extra-paquete",
+    "name": "Garbanzo pedrosillano Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Legumbres"
+  },
+  {
     "id": "23455",
     "ean": "8480000234551",
     "brand": "Hacendado",
@@ -11329,6 +11446,15 @@
     "name": "Tallarines a la carbonara Hacendado",
     "description": "Sobre",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "23460",
+    "ean": "8480000234605",
+    "brand": "Monoï",
+    "url": "https://tienda.mercadona.es/product/23460/aftersun-monoi-deliplus-spray",
+    "name": "Aftersun Monoï",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "23476",
@@ -18072,6 +18198,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "34236",
+    "ean": "9901000342361",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/34236/nuez-brasil-natural-hacendado-paquete",
+    "name": "Nuez de Brasil natural Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "34242",
     "ean": "8480000342423",
     "brand": "Hacendado",
@@ -19485,6 +19620,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "35390",
+    "ean": "8006540618851",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/35390/panales-bebe-talla-4-9-14-kg-dodot-paquete",
+    "name": "Pañales bebé talla 4 de 9-14 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "35391",
     "ean": "8006540618882",
     "brand": "Dodot",
@@ -19908,6 +20052,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35514",
+    "ean": "5099821001230",
+    "brand": "Hawaiian Tropic",
+    "url": "https://tienda.mercadona.es/product/35514/aceite-solar-protector-protective-coco-guayaba-hawaiian-tropic-fps-20-spray",
+    "name": "Aceite solar protector Protective Coco & Guayaba Hawaiian Tropic FPS 20",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "35516",
     "ean": "8428076006658",
     "brand": "Nenuco",
@@ -19998,6 +20151,15 @@
     "category": "Postres y yogures > Yogures griegos"
   },
   {
+    "id": "35599",
+    "ean": "8445290686909",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/35599/papilla-8-cereales-nestle-6-meses-0-azucares-anadidos-caja",
+    "name": "Papilla 8 cereales Nestlé +6 meses",
+    "description": "Caja",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "35601",
     "ean": "8445290686848",
     "brand": "Nestlé",
@@ -20014,6 +20176,24 @@
     "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
     "description": "Caja",
     "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "35604",
+    "ean": "4005900908735",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/35604/protector-solar-nivea-fps-50-resistente-agua-spray",
+    "name": "Protector solar Nivea FPS 50+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "35605",
+    "ean": "4005900908698",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/35605/protector-solar-nivea-fps-30-resistente-agua-spray",
+    "name": "Protector solar Nivea FPS 30",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "3561",
@@ -20140,6 +20320,15 @@
     "name": "Lavavajillas Ultra concentrado Bosque Verde",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "36051",
+    "ean": "7622201639679",
+    "brand": "Cadbury",
+    "url": "https://tienda.mercadona.es/product/36051/huevos-chocolate-con-leche-spoon-con-relleno-pascua-cadbury-paquete",
+    "name": "Huevos de chocolate con leche Spoon con relleno Pascua Cadbury",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "36205",
@@ -34263,6 +34452,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "65732",
+    "ean": "8480000657329",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/65732/surtido-chocolate-con-leche-pascua-hacendado-paquete",
+    "name": "Surtido de chocolate con leche Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "6594",
     "ean": "8480000065940",
     "brand": "Hacendado",
@@ -36268,6 +36466,15 @@
     "name": "Copa de chocolate y nata +Proteínas Hacendado 15 g proteínas",
     "description": "Bote",
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "67981",
+    "ean": "8480000679819",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/67981/vaso-pequeno-bosque-verde-apto-bebida-caliente-desechable-100-ml-paquete",
+    "name": "Vaso pequeño Bosque Verde apto para bebida caliente",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "67996",
@@ -40437,6 +40644,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "76005",
+    "ean": "4005808445905",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/76005/locion-solar-zanahoria-nivea-fps-6-bote",
+    "name": "Loción solar zanahoria Nivea FPS 6",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "76178",
     "ean": "8436024790016",
     "brand": "Atlantia",
@@ -40606,6 +40822,15 @@
     "name": "Maquillaje fluido Face Finity Max Factor 85 caramel",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "76915",
+    "ean": "3600541274945",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/76915/crema-facial-con-color-bbsun-fps-50-delial-tono-medio-garnier-bote",
+    "name": "Crema facial con color BBsun FPS 50 Delial tono medio",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "76937",
@@ -41913,6 +42138,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "79658",
+    "ean": "8480000796585",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/79658/perlas-sol-deliplus-contiene-beta-caroteno-luteina-cobre-caja",
+    "name": "Perlas Sol Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "79659",
     "ean": "8480000796592",
     "brand": "Deliplus",
@@ -42831,6 +43065,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "80466",
+    "ean": "8480000804662",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80466/huevos-chocolate-con-leche-rellenos-crema-avellana-pascua-hacendado-paquete",
+    "name": "Huevos de chocolate con leche rellenos de crema de avellana Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "80468",
     "ean": "8420063024270",
     "brand": "Itac",
@@ -42865,6 +43108,15 @@
     "name": "Crunchy picante Munchos",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "80492",
+    "ean": "8480000804921",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80492/almendra-marcona-hacendado-frita-con-sal-paquete",
+    "name": "Almendra marcona Hacendado frita con sal",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "80497",
@@ -45666,6 +45918,24 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "86181",
+    "ean": "4012400800872",
+    "brand": "Sun Med",
+    "url": "https://tienda.mercadona.es/product/86181/crema-proteccion-solar-infantil-fps-50-sun-med-pieles-sensibles-atopicas-resistente-agua-bote",
+    "name": "Crema protección solar infantil FPS 50+ Sun Med para pieles sensibles y atópicas",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86182",
+    "ean": "4012400800865",
+    "brand": "Sun Med",
+    "url": "https://tienda.mercadona.es/product/86182/crema-proteccion-solar-infantil-fps-50-sun-med-pieles-sensibles-atopicas-resistente-agua-bote",
+    "name": "Crema protección solar infantil FPS 50+ Sun Med para pieles sensibles y atópicas",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "86183",
     "ean": "4012400800605",
     "brand": "Sun Med",
@@ -46428,6 +46698,15 @@
     "url": "https://tienda.mercadona.es/product/8729/fideos-orientales-yakisoba-sabor-curry-hacendado-vaso",
     "name": "Fideos orientales Yakisoba sabor curry Hacendado",
     "description": "Vaso",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "8730",
+    "ean": "8480000087300",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8730/fideos-orientales-yakisoba-sabor-soja-hacendado-paquete",
+    "name": "Fideos orientales Yakisoba sabor soja Hacendado",
+    "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
