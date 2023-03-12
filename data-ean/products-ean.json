@@ -27648,6 +27648,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "5019",
+    "ean": "8480000050199",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5019/cacahuete-tostado-collaret-hacendado-paquete",
+    "name": "Cacahuete tostado Collaret Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "50192",
     "ean": "8480000501929",
     "brand": "Deliplus",
@@ -31694,6 +31703,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/60932/pintalabios-mate-deliplus-110-vino",
     "name": "Pintalabios Mate Deliplus 110 vino",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "60933",
+    "ean": "8480000609335",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60933/pintalabios-mate-deliplus-111-marron",
+    "name": "Pintalabios Mate Deliplus 111 marrón",
     "description": null,
     "category": "Maquillaje > Labios"
   },
