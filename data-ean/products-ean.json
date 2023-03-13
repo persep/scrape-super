@@ -11394,6 +11394,24 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "23435",
+    "ean": "8480000234353",
+    "brand": "Monoï",
+    "url": "https://tienda.mercadona.es/product/23435/protector-solar-monoi-fps-15-resistente-agua-deliplus-spray",
+    "name": "Protector solar Monoï FPS 15",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "23436",
+    "ean": "8480000234360",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23436/protector-solar-transparente-deliplus-fps-30-resistente-agua-spray",
+    "name": "Protector solar transparente Deliplus FPS 30",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "23440",
     "ean": "8480000234407",
     "brand": "Bosque Verde",
@@ -11725,6 +11743,33 @@
     "name": "Papel vegetal Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "23617",
+    "ean": "8411135375628",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/23617/protector-solar-ninos-bruma-denenes-ecran-fps-50-resistente-agua-spray",
+    "name": "Protector solar niños bruma Denenes Ecran FPS 50",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "23618",
+    "ean": "8411135483279",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/23618/protector-solar-bruma-sport-aqua-ecran-fps-50-resistente-agua-spray",
+    "name": "Protector solar bruma Sport Aqua Ecran FPS 50",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "23619",
+    "ean": "4005900908865",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/23619/protector-solar-ninos-nivea-fps-50-5-1-extra-resistente-agua-spray",
+    "name": "Protector solar niños Nivea FPS 50+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "23621",
@@ -32634,6 +32679,15 @@
     "category": "Congelados > Pescado"
   },
   {
+    "id": "62198",
+    "ean": "8480000621986",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62198/rodajas-merluza-hacendado-ultracongeladas-paquete",
+    "name": "Rodajas de merluza Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
+  },
+  {
     "id": "62303",
     "ean": "8480000623034",
     "brand": "Hacendado",
@@ -41292,6 +41346,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "78931",
+    "ean": "3600541072992",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/78931/crema-proteccion-solar-sensitive-advanced-delial-fps-50-resistente-agua-garnier-bote",
+    "name": "Crema protección solar Sensitive advanced Delial FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "78967",
     "ean": "3616303465711",
     "brand": "Crossmen",
@@ -41443,6 +41506,15 @@
     "name": "Tabletas limpiadoras prótesis dentales Benfix y ortodoncias",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "79126",
+    "ean": "3600541992511",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/79126/protector-solar-bruma-facial-delial-fps-50-garnier-spray",
+    "name": "Protector solar bruma facial Delial FPS 50",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "79136",
