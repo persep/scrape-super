@@ -31221,6 +31221,15 @@
     "category": "Carne > Embutido"
   },
   {
+    "id": "60400",
+    "ean": "8402001006012",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60400/postre-lacteo-infantil-galleta-hacendado-8-meses",
+    "name": "Postre lácteo infantil de galleta Hacendado +8 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "6041",
     "ean": "8436590822067",
     "brand": null,
@@ -35935,6 +35944,15 @@
     "name": "Crema catalana Hacendado",
     "description": "Pack-4",
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "67635",
+    "ean": "8480000676351",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67635/flan-proteinas-huevo-hacendado-0-mg-10-g-proteinas-pack-4",
+    "name": "Flan +Proteínas de huevo Hacendado 0% m.g 10 g proteínas",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Flan y natillas"
   },
   {
     "id": "67637",
@@ -43506,6 +43524,24 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "81100.1",
+    "ean": "8480000811004",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/81100.1/sardina-sin-limpiar-granel",
+    "name": "Sardina sin limpiar",
+    "description": "Granel",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "81100.2",
+    "ean": "8480000811004",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/81100.2/sardina-limpia-granel",
+    "name": "Sardina limpia",
+    "description": "Granel",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "81200.1",
     "ean": "8480000812001",
     "brand": null,
@@ -43944,6 +43980,24 @@
     "url": "https://tienda.mercadona.es/product/81649.6/salmon-media-pieza-sin-aletas-sin-escamas-12-pieza",
     "name": "Salmón media pieza sin aletas y sin escamas",
     "description": "1/2 Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "81661.1",
+    "ean": "8480000816610",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/81661.1/boqueron-sin-limpiar-granel",
+    "name": "Boquerón sin limpiar",
+    "description": "Granel",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "81661.2",
+    "ean": "8480000816610",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/81661.2/boqueron-limpio-granel",
+    "name": "Boquerón limpio",
+    "description": "Granel",
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
