@@ -11745,6 +11745,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "23616",
+    "ean": "8411135006577",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/23616/aftersun-leche-corporal-ecran-hidratante-reparadora-bote",
+    "name": "Aftersun leche corporal Ecran hidratante y reparadora",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "23617",
     "ean": "8411135375628",
     "brand": "Ecran",
@@ -20347,6 +20356,15 @@
     "name": "Garretas brazuelo de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35707",
+    "ean": "5059319026053",
+    "brand": "Special K",
+    "url": "https://tienda.mercadona.es/product/35707/cereales-copos-trigo-integral-arroz-special-k-classic-kelloggs-caja",
+    "name": "Cereales copos de trigo integral y arroz Special K Classic",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "35997",
@@ -31311,6 +31329,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "60565",
+    "ean": "8480000605658",
+    "brand": "Monoï",
+    "url": "https://tienda.mercadona.es/product/60565/aceite-solar-protector-monoi-fps-15-resistente-agua-toque-seco-deliplus-spray",
+    "name": "Aceite solar protector Monoï FPS 15",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "60707",
     "ean": "8480000607072",
     "brand": "Bosque Verde",
@@ -38790,12 +38817,57 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "72034",
+    "ean": "8480000720344",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/72034/insecticida-antimosquitos-electrico-recambio-pastillas-bosque-verde-caja",
+    "name": "Insecticida antimosquitos eléctrico recambio pastillas",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72035",
+    "ean": "8480000720351",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/72035/espirales-antimosquitos-bosque-verde-exteriores-caja",
+    "name": "Espirales antimosquitos Bosque Verde para exteriores",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72056",
+    "ean": "8480000720566",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/72056/insecticida-avispas-bosque-verde-spray",
+    "name": "Insecticida avispas Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72064",
+    "ean": "8480000720641",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/72064/insecticida-barrera-antimosquitos-bosque-verde-spray",
+    "name": "Insecticida barrera antimosquitos Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "72077",
     "ean": "8480000720771",
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/72077/vela-perfumada-te-chai-bosque-verde-pequena-caja",
     "name": "Vela perfumada Té Chai Bosque Verde",
     "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72087",
+    "ean": "8002100246861",
+    "brand": "Relevi",
+    "url": "https://tienda.mercadona.es/product/72087/vela-antimosquitos-relevi-vaso",
+    "name": "Vela Antimosquitos Relevi",
+    "description": "Vaso",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
@@ -38832,6 +38904,15 @@
     "url": "https://tienda.mercadona.es/product/72109/colgador-antipolillas-lavanda-bosque-verde-paquete",
     "name": "Colgador antipolillas Lavanda Bosque Verde",
     "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72111",
+    "ean": "8480000721112",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/72111/insecticida-acaros-bosque-verde-especial-tejidos-spray",
+    "name": "Insecticida ácaros Bosque Verde especial tejidos",
+    "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
@@ -46008,6 +46089,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "86137",
+    "ean": "8480000861375",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86137/refresco-ice-tea-sabor-melocoton-hacendado-zero-botella",
+    "name": "Refresco ice tea sabor melocotón Hacendado zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
     "id": "86154",
     "ean": "8410100013275",
     "brand": "Nestlé",
@@ -46537,6 +46627,15 @@
     "name": "Aceitunas negras Hacendado a rodajas",
     "description": "Pack-3",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "86611",
+    "ean": "8480000866110",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86611/palo-antideslizante-bosque-verde-140-cm-escobafregona",
+    "name": "Palo antideslizante Bosque Verde 140 cm",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "86641",
