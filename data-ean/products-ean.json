@@ -7137,6 +7137,15 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "18602",
+    "ean": "8480000186188",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18602/mejillones-escabeche-hacendado-medianos-8-12-piezas-lata",
+    "name": "Mejillones en escabeche Hacendado medianos",
+    "description": "Lata",
+    "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
     "id": "18612",
     "ean": "8480000186126",
     "brand": "Hacendado",
@@ -20232,6 +20241,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "35515",
+    "ean": "8428076006634",
+    "brand": "Nenuco",
+    "url": "https://tienda.mercadona.es/product/35515/jabon-liquido-bebe-ultra-suave-nenuco-botella",
+    "name": "Jabón líquido bebé ultra suave Nenuco",
+    "description": "Botella",
+    "category": "Bebé > Higiene y cuidado"
+  },
+  {
     "id": "35516",
     "ean": "8428076006658",
     "brand": "Nenuco",
@@ -20401,6 +20419,15 @@
     "name": "Champú Purificante Pantene cabello graso",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "35641",
+    "ean": "8402001005138",
+    "brand": "Rose Nude",
+    "url": "https://tienda.mercadona.es/product/35641/eau-parfum-mujer-rose-nude-frasco",
+    "name": "Eau de parfum mujer Rose Nude",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "3566",
@@ -45772,6 +45799,51 @@
     "name": "Barra de pan sin sal añadida rebanada",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "83692.1",
+    "ean": "8480000836922",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83692.1/caballa-verdel-sin-tripa-pieza",
+    "name": "Caballa Verdel sin tripa",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "83692.2",
+    "ean": "8480000836922",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83692.2/caballa-verdel-sin-cabeza-sin-tripa-pieza",
+    "name": "Caballa Verdel sin cabeza y sin tripa",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "83692.3",
+    "ean": "8480000836922",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83692.3/caballa-verdel-rodajas-sin-cabeza-sin-tripa-pieza",
+    "name": "Caballa Verdel a rodajas sin cabeza y sin tripa",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "83692.4",
+    "ean": "8480000836922",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83692.4/caballa-verdel-filetes-sin-cabeza-sin-tripa-pieza",
+    "name": "Caballa Verdel a filetes sin cabeza y sin tripa",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "83692.5",
+    "ean": "8480000836922",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83692.5/caballa-verdel-abierta-espalda-con-espinas-con-cabeza-pieza",
+    "name": "Caballa Verdel abierta a la espalda con espinas y con cabeza",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "83789",
