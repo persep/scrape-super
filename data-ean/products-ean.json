@@ -20286,6 +20286,15 @@
     "category": "Cuidado facial y corporal > Neceseres"
   },
   {
+    "id": "35567",
+    "ean": "8414640191745",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35567/neceser-snoopy-grande-280-x-170-x-100-mm",
+    "name": "Neceser Snoopy grande",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35576",
     "ean": "8428390829346",
     "brand": "Flor de Mayo",
@@ -20329,6 +20338,15 @@
     "name": "Lote hombre Adidas Champions Best of the Best",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35590",
+    "ean": "8402001008535",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35590/fabada-hacendado-bote",
+    "name": "Fabada Hacendado",
+    "description": "Bote",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "35596",
@@ -34011,6 +34029,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64126",
+    "ean": "8480000641267",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/64126/cubos-hielo-paquete",
+    "name": "Cubos de hielo",
+    "description": "Paquete",
+    "category": "Congelados > Hielo"
+  },
+  {
     "id": "64128",
     "ean": "8480000641281",
     "brand": "Hacendado",
@@ -34018,6 +34045,15 @@
     "name": "Granizado de café Hacendado",
     "description": "Pack-6",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "64133",
+    "ean": "8480000641335",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/64133/cubos-hielo-pack-5",
+    "name": "Cubos de hielo",
+    "description": "Pack-5",
+    "category": "Congelados > Hielo"
   },
   {
     "id": "64139",
@@ -36655,6 +36691,15 @@
     "name": "Patatas bravas Hacendado ultracongeladas",
     "description": "Paquete",
     "category": "Congelados > Verdura"
+  },
+  {
+    "id": "67938",
+    "ean": "8480000679383",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67938/refresco-te-sabor-limon-hacendado-botella",
+    "name": "Refresco té sabor limón Hacendado",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "67948",
