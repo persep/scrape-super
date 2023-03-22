@@ -26433,6 +26433,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "47319",
+    "ean": "8480000473196",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/47319/tampones-mini-deliplus-con-aplicador-suave-caja",
+    "name": "Tampones mini Deliplus con aplicador suave",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "47320",
     "ean": "8480000473202",
     "brand": "Deliplus",
@@ -32918,6 +32927,24 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/62012/fritura-pescado-hacendado-ultracongelada-paquete",
     "name": "Fritura de pescado Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
+  },
+  {
+    "id": "62026",
+    "ean": "8858984820808",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62026/sopa-con-wonton-langostino-fideos-hacendado-ultracongelada-bol",
+    "name": "Sopa con wonton de langostino y fideos Hacendado ultracongelada",
+    "description": "Bol",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "62029",
+    "ean": "8480000620293",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62029/lenguado-entero-hacendado-ultracongelado-paquete",
+    "name": "Lenguado entero Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Pescado"
   },
@@ -47376,6 +47403,15 @@
     "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
+    "id": "86656",
+    "ean": "8480000866561",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86656/ajo-granulado-hacendado-bote",
+    "name": "Ajo granulado Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "86687",
     "ean": "8410109123623",
     "brand": "Senzza",
@@ -47475,6 +47511,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "86812",
+    "ean": "8480000868121",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86812/semillas-lino-dorado-hacendado-paquete",
+    "name": "Semillas lino dorado Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "86817",
     "ean": "8480000868176",
     "brand": "Hacendado",
@@ -47507,6 +47552,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/86840/gnocchi-frescos-quesos-hacendado-patata-paquete",
     "name": "Gnocchi frescos de quesos Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "86841",
+    "ean": "8480000868411",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86841/tortellini-fresco-jamon-queso-hacendado-paquete",
+    "name": "Tortellini fresco jamón y queso Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
