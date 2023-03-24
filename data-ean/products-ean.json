@@ -29349,6 +29349,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "52072",
+    "ean": "8480000520722",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/52072/pate-gato-adulto-delikuit-con-pollo-pavo-tarrina",
+    "name": "Paté gato adulto Delikuit con pollo y pavo",
+    "description": "Tarrina",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "52073",
     "ean": "8480000520739",
     "brand": "Delikuit",
@@ -46143,6 +46152,24 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "84072",
+    "ean": "8480000840721",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84072/mona-pascua-banada-chocolate-con-huevo-sorpresa-bandeja",
+    "name": "Mona de Pascua bañada de chocolate con huevo sorpresa",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "84149",
+    "ean": "8480000841490",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84149/mona-pascua-con-huevo-sorpresa-bandeja",
+    "name": "Mona de Pascua con huevo sorpresa",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "84284",
     "ean": "8436009777780",
     "brand": null,
@@ -46906,6 +46933,15 @@
     "name": "Pistacho tostado Hacendado 0% sal añadida",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "86196",
+    "ean": "5410316997980",
+    "brand": "Smirnoff",
+    "url": "https://tienda.mercadona.es/product/86196/bebida-preparada-vodka-limon-smirnoff-ice-original-lata",
+    "name": "Bebida preparada de vodka y limón Smirnoff Ice original",
+    "description": "Lata",
+    "category": "Bodega > Licores"
   },
   {
     "id": "86198",
