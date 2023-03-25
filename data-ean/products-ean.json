@@ -10683,6 +10683,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "23135",
+    "ean": "8480000231352",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23135/almejas-pacifico-hacendado-natural-lata",
+    "name": "Almejas del Pacífico Hacendado al natural",
+    "description": "Lata",
+    "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
     "id": "23137",
     "ean": "8480000231376",
     "brand": "Hacendado",
@@ -11041,6 +11050,15 @@
     "name": "Migas Hacendado",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "23290",
+    "ean": "8480000232908",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/23290/guantes-latex-bosque-verde-talla-pequena-desechables-caja",
+    "name": "Guantes de látex Bosque Verde talla pequeña",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
     "id": "23291",
@@ -16785,6 +16803,15 @@
     "category": "Huevos, leche y mantequilla > Huevos"
   },
   {
+    "id": "31091",
+    "ean": "8480000310910",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31091/huevos-cocidos-coloreados-pascua-paquete",
+    "name": "Huevos cocidos coloreados Pascua",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
     "id": "3119",
     "ean": "8480000031198",
     "brand": null,
@@ -19566,6 +19593,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35344",
+    "ean": "8402001007798",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35344/salsa-queso-hacendado-tarro",
+    "name": "Salsa de queso Hacendado",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35351",
     "ean": "8711571072014",
     "brand": "Lambweston",
@@ -20329,6 +20365,24 @@
     "name": "Pieza magro cabeza de cerdo",
     "description": "Pieza",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "35562",
+    "ean": "8402001006364",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35562/paleta-sombra-ojos-cherry-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombra de ojos Cherry Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35563",
+    "ean": "8402001006371",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35563/paleta-sombra-ojos-aqua-marine-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombra de ojos Aqua Marine Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35564",
@@ -21141,6 +21195,15 @@
     "category": "Mascotas > Otros"
   },
   {
+    "id": "3817",
+    "ean": "8480000038173",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3817/chirimoya-pieza",
+    "name": "Chirimoya",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3819",
     "ean": "8480000038197",
     "brand": null,
@@ -21668,6 +21731,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/39903/salmorejo-estilo-cordobes-hacendado-pack-3",
     "name": "Salmorejo al estilo cordobés Hacendado",
+    "description": "Pack-3",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "39904",
+    "ean": "8480000399045",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/39904/gazpacho-blanco-almendras-hacendado-con-ajo-blanco-pack-3",
+    "name": "Gazpacho blanco de almendras Hacendado con ajo blanco",
     "description": "Pack-3",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
@@ -22237,6 +22309,24 @@
     "name": "Detergente ropa Blanca Puntomatic en pastillas",
     "description": "Paquete",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "40322",
+    "ean": "8480000403223",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/40322/bebida-energetica-furious-energy-drink-lata",
+    "name": "Bebida energética Furious Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "40323",
+    "ean": "8480000403230",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/40323/bebida-energetica-tropic-energy-drink-lata",
+    "name": "Bebida energética Tropic Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "40326",
@@ -47518,6 +47608,15 @@
     "name": "Dulce de membrillo taco Hacendado",
     "description": "Paquete",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "86798",
+    "ean": "8480000867988",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86798/chocolate-con-leche-fussion-hacendado-relleno-crema-fresa-tableta",
+    "name": "Chocolate con leche Fussion Hacendado relleno crema de fresa",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "86799",
