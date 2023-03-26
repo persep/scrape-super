@@ -9684,6 +9684,15 @@
     "category": "Postres y yogures > Yogures griegos"
   },
   {
+    "id": "22675",
+    "ean": "8480000226754",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22675/helado-sabor-nube-con-espumas-dulces-hacendado-tarrina",
+    "name": "Helado sabor nube con espumas dulces Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "22688",
     "ean": "8480000226884",
     "brand": "Hacendado",
@@ -19593,6 +19602,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35343",
+    "ean": "8402001007033",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35343/ketchup-zero-azucares-anadidos-hacendado-bote",
+    "name": "Ketchup zero azúcares añadidos Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
     "id": "35344",
     "ean": "8402001007798",
     "brand": "Hacendado",
@@ -19809,6 +19827,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35385",
+    "ean": "8402001007132",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35385/laca-unas-efecto-gel-deliplus-160-nude-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 160 Nude",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "35386",
     "ean": "8402001007446",
     "brand": "Deliplus",
@@ -19924,6 +19951,15 @@
     "name": "Postre lácteo infantil de natillas Yogolino +6 meses",
     "description": "Pack-4",
     "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "35405",
+    "ean": "8402001005510",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35405/gel-depilar-con-cuchilla-deliplus-piel-sensible-bote",
+    "name": "Gel para depilar con cuchilla Deliplus piel sensible",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "35411",
@@ -34209,6 +34245,33 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64012",
+    "ean": "8480000640123",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64012/helado-naranja-hacendado-caja",
+    "name": "Helado de naranja Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64013",
+    "ean": "8480000640130",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64013/helado-limon-hacendado-caja",
+    "name": "Helado de limón Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64033",
+    "ean": "8480000640338",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64033/helado-cucurucho-chocolate-hacendado-caja",
+    "name": "Helado cucurucho de chocolate Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64061",
     "ean": "8480000640611",
     "brand": "Hacendado",
@@ -34233,6 +34296,15 @@
     "url": "https://tienda.mercadona.es/product/64074/helado-chocolate-blanco-hacendado-bote",
     "name": "Helado chocolate blanco Hacendado",
     "description": "Bote",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64087",
+    "ean": "8480000640871",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64087/mini-helados-hacendado-caja",
+    "name": "Mini helados Hacendado",
+    "description": "Caja",
     "category": "Congelados > Helados"
   },
   {
@@ -34299,6 +34371,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64147",
+    "ean": "8480000641472",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64147/helado-sandwich-nata-hacendado-sin-azucares-anadidos-caja",
+    "name": "Helado sándwich de nata Hacendado sin azúcares añadidos",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64166",
     "ean": "8480000641663",
     "brand": "Hacendado",
@@ -34313,6 +34394,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64179/helado-horchata-hacendado-caja",
     "name": "Helado de horchata Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64195",
+    "ean": "8480000641953",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64195/helado-sabor-chocolate-hacendado-caja",
+    "name": "Helado sabor chocolate Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
@@ -34335,11 +34425,38 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64213",
+    "ean": "8480000642134",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64213/barra-helado-turron-hacendado-caja",
+    "name": "Barra de helado turrón Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64214",
     "ean": "8480000642141",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64214/barra-helado-sabor-vainilla-chocolate-nata-hacendado-caja",
     "name": "Barra de helado sabor vainilla, chocolate y nata Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64220",
+    "ean": "8480000642202",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64220/helado-sorbete-mango-hacendado-caja",
+    "name": "Helado sorbete de mango Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64230",
+    "ean": "8480000642301",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64230/helado-crocan-choc-vainilla-hacendado-con-lengua-sabor-chocolate-caja",
+    "name": "Helado crocan choc vainilla Hacendado con lengua sabor chocolate",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
@@ -34407,6 +34524,24 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64414",
+    "ean": "8480000644138",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64414/helado-leche-merengada-hacendado-tarrina",
+    "name": "Helado de leche merengada Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64419",
+    "ean": "8480000644190",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64419/helado-fresa-hacendado-caja",
+    "name": "Helado de fresa Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64424",
     "ean": "8480000644244",
     "brand": "Hacendado",
@@ -34461,6 +34596,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64459",
+    "ean": "8480000644596",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64459/helado-3-sabores-hacendado-chocolate-vainilla-fresa-tarrina",
+    "name": "Helado 3 sabores Hacendado chocolate, vainilla y fresa",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64464",
     "ean": "8480000644640",
     "brand": "Hacendado",
@@ -34497,11 +34641,38 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64508",
+    "ean": "8480000645081",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64508/helado-polvito-hacendado-sabor-galleta-merengue-con-sirope-dulce-leche-tarrina",
+    "name": "Helado polvito Hacendado sabor a galleta y merengue",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64509",
     "ean": "8480000645098",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64509/sorbete-con-limon-hacendado-tarrina",
     "name": "Sorbete con limón Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64514",
+    "ean": "8480000645142",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64514/flash-popitos-hacendado-paquete",
+    "name": "Flash popitos Hacendado",
+    "description": "Paquete",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64517",
+    "ean": "8480000645173",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64517/helado-stracciatella-hacendado-tarrina",
+    "name": "Helado stracciatella Hacendado",
     "description": "Tarrina",
     "category": "Congelados > Helados"
   },
