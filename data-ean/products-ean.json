@@ -5796,6 +5796,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16117",
+    "ean": "8480000161178",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16117/pimientos-tiras-condimentados-hacendado-tarro",
+    "name": "Pimientos en tiras condimentados Hacendado",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "16124",
     "ean": "8480000161246",
     "brand": "Hacendado",
@@ -9261,6 +9270,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "22452",
+    "ean": "8480000224521",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22452/helado-mini-boom-hacendado-con-cobertura-blanda-pasta-avellana-galleta-troceada-caja",
+    "name": "Helado mini Boom Hacendado con cobertura blanda de pasta de avellana y galleta troceada",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "22453",
     "ean": "8480000224538",
     "brand": "Hacendado",
@@ -10006,6 +10024,15 @@
     "name": "Crema de cacahuete 100% Crunchy Hacendado",
     "description": "Tarro",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "22837",
+    "ean": "8480000228376",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22837/helado-barrita-crema-sabor-coco-hacendado-con-cobertura-chocolate-con-leche-caja",
+    "name": "Helado barrita crema sabor coco Hacendado con cobertura de chocolate con leche",
+    "description": "Caja",
+    "category": "Congelados > Helados"
   },
   {
     "id": "22840",
@@ -11023,6 +11050,15 @@
     "name": "Vino blanco verdejo D.O Rueda Condado de Teón",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "23280",
+    "ean": "8480000232809",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23280/helado-barrita-sabor-cacahuete-hacendado-con-cobertura-chocolate-con-leche-caja",
+    "name": "Helado barrita sabor cacahuete Hacendado con cobertura de chocolate con leche",
+    "description": "Caja",
+    "category": "Congelados > Helados"
   },
   {
     "id": "23283",
@@ -20394,6 +20430,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35530",
+    "ean": "8402001007927",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35530/insecticida-moscas-mosquitos-bosque-verde-sin-perfume-spray",
+    "name": "Insecticida moscas y mosquitos Bosque Verde sin perfume",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "3554",
     "ean": "8436044120107",
     "brand": null,
@@ -22388,6 +22433,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/40328/balsamo-labial-color-balm-deliplus-06-morado",
     "name": "Bálsamo labial Color Balm Deliplus 06 morado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "40330",
+    "ean": "8480000403308",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/40330/balsamo-labial-color-balm-deliplus-03-coral",
+    "name": "Bálsamo labial Color Balm Deliplus 03 coral",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -34263,11 +34317,38 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64027",
+    "ean": "8480000640277",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64027/granizado-agua-cebada-hacendado-pack-6",
+    "name": "Granizado agua de cebada Hacendado",
+    "description": "Pack-6",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64033",
     "ean": "8480000640338",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64033/helado-cucurucho-chocolate-hacendado-caja",
     "name": "Helado cucurucho de chocolate Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64039",
+    "ean": "8480000640390",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64039/helado-cucurucho-vainilla-caramelo-con-nueces-pecan-hacendado-caja",
+    "name": "Helado cucurucho vainilla caramelo con nueces pecán Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64046",
+    "ean": "8480000640468",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64046/tarta-helada-limon-hacendado-caja",
+    "name": "Tarta helada de limón Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
@@ -34335,6 +34416,15 @@
     "category": "Congelados > Hielo"
   },
   {
+    "id": "64127",
+    "ean": "8480000641274",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64127/granizado-limon-hacendado-sin-azucares-anadidos-pack-6",
+    "name": "Granizado de limón Hacendado sin azúcares añadidos",
+    "description": "Pack-6",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64128",
     "ean": "8480000641281",
     "brand": "Hacendado",
@@ -34362,6 +34452,15 @@
     "category": "Congelados > Hielo"
   },
   {
+    "id": "64145",
+    "ean": "8480000641458",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64145/castanas-heladas-nata-hacendado-caja",
+    "name": "Castañas heladas de nata Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64146",
     "ean": "8480000641465",
     "brand": "Hacendado",
@@ -34386,6 +34485,15 @@
     "url": "https://tienda.mercadona.es/product/64166/medios-cocos-helados-hacendado-caja",
     "name": "Medios cocos helados Hacendado",
     "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64172",
+    "ean": "8480000641724",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64172/granizado-horchata-hacendado-pack-6",
+    "name": "Granizado de horchata Hacendado",
+    "description": "Pack-6",
     "category": "Congelados > Helados"
   },
   {
@@ -34452,6 +34560,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64221",
+    "ean": "8480000642219",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/64221/helado-cucurucho-fresa-nata-caja",
+    "name": "Helado cucurucho fresa nata",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64230",
     "ean": "8480000642301",
     "brand": "Hacendado",
@@ -34470,11 +34587,29 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64247",
+    "ean": "8480000642479",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64247/helado-mini-cucurucho-nata-hacendado-sin-azucares-anadidos-caja",
+    "name": "Helado mini cucurucho nata Hacendado sin azúcares añadidos",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64248",
     "ean": "8480000642486",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64248/helado-negro-hacendado-caja",
     "name": "Helado negro Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64249",
+    "ean": "8480000642493",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64249/helado-blanco-hacendado-caja",
+    "name": "Helado blanco Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
@@ -34686,11 +34821,38 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64519",
+    "ean": "8480000645197",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64519/helado-mini-galletas-cacao-hacendado-caja",
+    "name": "Helado mini galletas cacao Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64520",
     "ean": "8480000645203",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/64520/helado-mini-sandwich-vainilla-cookie-hacendado-caja",
     "name": "Helado mini sándwich vainilla y cookie Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64522",
+    "ean": "8480000645227",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64522/helado-lima-limon-hacendado-caja",
+    "name": "Helado lima limón Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "64523",
+    "ean": "8480000645234",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64523/helado-fresa-hacendado-caja",
+    "name": "Helado fresa Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
@@ -39112,6 +39274,15 @@
     "name": "Pechuga de pollo al natural Hacendado",
     "description": "Pack-3",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "70636",
+    "ean": "8480000706362",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/70636/smoothie-mango-naranja-hacendado-botella",
+    "name": "Smoothie mango y naranja Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "70646",
@@ -47628,6 +47799,42 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "86597",
+    "ean": "8480000865977",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86597/lasana-bolonesa-hacendado-ultracongelada-caja",
+    "name": "Lasaña a la boloñesa Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "86598",
+    "ean": "8480000865984",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86598/lasana-atun-hacendado-ultracongelada-caja",
+    "name": "Lasaña de atún Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "86599",
+    "ean": "8480000865991",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86599/lasana-verduras-hacendado-ultracongelada-caja",
+    "name": "Lasaña de verduras Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "86600",
+    "ean": "8480000866004",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86600/canelones-carne-hacendado-ultracongelados-caja",
+    "name": "Canelones de carne Hacendado ultracongelados",
+    "description": "Caja",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "86611",
     "ean": "8480000866110",
     "brand": "Bosque Verde",
@@ -47833,6 +48040,15 @@
     "name": "Huevos plancha Hacendado",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "86820",
+    "ean": "8480000868206",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86820/relleno-fajitas-pollo-pimientos-cebolla-hacendado-ultracongelado-paquete",
+    "name": "Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "86833",
