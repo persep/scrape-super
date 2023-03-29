@@ -26640,6 +26640,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "47322",
+    "ean": "8480000473226",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/47322/tampones-super-plus-deliplus-con-aplicador-suave-caja",
+    "name": "Tampones super plus Deliplus con aplicador suave",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "47340",
     "ean": "8480000473400",
     "brand": "Deliplus",
@@ -29475,6 +29484,15 @@
     "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
+    "id": "5186",
+    "ean": "8480000051868",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5186/chuletas-cordero-palo-rinonada-congeladas-paquete",
+    "name": "Chuletas de cordero palo o riñonada congeladas",
+    "description": "Paquete",
+    "category": "Carne > Carne congelada"
+  },
+  {
     "id": "52050",
     "ean": "8480000520500",
     "brand": "Hacendado",
@@ -31815,6 +31833,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "60699",
+    "ean": "8480000606990",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/60699/chorizo-iberico-hacienda-iberico-lonchas-pack-4",
+    "name": "Chorizo ibérico La Hacienda del ibérico lonchas",
+    "description": "Pack-4",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "60707",
     "ean": "8480000607072",
     "brand": "Bosque Verde",
@@ -33505,6 +33532,15 @@
     "name": "Pajaritas vegetales Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "63066",
+    "ean": "8480000630667",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/63066/bocadillo",
+    "name": "Bocadillo",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "63101",
@@ -49109,6 +49145,15 @@
     "brand": "Nidina",
     "url": "https://tienda.mercadona.es/product/9406/leche-crecimiento-polvo-3-nidina-nestle-12-meses-bote",
     "name": "Leche crecimiento en polvo 3 Nidina Nestlé",
+    "description": "Bote",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "9407",
+    "ean": "7613032377625",
+    "brand": "Nativa",
+    "url": "https://tienda.mercadona.es/product/9407/leche-continuacion-polvo-2-nativa-nestle-6-meses-bote",
+    "name": "Leche de continuación en polvo 2 Nativa Nestlé",
     "description": "Bote",
     "category": "Bebé > Alimentación infantil"
   },
