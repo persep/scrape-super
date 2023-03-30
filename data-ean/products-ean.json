@@ -20169,6 +20169,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35462",
+    "ean": "8402001007583",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35462/postre-soja-hacendado-con-mango-sin-trozos-pack-4",
+    "name": "Postre de soja Hacendado con mango",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Postres de soja"
+  },
+  {
     "id": "3547",
     "ean": "8436569260043",
     "brand": null,
@@ -20707,6 +20716,15 @@
     "name": "Garretas brazuelo de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35701",
+    "ean": "8402001009655",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35701/cebolla-frita-hacendado-con-aceite-oliva-bote",
+    "name": "Cebolla frita Hacendado",
+    "description": "Bote",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
     "id": "35707",
@@ -31833,6 +31851,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "60698",
+    "ean": "8480000606983",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/60698/salchichon-iberico-hacienda-iberico-lonchas-pack-4",
+    "name": "Salchichón ibérico La Hacienda del ibérico lonchas",
+    "description": "Pack-4",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "60699",
     "ean": "8480000606990",
     "brand": "La Hacienda del ibérico",
@@ -33575,6 +33602,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/63144/langostino-caballitos-rebozados-hacendado-ultracongelados-paquete",
     "name": "Langostino caballitos rebozados Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
+    "id": "63145",
+    "ean": "8480000631459",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/63145/chipirones-enharinados-hacendado-ultracongelado-paquete",
+    "name": "Chipirones enharinados Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Rebozados"
   },
@@ -47923,6 +47959,15 @@
     "name": "Cepillo de baño Deliplus",
     "description": null,
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "86645",
+    "ean": "8480000866455",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86645/cepillo-calzado-bosque-verde",
+    "name": "Cepillo calzado Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "86652",
