@@ -7749,6 +7749,15 @@
     "category": "Postres y yogures > Postres de soja"
   },
   {
+    "id": "20430",
+    "ean": "8480000204301",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20430/yogur-liquido-fresa-hacendado-pack-12",
+    "name": "Yogur líquido de fresa Hacendado",
+    "description": "Pack-12",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "20476",
     "ean": "8480000204769",
     "brand": "Hacendado",
@@ -7846,6 +7855,15 @@
     "name": "Copa crema de chocolate y nata Hacendado",
     "description": "Pack-4",
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "20612",
+    "ean": "8480000206121",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20612/bebida-lactea-fresa-hacendado-botella",
+    "name": "Bebida láctea de fresa Hacendado",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "20613",
@@ -9241,6 +9259,15 @@
     "name": "Triángulos de patata Estrella sabor jamón",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "22442",
+    "ean": "8480000864772",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22442/postre-lacteo-infantil-fresa-platano-hacendado-8-meses",
+    "name": "Postre lácteo infantil de fresa y plátano Hacendado +8 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
   },
   {
     "id": "22448",
@@ -19886,6 +19913,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/35387/tampones-super-deliplus-con-aplicador-compacto-caja",
     "name": "Tampones super Deliplus con aplicador compacto",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "35388",
+    "ean": "8402001007460",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35388/tampones-super-plus-deliplus-con-aplicador-compacto-caja",
+    "name": "Tampones super plus Deliplus con aplicador compacto",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
@@ -39429,6 +39465,15 @@
     "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
+    "id": "70727",
+    "ean": "8480000707277",
+    "brand": "Para Pecar",
+    "url": "https://tienda.mercadona.es/product/70727/vino-tinto-bobal-pecar-botella",
+    "name": "Vino tinto Bobal Para Pecar",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
     "id": "70732",
     "ean": "8480000707321",
     "brand": "Delikuit",
@@ -43740,6 +43785,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "80118",
+    "ean": "8436554810079",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80118/mona-pascua-con-huevo-cocido-bandeja",
+    "name": "Mona de Pascua con huevo cocido",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "80135",
     "ean": "8410155074207",
     "brand": "Ubago",
@@ -46656,6 +46710,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "84071",
+    "ean": "8480000840714",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84071/panquemao-pascua-bolsa",
+    "name": "Panquemao Pascua",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "84072",
     "ean": "8480000840721",
     "brand": null,
@@ -46671,6 +46734,15 @@
     "url": "https://tienda.mercadona.es/product/84149/mona-pascua-con-huevo-sorpresa-bandeja",
     "name": "Mona de Pascua con huevo sorpresa",
     "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "84235",
+    "ean": "8480000842350",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84235/torta-pasas-nueces-pascua-bolsa",
+    "name": "Torta pasas y nueces Pascua",
+    "description": "Bolsa",
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
@@ -48238,6 +48310,15 @@
     "name": "Crema de calabacín Knorr con queso de cabra",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "87162",
+    "ean": "8480000871626",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87162/emperador-marinado-bandeja",
+    "name": "Emperador marinado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
     "id": "87191",
