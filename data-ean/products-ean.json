@@ -11448,6 +11448,15 @@
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
+    "id": "23413",
+    "ean": "8480000234131",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/23413/cloro-disolucion-lenta-tabletas-piscina-bote",
+    "name": "Cloro disolución lenta tabletas para piscina",
+    "description": "Bote",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
     "id": "23414",
     "ean": "8480000234148",
     "brand": null,
@@ -20482,6 +20491,33 @@
     "name": "Insecticida moscas y mosquitos Bosque Verde sin perfume",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "35536",
+    "ean": "8402001005435",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35536/laca-unas-efecto-gel-deliplus-164-naranja-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 164 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35537",
+    "ean": "8402001005442",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35537/laca-unas-efecto-gel-deliplus-165-buganvilla-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 165 buganvilla",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35538",
+    "ean": "8402001006036",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35538/tratamiento-unas-base-brillo-deliplus-67",
+    "name": "Tratamiento para uñas base brillo Deliplus 67",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "3554",
@@ -31653,6 +31689,24 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "5939",
+    "ean": "8480000059390",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5939/manzana-evelina-pieza",
+    "name": "Manzana Evelina",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "5949",
+    "ean": "8480000059499",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5949/manzana-evelina-bolsa",
+    "name": "Manzana Evelina",
+    "description": "Bolsa",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59901",
     "ean": "8412540008385",
     "brand": "Martiko",
@@ -39366,6 +39420,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "7035",
+    "ean": "8480000070357",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7035/caldo-paella-carne-hacendado-con-sofrito-brick",
+    "name": "Caldo para paella de carne Hacendado con sofrito",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "70370",
     "ean": "8480000703705",
     "brand": "Deliplus",
@@ -44010,6 +44073,15 @@
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
+    "id": "80316",
+    "ean": "8435128212943",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80316/dosificador-flotante-piscina-paquete",
+    "name": "Dosificador flotante para piscina",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
     "id": "80317",
     "ean": "8410189047666",
     "brand": null,
@@ -47394,6 +47466,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "86133",
+    "ean": "8410189048298",
+    "brand": "AquaChek",
+    "url": "https://tienda.mercadona.es/product/86133/kit-analizador-ph-cloro-aquachek-piscina-incluye-50-tiras-reactivas-paquete",
+    "name": "Kit analizador de pH y cloro AquaChek para piscina",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
     "id": "86137",
     "ean": "8480000861375",
     "brand": "Hacendado",
@@ -47754,6 +47835,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "86480",
+    "ean": "8480000864802",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86480/insecticida-moscas-mosquitos-bosque-verde-perfumado-spray",
+    "name": "Insecticida moscas y mosquitos Bosque Verde perfumado",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "86481",
     "ean": "8480000864819",
     "brand": "Hacendado",
@@ -47984,6 +48074,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/86611/palo-antideslizante-bosque-verde-140-cm-escobafregona",
     "name": "Palo antideslizante Bosque Verde 140 cm",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
+    "id": "86612",
+    "ean": "8480000866127",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86612/palo-extensible-antideslizante-bosque-verde-88-150-cm-escobafregona",
+    "name": "Palo extensible antideslizante Bosque Verde 88 - 150 cm",
     "description": null,
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
@@ -48668,6 +48767,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/90326/reductor-ph-bosque-verde-piscina-garrafa",
     "name": "Reductor de pH Bosque Verde para piscina",
+    "description": "Garrafa",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
+    "id": "90333",
+    "ean": "8480000903334",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/90333/salfumant-bosque-verde-garrafa",
+    "name": "Salfumant Bosque Verde",
     "description": "Garrafa",
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
