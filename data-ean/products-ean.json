@@ -30537,6 +30537,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "5507",
+    "ean": "8720195162346",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5507/arandanos-tarrina",
+    "name": "Arándanos",
+    "description": "Tarrina",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "55108",
     "ean": "8480000551085",
     "brand": "Hacendado",
@@ -31804,6 +31813,15 @@
     "name": "Ensalada de pasta con atún y surimi Listo para Comer",
     "description": "Bol",
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "60235",
+    "ean": "8480000602350",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60235/2-baguettes-hornear-paquete",
+    "name": "2 Baguettes para hornear",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "60236",
