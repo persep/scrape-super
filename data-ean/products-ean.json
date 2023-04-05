@@ -20070,6 +20070,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "35407",
+    "ean": "8402001007613",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35407/perfilador-labios-deliplus-08-rojo",
+    "name": "Perfilador de labios Deliplus 08 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35411",
     "ean": "8402001007705",
     "brand": "Deliplus",
@@ -20734,6 +20743,15 @@
     "name": "Champú Purificante Pantene cabello graso",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "35621",
+    "ean": "8720182560322",
+    "brand": "Axe",
+    "url": "https://tienda.mercadona.es/product/35621/desodorante-hombre-africa-axe-essentiel-spray",
+    "name": "Desodorante hombre Africa Axe Essentiel",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
   },
   {
     "id": "35641",
@@ -30769,6 +30787,15 @@
     "name": "Tiras de pechuga de pollo al natural Hacendado",
     "description": "Paquete",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "5716",
+    "ean": "8480000057167",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5716/freson-bandeja",
+    "name": "Fresón",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "58006",
@@ -41328,6 +41355,15 @@
     "category": "Arroz, legumbres y pasta > Legumbres"
   },
   {
+    "id": "73296",
+    "ean": "8412941005983",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/73296/pepinillos-agridulces-grandes-convite-tarro",
+    "name": "Pepinillos agridulces grandes Convite",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "7331",
     "ean": "8714100816622",
     "brand": "Knorr",
@@ -42739,6 +42775,15 @@
     "name": "Caldo de pollo Hacendado en pastillas",
     "description": "Caja",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "78694",
+    "ean": "8480000786944",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/78694/body-spray-citronela-deliplus-bote",
+    "name": "Body spray citronela Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "78781",
