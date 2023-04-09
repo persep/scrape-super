@@ -19764,6 +19764,15 @@
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
+    "id": "35362",
+    "ean": "8402001007767",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35362/desodorante-aloe-active-fresh-deliplus-0-alcohol-spray",
+    "name": "Desodorante Aloe Active Fresh Deliplus",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "35364",
     "ean": "8436596040243",
     "brand": "Muy Tú",
@@ -32508,6 +32517,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60918",
+    "ean": "8480000865519",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60918/melocoton-almibar-hacendado-bote",
+    "name": "Melocotón en almíbar Hacendado",
+    "description": "Bote",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "60924",
     "ean": "8480000609243",
     "brand": "Hacendado",
@@ -44170,6 +44188,15 @@
     "name": "Pintalabios Color Fix Deliplus 07 frambuesa",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "80289",
+    "ean": "8007990002597",
+    "brand": "La Panna",
+    "url": "https://tienda.mercadona.es/product/80289/nata-montada-panna-bote",
+    "name": "Nata montada La Panna",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
   },
   {
     "id": "80290",
