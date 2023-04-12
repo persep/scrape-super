@@ -20754,6 +20754,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "35613",
+    "ean": "8006540431009",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35613/mascarilla-repara-protege-pantene-cabello-danado-seco-tarro",
+    "name": "Mascarilla Repara & Protege Pantene cabello dañado y seco",
+    "description": "Tarro",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "35614",
     "ean": "8006540532782",
     "brand": "Pantene",
@@ -20932,6 +20941,24 @@
     "name": "Cereales copos de trigo integral y arroz Special K Classic",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "35747",
+    "ean": "5015405090650",
+    "brand": "Personna",
+    "url": "https://tienda.mercadona.es/product/35747/maquinillas-depilacion-mujer-bolsillo-personna-5-hojas-paquete",
+    "name": "Maquinillas depilación mujer de bolsillo Personna 5 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35808",
+    "ean": "8435063817913",
+    "brand": "King Regal",
+    "url": "https://tienda.mercadona.es/product/35808/golosinas-ladrillazos-king-regal-paquete",
+    "name": "Golosinas Ladrillazos King Regal",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "35997",
@@ -29736,6 +29763,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "52059",
+    "ean": "8480000520593",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/52059/pate-perro-adulto-delikuit-con-ternera-higado-verduras-tarrina",
+    "name": "Paté perro adulto Delikuit con ternera, hígado y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "52062",
     "ean": "8480000520623",
     "brand": "Delikuit",
@@ -31984,6 +32020,15 @@
     "name": "Film Transparente Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "60331",
+    "ean": "8480000603319",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/60331/licor-crema-limoncello-royal-swan-botella",
+    "name": "Licor crema de limoncello Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "6037",
@@ -37636,6 +37681,15 @@
     "name": "Picos camperos de Jerez Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "67967",
+    "ean": "8480000679673",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67967/golosinas-cintas-fresa-hacendado-caja",
+    "name": "Golosinas cintas de fresa Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "67972",
@@ -44827,6 +44881,15 @@
     "name": "Bebida de soja sabor café sin azúcares añadidos Hacendado",
     "description": "Brick",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "80505",
+    "ean": "8480000805058",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80505/golosinas-muaks-mix-hacendado-paquete",
+    "name": "Golosinas Muaks Mix Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "80644",
