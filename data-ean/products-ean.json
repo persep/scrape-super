@@ -15354,6 +15354,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "28490",
+    "ean": "8480000284907",
+    "brand": "Pi.omka",
+    "url": "https://tienda.mercadona.es/product/28490/cocktail-pina-colada-sin-alcohol-piomka-botella",
+    "name": "Cocktail piña colada sin alcohol Pi.omka",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "28491",
     "ean": "8437008011004",
     "brand": "Bronchales",
@@ -20277,6 +20286,15 @@
     "category": "Postres y yogures > Postres de soja"
   },
   {
+    "id": "35466",
+    "ean": "8402001007972",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35466/postre-soja-hacendado-sabor-chocolate-pack-4",
+    "name": "Postre de soja Hacendado sabor chocolate",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Postres de soja"
+  },
+  {
     "id": "3547",
     "ean": "8436569260043",
     "brand": null,
@@ -20682,6 +20700,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "35594",
+    "ean": "8430624042049",
+    "brand": "Wilkinson",
+    "url": "https://tienda.mercadona.es/product/35594/lote-mujer-wilkinson-hydro-silk-5-hojas-contiene-maquinilla-depilacion-4-recambios-neceser-con-asa",
+    "name": "Lote mujer Wilkinson Hydro Silk",
+    "description": null,
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "35596",
     "ean": "8410500026936",
     "brand": "Danone",
@@ -20817,11 +20844,29 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "35632",
+    "ean": "3600531369392",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35632/maquillaje-fluido-fit-maybelline-118-nude",
+    "name": "Maquillaje fluido Fit Me Maybelline 118 nude",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "35633",
     "ean": "3600531324520",
     "brand": "Maybelline",
     "url": "https://tienda.mercadona.es/product/35633/maquillaje-fluido-fit-maybelline-120-classic-ivory",
     "name": "Maquillaje fluido Fit Me Maybelline 120 classic ivory",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "35634",
+    "ean": "3600531369026",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35634/maquillaje-fluido-fit-maybelline-128-warm-nude",
+    "name": "Maquillaje fluido Fit Me Maybelline 128 warm nude",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
@@ -20840,6 +20885,15 @@
     "brand": "Maybelline",
     "url": "https://tienda.mercadona.es/product/35636/maquillaje-fluido-fit-maybelline-220-natural-beige",
     "name": "Maquillaje fluido Fit Me Maybelline 220 natural beige",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "35637",
+    "ean": "3600531324896",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35637/maquillaje-fluido-fit-maybelline-250-sun-beige",
+    "name": "Maquillaje fluido Fit Me Maybelline 250 sun beige",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
@@ -20959,6 +21013,15 @@
     "name": "Maquinillas depilación mujer de bolsillo Personna 5 hojas",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35783",
+    "ean": "8700216087513",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/35783/tampones-super-tampax-pearl-con-aplicador-caja",
+    "name": "Tampones super Tampax Pearl con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "35808",
@@ -21436,6 +21499,15 @@
     "name": "Patas de vacuno",
     "description": "Bandeja",
     "category": "Carne > Vacuno"
+  },
+  {
+    "id": "3770",
+    "ean": "8480000037701",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3770/nispero-bandeja",
+    "name": "Níspero",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "37806",
