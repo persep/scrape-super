@@ -20601,6 +20601,96 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35552",
+    "ean": "8402001006562",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35552/rotulador-cejas-long-lasting-deliplus-01-marron-medio",
+    "name": "Rotulador de cejas Long Lasting Deliplus 01 marrón medio",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35553",
+    "ean": "8402001006579",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35553/rotulador-cejas-long-lasting-deliplus-02-marron-claro",
+    "name": "Rotulador de cejas Long Lasting Deliplus 02 marrón claro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35554",
+    "ean": "8402001008689",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35554/bruma-facial-multifuncional-make-up-fixer-toscana-deliplus-5-1-hidrata-prepara-protege-fija-refresca-spray",
+    "name": "Bruma facial multifuncional Make Up Fixer Toscana Deliplus 5 en 1",
+    "description": "Spray",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "35555",
+    "ean": "8402001006388",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35555/paleta-sombras-ojos-toscana-deliplus-acabado-mate-satinado",
+    "name": "Paleta sombras de ojos Toscana Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35556",
+    "ean": "8402001006395",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35556/mascara-pestanas-curve-toscana-deliplus-negro",
+    "name": "Máscara de pestañas Curve Toscana Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35557",
+    "ean": "8402001006432",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35557/primer-facial-hidratante-toscana-deliplus-con-petalos-flores-frasco",
+    "name": "Primer facial hidratante Toscana Deliplus",
+    "description": "Frasco",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "35558",
+    "ean": "8402001007002",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35558/tratamiento-unas-gel-colageno-deliplus-166",
+    "name": "Tratamiento para uñas gel colágeno Deliplus 166",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35559",
+    "ean": "8402001006401",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35559/pintalabios-vinyl-toscana-deliplus-01-coral",
+    "name": "Pintalabios Vinyl Toscana Deliplus 01 coral",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35560",
+    "ean": "8402001006418",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35560/pintalabios-vinyl-toscana-deliplus-02-rosa",
+    "name": "Pintalabios Vinyl Toscana Deliplus 02 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35561",
+    "ean": "8402001006425",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35561/pintalabios-vinyl-toscana-deliplus-03-fucsia",
+    "name": "Pintalabios Vinyl Toscana Deliplus 03 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35562",
     "ean": "8402001006364",
     "brand": "Deliplus",
@@ -20689,6 +20779,24 @@
     "name": "Lote hombre Adidas Champions Best of the Best",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35584",
+    "ean": "8402001008030",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35584/laca-unas-alto-brillo-deliplus-71-rosa",
+    "name": "Laca de uñas alto brillo Deliplus 71 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35585",
+    "ean": "8402001008047",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35585/laca-unas-alto-brillo-deliplus-72-azul",
+    "name": "Laca de uñas alto brillo Deliplus 72 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "35590",
@@ -22568,6 +22676,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/40257/prebase-corrector-primer-deliplus-01-tono-verde-disimula-rojeces",
     "name": "Prebase corrector Primer Deliplus 01 tono verde",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "40258",
+    "ean": "8480000402585",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/40258/prebase-corrector-primer-deliplus-02-tono-melocoton-proporciona-piel-sonrosada-luminosa",
+    "name": "Prebase corrector Primer Deliplus 02 tono melocotón",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
