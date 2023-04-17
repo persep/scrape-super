@@ -21132,6 +21132,24 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35784",
+    "ean": "8700216087483",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/35784/tampones-super-plus-tampax-pearl-con-aplicador-caja",
+    "name": "Tampones super plus Tampax Pearl con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "35785",
+    "ean": "8001090597120",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/35785/recambios-maquinilla-depilacion-venus-breeze-comfortglide-gillette-3-hojas-con-gel-paquete",
+    "name": "Recambios maquinilla depilación Venus Breeze Comfortglide Gillette 3 hojas con gel",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "35808",
     "ean": "8435063817913",
     "brand": "King Regal",
@@ -39669,6 +39687,15 @@
     "url": "https://tienda.mercadona.es/product/69989/zanahorias-paquete",
     "name": "Zanahorias",
     "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69990",
+    "ean": "8716062000996",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69990/tomates-cherry-bandeja",
+    "name": "Tomates cherry",
+    "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
   },
   {
