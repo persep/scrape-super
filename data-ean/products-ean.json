@@ -4752,6 +4752,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "15590",
+    "ean": "8480000155900",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15590/patatas-fritas-sabor-campestre-hacendado-paquete",
+    "name": "Patatas fritas sabor campestre Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "15592",
     "ean": "8480000155924",
     "brand": "Hacendado",
@@ -20187,6 +20196,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35428",
+    "ean": "8402001007934",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35428/cebolla-caramelizada-hacendado-con-aceite-oliva-tarro",
+    "name": "Cebolla caramelizada Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
     "id": "35432",
     "ean": "30148116",
     "brand": "Maybelline",
@@ -21112,6 +21130,15 @@
     "name": "Cereales copos de trigo integral y arroz Special K Classic",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "35725",
+    "ean": "8402001009211",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35725/serum-reafirmante-corporal-deliplus-bote",
+    "name": "Sérum reafirmante corporal Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "35747",
@@ -25261,6 +25288,15 @@
     "name": "Ampollas Rescate Repara & Protege Pantene cabello dañado",
     "description": "Caja",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "45186",
+    "ean": "8480000451866",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/45186/queso-viejo-oveja-hacendado-pieza",
+    "name": "Queso viejo de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "45204",
