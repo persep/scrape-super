@@ -9342,6 +9342,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "22503",
+    "ean": "8480000225030",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/22503/gel-facial-acido-hialuronico-hidrata-deliplus-pieles-normales-grasas-tarro",
+    "name": "Gel facial Ácido Hialurónico Hidrata Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "22510",
     "ean": "8480000225108",
     "brand": "Hacendado",
@@ -25524,6 +25533,33 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "4587",
+    "ean": "8480000849939",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4587/noodles-yakisoba-con-carne-verduras-bol",
+    "name": "Noodles Yakisoba con carne y verduras",
+    "description": "Bol",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "4588",
+    "ean": "9901000046658",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4588/pollo-teriyaki-bol",
+    "name": "Pollo teriyaki",
+    "description": "Bol",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "4589",
+    "ean": "9901000046665",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4589/arroz-frito-bol",
+    "name": "Arroz frito",
+    "description": "Bol",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
     "id": "45895",
     "ean": "8411061825082",
     "brand": "Pacha Ibiza",
@@ -25722,6 +25758,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "4636",
+    "ean": "8480000046369",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4636/bento-box-contiene-ensalada-alga-wakame-9-piezas-surtido-sushi-tartar-salmon-bandeja",
+    "name": "Bento box",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
     "id": "46368",
     "ean": "8480000463685",
     "brand": "Deliplus",
@@ -25731,6 +25776,24 @@
     "category": "Maquillaje > Pinceles y brochas"
   },
   {
+    "id": "4637",
+    "ean": "8480000046376",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4637/surtido-california-rolls-contiene-4-surimipepino-4-salmonmango-4-ebiaguacate-4-salmonqueso-bandeja",
+    "name": "Surtido California rolls",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "4638",
+    "ean": "8480000046383",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4638/surtido-sushi-salmon-sin-gluten-contiene-4-nigiris-salmon-4-rolls-salmon-4-makis-salmon-4-sashimis-salmon-bandeja",
+    "name": "Surtido sushi salmón sin gluten",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
     "id": "46387",
     "ean": "8480000463876",
     "brand": "Deliplus",
@@ -25738,6 +25801,15 @@
     "name": "Pintalabios Color Fix Deliplus 05",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "4639",
+    "ean": "8480000849717",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4639/gyozas-cerdo-verduras-bandeja",
+    "name": "Gyozas de cerdo y verduras",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
   },
   {
     "id": "46390",
@@ -25900,6 +25972,15 @@
     "name": "Desodorante cuidado aloe Deliplus",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "4645",
+    "ean": "8480000849557",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4645/poke-salmon-bol",
+    "name": "Poke de salmón",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
     "id": "46508",
