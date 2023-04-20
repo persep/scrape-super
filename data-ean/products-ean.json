@@ -8325,6 +8325,15 @@
     "category": "Postres y yogures > Bífidus"
   },
   {
+    "id": "21310",
+    "ean": "8480000213105",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21310/yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-2-fresa-2-frutos-silvestres-2-pina-2-pera-pack-8",
+    "name": "Yogur sabores Hacendado 0% m.g 0% sin azúcares añadidos",
+    "description": "Pack-8",
+    "category": "Postres y yogures > Yogures desnatados"
+  },
+  {
     "id": "21311",
     "ean": "8480000213112",
     "brand": "Hacendado",
@@ -21150,6 +21159,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35730",
+    "ean": "8410415510629",
+    "brand": "Señorío de los Llanos",
+    "url": "https://tienda.mercadona.es/product/35730/vino-tinto-do-valdepenas-senorio-llanos-crianza-botella",
+    "name": "Vino tinto D.O Valdepeñas Señorío de los Llanos crianza",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
     "id": "35747",
     "ean": "5015405090650",
     "brand": "Personna",
@@ -23423,6 +23441,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/41685/laca-unas-manicura-francesa-deliplus-rosa-03",
     "name": "Laca de uñas manicura francesa Deliplus rosa 03",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "41692",
+    "ean": "8480000416926",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/41692/laca-unas-manicura-francesa-deliplus-blanco-punta-01",
+    "name": "Laca de uñas manicura francesa Deliplus blanco punta 01",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
@@ -30562,6 +30589,15 @@
     "name": "Paté de salmón Hacendado",
     "description": "Tarro",
     "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "52402",
+    "ean": "8480000524027",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52402/queso-rallado-mozzarella-hacendado-pizza-roma-paquete",
+    "name": "Queso rallado mozzarella Hacendado pizza-Roma",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "52403",
@@ -48814,6 +48850,15 @@
     "name": "Salsa bechamel Knorr",
     "description": "Brick",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "86750",
+    "ean": "8480000867506",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86750/pan-molde-cereales-sin-gluten-hacendado-paquete",
+    "name": "Pan de molde cereales sin gluten Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "86755",
