@@ -558,6 +558,33 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "10530",
+    "ean": "8410297113666",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10530/leche-entera-asturiana-pack-6",
+    "name": "Leche entera Asturiana",
+    "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "10531",
+    "ean": "8410297113673",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10531/leche-semidesnatada-asturiana-pack-6",
+    "name": "Leche semidesnatada Asturiana",
+    "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "10532",
+    "ean": "8410297113680",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10532/leche-desnatada-asturiana-pack-6",
+    "name": "Leche desnatada Asturiana",
+    "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "10533",
     "ean": "8480000238184",
     "brand": "Hacendado",
@@ -644,6 +671,15 @@
     "brand": "Pascual",
     "url": "https://tienda.mercadona.es/product/10611/leche-entera-pascual-brick",
     "name": "Leche entera Pascual",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "10617",
+    "ean": "8410297912405",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10617/leche-entera-asturiana-brick",
+    "name": "Leche entera Asturiana",
     "description": "Brick",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
@@ -810,6 +846,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "10712",
+    "ean": "8410297912412",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10712/leche-semidesnatada-asturiana-brick",
+    "name": "Leche semidesnatada Asturiana",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "10713",
     "ean": "8411700904789",
     "brand": "Puleva",
@@ -924,6 +969,15 @@
     "url": "https://tienda.mercadona.es/product/10794/leche-semidesnatada-hacendado-pack-6",
     "name": "Leche semidesnatada Hacendado",
     "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "10801",
+    "ean": "8410297912429",
+    "brand": "Asturiana",
+    "url": "https://tienda.mercadona.es/product/10801/leche-desnatada-asturiana-brick",
+    "name": "Leche desnatada Asturiana",
+    "description": "Brick",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
@@ -5981,6 +6035,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/16703/remolacha-agridulce-hacendado-rodajas-tarro",
     "name": "Remolacha agridulce Hacendado en rodajas",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "16711",
+    "ean": "8480000862723",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16711/palmito-natural-entero-hacendado-tarro",
+    "name": "Palmito al natural entero Hacendado",
     "description": "Tarro",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
@@ -19080,6 +19143,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35023",
+    "ean": "8410225552987",
+    "brand": "Don Algodon",
+    "url": "https://tienda.mercadona.es/product/35023/lote-mujer-don-algodon-contiene-eau-toilette-100-ml-eau-toilette-30-ml-caja",
+    "name": "Lote mujer Don Algodon",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35024",
     "ean": "8402001005114",
     "brand": "Deliplus",
@@ -21103,6 +21175,51 @@
     "name": "Body spray Tea Breeze Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35672",
+    "ean": "8428390829384",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/35672/mini-eau-parfum-mujer-flor-mayo-wild-sweet-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Wild & Sweet",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35673",
+    "ean": "8428390829353",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/35673/mini-eau-parfum-mujer-flor-mayo-pixie-coral-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Pixie coral",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35674",
+    "ean": "8402001007118",
+    "brand": "Verissime",
+    "url": "https://tienda.mercadona.es/product/35674/lote-mujer-verissime-dream-contiene-eau-parfum-100-ml-abanico-caja",
+    "name": "Lote mujer Verissime Dream",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35675",
+    "ean": "8402001006630",
+    "brand": "Rose Nude",
+    "url": "https://tienda.mercadona.es/product/35675/lote-mujer-rose-nude-the-rose-contiene-eau-parfum-75-ml-bolso-efecto-paja",
+    "name": "Lote mujer Rose Nude The Rose",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35676",
+    "ean": "8412300049771",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/35676/lote-corporal-mujer-nivea-contiene-body-milk-250-ml-crema-75-ml-crema-soft-75-ml-gel-ducha-250-ml-desodorante-roll-on-50-ml-neceser",
+    "name": "Lote corporal mujer Nivea",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "3568",
@@ -37276,6 +37393,15 @@
     "name": "Panecillo de queso 18%",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "67568",
+    "ean": "8436581947885",
+    "brand": "Women'Secret",
+    "url": "https://tienda.mercadona.es/product/67568/lote-mujer-womensecret-intimate-contiene-eau-parfum-100-ml-mini-eau-parfum-30-ml-caja",
+    "name": "Lote mujer Women'Secret Intimate",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "67573",
