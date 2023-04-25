@@ -12573,6 +12573,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "23852",
+    "ean": "8480000238528",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23852/helado-vegetal-chocolate-hacendado-con-trozos-chocolate-bote",
+    "name": "Helado vegetal de chocolate Hacendado con trozos de chocolate",
+    "description": "Bote",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "23853",
     "ean": "8480000238535",
     "brand": "Hacendado",
@@ -19854,6 +19863,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "35354",
+    "ean": "8402001005589",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35354/crema-manos-karitesse-deliplus-bote",
+    "name": "Crema de manos Karitesse Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "35357",
     "ean": "3600524073473",
     "brand": "L'Oréal Men Expert",
@@ -20671,6 +20689,15 @@
     "name": "Insecticida moscas y mosquitos Bosque Verde sin perfume",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "35531",
+    "ean": "8402001008320",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35531/helado-nutticream-hacendado-sabor-avellana-con-relleno-cacao-bote",
+    "name": "Helado nutticream Hacendado",
+    "description": "Bote",
+    "category": "Congelados > Helados"
   },
   {
     "id": "35536",
@@ -49091,6 +49118,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/86812/semillas-lino-dorado-hacendado-paquete",
     "name": "Semillas lino dorado Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "86813",
+    "ean": "8480000868138",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86813/semillas-sesamo-tostado-hacendado-paquete",
+    "name": "Semillas sésamo tostado Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
