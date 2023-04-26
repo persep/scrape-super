@@ -17370,6 +17370,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "33028",
+    "ean": "8480000330284",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33028/aceitunas-estilo-caseras-hacendado-partidas-alinadas-tarro",
+    "name": "Aceitunas estilo caseras Hacendado partidas aliñadas",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "33053",
     "ean": "8480000330536",
     "brand": "Hacendado",
@@ -21337,6 +21346,15 @@
     "name": "Maquinillas depilación mujer de bolsillo Personna 5 hojas",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35782",
+    "ean": "8700216087537",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/35782/tampones-regular-tampax-pearl-con-aplicador-caja",
+    "name": "Tampones regular Tampax Pearl con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "35783",
@@ -34036,6 +34054,15 @@
     "name": "Lenguado entero Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Pescado"
+  },
+  {
+    "id": "62048",
+    "ean": "8480000620484",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62048/preparado-paella-sopa-hacendado-ultracongelado-paquete",
+    "name": "Preparado de paella y sopa Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Marisco"
   },
   {
     "id": "62103",
