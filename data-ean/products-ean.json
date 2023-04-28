@@ -4221,6 +4221,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14325",
+    "ean": "8480000143259",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14325/galletas-tostadas-hacendado-paquete",
+    "name": "Galletas tostadas Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "14423",
     "ean": "8480000144232",
     "brand": "Hacendado",
@@ -7223,6 +7232,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/18602/mejillones-escabeche-hacendado-medianos-8-12-piezas-lata",
     "name": "Mejillones en escabeche Hacendado medianos",
+    "description": "Lata",
+    "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
+    "id": "18609",
+    "ean": "8480000186096",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18609/mejillones-escabeche-hacendado-pequenos-13-18-piezas-lata",
+    "name": "Mejillones en escabeche Hacendado pequeños",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
@@ -20448,6 +20466,24 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "35474",
+    "ean": "8480000354747",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35474/panal-banador-desechable-talla-s-deliplus-6-12-kg-paquete",
+    "name": "Pañal bañador desechable talla S Deliplus de 6-12 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "35475",
+    "ean": "8480000354754",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35475/panal-banador-desechable-talla-m-deliplus-11-18-kg-paquete",
+    "name": "Pañal bañador desechable talla M Deliplus de 11-18 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "35484",
     "ean": "8402001007699",
     "brand": "Nuske",
@@ -21382,6 +21418,15 @@
     "name": "Recambios maquinilla depilación Venus Breeze Comfortglide Gillette 3 hojas con gel",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35799",
+    "ean": "8402001008917",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35799/crema-manos-nutritiva-deliplus-bote",
+    "name": "Crema de manos nutritiva Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "35808",
@@ -40282,6 +40327,15 @@
     "name": "Crema depilatoria facial Deliplus piel sensible",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "70652",
+    "ean": "8480000706522",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/70652/chocolate-negro-55-cacao-hacendado-tableta",
+    "name": "Chocolate negro 55% cacao Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "70702",
