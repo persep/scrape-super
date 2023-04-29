@@ -3420,6 +3420,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "13739",
+    "ean": "8480000137395",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13739/pan-croissant-hacendado-cortado-paquete",
+    "name": "Pan de croissant Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "13749",
     "ean": "7702018577644",
     "brand": "Gillette",
@@ -21112,6 +21121,15 @@
     "name": "Desodorante hombre Africa Axe Essentiel",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "35622",
+    "ean": "8402001008849",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35622/fideos-orientales-sabor-ternera-asada-hacendado-paquete",
+    "name": "Fideos orientales sabor ternera asada Hacendado",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "35630",
