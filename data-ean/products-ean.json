@@ -20790,6 +20790,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35546",
+    "ean": "8402001008160",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35546/salsa-tomate-basilico-con-albahaca-hacendado-tarro",
+    "name": "Salsa de tomate Basilico con albahaca Hacendado",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35552",
     "ean": "8402001006562",
     "brand": "Deliplus",
@@ -48940,6 +48949,15 @@
     "name": "Palitos de pan 100% trigo espelta integral Anitin",
     "description": "Pack-2",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "86566",
+    "ean": "8480000865663",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86566/bolsas-desechables-cubitos-hielo-bosque-verde-caja",
+    "name": "Bolsas  desechables para cubitos de hielo Bosque Verde",
+    "description": "Caja",
+    "category": "Congelados > Hielo"
   },
   {
     "id": "86587",
