@@ -7236,6 +7236,15 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "18601",
+    "ean": "8480000186010",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18601/mejillones-escabeche-hacendado-grandes-6-8-piezas-lata",
+    "name": "Mejillones en escabeche Hacendado grandes",
+    "description": "Lata",
+    "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
     "id": "18602",
     "ean": "8480000186188",
     "brand": "Hacendado",
@@ -20241,6 +20250,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "35400",
+    "ean": "8402001007200",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35400/lote-pinceles-summer-deliplus-contiene-neceser-pincel-polvos-pincel-blush-pincel-sombra-pincel-cejas-pincel-sombra-biselado",
+    "name": "Lote de pinceles Summer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "35403",
     "ean": "7613033689635",
     "brand": "Yogolino",
@@ -21229,6 +21247,42 @@
     "name": "Eau de parfum mujer Rose Nude",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35645",
+    "ean": "8402001007330",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35645/serum-pestanas-sos-cuida-refuerza-deliplus",
+    "name": "Sérum de pestañas SOS cuida y refuerza Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35646",
+    "ean": "8402001007347",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35646/mascara-pestanas-maxi-color-deliplus-03-azul",
+    "name": "Máscara de pestañas Maxi Color Deliplus 03 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35647",
+    "ean": "8402001007309",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35647/mascara-pestanas-panoramic-deliplus-negro",
+    "name": "Máscara de pestañas Panoramic Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35648",
+    "ean": "8402001007323",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35648/mascara-pestanas-alas-mariposa-deliplus-negro",
+    "name": "Máscara de pestañas alas de mariposa Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35654",
@@ -23218,6 +23272,15 @@
     "name": "Bálsamo labial Color Balm Deliplus 03 coral",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "40358",
+    "ean": "8480000403582",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/40358/chocolate-negro-55-cacao-hacendado-con-almendras-tableta",
+    "name": "Chocolate negro 55% cacao Hacendado con almendras",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "40369",
@@ -45520,6 +45583,15 @@
     "name": "Sopa de pollo Hacendado con fideos finos",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "80473",
+    "ean": "8480000804730",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80473/galletas-cacahuete-choc-hacendado-con-crema-cacahuetes-cubiertas-chocolate-con-leche-paquete",
+    "name": "Galletas Cacahuete Choc Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "80474",
