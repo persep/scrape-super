@@ -21033,6 +21033,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "35593",
+    "ean": "8402001008504",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35593/piedra-pomez-deliplus-paquete",
+    "name": "Piedra pómez Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "35594",
     "ean": "8430624042049",
     "brand": "Wilkinson",
@@ -21138,6 +21147,15 @@
     "url": "https://tienda.mercadona.es/product/35614/ampollas-tratamiento-intensivo-repara-protege-pantene-cabello-danado-caja",
     "name": "Ampollas tratamiento intensivo Repara & Protege Pantene cabello dañado",
     "description": "Caja",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "35615",
+    "ean": "8006540876268",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35615/acondicionador-repara-protege-pantene-cabello-debil-danado-bote",
+    "name": "Acondicionador Repara & Protege Pantene",
+    "description": "Bote",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
@@ -21454,6 +21472,15 @@
     "name": "Sérum reafirmante corporal Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "35727",
+    "ean": "8402001009846",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35727/te-negro-con-canela-hacendado-caja",
+    "name": "Té negro con canela Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
     "id": "35730",
@@ -25857,6 +25884,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "4578",
+    "ean": "8480000849823",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4578/surtido-sushi-bento-grande-contiene-4-uramakis-4-makis-4-nigiris-2-futomakis-salsa-soja-salsa-ponzu-salsa-wasabi-bandeja",
+    "name": "Surtido sushi Bento grande",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
     "id": "45782",
     "ean": "8480000457820",
     "brand": "Deliplus",
@@ -25864,6 +25900,24 @@
     "name": "Spray bucal Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "4582",
+    "ean": "8480000587336",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4582/surtido-sushi-bento-mediano-contiene-ensalada-alga-wakame-tartar-salmon-3-nigiris-3-makis-2-futomakis-salsa-ponzu-bandeja",
+    "name": "Surtido sushi Bento mediano",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "4583",
+    "ean": "8480000587329",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4583/surtido-sushi-bento-pequeno-contiene-2-nigiris-4-makis-2-uramakis-salsa-soja-salsa-wasabi-bandeja",
+    "name": "Surtido sushi Bento pequeño",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
   },
   {
     "id": "45837",
@@ -29367,6 +29421,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "5046",
+    "ean": "8436047158428",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5046/lomo-cerdo-adobado-familiar-bandeja",
+    "name": "Lomo de cerdo adobado familiar",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "50471",
     "ean": "8710912029946",
     "brand": "Holland Corona",
@@ -30454,6 +30517,15 @@
     "name": "Magro de cerdo cocido Coren",
     "description": "Lata",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "52058",
+    "ean": "8480000520586",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/52058/pate-perro-junior-delikuit-con-pollo-pavo-verduras-tarrina",
+    "name": "Paté perro junior Delikuit con pollo, pavo y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
   },
   {
     "id": "52059",
