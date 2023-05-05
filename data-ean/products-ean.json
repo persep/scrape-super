@@ -7281,6 +7281,15 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "18613",
+    "ean": "8480000186133",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18613/mejillones-natural-hacendado-pequenos-13-18-piezas-lata",
+    "name": "Mejillones al natural Hacendado pequeños",
+    "description": "Lata",
+    "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
     "id": "18615",
     "ean": "8480000186157",
     "brand": "Hacendado",
@@ -21535,6 +21544,15 @@
     "name": "Recambios maquinilla depilación Venus Breeze Comfortglide Gillette 3 hojas con gel",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35797",
+    "ean": "8402001008740",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35797/arroz-con-pollo-hacendado-ultracongelado-paquete",
+    "name": "Arroz con pollo Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
   },
   {
     "id": "35799",
@@ -46987,6 +47005,60 @@
     "name": "Bollo con pepitas de chocolate Choco Buns",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "82610.1",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.1/merluza-rodajas-pieza",
+    "name": "Merluza a rodajas",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "82610.2",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.2/merluza-abierta-libro-sin-cabeza-sin-espina-pieza",
+    "name": "Merluza abierta en libro sin cabeza y sin espina",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "82610.3",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.3/merluza-sin-aletas-sin-escamas-pieza",
+    "name": "Merluza sin aletas y sin escamas",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "82610.4",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.4/merluza-media-pieza-rodajas-12-pieza",
+    "name": "Merluza media pieza a rodajas",
+    "description": "1/2 Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "82610.5",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.5/merluza-media-pieza-abierta-libro-sin-cabeza-sin-espina-12-pieza",
+    "name": "Merluza media pieza abierta en libro sin cabeza y sin espina",
+    "description": "1/2 Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "82610.6",
+    "ean": "8480000826107",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82610.6/merluza-media-pieza-sin-aletas-sin-escamas-12-pieza",
+    "name": "Merluza media pieza sin aletas y sin escamas",
+    "description": "1/2 Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "82626",
