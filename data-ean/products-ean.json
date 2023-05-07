@@ -4941,6 +4941,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "15638",
+    "ean": "8480000156389",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15638/perejil-hacendado-bote",
+    "name": "Perejil Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "1564",
     "ean": "8421384020910",
     "brand": null,
@@ -20430,6 +20439,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35439",
+    "ean": "83800061310",
+    "brand": "Montagne Jeunesse",
+    "url": "https://tienda.mercadona.es/product/35439/mascarilla-facial-hidratante-crema-limon-montagne-jeunesse-tipo-pieles-paquete",
+    "name": "Mascarilla facial hidratante crema de limón Montagne Jeunesse para todo tipo de pieles",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "35454",
     "ean": "8480000354549",
     "brand": "Deliplus",
@@ -21285,6 +21303,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35643",
+    "ean": "8032804431942",
+    "brand": "Felicia",
+    "url": "https://tienda.mercadona.es/product/35643/fusilli-sin-gluten-felicia-paquete",
+    "name": "Fusilli sin gluten Felicia",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "35645",
     "ean": "8402001007330",
     "brand": "Deliplus",
@@ -21580,6 +21607,15 @@
     "name": "Golosinas Ladrillazos King Regal",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35850",
+    "ean": "8006540470886",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/35850/compresa-con-alas-noche-evax-cotton-like-paquete",
+    "name": "Compresa con alas de noche Evax Cotton Like",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "35997",
@@ -49444,6 +49480,15 @@
     "name": "Dulce de membrillo taco Hacendado",
     "description": "Paquete",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "86783",
+    "ean": "8480000867834",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86783/empanada-murciana-pieza",
+    "name": "Empanada murciana",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "86798",
