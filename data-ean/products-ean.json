@@ -9414,6 +9414,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "22443",
+    "ean": "8480000864765",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22443/postre-lacteo-infantil-pera-hacendado-8-meses",
+    "name": "Postre lácteo infantil de pera Hacendado +8 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "22448",
     "ean": "8480000224484",
     "brand": "Delikuit",
@@ -20808,6 +20817,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "35532",
+    "ean": "8402001008498",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35532/helado-mini-bombon-biscuit-hacendado-caja",
+    "name": "Helado mini bombón biscuit Hacendado",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "35534",
     "ean": "8402001008269",
     "brand": "Hacendado",
@@ -21616,6 +21634,15 @@
     "name": "Compresa con alas de noche Evax Cotton Like",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "35874",
+    "ean": "8410843146506",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35874/preparado-carne-picada-cerdo-bolonesa-bandeja",
+    "name": "Preparado de carne picada cerdo boloñesa",
+    "description": "Bandeja",
+    "category": "Carne > Hamburguesas y picadas"
   },
   {
     "id": "35997",
@@ -40648,6 +40675,15 @@
     "ean": "8480000707321",
     "brand": "Delikuit",
     "url": "https://tienda.mercadona.es/product/70732/pate-perro-adulto-delikuit-con-salmon-verduras-tarrina",
+    "name": "Paté perro adulto Delikuit con salmón y verduras",
+    "description": "Tarrina",
+    "category": "Mascotas > Perro"
+  },
+  {
+    "id": "70733",
+    "ean": "8480000707338",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/70733/pate-perro-adulto-delikuit-con-salmon-verduras-tarrina",
     "name": "Paté perro adulto Delikuit con salmón y verduras",
     "description": "Tarrina",
     "category": "Mascotas > Perro"
