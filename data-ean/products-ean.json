@@ -9027,6 +9027,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "22189",
+    "ean": "8480000221896",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22189/papilla-fruta-variada-4-meses-hacendado-pack-4",
+    "name": "Papilla fruta variada +4 meses Hacendado",
+    "description": "Pack-4",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "22190",
     "ean": "8480000221902",
     "brand": "Hacendado",
@@ -21564,6 +21573,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "35780",
+    "ean": "8402001010040",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35780/salsa-estilo-argentino-hacendado-bote",
+    "name": "Salsa estilo argentino Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35782",
     "ean": "8700216087537",
     "brand": "Tampax",
@@ -21625,6 +21643,24 @@
     "name": "Golosinas Ladrillazos King Regal",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35838",
+    "ean": "8720182382214",
+    "brand": "Ligeresa",
+    "url": "https://tienda.mercadona.es/product/35838/salsa-ligera-ligeresa-tarro",
+    "name": "Salsa ligera Ligeresa",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
+    "id": "35840",
+    "ean": "8410127050819",
+    "brand": "Hellmann's",
+    "url": "https://tienda.mercadona.es/product/35840/mayonesa-hellmanns-tarro",
+    "name": "Mayonesa Hellmann's",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
     "id": "35850",
@@ -49543,6 +49579,15 @@
     "name": "Chocolate negro Fussion 72% de cacao Hacendado relleno de crema de limón",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86803",
+    "ean": "8480000868039",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86803/lejia-ropa-blanca-denso-bosque-verde-botella",
+    "name": "Lejía ropa blanca denso Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
     "id": "86809",
