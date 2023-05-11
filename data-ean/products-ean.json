@@ -20493,6 +20493,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "35457",
+    "ean": "8402001007873",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35457/vela-perfumada-fruta-tropical-bosque-verde-pequena-caja",
+    "name": "Vela perfumada Fruta Tropical Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "35458",
     "ean": "8428390829322",
     "brand": "Flor de Mayo",
@@ -21580,6 +21589,15 @@
     "name": "Salsa estilo argentino Hacendado",
     "description": "Bote",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "35781",
+    "ean": "8402001010262",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35781/espinaca-picada-porciones-hacendado-ultracongelada-paquete",
+    "name": "Espinaca picada en porciones Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "35782",
@@ -32661,6 +32679,15 @@
     "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
+    "id": "5928",
+    "ean": "8480000059284",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5928/albaricoque",
+    "name": "Albaricoque",
+    "description": null,
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59280",
     "ean": "8435324003727",
     "brand": "Jamcal",
@@ -42615,6 +42642,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "73395",
+    "ean": "8480000733955",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/73395/palitos-pan-con-aceitunas-hacendado-pack-2",
+    "name": "Palitos de pan con aceitunas Hacendado",
+    "description": "Pack-2",
+    "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
     "id": "73400",
     "ean": "8410737000013",
     "brand": "Lea",
@@ -45826,6 +45862,24 @@
     "name": "Almendra marcona Hacendado frita con sal",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "80494.1",
+    "ean": "8480000804945",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80494.1/pan-trigo-espelta-100",
+    "name": "Pan de trigo espelta 100%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "80494.2",
+    "ean": "8480000804945",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80494.2/pan-trigo-espelta-100-rebanado",
+    "name": "Pan de trigo espelta 100% rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "80497",
