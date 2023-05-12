@@ -5058,6 +5058,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "15680",
+    "ean": "8424465915389",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/15680/4-panes-cristal-redondo-pack-4",
+    "name": "4 Panes de cristal redondo",
+    "description": "Pack-4",
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "15691.1",
     "ean": "8437016823064",
     "brand": null,
@@ -21654,6 +21663,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35801",
+    "ean": "8402001008511",
+    "brand": "Monogotas",
+    "url": "https://tienda.mercadona.es/product/35801/eau-toilette-monogotas-lavanda-frasco",
+    "name": "Eau de toilette Monogotas lavanda",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35808",
     "ean": "8435063817913",
     "brand": "King Regal",
@@ -21742,6 +21760,15 @@
     "name": "Trufas clásicas al cacao Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "3651",
+    "ean": "8437005108318",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3651/cereza-bandeja",
+    "name": "Cereza",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "3653",
@@ -49642,6 +49669,15 @@
     "name": "Lejía ropa blanca denso Bosque Verde",
     "description": "Botella",
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
+    "id": "86808",
+    "ean": "8480000868084",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86808/sazonador-pollo-carne-hacendado-bote",
+    "name": "Sazonador pollo y carne Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "86809",
