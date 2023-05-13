@@ -12609,6 +12609,15 @@
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
+    "id": "23816",
+    "ean": "8480000238160",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/23816/mayonesa-sobres-individuales-pack-12",
+    "name": "Mayonesa en sobres individuales",
+    "description": "Pack-12",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
     "id": "23829",
     "ean": "8480000238290",
     "brand": "Deliplus",
@@ -17379,6 +17388,15 @@
     "category": "Panadería y pastelería > Harina y preparado repostería"
   },
   {
+    "id": "3260",
+    "ean": "8480000032607",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3260/manzana-story-pieza",
+    "name": "Manzana Story",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3267",
     "ean": "8480000032676",
     "brand": null,
@@ -20682,6 +20700,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "35499",
+    "ean": "8402001006326",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35499/pintalabios-color-fix-deliplus-13-rosa-fucsia-larga-duracion",
+    "name": "Pintalabios Color Fix Deliplus 13 rosa fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35502",
     "ean": "8402001007958",
     "brand": "Deliplus",
@@ -22786,6 +22813,15 @@
     "name": "Burger de vacuno y cerdo gruesas",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "3987",
+    "ean": "8480000039873",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3987/manzanas-story-bolsa",
+    "name": "Manzanas Story",
+    "description": "Bolsa",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "39896",
@@ -32994,6 +33030,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "60384",
+    "ean": "8480000603845",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60384/mix-golosinas-azucar-hacendado-paquete",
+    "name": "Mix Golosinas azúcar Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "6040",
     "ean": "8421610060406",
     "brand": null,
@@ -37377,11 +37422,56 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "66738",
+    "ean": "8480000667380",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/66738/tinto-verano-sabor-limon-cason-historico-lata",
+    "name": "Tinto de verano sabor limón Casón Histórico",
+    "description": "Lata",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "66739",
+    "ean": "8480000667397",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/66739/tinto-verano-sabor-limon-cason-historico-pack-6",
+    "name": "Tinto de verano sabor limón Casón Histórico",
+    "description": "Pack-6",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "66741",
+    "ean": "8480000667410",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/66741/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucares-lata",
+    "name": "Tinto de verano zero limón Casón Histórico 0% alcohol 0% azúcares",
+    "description": "Lata",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "66742",
+    "ean": "8480000667427",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/66742/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucares-pack-6",
+    "name": "Tinto de verano zero limón Casón Histórico 0% alcohol 0% azúcares",
+    "description": "Pack-6",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
     "id": "66746",
     "ean": "8410261152417",
     "brand": "Don Simón",
     "url": "https://tienda.mercadona.es/product/66746/tinto-verano-00-sin-alcohol-limon-don-simon-botella",
     "name": "Tinto de verano 0,0% sin alcohol limón Don Simón",
+    "description": "Botella",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "66747",
+    "ean": "8410261152011",
+    "brand": "Don Simón",
+    "url": "https://tienda.mercadona.es/product/66747/tinto-verano-limon-don-simon-botella",
+    "name": "Tinto de verano limón Don Simón",
     "description": "Botella",
     "category": "Bodega > Tinto de verano y sangría"
   },
@@ -40651,6 +40741,15 @@
     "name": "Tratamiento corporal intensivo Meso-Anticelulítico concentrado Deliplus",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "70628",
+    "ean": "8412941005976",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/70628/pepinillos-agridulces-convite-tarro",
+    "name": "Pepinillos agridulces Convite",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "70635",
@@ -48571,6 +48670,15 @@
     "name": "Mejillón vivo y limpio",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "85473",
+    "ean": "8437008336237",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85473/coca-amb-tonyina-pieza",
+    "name": "Coca amb tonyina",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "85786",
