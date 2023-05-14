@@ -21141,6 +21141,24 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "35591",
+    "ean": "8402001008542",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35591/aceite-solar-protector-zanahoria-deliplus-fps-6-resistente-agua-toque-seco-spray",
+    "name": "Aceite solar protector zanahoria Deliplus FPS 6",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "35592",
+    "ean": "8402001008665",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35592/aceite-solar-protector-fps-50-deliplus-resistente-agua-bote",
+    "name": "Aceite solar protector FPS 50 Deliplus resistente al agua",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "35593",
     "ean": "8402001008504",
     "brand": "Deliplus",
@@ -48877,6 +48895,15 @@
     "name": "Bombones cereza al licor Hacendado con chocolate negro",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86087",
+    "ean": "8480000860873",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86087/yogur-con-fruta-hacendado-0-mg-0-sin-azucares-anadidos-2-manzana-2-mango-2-pina-2-fresa-pack-8",
+    "name": "Yogur con fruta Hacendado 0% m.g 0% sin azúcares añadidos",
+    "description": "Pack-8",
+    "category": "Postres y yogures > Yogures desnatados"
   },
   {
     "id": "86088",
