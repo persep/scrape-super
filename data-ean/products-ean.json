@@ -39366,6 +39366,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69099",
+    "ean": "8480000690999",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69099/patatas-malla",
+    "name": "Patatas",
+    "description": "Malla",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69114",
     "ean": "8480000691149",
     "brand": null,
@@ -39452,6 +39461,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69162/cebollas-rojas-malla",
     "name": "Cebollas rojas",
+    "description": "Malla",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69166",
+    "ean": "8480000691668",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69166/patatas-malla",
+    "name": "Patatas",
     "description": "Malla",
     "category": "Fruta y verdura > Verdura"
   },
