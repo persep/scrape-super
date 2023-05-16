@@ -19962,6 +19962,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "35350",
+    "ean": "8402001007095",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35350/perfilador-ojos-deliplus-14-azul-noche-con-esponja",
+    "name": "Perfilador de ojos Deliplus 14 azul noche",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35351",
     "ean": "8711571072014",
     "brand": "Lambweston",
@@ -19996,6 +20005,24 @@
     "name": "Gel de ducha taurina Hydra Energetic L'Oréal Men Expert",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "35359",
+    "ean": "8402001007040",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35359/perfilador-ojos-deliplus-12-verde-oliva-con-esponja",
+    "name": "Perfilador de ojos Deliplus 12 verde oliva",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35360",
+    "ean": "8402001007057",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35360/perfilador-ojos-deliplus-13-gris-con-esponja",
+    "name": "Perfilador de ojos Deliplus 13 gris",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35361",
@@ -21285,6 +21312,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "35618",
+    "ean": "8032804431911",
+    "brand": "Felicia",
+    "url": "https://tienda.mercadona.es/product/35618/pasta-estrellas-felicia-sin-gluten-sopa-paquete",
+    "name": "Pasta estrellas Felicia sin gluten",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "35619",
     "ean": "8006540875940",
     "brand": "Pantene",
@@ -21591,6 +21627,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "35705",
+    "ean": "8414640192131",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35705/neceser-verde-pequeno-150-x-140-x-30-mm",
+    "name": "Neceser verde pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "35707",
     "ean": "5059319026053",
     "brand": "Special K",
@@ -21730,6 +21775,15 @@
     "ean": "8720182382214",
     "brand": "Ligeresa",
     "url": "https://tienda.mercadona.es/product/35838/salsa-ligera-ligeresa-tarro",
+    "name": "Salsa ligera Ligeresa",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
+    "id": "35839",
+    "ean": "8720182381804",
+    "brand": "Ligeresa",
+    "url": "https://tienda.mercadona.es/product/35839/salsa-ligera-ligeresa-tarro",
     "name": "Salsa ligera Ligeresa",
     "description": "Tarro",
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
@@ -26683,6 +26737,15 @@
     "name": "Patatas fritas onduladas Ruffles sabor jamón",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "46578",
+    "ean": "8480000465788",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/46578/gel-bano-oliva-deliplus-piel-seca-botella",
+    "name": "Gel de baño oliva Deliplus piel seca",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
     "id": "46580",
@@ -33048,6 +33111,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "60370",
+    "ean": "8412941006010",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/60370/picadillo-variantes-convite-tarro",
+    "name": "Picadillo de variantes Convite",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "60384",
     "ean": "8480000603845",
     "brand": "Hacendado",
@@ -38716,6 +38788,15 @@
     "name": "Refresco té sabor limón Hacendado",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "67947",
+    "ean": "8480000679475",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67947/pizza-formaggi-hacendado-4-quesos-caja",
+    "name": "Pizza Formaggi Hacendado 4 quesos",
+    "description": "Caja",
+    "category": "Pizzas y platos preparados > Pizzas"
   },
   {
     "id": "67948",
