@@ -7398,6 +7398,15 @@
     "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
+    "id": "18817",
+    "ean": "8480000188175",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18817/salmon-natural-hacendado-pack-3",
+    "name": "Salmón al natural Hacendado",
+    "description": "Pack-3",
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
     "id": "18818",
     "ean": "8480000188182",
     "brand": "Hacendado",
@@ -20826,6 +20835,24 @@
     "category": "Bebé > Higiene y cuidado"
   },
   {
+    "id": "35522",
+    "ean": "8402001008146",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35522/pintalabios-fluido-mate-deliplus-09-coral-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 09 coral",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35523",
+    "ean": "8402001008153",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35523/pintalabios-fluido-mate-deliplus-10-rosa-fucsia-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 10 rosa fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35524",
     "ean": "8402001006265",
     "brand": "Deliplus",
@@ -21087,6 +21114,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35568",
+    "ean": "8414640191752",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35568/neceser-mafalda-grande-con-asa-250-x-200-x-85-mm",
+    "name": "Neceser Mafalda grande con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35569",
+    "ean": "8414640191738",
+    "brand": "Chupachups",
+    "url": "https://tienda.mercadona.es/product/35569/neceser-marron-grande-con-asa-chupachups-290-x-200-x-35-mm",
+    "name": "Neceser marrón grande con asa Chupachups",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "35571",
     "ean": "8402001008238",
     "brand": "Bosque Verde",
@@ -21157,6 +21202,15 @@
     "name": "Laca de uñas alto brillo Deliplus 72 azul",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35589",
+    "ean": "8414640191899",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35589/neceser-degradado-pequeno-165-x-120-x-50-mm",
+    "name": "Neceser degradado pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
   },
   {
     "id": "35590",
@@ -21636,6 +21690,15 @@
     "category": "Cuidado facial y corporal > Neceseres"
   },
   {
+    "id": "35706",
+    "ean": "8414640191769",
+    "brand": "Snoopy",
+    "url": "https://tienda.mercadona.es/product/35706/neceser-rosa-mediano-con-asa-snoopy-220-x-120-x-90-mm",
+    "name": "Neceser rosa mediano con asa Snoopy",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "35707",
     "ean": "5059319026053",
     "brand": "Special K",
@@ -21661,6 +21724,15 @@
     "name": "Té negro con canela Hacendado",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
+    "id": "35728",
+    "ean": "8402001009228",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35728/rodillo-intensivo-reductor-deliplus",
+    "name": "Rodillo intensivo reductor Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "35730",
@@ -21733,6 +21805,15 @@
     "name": "Recambios maquinilla depilación Venus Breeze Comfortglide Gillette 3 hojas con gel",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35787",
+    "ean": "8402001010477",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35787/barritas-barquillo-hacendado-banadas-chocolate-blanco-paquete",
+    "name": "Barritas de barquillo Hacendado bañadas de chocolate blanco",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "35797",
@@ -34605,6 +34686,15 @@
     "category": "Congelados > Pescado"
   },
   {
+    "id": "62113",
+    "ean": "8480000621139",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62113/lomos-centros-merluza-cabo-hacendado-ultracongelados-caja",
+    "name": "Lomos y centros de merluza del cabo Hacendado ultracongelados",
+    "description": "Caja",
+    "category": "Congelados > Pescado"
+  },
+  {
     "id": "62120",
     "ean": "8480000621207",
     "brand": "Hacendado",
@@ -42972,6 +43062,15 @@
     "url": "https://tienda.mercadona.es/product/73445/maquinilla-afeitar-desechable-active-3-deliplus-3-hojas-paquete",
     "name": "Maquinilla de afeitar desechable Active 3 Deliplus 3 hojas",
     "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "73448",
+    "ean": "8480000734488",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/73448/maquinilla-afeitar-recargable-precision-system-5-deliplus-5-hojas-caja",
+    "name": "Maquinilla de afeitar recargable Precision System 5 Deliplus 5 hojas",
+    "description": "Caja",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
