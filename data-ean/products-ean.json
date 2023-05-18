@@ -10278,6 +10278,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "22844",
+    "ean": "8480000228444",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/22844/pan-bretzel",
+    "name": "Pan Bretzel",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "22848",
     "ean": "8480000228482",
     "brand": "Hacendado",
@@ -38403,6 +38412,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "67658",
+    "ean": "8480000676580",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67658/cafe-con-leche-capsula-hacendado-compatibles-maquinas-dolce-gusto-caja",
+    "name": "Café con leche en cápsula Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
     "id": "67660",
     "ean": "8480000676603",
     "brand": "Hacendado",
@@ -46258,6 +46276,15 @@
     "name": "Golosinas Muaks Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "80518",
+    "ean": "8480000805188",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80518/chocolate-negro-fussion-hacendado-sabor-stracciatella-tableta",
+    "name": "Chocolate negro Fussion Hacendado sabor stracciatella",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "80644",
