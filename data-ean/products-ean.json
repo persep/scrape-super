@@ -20988,6 +20988,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35545",
+    "ean": "8402001008139",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35545/salsa-tomate-bolonesa-hacendado-tarro",
+    "name": "Salsa de tomate boloñesa Hacendado",
+    "description": "Tarro",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35546",
     "ean": "8402001008160",
     "brand": "Hacendado",
@@ -45619,6 +45628,15 @@
     "name": "Nata montada La Panna Ken",
     "description": "Bote",
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
+    "id": "80291",
+    "ean": "8480000802910",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80291/semola-trigo-hacendado-paquete",
+    "name": "Sémola de trigo Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "80292",
