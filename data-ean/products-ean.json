@@ -3411,6 +3411,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "13731",
+    "ean": "8480000137319",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/13731/gel-bano-elixir-fleur-monoi-botella",
+    "name": "Gel de baño Elixir Fleur de Monoï",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "13738",
     "ean": "8480000137388",
     "brand": "Hacendado",
@@ -6963,6 +6972,15 @@
     "url": "https://tienda.mercadona.es/product/18086/atun-aceite-girasol-hacendado-lata",
     "name": "Atún en aceite de girasol Hacendado",
     "description": "Lata",
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18092",
+    "ean": "8480000180926",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
+    "name": "Atún claro en aceite de girasol Hacendado",
+    "description": "Pack-3",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
   {
@@ -11934,6 +11952,15 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "23534",
+    "ean": "8480000235343",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/23534/acondicionador-instantaneo-elixir-fleur-monoi-con-filtro-uva-proteccion-frente-rayos-sol-spray",
+    "name": "Acondicionador instantáneo Elixir Fleur de Monoï",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "23540",
     "ean": "8480000235404",
     "brand": "Deliplus",
@@ -12040,6 +12067,15 @@
     "name": "Galletas Dinosaurus con cereales",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "23574",
+    "ean": "8480000235749",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/23574/eau-toilette-mujer-elixir-fleur-monoi-frasco",
+    "name": "Eau de toilette mujer Elixir Fleur de Monoï",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "23575",
@@ -12661,6 +12697,15 @@
     "name": "Ambientador automático Delice Bosque Verde",
     "description": "Bote",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "23843",
+    "ean": "8480000238436",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23843/pan-bagel-hacendado-paquete",
+    "name": "Pan Bagel Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "23847",
@@ -21123,6 +21168,15 @@
     "category": "Cuidado facial y corporal > Neceseres"
   },
   {
+    "id": "35565",
+    "ean": "8414640191684",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35565/neceser-azul-yale-mediano-240-x-170-x-60-mm",
+    "name": "Neceser azul Yale mediano",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35567",
     "ean": "8414640191745",
     "brand": null,
@@ -21146,6 +21200,15 @@
     "brand": "Chupachups",
     "url": "https://tienda.mercadona.es/product/35569/neceser-marron-grande-con-asa-chupachups-290-x-200-x-35-mm",
     "name": "Neceser marrón grande con asa Chupachups",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35570",
+    "ean": "8414640191905",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35570/neceser-rojo-mediano-230-x-130-x-40-mm",
+    "name": "Neceser rojo mediano",
     "description": null,
     "category": "Cuidado facial y corporal > Neceseres"
   },
@@ -21762,6 +21825,33 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "35742",
+    "ean": "30145047",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35742/mascara-cejas-tattoo-brow-36h-maybelline-255-soft-brown-styling-gel",
+    "name": "Máscara de cejas Tattoo Brow 36h Maybelline 255 Soft brown",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35743",
+    "ean": "30152717",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35743/mascara-cejas-tattoo-brow-36h-maybelline-257-medium-brown-styling-gel",
+    "name": "Máscara de cejas Tattoo Brow 36h Maybelline 257 Medium brown",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35744",
+    "ean": "30147591",
+    "brand": "Maybelline",
+    "url": "https://tienda.mercadona.es/product/35744/mascara-cejas-tattoo-brow-36h-maybelline-260-deep-brown-styling-gel",
+    "name": "Máscara de cejas Tattoo Brow 36h Maybelline 260 Deep brown",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35747",
     "ean": "5015405090650",
     "brand": "Personna",
@@ -21859,6 +21949,15 @@
     "name": "Eau de toilette Monogotas lavanda",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35804",
+    "ean": "8428390078331",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/35804/gel-perfumado-corporal-glitter-elixir-fleur-monoi-ilumina-decora-piel-cuerpo-bote",
+    "name": "Gel perfumado corporal Glitter Elixir Fleur de Monoï ilumina y decora la piel del cuerpo",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "35808",
