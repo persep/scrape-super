@@ -21285,6 +21285,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "35588",
+    "ean": "8402001008276",
+    "brand": "Colagen",
+    "url": "https://tienda.mercadona.es/product/35588/colageno-soluble-sabor-limon-colagen-complemento-alimenticio-deliplus-bote",
+    "name": "Colágeno soluble sabor limón Colagen",
+    "description": "Bote",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "35589",
     "ean": "8414640191899",
     "brand": null,
@@ -21654,6 +21663,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "35667",
+    "ean": "4046104000085",
+    "brand": "Khanya",
+    "url": "https://tienda.mercadona.es/product/35667/parches-ojos-hidrogel-khanya-con-extracto-pepino-acido-hialuronico-refresca-reduce-hinchazon-paquete",
+    "name": "Parches para ojos de hidrogel Khanya con extracto de pepino y ácido hialurónico",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "35668",
     "ean": "8411135007147",
     "brand": "Lactovit",
@@ -21670,6 +21688,15 @@
     "name": "Chuletas de cordero pierna",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35670",
+    "ean": "8032804431966",
+    "brand": "Felicia",
+    "url": "https://tienda.mercadona.es/product/35670/spaghetti-sin-gluten-felicia-paquete",
+    "name": "Spaghetti sin gluten Felicia",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "35671",
@@ -22012,6 +22039,15 @@
     "name": "Preparado de carne picada cerdo boloñesa",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "35915",
+    "ean": "8410104914257",
+    "brand": "Finish",
+    "url": "https://tienda.mercadona.es/product/35915/lavavajillas-quantum-finish-pastillas-lavado-maquina-paquete",
+    "name": "Lavavajillas Quantum Finish en pastillas",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
     "id": "35997",
@@ -38250,11 +38286,29 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "67559",
+    "ean": "8425514004535",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/67559/chapata-cristal",
+    "name": "Chapata de cristal",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "67563",
     "ean": "8425514004412",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/67563/panecillo-queso-18",
     "name": "Panecillo de queso 18%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "67565",
+    "ean": "8480000675651",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/67565/pulguita",
+    "name": "Pulguita",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
   },
@@ -49813,6 +49867,24 @@
     "name": "Seitán Hacendado",
     "description": "Paquete",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "86532.1",
+    "ean": "8480000865328",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86532.1/barra-pan-campesina-masa-madre",
+    "name": "Barra de pan campesina masa madre",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "86532.2",
+    "ean": "8480000865328",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86532.2/barra-pan-campesina-masa-madre-rebanada",
+    "name": "Barra de pan campesina masa madre rebanada",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "86546",
