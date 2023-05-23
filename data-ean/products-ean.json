@@ -9315,6 +9315,15 @@
     "category": "Pizzas y platos preparados > Pizzas"
   },
   {
+    "id": "22349",
+    "ean": "8480000223494",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22349/azucar-moreno-cana-hacendado-paquete",
+    "name": "Azúcar moreno de caña Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
     "id": "22350",
     "ean": "8480000223500",
     "brand": "Deliplus",
@@ -12013,6 +12022,15 @@
     "name": "Limpiador Cal y Suciedad Cillit Bang",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
+    "id": "23557",
+    "ean": "8480000235572",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/23557/mousse-hidratante-body-crackling-elixir-fleur-monoi-con-efecto-efervescente-bote",
+    "name": "Mousse hidratante Body Crackling Elixir Fleur de Monoï con efecto efervescente",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "23560",
@@ -20025,6 +20043,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "35345",
+    "ean": "8402001007088",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35345/perfilador-ojos-waterproof-deliplus-06-marron-con-esponja",
+    "name": "Perfilador de ojos Waterproof Deliplus 06 marrón",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35350",
     "ean": "8402001007095",
     "brand": "Deliplus",
@@ -26944,6 +26971,15 @@
     "name": "Dentífrico Gingival Deliplus con flúor",
     "description": "Tubo",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "46559",
+    "ean": "8480000465597",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/46559/agua-perfumada-bebe-con-notas-florales-deliplus-bote",
+    "name": "Agua perfumada bebé con notas florales Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
   },
   {
     "id": "46567",
@@ -47986,6 +48022,15 @@
     "name": "Barra de pan campesina masa madre rebanada",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "82833",
+    "ean": "8002190020341",
+    "brand": "Galbusera",
+    "url": "https://tienda.mercadona.es/product/82833/crackers-sin-sal-superficie-galbusera-paquete",
+    "name": "Crackers sin sal en la superficie Galbusera",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
   },
   {
     "id": "82839",
