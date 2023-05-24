@@ -18828,6 +18828,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "3427",
+    "ean": "8480000034274",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3427/nectarina-pieza",
+    "name": "Nectarina",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3440",
     "ean": "8436047158251",
     "brand": null,
@@ -21483,6 +21492,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "35617",
+    "ean": "8700216089890",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35617/mascarilla-suave-liso-pantene-cabello-encrespado-tarro",
+    "name": "Mascarilla Suave & Liso Pantene cabello encrespado",
+    "description": "Tarro",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "35618",
     "ean": "8032804431911",
     "brand": "Felicia",
@@ -21913,6 +21931,15 @@
     "name": "Maquinillas depilación mujer de bolsillo Personna 5 hojas",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35777",
+    "ean": "8402001010194",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35777/penne-integral-hacendado-paquete",
+    "name": "Penne integral Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "35780",
@@ -30237,6 +30264,15 @@
     "url": "https://tienda.mercadona.es/product/50931/queso-oveja-anejo-fuerte-hacendado-12-pieza",
     "name": "Queso de oveja añejo fuerte Hacendado",
     "description": "1/2 Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "50935",
+    "ean": "8480000509352",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50935/queso-tierno-vaca-hacendado-pieza",
+    "name": "Queso tierno de vaca Hacendado",
+    "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
@@ -50488,6 +50524,15 @@
     "name": "Vichyssoise de puerro y patata Hacendado",
     "description": "Bol",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "87265",
+    "ean": "8480000872654",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/87265/gamba-cocida-hacendado-bandeja",
+    "name": "Gamba cocida Hacendado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
   },
   {
     "id": "8727",
