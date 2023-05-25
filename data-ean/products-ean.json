@@ -21942,6 +21942,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "35778",
+    "ean": "8402001010200",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35778/spaghetti-integral-hacendado-paquete",
+    "name": "Spaghetti integral Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "35780",
     "ean": "8402001010040",
     "brand": "Hacendado",
@@ -22153,6 +22162,15 @@
     "ean": "8437005108318",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/3651/cereza-bandeja",
+    "name": "Cereza",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3652",
+    "ean": "8437005108332",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3652/cereza-bandeja",
     "name": "Cereza",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
@@ -26161,6 +26179,15 @@
     "name": "Gel de baño con sales minerales La Toja",
     "description": "Botella",
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "4495",
+    "ean": "8480000044952",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4495/kit-sushi-contiene-palillos-salsa-soja-wasabi-paquete",
+    "name": "Kit sushi",
+    "description": "Paquete",
+    "category": "Marisco y pescado > Sushi"
   },
   {
     "id": "44973",
