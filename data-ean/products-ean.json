@@ -21609,6 +21609,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "35640",
+    "ean": "8718951594722",
+    "brand": "Sanex",
+    "url": "https://tienda.mercadona.es/product/35640/gel-bano-dermoprotector-sanex-piel-normal-bote",
+    "name": "Gel de baño dermoprotector Sanex piel normal",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "35641",
     "ean": "8402001005138",
     "brand": "Rose Nude",
@@ -21661,6 +21670,33 @@
     "name": "Máscara de pestañas alas de mariposa Deliplus negro",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35650",
+    "ean": "8402001007354",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35650/colorete-compacto-multicolor-summer-deliplus",
+    "name": "Colorete compacto Multicolor Summer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "35651",
+    "ean": "8402001009365",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35651/polvos-bronceadores-compactos-bronzer-summer-deliplus-acabado-mate",
+    "name": "Polvos bronceadores compactos Bronzer Summer Deliplus acabado mate",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "35652",
+    "ean": "8402001008894",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35652/pasta-fresca-girasoles-queso-cabra-cebolla-caramelizada-hacendado-bandeja",
+    "name": "Pasta fresca girasoles de queso de cabra y cebolla caramelizada Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "35654",
@@ -46512,6 +46548,24 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "80493.1",
+    "ean": "8424465916140",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80493.1/barra-pan-rustica",
+    "name": "Barra de pan rústica",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "80493.2",
+    "ean": "8424465916140",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/80493.2/barra-pan-rustica-rebanada",
+    "name": "Barra de pan rústica rebanada",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "80494.1",
     "ean": "8480000804945",
     "brand": null,
@@ -50226,6 +50280,15 @@
     "url": "https://tienda.mercadona.es/product/86656/ajo-granulado-hacendado-bote",
     "name": "Ajo granulado Hacendado",
     "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "86659",
+    "ean": "8480000866592",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86659/sazonador-sabor-barbacoa-hacendado",
+    "name": "Sazonador sabor barbacoa Hacendado",
+    "description": "Sobre",
     "category": "Aceite, especias y salsas > Especias"
   },
   {
