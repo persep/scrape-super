@@ -1404,6 +1404,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "11431",
+    "ean": "8480000114310",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11431/infusion-tila-hacendado-caja",
+    "name": "Infusión Tila Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "11433",
     "ean": "8480000114334",
     "brand": "Hacendado",
@@ -49498,6 +49507,15 @@
     "name": "Crema depilatoria mujer para el cuerpo Deliplus piel sensible",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "86100",
+    "ean": "8426188006061",
+    "brand": "Olives Garcia",
+    "url": "https://tienda.mercadona.es/product/86100/aceitunas-olives-garcia-partida-con-hueso-bote",
+    "name": "Aceitunas Olives Garcia partida con hueso",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "8611",
