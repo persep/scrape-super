@@ -21906,6 +21906,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "35711",
+    "ean": "8402001009402",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35711/pan-molde-sin-gluten-blanco-hacendado-paquete",
+    "name": "Pan de molde sin gluten blanco Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "35725",
     "ean": "8402001009211",
     "brand": "Deliplus",
@@ -22156,6 +22165,15 @@
     "name": "Preparado de carne picada cerdo boloñesa",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "35902",
+    "ean": "8402001011504",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35902/brochetas-pollo-bandeja",
+    "name": "Brochetas de pollo",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "35915",
