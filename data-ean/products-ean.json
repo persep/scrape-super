@@ -18630,6 +18630,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "3418",
+    "ean": "8480000034182",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3418/paraguayo-pieza",
+    "name": "Paraguayo",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "34180",
     "ean": "8480000341808",
     "brand": "Hacendado",
@@ -21852,6 +21861,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "35683",
+    "ean": "8402001009143",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35683/gelatina-0-azucar-sabores-fresa-mandarina-limon-hacendado-gellytina-pack-6",
+    "name": "Gelatina 0% azúcar sabores fresa, mandarina y limón Hacendado",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "3569",
     "ean": "8437019040444",
     "brand": null,
@@ -22077,6 +22095,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "35788",
+    "ean": "8402001010460",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35788/barritas-crujientes-cruky-hacendado-recubiertas-chocolate-con-leche-paquete",
+    "name": "Barritas crujientes Cruky Hacendado recubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "35797",
     "ean": "8402001008740",
     "brand": "Hacendado",
@@ -22201,6 +22228,15 @@
     "name": "Lavavajillas Ultra concentrado Bosque Verde",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "3601",
+    "ean": "8480000036018",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza",
+    "name": "Ciruela roja",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "36051",
