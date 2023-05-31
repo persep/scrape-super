@@ -20853,6 +20853,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35500",
+    "ean": "8402001008092",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35500/kit-unas-manicura-viaje-deliplus-contiene-palitos-naranjo-cortaunas-lima-fibra-vidrio",
+    "name": "Kit de uñas manicura para viaje Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "35502",
     "ean": "8402001007958",
     "brand": "Deliplus",
@@ -41247,6 +41256,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "70087",
+    "ean": "8480000700872",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/70087/copos-crujientes-cereales-granola-hacendado-con-trozos-fresas-paquete",
+    "name": "Copos crujientes de cereales Granola Hacendado con trozos de fresas",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "7014",
     "ean": "8410300100010",
     "brand": "Avecrem",
@@ -50623,6 +50641,15 @@
     "name": "Levadura de panadería Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "87014",
+    "ean": "8436554810161",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87014/fartons-bandeja",
+    "name": "Fartons",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "8713",
