@@ -5292,6 +5292,15 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "15768",
+    "ean": "8480000157683",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/15768/huevos-gallinas-camperas-paquete",
+    "name": "Huevos de gallinas camperas",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
     "id": "15777",
     "ean": "8480000157775",
     "brand": "Bosque Verde",
@@ -7088,6 +7097,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/18212/sardinillas-picantes-aceite-girasol-hacendado-6-12-ud-pack-2",
     "name": "Sardinillas picantes en aceite de girasol Hacendado",
+    "description": "Pack-2",
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18213",
+    "ean": "8480000182135",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18213/sardinillas-aceite-girasol-hacendado-6-12-ud-pack-2",
+    "name": "Sardinillas en aceite de girasol Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
@@ -17154,6 +17172,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "31003",
+    "ean": "8437019922030",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31003/huevos-grandes-l-paquete",
+    "name": "Huevos grandes L",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
     "id": "31004",
     "ean": "8420832947434",
     "brand": null,
@@ -17244,6 +17271,15 @@
     "category": "Huevos, leche y mantequilla > Huevos"
   },
   {
+    "id": "31310",
+    "ean": "8480000313102",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31310/huevos-gallinas-camperas-paquete",
+    "name": "Huevos de gallinas camperas",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
     "id": "31312",
     "ean": "8411384100941",
     "brand": null,
@@ -17260,6 +17296,42 @@
     "name": "Plátano macho",
     "description": "Pieza",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "31504",
+    "ean": "8480000315045",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete",
+    "name": "Huevos grandes L",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
+    "id": "31505",
+    "ean": "8480000315052",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31505/huevos-medianos-m-paquete",
+    "name": "Huevos medianos M",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
+    "id": "31540",
+    "ean": "8480000315403",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31540/huevos-grandes-l-paquete",
+    "name": "Huevos grandes L",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
+    "id": "31592",
+    "ean": "8437019922016",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/31592/huevos-super-grandes-xl-paquete",
+    "name": "Huevos super grandes XL",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
   },
   {
     "id": "3170",
@@ -17899,6 +17971,15 @@
     "name": "Solución única Deliplus",
     "description": "Bote",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "3336",
+    "ean": "8480000033369",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3336/manzanas-crimson-snow-bolsa",
+    "name": "Manzanas Crimson Snow",
+    "description": "Bolsa",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "33363",
@@ -22158,6 +22239,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "35824",
+    "ean": "8402001008214",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/35824/spray-cabello-beach-waves-elixir-fleur-monoi-spray",
+    "name": "Spray cabello Beach Waves Elixir Fleur de Monoï",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "35838",
     "ean": "8720182382214",
     "brand": "Ligeresa",
@@ -22183,6 +22273,15 @@
     "name": "Mayonesa Hellmann's",
     "description": "Tarro",
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
+    "id": "35842",
+    "ean": "8402001008993",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35842/chicle-tropical-lamina-hacendado-paquete",
+    "name": "Chicle tropical lámina Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "35850",
@@ -33426,6 +33525,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "5959",
+    "ean": "8480000059598",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5959/manzana-crimson-pieza",
+    "name": "Manzana Crimson Snow",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59901",
     "ean": "8412540008385",
     "brand": "Martiko",
@@ -33721,6 +33829,15 @@
     "name": "Ambientador Fresh Bosque Verde neutraliza malos olores",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "60708",
+    "ean": "8437019922139",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60708/huevos-gallinas-criadas-suelo-paquete",
+    "name": "Huevos de gallinas criadas en el suelo",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
   },
   {
     "id": "60709",
@@ -50983,6 +51100,15 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "8904",
+    "ean": "8480000089045",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8904/brevas-bandeja",
+    "name": "Brevas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "89804",
