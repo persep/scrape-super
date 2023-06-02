@@ -3033,6 +3033,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "13603",
+    "ean": "8720181029363",
+    "brand": "Axe",
+    "url": "https://tienda.mercadona.es/product/13603/desodorante-hombre-dark-temptation-axe-spray",
+    "name": "Desodorante hombre Dark Temptation Axe",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "13606",
     "ean": "8480000136060",
     "brand": null,
@@ -15444,6 +15453,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "28315",
+    "ean": "8480000283153",
+    "brand": "Pi.omka",
+    "url": "https://tienda.mercadona.es/product/28315/mojito-piomka-botella",
+    "name": "Mojito Pi.omka",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "2832",
     "ean": "2105100028324",
     "brand": null,
@@ -20826,6 +20844,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "35479",
+    "ean": "8402001007996",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35479/desodorante-stick-artic-deliplus-antimanchas-sin-sales-aluminio",
+    "name": "Desodorante stick Artic Deliplus antimanchas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "35484",
     "ean": "8402001007699",
     "brand": "Nuske",
@@ -22122,6 +22149,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "35779",
+    "ean": "8402001010217",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35779/pasta-corallini-integral-hacendado-paquete",
+    "name": "Pasta corallini integral Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "35780",
     "ean": "8402001010040",
     "brand": "Hacendado",
@@ -22291,6 +22327,15 @@
     "name": "Compresa con alas de noche Evax Cotton Like",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "35869",
+    "ean": "8410310622199",
+    "brand": "Sílaba",
+    "url": "https://tienda.mercadona.es/product/35869/vino-rosado-espumoso-silaba-frizzante-botella",
+    "name": "Vino rosado espumoso Sílaba frizzante",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
   },
   {
     "id": "35874",
@@ -43056,6 +43101,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "73248",
+    "ean": "8413060012418",
+    "brand": "El Camino",
+    "url": "https://tienda.mercadona.es/product/73248/vino-blanco-albarino-do-rias-baixas-camino-rectoral-do-umia-botella",
+    "name": "Vino blanco albariño D.O Rías Baixas El Camino Rectoral do Umia",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
     "id": "73249",
     "ean": "8480000732491",
     "brand": "Hacendado",
@@ -46825,6 +46879,15 @@
     "name": "Chocolate negro Fussion Hacendado sabor stracciatella",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "80531",
+    "ean": "8480000805317",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80531/tortillas-avena-51-hacendado-paquete",
+    "name": "Tortillas de avena 51% Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "80644",
