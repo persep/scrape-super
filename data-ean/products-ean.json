@@ -16695,6 +16695,15 @@
     "category": "Agua y refrescos > Refresco de cola"
   },
   {
+    "id": "29062",
+    "ean": "8480000290625",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/29062/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-tableta",
+    "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "29064",
     "ean": "8480000290649",
     "brand": "Hacendado",
@@ -21852,6 +21861,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "35656",
+    "ean": "8402001008702",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35656/desodorante-body-spray-tropic-spray",
+    "name": "Desodorante body spray Tropic",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "3566",
     "ean": "8437019040413",
     "brand": null,
@@ -21987,6 +22005,60 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "35684",
+    "ean": "8402001006135",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35684/laca-unas-secado-rapido-deliplus-173-rosa",
+    "name": "Laca de uñas secado rápido Deliplus 173 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35685",
+    "ean": "8402001006142",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35685/laca-unas-secado-rapido-deliplus-174-rosa-chicle",
+    "name": "Laca de uñas secado rápido Deliplus 174 rosa chicle",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35686",
+    "ean": "8402001006159",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35686/laca-unas-secado-rapido-deliplus-175-naranja",
+    "name": "Laca de uñas secado rápido Deliplus 175 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35687",
+    "ean": "8402001006166",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35687/laca-unas-secado-rapido-deliplus-176-amarillo",
+    "name": "Laca de uñas secado rápido Deliplus 176 amarillo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35688",
+    "ean": "8402001006173",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35688/laca-unas-secado-rapido-deliplus-177-verde",
+    "name": "Laca de uñas secado rápido Deliplus 177 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35689",
+    "ean": "8402001006180",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35689/laca-unas-secado-rapido-deliplus-178-azul-claro",
+    "name": "Laca de uñas secado rápido Deliplus 178 azul claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "3569",
     "ean": "8437019040444",
     "brand": null,
@@ -21994,6 +22066,60 @@
     "name": "Cuello de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35690",
+    "ean": "8402001006197",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35690/laca-unas-secado-rapido-deliplus-179-azul-oscuro",
+    "name": "Laca de uñas secado rápido Deliplus 179 azul oscuro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35691",
+    "ean": "8402001006203",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35691/laca-unas-secado-rapido-deliplus-180-glitter-blanco",
+    "name": "Laca de uñas secado rápido Deliplus 180 glitter blanco",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35692",
+    "ean": "8402001006210",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35692/laca-unas-secado-rapido-deliplus-181-glitter-celeste",
+    "name": "Laca de uñas secado rápido Deliplus 181 glitter celeste",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35693",
+    "ean": "8402001006227",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35693/laca-unas-secado-rapido-deliplus-182-glitter-rosa-claro",
+    "name": "Laca de uñas secado rápido Deliplus 182 glitter rosa claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35694",
+    "ean": "8402001006234",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35694/laca-unas-secado-rapido-deliplus-183-glitter-rosa-oscuro",
+    "name": "Laca de uñas secado rápido Deliplus 183 glitter rosa oscuro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35695",
+    "ean": "8402001007019",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35695/tratamiento-unas-base-calcio-deliplus-189",
+    "name": "Tratamiento para uñas base calcio Deliplus 189",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "3570",
@@ -22284,6 +22410,60 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "35825",
+    "ean": "8402001007125",
+    "brand": "Elixir",
+    "url": "https://tienda.mercadona.es/product/35825/lote-corporal-mujer-elixir-spring-bloom-contiene-gel-micelar-bano-490-ml-crema-corporal-hidratante-yogur-250-ml-spray-corporal-200-ml-caja",
+    "name": "Lote corporal mujer Elixir Spring Bloom",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "35826",
+    "ean": "8402001008795",
+    "brand": "Céleste",
+    "url": "https://tienda.mercadona.es/product/35826/lote-mujer-celeste-contiene-eau-toilette-100-ml-cinta-multiusos-con-adaptador-movil-caja",
+    "name": "Lote mujer Céleste",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35827",
+    "ean": "8414640191721",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35827/lote-neceser-mujer-summer-time-contiene-neceser-bolsa-impermeable-coletero-peine-con-espejo",
+    "name": "Lote neceser mujer Summer Time",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35829",
+    "ean": "8411061037263",
+    "brand": "Paula",
+    "url": "https://tienda.mercadona.es/product/35829/lote-mujer-paula-intense-contiene-eau-toilette-100-ml-locion-corporal-75-ml-caja",
+    "name": "Lote mujer Paula Intense",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35830",
+    "ean": "8436611100600",
+    "brand": "Reebok",
+    "url": "https://tienda.mercadona.es/product/35830/lote-mujer-reebok-revitalizing-boost-contiene-bruma-corporal-250-ml-mini-bruma-corporal-100-ml-caja",
+    "name": "Lote mujer Reebok Revitalizing Boost",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35831",
+    "ean": "8411061054895",
+    "brand": "Bustamante",
+    "url": "https://tienda.mercadona.es/product/35831/lote-hombre-bustamante-muy-sport-contiene-eau-toilette-100-ml-desodorante-150-ml-caja",
+    "name": "Lote hombre Bustamante Muy mío sport",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35838",
     "ean": "8720182382214",
     "brand": "Ligeresa",
@@ -22347,6 +22527,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "35881",
+    "ean": "8402001008948",
+    "brand": "Capítulo",
+    "url": "https://tienda.mercadona.es/product/35881/eau-toilette-mujer-capitulo-chypre-frasco",
+    "name": "Eau de toilette mujer Capítulo Chypre",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35902",
     "ean": "8402001011504",
     "brand": null,
@@ -22363,6 +22552,15 @@
     "name": "Lavavajillas Quantum Finish en pastillas",
     "description": "Paquete",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "35925",
+    "ean": "8410702066204",
+    "brand": "The Guv'Nor",
+    "url": "https://tienda.mercadona.es/product/35925/vino-blanco-afrutado-mandamas-the-guvnor-botella",
+    "name": "Vino blanco afrutado El Mandamás The Guv'Nor",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "35997",
@@ -39393,6 +39591,15 @@
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
+    "id": "67910",
+    "ean": "8436581948158",
+    "brand": "Reebok",
+    "url": "https://tienda.mercadona.es/product/67910/lote-hombre-reebok-move-your-spirit-contiene-eau-toilette-100-ml-desodorante-spray-150-ml-gel-bano-250-ml-caja",
+    "name": "Lote hombre Reebok Move Your Spirit",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "67914",
     "ean": "8480000679147",
     "brand": "Bosque Verde",
@@ -43432,6 +43639,15 @@
     "name": "Tinte cabello hombre 5 castaño natural Deliplus 0% amoníaco",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "73330",
+    "ean": "8412941005990",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/73330/pepinillos-laminados-agridulces-convite-tarro",
+    "name": "Pepinillos laminados agridulces Convite",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "73331",
