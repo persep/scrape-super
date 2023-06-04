@@ -20601,6 +20601,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35409",
+    "ean": "8402001007316",
+    "brand": "Granzoo",
+    "url": "https://tienda.mercadona.es/product/35409/heno-conejos-roedores-granzoo-con-manzanilla-paquete",
+    "name": "Heno para conejos y roedores Granzoo con manzanilla",
+    "description": "Paquete",
+    "category": "Mascotas > Otros"
+  },
+  {
     "id": "35411",
     "ean": "8402001007705",
     "brand": "Deliplus",
@@ -33901,6 +33910,24 @@
     "name": "Film Transparente Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "60315",
+    "ean": "8413462120018",
+    "brand": "La Rubia",
+    "url": "https://tienda.mercadona.es/product/60315/cerveza-especial-1870-rubia-pack-6",
+    "name": "Cerveza especial 18/70 La Rubia",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "60316",
+    "ean": "8413462120001",
+    "brand": "La Rubia",
+    "url": "https://tienda.mercadona.es/product/60316/cerveza-especial-1870-rubia-botellin",
+    "name": "Cerveza especial 18/70 La Rubia",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "60331",
