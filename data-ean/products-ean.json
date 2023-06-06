@@ -22581,6 +22581,15 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "35963",
+    "ean": "8402001010293",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35963/limpiador-ollas-cacerolas-bosque-verde-bote",
+    "name": "Limpiador de Ollas y Cacerolas Bosque Verde",
+    "description": "Bote",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
     "id": "35997",
     "ean": "8480000359971",
     "brand": "Bosque Verde",
@@ -50821,6 +50830,15 @@
     "name": "Surtido bombones Senzza de dulce de leche, stracciatella  y tarta de chocolate y nata",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86699",
+    "ean": "8480000866998",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86699/fruta-leche-pina-coco-hacendado-pack-6",
+    "name": "Fruta + leche piña y coco Hacendado",
+    "description": "Pack-6",
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "86707",
