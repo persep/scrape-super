@@ -15651,6 +15651,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "28443",
+    "ean": "8480000284433",
+    "brand": "Pi.omka",
+    "url": "https://tienda.mercadona.es/product/28443/pina-colada-piomka-botella",
+    "name": "Piña colada Pi.omka",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "28464",
     "ean": "8411497133164",
     "brand": "Neval",
@@ -15667,6 +15676,15 @@
     "name": "Agua mineral pequeña Neval tapón infantil",
     "description": "Botella",
     "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "28489",
+    "ean": "8480000284891",
+    "brand": "Pi.omka",
+    "url": "https://tienda.mercadona.es/product/28489/cocktail-mojito-sin-alcohol-piomka-botella",
+    "name": "Cocktail mojito sin alcohol Pi.omka",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "2849",
@@ -21006,6 +21024,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35504",
+    "ean": "8402001008856",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35504/sal-lavavajillas-bosque-verde-grano-paquete",
+    "name": "Sal lavavajillas Bosque Verde en grano",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
     "id": "35506",
     "ean": "8436601370143",
     "brand": null,
@@ -21479,6 +21506,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/35585/laca-unas-alto-brillo-deliplus-72-azul",
     "name": "Laca de uñas alto brillo Deliplus 72 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35586",
+    "ean": "8402001008054",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35586/laca-unas-alto-brillo-deliplus-73-lima",
+    "name": "Laca de uñas alto brillo Deliplus 73 lima",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
@@ -22516,6 +22552,15 @@
     "name": "Chicle tropical lámina Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "35848",
+    "ean": "8402001010439",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35848/esponja-maquillaje-deliplus",
+    "name": "Esponja maquillaje Deliplus",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
   },
   {
     "id": "35850",
@@ -51082,6 +51127,15 @@
     "name": "Corazón de chocolate con leche San Valentín Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86908",
+    "ean": "8480000869081",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86908/galletas-cookie-caramel-hacendado-rellenas-caramelo-chocolate-negro-paquete",
+    "name": "Galletas Cookie Caramel Hacendado rellenas de caramelo y chocolate negro",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "86998",
