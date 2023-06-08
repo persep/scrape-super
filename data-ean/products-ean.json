@@ -22635,6 +22635,15 @@
     "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
+    "id": "35965",
+    "ean": "59095842",
+    "brand": "Dove",
+    "url": "https://tienda.mercadona.es/product/35965/desodorante-roll-on-original-advanced-care-dove-0-alcohol",
+    "name": "Desodorante roll-on original advanced care Dove",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "35997",
     "ean": "8480000359971",
     "brand": "Bosque Verde",
@@ -39915,6 +39924,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "68089",
+    "ean": "8480000680891",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/68089/petit-bolsillo-fresa-hacendado-caja",
+    "name": "Petit de bolsillo de fresa Hacendado",
+    "description": "Caja",
+    "category": "Postres y yogures > Yogures y postres infantiles"
+  },
+  {
     "id": "68106",
     "ean": "8480000681065",
     "brand": "Hacendado",
@@ -51604,6 +51622,15 @@
     "name": "Preparado lácteo crecimiento Peques 3 Puleva",
     "description": "Pack-6",
     "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "90505",
+    "ean": "8480000905055",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/90505/agua-destilada-bosque-verde-garrafa",
+    "name": "Agua destilada Bosque Verde",
+    "description": "Garrafa",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "90531",
