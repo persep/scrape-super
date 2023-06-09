@@ -7587,6 +7587,15 @@
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
+    "id": "19731",
+    "ean": "8480000466020",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19731/sal-fina-hacendado-paquete",
+    "name": "Sal fina Hacendado",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
     "id": "19734",
     "ean": "8480000197344",
     "brand": "Hacendado",
@@ -18963,6 +18972,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "3425",
+    "ean": "8480000034250",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3425/nectarinas-mini-bandeja",
+    "name": "Nectarinas mini",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "34262",
     "ean": "8480000342621",
     "brand": "Hacendado",
@@ -19321,6 +19339,15 @@
     "name": "Arreglo para puchero vacuno, cerdo y pollo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "3498",
+    "ean": "8480000034984",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3498/paraguayos-mini-bandeja",
+    "name": "Paraguayos mini",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "3499",
@@ -20214,6 +20241,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "35346",
+    "ean": "8402001007071",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35346/perfilador-ojos-waterproof-deliplus-07-verde-turquesa-con-esponja",
+    "name": "Perfilador de ojos Waterproof Deliplus 07 verde turquesa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35350",
     "ean": "8402001007095",
     "brand": "Deliplus",
@@ -20869,6 +20905,15 @@
     "name": "Champú Volumen Deliplus cabello fino y sin volumen",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "35472",
+    "ean": "8480000354723",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35472/panales-bebe-talla-1-2-4-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 1 de 2-4 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
   },
   {
     "id": "35474",
@@ -22572,6 +22617,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35865",
+    "ean": "8402001006104",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35865/mascarilla-facial-fresh-mask-deliplus-con-aloe-vera-betacaroteno",
+    "name": "Mascarilla facial Fresh Mask Deliplus con aloe vera y betacaroteno",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "35869",
     "ean": "8410310622199",
     "brand": "Sílaba",
@@ -22624,6 +22678,15 @@
     "name": "Vino blanco afrutado El Mandamás The Guv'Nor",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "35962",
+    "ean": "8411370130204",
+    "brand": "Las 3 Brujas",
+    "url": "https://tienda.mercadona.es/product/35962/limpiador-3-brujas-concentrado-marmol-granito-ceramica-botella",
+    "name": "Limpiador Las 3 Brujas concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
   },
   {
     "id": "35963",
