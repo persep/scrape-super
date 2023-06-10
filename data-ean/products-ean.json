@@ -14022,6 +14022,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "27184",
+    "ean": "5449000233011",
+    "brand": "Coca-Cola",
+    "url": "https://tienda.mercadona.es/product/27184/refresco-coca-cola-light-pack-9",
+    "name": "Refresco Coca-Cola light",
+    "description": "Pack-9",
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
     "id": "27187",
     "ean": "8410655006173",
     "brand": "San Miguel",
@@ -17682,6 +17691,15 @@
     "url": "https://tienda.mercadona.es/product/33022/ajos-alinados-hacendado-tarro",
     "name": "Ajos aliñados Hacendado",
     "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "33024",
+    "ean": "8480000330246",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33024/aceitunas-rellenas-anchoa-hacendado-reducido-sal-bote",
+    "name": "Aceitunas rellenas de anchoa Hacendado reducido en sal",
+    "description": "Bote",
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
@@ -22311,6 +22329,15 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "35739",
+    "ean": "8402001010118",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35739/gel-bano-exfoliante-strawberry-deliplus-piel-normal-botella",
+    "name": "Gel de baño exfoliante strawberry Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "35742",
     "ean": "30145047",
     "brand": "Maybelline",
@@ -22498,6 +22525,15 @@
     "name": "Golosinas Ladrillazos King Regal",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35823",
+    "ean": "8402001008962",
+    "brand": "Monogotas",
+    "url": "https://tienda.mercadona.es/product/35823/eau-toilette-monogotas-candy-frasco",
+    "name": "Eau de toilette Monogotas candy",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "35824",
@@ -40176,6 +40212,15 @@
     "category": "Postres y yogures > Flan y natillas"
   },
   {
+    "id": "68271",
+    "ean": "8480000682710",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/68271/gelatina-sabores-mango-maracuya-pina-hacendado-gellytina-pack-6",
+    "name": "Gelatina sabores mango, maracuyá y piña Hacendado",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "68274",
     "ean": "8480000682741",
     "brand": "Hacendado",
@@ -42675,6 +42720,15 @@
     "url": "https://tienda.mercadona.es/product/72111/insecticida-acaros-bosque-verde-especial-tejidos-spray",
     "name": "Insecticida ácaros Bosque Verde especial tejidos",
     "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "72113",
+    "ean": "8480000721136",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/72113/trampa-antipolillas-alimentos-bosque-verde-sin-insecticida-olores-caja",
+    "name": "Trampa antipolillas de los alimentos Bosque Verde",
+    "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
