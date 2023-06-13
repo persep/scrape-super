@@ -32,11 +32,13 @@ while read item; do
         echo "$n. $name ($id)"
         curl --fail --show-error --silent --compressed $url --output $file
 	    if (( $? != 0 )); then
-		  echo -e "${RED}Fail${NC}"
-		exit 1
+            echo -e "${RED}Fail${NC}"
+            # keep downloding categories even if one fails
+            #exit 1
 	   fi
         sleep 3s
     fi
+    # for testing download only 5 categories
     #if (( $n == 5 )); then
     #    break
     #fi
