@@ -9099,6 +9099,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "22183",
+    "ean": "8480000221834",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22183/papilla-manzana-melon-sandia-6-meses-hacendado",
+    "name": "Papilla manzana, melón y sandía +6 meses Hacendado",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "22186",
     "ean": "8480000221865",
     "brand": "Hacendado",
@@ -19899,6 +19908,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "3523",
+    "ean": "8480000035233",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3523/melon-galia-pieza",
+    "name": "Melón Galia",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "35243",
     "ean": "8480000862228",
     "brand": "Deliplus",
@@ -22590,6 +22608,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35828",
+    "ean": "3616303475710",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/35828/lote-mujer-adidas-pure-lightness-contiene-eau-toilette-75-ml-eau-toilette-30-ml-desodorante-spray-150-ml-caja",
+    "name": "Lote mujer Adidas Pure Lightness",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35829",
     "ean": "8411061037263",
     "brand": "Paula",
@@ -22613,6 +22640,15 @@
     "brand": "Bustamante",
     "url": "https://tienda.mercadona.es/product/35831/lote-hombre-bustamante-muy-sport-contiene-eau-toilette-100-ml-desodorante-150-ml-caja",
     "name": "Lote hombre Bustamante Muy mío sport",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35832",
+    "ean": "3616304916205",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/35832/lote-hombre-adidas-ice-dive-contiene-eau-toilette-100-ml-gel-bano-250-ml-desodorante-spray-150-ml-caja",
+    "name": "Lote hombre Adidas Ice dive",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -22723,6 +22759,15 @@
     "name": "Lavavajillas Quantum Finish en pastillas",
     "description": "Paquete",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "35919",
+    "ean": "8402001009723",
+    "brand": "La Recompensa",
+    "url": "https://tienda.mercadona.es/product/35919/ron-blanco-superior-recompensa-botella",
+    "name": "Ron blanco superior La Recompensa",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "35925",
@@ -33723,6 +33768,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "5923",
+    "ean": "8480000059239",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5923/medio-melon-galia-12-pieza",
+    "name": "Medio melón Galia",
+    "description": "1/2 Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59230",
     "ean": "8480000592309",
     "brand": "Hacendado",
@@ -34126,6 +34180,15 @@
     "name": "Cerveza especial 18/70 La Rubia",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "60329",
+    "ean": "8480000603296",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60329/jamon-cocido-extra-hacendado-finas-lonchas-paquete",
+    "name": "Jamón cocido extra Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "60331",
