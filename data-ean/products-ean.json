@@ -20286,6 +20286,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "35347",
+    "ean": "8402001007064",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35347/perfilador-ojos-waterproof-deliplus-09-azul-metalizado-con-esponja",
+    "name": "Perfilador de ojos Waterproof Deliplus 09 azul metalizado",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35350",
     "ean": "8402001007095",
     "brand": "Deliplus",
@@ -32279,6 +32288,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/5219/garbanzo-pedrosillano-hacendado-categoria-extra-paquete",
     "name": "Garbanzo pedrosillano Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Legumbres"
+  },
+  {
+    "id": "5220",
+    "ean": "8480000235657",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5220/garbanzo-lechoso-andaluz-hacendado-paquete",
+    "name": "Garbanzo lechoso andaluz Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Legumbres"
   },
