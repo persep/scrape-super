@@ -18945,6 +18945,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "3422",
+    "ean": "8480000034229",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3422/melocotones-amarillos-mini-bandeja",
+    "name": "Melocotones amarillos mini",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "34226",
     "ean": "8425511819668",
     "brand": "Villacruz",
@@ -23324,6 +23333,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/3770/nispero-bandeja",
     "name": "Níspero",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3772",
+    "ean": "8480000037725",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3772/ciruelas-rojas-mini-bandeja",
+    "name": "Ciruelas rojas mini",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
   },
@@ -29583,6 +29601,15 @@
     "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
+    "id": "47995",
+    "ean": "8414100364313",
+    "brand": "Schweppes",
+    "url": "https://tienda.mercadona.es/product/47995/tonica-pink-zero-schweppes-pack-8",
+    "name": "Tónica pink zero Schweppes",
+    "description": "Pack-8",
+    "category": "Agua y refrescos > Tónica y bitter"
+  },
+  {
     "id": "48000",
     "ean": "8480000480002",
     "brand": "Bosque Verde",
@@ -29734,6 +29761,15 @@
     "name": "Recogedor antivuelco con palo Bosque Verde",
     "description": null,
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
+    "id": "4888",
+    "ean": "8414100388630",
+    "brand": "Schweppes",
+    "url": "https://tienda.mercadona.es/product/4888/tonica-pink-zero-schweppes-lata",
+    "name": "Tónica pink zero Schweppes",
+    "description": "Lata",
+    "category": "Agua y refrescos > Tónica y bitter"
   },
   {
     "id": "4900",
