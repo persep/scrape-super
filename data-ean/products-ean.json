@@ -1314,6 +1314,24 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "11270",
+    "ean": "8410569510032",
+    "brand": "Amstel",
+    "url": "https://tienda.mercadona.es/product/11270/cerveza-radler-amstel-00-sin-alcohol-pack-12",
+    "name": "Cerveza Radler Amstel 0,0% sin alcohol",
+    "description": "Pack-12",
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "11271",
+    "ean": "8410569510001",
+    "brand": "Amstel",
+    "url": "https://tienda.mercadona.es/product/11271/cerveza-radler-amstel-00-sin-alcohol-lata",
+    "name": "Cerveza Radler Amstel 0,0% sin alcohol",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
     "id": "11307",
     "ean": "8480000113078",
     "brand": "Hacendado",
@@ -22417,6 +22435,96 @@
     "name": "Maquinillas depilación mujer de bolsillo Personna 5 hojas",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35752",
+    "ean": "8402001007385",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35752/paleta-sombra-ojos-summer-paradise-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombra de ojos Summer Paradise Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35754",
+    "ean": "8402001008306",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35754/paleta-iluminadores-faciales-summer-paradise-deliplus-contiene-5-tonos-iluminadores",
+    "name": "Paleta de iluminadores faciales Summer Paradise Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "35755",
+    "ean": "8402001008290",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35755/paleta-sombra-ojos-summer-paradise-deliplus-acabado-glitter",
+    "name": "Paleta sombra de ojos Summer Paradise Deliplus acabado glitter",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35756",
+    "ean": "8402001009112",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35756/perfilador-ojos-summer-paradise-deliplus-01-azul-glitter",
+    "name": "Perfilador de ojos Summer Paradise Deliplus 01 azul glitter",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35757",
+    "ean": "8402001009129",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35757/perfilador-ojos-summer-paradise-deliplus-02-verde-glitter",
+    "name": "Perfilador de ojos Summer Paradise Deliplus 02 verde glitter",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35758",
+    "ean": "8402001009136",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35758/perfilador-ojos-summer-paradise-deliplus-03-negro-glitter",
+    "name": "Perfilador de ojos Summer Paradise Deliplus 03 negro glitter",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35759",
+    "ean": "8402001008221",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35759/pintalabios-mousse-lips-summer-paradise-deliplus-01-rosa",
+    "name": "Pintalabios Mousse lips Summer Paradise Deliplus 01 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35760",
+    "ean": "8402001008245",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35760/pintalabios-mousse-lips-summer-paradise-deliplus-02-fucsia",
+    "name": "Pintalabios Mousse lips Summer Paradise Deliplus 02 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35761",
+    "ean": "8402001008252",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35761/pintalabios-mousse-lips-summer-paradise-deliplus-03-rojo",
+    "name": "Pintalabios Mousse lips Summer Paradise Deliplus 03 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35762",
+    "ean": "8402001008283",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35762/pintalabios-mousse-lips-summer-paradise-deliplus-04-morado",
+    "name": "Pintalabios Mousse lips Summer Paradise Deliplus 04 morado",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "35767",
