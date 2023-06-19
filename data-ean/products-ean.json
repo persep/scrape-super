@@ -22950,6 +22950,24 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "35966",
+    "ean": "8402001011702",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35966/croquetas-pollo-sin-gluten-bandeja",
+    "name": "Croquetas de pollo sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "35967",
+    "ean": "8402001011719",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35967/croquetas-jamon-sin-gluten-bandeja",
+    "name": "Croquetas de jamón sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "35997",
     "ean": "8480000359971",
     "brand": "Bosque Verde",
@@ -23891,6 +23909,15 @@
     "brand": "Yemavin",
     "url": "https://tienda.mercadona.es/product/39412/bebida-refrescante-aromatizada-sin-alcohol-light-yemavin-botella",
     "name": "Bebida refrescante aromatizada sin alcohol light Yemavin",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "39488",
+    "ean": "8432286003338",
+    "brand": "Castillo de Salobreña",
+    "url": "https://tienda.mercadona.es/product/39488/bebida-refrescante-aromatizada-tinto-sin-alcohol-light-castillo-salobrena-botella",
+    "name": "Bebida refrescante aromatizada tinto sin alcohol light Castillo de Salobreña",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
   },
