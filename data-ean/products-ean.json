@@ -10161,6 +10161,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "22720",
+    "ean": "8480000227201",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22720/risotto-setas-hacendado-ultracongelados-paquete",
+    "name": "Risotto de setas Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "22721",
     "ean": "8436536839272",
     "brand": "Salsas Asturianas",
@@ -22842,6 +22851,24 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35861",
+    "ean": "8402001008337",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35861/ampollas-faciales-skin-care-aloe-centella-asiatica-niacinamida-deliplus-aptas-tipo-piel-caja",
+    "name": "Ampollas faciales Skin Care Aloe, Centella Asiática & Niacinamida Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "35864",
+    "ean": "8414640192162",
+    "brand": "Mafalda",
+    "url": "https://tienda.mercadona.es/product/35864/neceser-morado-mediano-mafalda-270-x-170-x-85-mm",
+    "name": "Neceser morado mediano Mafalda",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "35865",
     "ean": "8402001006104",
     "brand": "Deliplus",
@@ -22849,6 +22876,15 @@
     "name": "Mascarilla facial Fresh Mask Deliplus con aloe vera y betacaroteno",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "35867",
+    "ean": "8414640192230",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35867/neceser-negro-corazones-pequeno-180-x-130-x-70-mm",
+    "name": "Neceser negro corazones pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
   },
   {
     "id": "35869",
@@ -22869,6 +22905,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "35880",
+    "ean": "8402001012006",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35880/capsulas-gases-deliplus-con-hinojo-manzanilla-jengibre-caja",
+    "name": "Cápsulas Gases Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "35881",
     "ean": "8402001008948",
     "brand": "Capítulo",
@@ -22876,6 +22921,24 @@
     "name": "Eau de toilette mujer Capítulo Chypre",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35893",
+    "ean": "8414640192155",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35893/neceser-beige-pequeno-160-x-110-x-70-mm",
+    "name": "Neceser beige pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35895",
+    "ean": "8414640192179",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35895/neceser-lola-bunny-pequeno-180-x-150-x-70-mm",
+    "name": "Neceser Lola Bunny pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
   },
   {
     "id": "35902",
@@ -30042,6 +30105,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "4912",
+    "ean": "8425514007116",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4912/empanadilla-pollo-10-bechamel-pieza",
+    "name": "Empanadilla de pollo 10% y bechamel",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "4915",
     "ean": "8435577501735",
     "brand": null,
@@ -32226,6 +32298,15 @@
     "url": "https://tienda.mercadona.es/product/52106/pate-olivada-hacendado-tarro",
     "name": "Paté olivada Hacendado",
     "description": "Tarro",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "52108",
+    "ean": "8412500927992",
+    "brand": "La Piara",
+    "url": "https://tienda.mercadona.es/product/52108/pate-cerdo-piara-tapa-negra-pack-3",
+    "name": "Paté de cerdo La Piara tapa negra",
+    "description": "Pack-3",
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
@@ -51800,6 +51881,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/87607/tarta-red-velvet-hacendado-congelada-bizcocho-con-crema-queso",
     "name": "Tarta red velvet Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87609",
+    "ean": "8480000876096",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/87609/tarta-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+    "name": "Tarta Ferrer bombón crujiente Hacendado congelada",
     "description": null,
     "category": "Congelados > Tartas y churros"
   },
