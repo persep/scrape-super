@@ -22068,6 +22068,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "35661",
+    "ean": "8720182698261",
+    "brand": "Starlux",
+    "url": "https://tienda.mercadona.es/product/35661/crema-calabacin-starlux-con-queso-cabra-knorr-brick",
+    "name": "Crema de calabacín Starlux con queso de cabra",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
     "id": "35663",
     "ean": "5000204307825",
     "brand": "Pronto",
@@ -31266,6 +31275,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50932",
+    "ean": "8480000509321",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50932/queso-viejo-oveja-hacendado-pieza",
+    "name": "Queso viejo de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50935",
     "ean": "8480000509352",
     "brand": "Hacendado",
@@ -34441,6 +34459,15 @@
     "name": "Film Transparente Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "60296",
+    "ean": "8480000602961",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60296/caprichos-vegetales-zanahoria-manzana-empanados-hacendado-ultracongelados-paquete",
+    "name": "Caprichos vegetales de zanahoria y manzana empanados Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
   },
   {
     "id": "60315",
@@ -50148,6 +50175,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "84655",
+    "ean": "8410706999720",
+    "brand": "Pasquier",
+    "url": "https://tienda.mercadona.es/product/84655/bollito-pitch-pasquier-relleno-sabor-chocolate-avellanas-paquete",
+    "name": "Bollito Pitch Pasquier relleno sabor chocolate y avellanas",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "84663",
     "ean": "3291811157558",
     "brand": null,
@@ -51424,6 +51460,15 @@
     "name": "Salsa bechamel Knorr",
     "description": "Brick",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "86749",
+    "ean": "8413224024875",
+    "brand": "Cuidaplus",
+    "url": "https://tienda.mercadona.es/product/86749/spray-repelente-insectos-cuidaplus-fuerte-spray",
+    "name": "Spray repelente  de insectos Cuidaplus fuerte",
+    "description": "Spray",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
     "id": "86750",
