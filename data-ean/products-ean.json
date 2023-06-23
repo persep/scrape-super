@@ -21384,6 +21384,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "35539",
+    "ean": "8402001008108",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35539/perfilador-labios-long-lasting-deliplus-01-rosa-nude",
+    "name": "Perfilador de labios Long Lasting Deliplus 01 rosa nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "3554",
     "ean": "8436044120107",
     "brand": null,
@@ -22884,6 +22893,15 @@
     "url": "https://tienda.mercadona.es/product/35865/mascarilla-facial-fresh-mask-deliplus-con-aloe-vera-betacaroteno",
     "name": "Mascarilla facial Fresh Mask Deliplus con aloe vera y betacaroteno",
     "description": null,
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "35866",
+    "ean": "8402001006098",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35866/mascarilla-facial-infantil-tiger-mask-deliplus-con-cereza-manzana-paquete",
+    "name": "Mascarilla facial infantil Tiger Mask Deliplus con cereza y manzana",
+    "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
@@ -33001,6 +33019,24 @@
     "name": "Bacón Oscar Mayer lonchas",
     "description": "Paquete",
     "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "5396",
+    "ean": "8411090612011",
+    "brand": "Desperados",
+    "url": "https://tienda.mercadona.es/product/5396/cerveza-con-sabor-tequila-desperados-heineken-pack-6",
+    "name": "Cerveza con sabor a tequila Desperados",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "5397",
+    "ean": "3119780250110",
+    "brand": "Desperados",
+    "url": "https://tienda.mercadona.es/product/5397/cerveza-con-sabor-tequila-desperados-heineken-botellin",
+    "name": "Cerveza con sabor a tequila Desperados",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "54053",
@@ -51685,6 +51721,15 @@
     "name": "Corazón de chocolate con leche San Valentín Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86906",
+    "ean": "8480000869067",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/86906/paleta-bellota-iberica-50-hacienda-iberico-pieza",
+    "name": "Paleta de bellota ibérica 50% La Hacienda del ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "86908",
