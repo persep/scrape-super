@@ -22086,6 +22086,15 @@
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
   {
+    "id": "35662",
+    "ean": "8720182697356",
+    "brand": "Starlux",
+    "url": "https://tienda.mercadona.es/product/35662/crema-setas-starlux-con-champinones-knorr-brick",
+    "name": "Crema de setas Starlux con champiñones",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
     "id": "35663",
     "ean": "5000204307825",
     "brand": "Pronto",
@@ -22912,6 +22921,15 @@
     "name": "Neceser negro corazones pequeño",
     "description": null,
     "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35868",
+    "ean": "8402001011283",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35868/pasta-fresca-ravioli-tomate-queso-burrata-hacendado-bandeja",
+    "name": "Pasta fresca ravioli tomate y queso burrata Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "35869",
@@ -33723,6 +33741,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "5901",
+    "ean": "8480000059017",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5901/uva-sabores-sin-semillas-bandeja",
+    "name": "Uva sabores sin semillas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59018",
     "ean": "8480000590183",
     "brand": "Incarlopsa",
@@ -42000,6 +42027,15 @@
     "url": "https://tienda.mercadona.es/product/69878/judia-verde-redonda-bandeja",
     "name": "Judía verde redonda",
     "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69881",
+    "ean": "8436032707464",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69881/pepinos-malla",
+    "name": "Pepinos",
+    "description": "Malla",
     "category": "Fruta y verdura > Verdura"
   },
   {
