@@ -26190,6 +26190,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "4360",
+    "ean": "8437019040628",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4360/cuello-cordero-bandeja",
+    "name": "Cuello de cordero",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "43614",
     "ean": "8480000436146",
     "brand": "Bosque Verde",
@@ -26206,6 +26215,15 @@
     "name": "Cera suelos Bosque Verde parquet y laminados",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
+  },
+  {
+    "id": "4364",
+    "ean": "8437019040666",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4364/chuletas-cordero-pierna-bandeja",
+    "name": "Chuletas de cordero pierna",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
   },
   {
     "id": "43705",
