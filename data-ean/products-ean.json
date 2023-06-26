@@ -25713,6 +25713,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "4282",
+    "ean": "8480000042828",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4282/churrasco-cordero-bandeja",
+    "name": "Churrasco de cordero",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "4283",
     "ean": "8480000042835",
     "brand": null,
@@ -26199,6 +26208,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "4361",
+    "ean": "8437019040635",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4361/garretas-brazuelo-cordero-bandeja",
+    "name": "Garretas brazuelo de cordero",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "43614",
     "ean": "8480000436146",
     "brand": "Bosque Verde",
@@ -26206,6 +26224,15 @@
     "name": "Cera suelos Bosque Verde",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
+  },
+  {
+    "id": "4362",
+    "ean": "8437019040642",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4362/chuletas-cordero-paletilla-bandeja",
+    "name": "Chuletas de cordero paletilla",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
   },
   {
     "id": "43621",
@@ -26217,11 +26244,29 @@
     "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
   },
   {
+    "id": "4363",
+    "ean": "8437019040659",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4363/chuletas-cordero-palo-rinonada-bandeja",
+    "name": "Chuletas de cordero palo y riñonada",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "4364",
     "ean": "8437019040666",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/4364/chuletas-cordero-pierna-bandeja",
     "name": "Chuletas de cordero pierna",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "4366",
+    "ean": "8437019040680",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4366/chuletas-cordero-mixtas-bandeja",
+    "name": "Chuletas de cordero mixtas",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
   },
