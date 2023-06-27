@@ -20061,6 +20061,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "35286",
+    "ean": "8435604817556",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35286/costilla-cerdo-churrasco-pieza",
+    "name": "Costilla de cerdo churrasco",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "35287",
     "ean": "8402001005701",
     "brand": "Deliplus",
@@ -21249,6 +21258,15 @@
     "category": "Bebé > Higiene y cuidado"
   },
   {
+    "id": "35521",
+    "ean": "8402001008597",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35521/fibra-maiz-soluble-deliplus",
+    "name": "Fibra de maiz soluble Deliplus",
+    "description": null,
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "35522",
     "ean": "8402001008146",
     "brand": "Deliplus",
@@ -21724,6 +21742,15 @@
     "name": "Lote mujer Wilkinson Hydro Silk",
     "description": null,
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "35595",
+    "ean": "8402001008672",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35595/polvos-talco-deliplus-bote",
+    "name": "Polvos de talco Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
   },
   {
     "id": "35596",
@@ -22482,6 +22509,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "35751",
+    "ean": "8402001011405",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/35751/licor-crema-melon-royal-swan-botella",
+    "name": "Licor crema de melón Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "35752",
     "ean": "8402001007385",
     "brand": "Deliplus",
@@ -22687,6 +22723,15 @@
     "name": "Barritas crujientes Cruky Hacendado recubiertas de chocolate con leche",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "35789",
+    "ean": "8402001010859",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35789/cera-roll-on-depilacion-con-bandas-deliplus-piel-normal-caja",
+    "name": "Cera roll-on depilación con bandas Deliplus piel normal",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "35797",
@@ -40075,6 +40120,15 @@
     "name": "Snack de maíz Bits Doritos sabor barbacoa",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "67786",
+    "ean": "8480000677860",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67786/callos-madrilena-hacendado-lata",
+    "name": "Callos a la madrileña Hacendado",
+    "description": "Lata",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "67794",
