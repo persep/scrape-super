@@ -22068,6 +22068,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "35653",
+    "ean": "8402001008863",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35653/pisto-verduras-hacendado-ultracongelado-paquete",
+    "name": "Pisto de verduras Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "35654",
     "ean": "5054563162533",
     "brand": "Parodontax",
@@ -23065,6 +23074,15 @@
     "name": "Vino blanco afrutado El Mandamás The Guv'Nor",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "35932",
+    "ean": "8402001011788",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35932/mermelada-arandanos-hacendado-tarro",
+    "name": "Mermelada de arándanos Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
     "id": "35962",
