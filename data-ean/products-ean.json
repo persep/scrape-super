@@ -2439,6 +2439,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "13372",
+    "ean": "8480000133724",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13372/palitos-con-frutos-secos-hacendado-pack-2",
+    "name": "Palitos con frutos secos Hacendado",
+    "description": "Pack-2",
+    "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
     "id": "13375",
     "ean": "8480000133755",
     "brand": "Hacendado",
@@ -22750,6 +22759,15 @@
     "name": "Arroz con pollo Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "35798",
+    "ean": "8402001011009",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35798/after-shave-balsamo-piel-sensible-deliplus-0-alcohol-perfume-bote",
+    "name": "After shave bálsamo piel sensible Deliplus 0% alcohol ni perfume",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "35799",
