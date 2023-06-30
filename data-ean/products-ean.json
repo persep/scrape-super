@@ -33678,6 +33678,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "58262",
+    "ean": "2105600582623",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/58262/lomo-bellota-iberico-hacienda-iberico-pieza",
+    "name": "Lomo de bellota ibérico La Hacienda del ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "58264",
     "ean": "2105600582647",
     "brand": "La Hacienda del ibérico",
@@ -51289,6 +51298,15 @@
     "name": "Helado +Proteínas sabor plátano con trozos de brownie Hacendado 24,6 g proteínas",
     "description": "Bote",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "86483",
+    "ean": "8480000864833",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86483/tortitas-legumbres-arroz-hacendado-paquete",
+    "name": "Tortitas de legumbres y arroz Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Tortitas"
   },
   {
     "id": "86491",
