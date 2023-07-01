@@ -21834,6 +21834,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "35610",
+    "ean": "8006540765418",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/35610/espuma-afeitar-piel-sensible-gillette-con-aloe-bote",
+    "name": "Espuma de afeitar piel sensible Gillette con aloe",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "35611",
     "ean": "8006540765852",
     "brand": "Gillette",
@@ -23488,6 +23497,15 @@
     "name": "Vino blanco verdejo D.O Rueda Arribeño",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "3723",
+    "ean": "8717496040060",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3723/fresas-bandeja",
+    "name": "Fresas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "3724",
@@ -32866,6 +32884,15 @@
     "name": "Pinchos de pollo con varilla",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "52471",
+    "ean": "8420010120994",
+    "brand": "Oibar",
+    "url": "https://tienda.mercadona.es/product/52471/pacharan-oibar-botella",
+    "name": "Pacharán Oibar",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "5250",
