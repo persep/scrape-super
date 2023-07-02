@@ -23166,6 +23166,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35984",
+    "ean": "83800064991",
+    "brand": "Montagne Jeunesse",
+    "url": "https://tienda.mercadona.es/product/35984/mascarilla-facial-peeling-carbon-montagne-jeunesse-paquete",
+    "name": "Mascarilla facial peeling carbón Montagne Jeunesse",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "35997",
     "ean": "8480000359971",
     "brand": "Bosque Verde",
@@ -51901,6 +51910,15 @@
     "name": "Panes especiales pipas calabaza Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "86836",
+    "ean": "8480000868367",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86836/mopa-atrapa-polvo-bosque-verde-multiusos-1-mopa-10-gamuzas-paquete",
+    "name": "Mopa atrapa polvo Bosque Verde multiusos",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "86840",
