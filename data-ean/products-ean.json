@@ -20916,6 +20916,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "35453",
+    "ean": "8402001007835",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35453/salsa-miel-mostaza-hacendado-bote",
+    "name": "Salsa miel y mostaza Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35454",
     "ean": "8480000354549",
     "brand": "Deliplus",
@@ -22905,6 +22914,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35833",
+    "ean": "8428390076986",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/35833/lote-corporal-mujer-flor-mayo-romance-pink-contiene-body-spray-250-ml-gel-bano-200-ml-locion-corporal-200-ml-bolsa-con-asas-bolsa",
+    "name": "Lote corporal mujer Flor de Mayo Romance Pink",
+    "description": "Bolsa",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "35834",
+    "ean": "8428390829421",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/35834/mini-eau-parfum-mujer-flor-mayo-fun-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Fun",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35838",
     "ean": "8720182382214",
     "brand": "Ligeresa",
@@ -23046,6 +23073,15 @@
     "url": "https://tienda.mercadona.es/product/35881/eau-toilette-mujer-capitulo-chypre-frasco",
     "name": "Eau de toilette mujer Capítulo Chypre",
     "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35890",
+    "ean": "8414640192087",
+    "brand": "Fidget Slug",
+    "url": "https://tienda.mercadona.es/product/35890/lote-infantil-fidget-slug-contiene-agua-colonia-100-ml-juguete-sensorial-articulado-caja",
+    "name": "Lote infantil Fidget Slug",
+    "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -23236,6 +23272,15 @@
     "name": "Trufas clásicas al cacao Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "3649",
+    "ean": "8480000036490",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3649/ciruela-amarilla-pieza",
+    "name": "Ciruela amarilla",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "3651",
@@ -30013,6 +30058,15 @@
     "name": "Papel higiénico doble hoja Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Papel higiénico y celulosa"
+  },
+  {
+    "id": "4793",
+    "ean": "8480000047939",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4793/zumo-manzana-pera-con-pure-frambuesa-hacendado-botella",
+    "name": "Zumo de manzana y pera con puré de frambuesa Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "4797",
