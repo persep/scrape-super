@@ -22653,6 +22653,15 @@
     "category": "Congelados > Arroz y pasta"
   },
   {
+    "id": "35773",
+    "ean": "8402001010064",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35773/migas-coliflor-hacendado-ultracongeladas-paquete",
+    "name": "Migas de coliflor Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "35776",
     "ean": "8402001010187",
     "brand": "Hacendado",
@@ -22986,6 +22995,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35856",
+    "ean": "8402001010705",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35856/mix-golosinas-hacendado-paquete",
+    "name": "Mix Golosinas Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "35861",
     "ean": "8402001008337",
     "brand": "Deliplus",
@@ -23146,6 +23164,15 @@
     "name": "Mermelada de arándanos Hacendado",
     "description": "Tarro",
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
+    "id": "35940",
+    "ean": "8402001010866",
+    "brand": "Cuidaplus",
+    "url": "https://tienda.mercadona.es/product/35940/povidona-yodada-10-cuidaplus-botella",
+    "name": "Povidona yodada 10% Cuidaplus",
+    "description": "Botella",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
     "id": "35962",
