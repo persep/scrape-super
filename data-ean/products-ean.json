@@ -21438,6 +21438,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35540",
+    "ean": "8402001008122",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35540/perfilador-labios-long-lasting-deliplus-09-transparente",
+    "name": "Perfilador de labios Long Lasting Deliplus 09 transparente",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35545",
     "ean": "8402001008139",
     "brand": "Hacendado",
@@ -23094,11 +23103,29 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35888",
+    "ean": "8414640192100",
+    "brand": "Dragon Ball",
+    "url": "https://tienda.mercadona.es/product/35888/lote-infantil-dragon-ball-contiene-agua-colonia-100-ml-llavero-3d-caja",
+    "name": "Lote infantil Dragon Ball",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35890",
     "ean": "8414640192087",
     "brand": "Fidget Slug",
     "url": "https://tienda.mercadona.es/product/35890/lote-infantil-fidget-slug-contiene-agua-colonia-100-ml-juguete-sensorial-articulado-caja",
     "name": "Lote infantil Fidget Slug",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35891",
+    "ean": "8414640192094",
+    "brand": "Happy Little Princess",
+    "url": "https://tienda.mercadona.es/product/35891/lote-infantil-happy-little-princess-contiene-agua-colonia-100-ml-bolsito-unicornio-pop-it-asa-multiusos-caja",
+    "name": "Lote infantil Happy Little Princess",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
