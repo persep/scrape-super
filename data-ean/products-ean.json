@@ -23184,6 +23184,24 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "35927",
+    "ean": "8414640192148",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35927/neceser-pequeno-bugs-bunny-160-x-120-x-60-mm",
+    "name": "Neceser pequeño Bugs Bunny",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "35928",
+    "ean": "8414640192223",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35928/neceser-labios-fucsia-mediano-220-x-140-x-30-mm",
+    "name": "Neceser labios fucsia mediano",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "35932",
     "ean": "8402001011788",
     "brand": "Hacendado",
@@ -34875,6 +34893,24 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "60345",
+    "ean": "8480000603456",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60345/leche-condensada-hacendado-bote",
+    "name": "Leche condensada Hacendado",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "60348",
+    "ean": "8480000603487",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60348/leche-condensada-hacendado-bote",
+    "name": "Leche condensada Hacendado",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "6037",
     "ean": "8480000060372",
     "brand": null,
@@ -40695,6 +40731,15 @@
     "url": "https://tienda.mercadona.es/product/67967/golosinas-cintas-fresa-hacendado-caja",
     "name": "Golosinas cintas de fresa Hacendado",
     "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "67968",
+    "ean": "8480000679680",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67968/golosinas-rega-red-mix-hacendado-paquete",
+    "name": "Golosinas Rega Red Mix Hacendado",
+    "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
