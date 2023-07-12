@@ -23220,6 +23220,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "35955",
+    "ean": "8402001011696",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35955/helado-con-cheesecake-dochi-caja",
+    "name": "Helado con cheesecake dochi",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "35962",
     "ean": "8411370130204",
     "brand": "Las 3 Brujas",
@@ -33057,6 +33066,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "52523",
+    "ean": "4005900478238",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/52523/crema-proteccion-solar-facial-antimanchas-q10-nivea-fps-50-bote",
+    "name": "Crema protección solar facial antimanchas Q10 Nivea FPS 50",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "52884",
     "ean": "8410320349642",
     "brand": "Campofrío",
@@ -34897,6 +34915,15 @@
     "ean": "8480000603456",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/60345/leche-condensada-hacendado-bote",
+    "name": "Leche condensada Hacendado",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "60347",
+    "ean": "8480000603470",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60347/leche-condensada-hacendado-bote",
     "name": "Leche condensada Hacendado",
     "description": "Bote",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
@@ -51982,6 +52009,15 @@
     "name": "Empanada murciana",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "86786",
+    "ean": "8480000867865",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86786/pechuga-pavo-bajo-sal-hacendado-finas-lonchas-pack-2",
+    "name": "Pechuga de pavo bajo en sal Hacendado finas lonchas",
+    "description": "Pack-2",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "86798",
