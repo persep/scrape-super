@@ -22014,6 +22014,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "35639",
+    "ean": "8402001008924",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35639/cera-cabello-brillo-deliplus-fijacion-4-profix-bote",
+    "name": "Cera cabello Brillo Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "35640",
     "ean": "8718951594722",
     "brand": "Sanex",
@@ -34792,6 +34801,60 @@
     "name": "Crema decolorante rostro y cuerpo Deliplus piel sensible",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "60089",
+    "ean": "8480000600899",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60089/tortilla-patata-con-cebolla-listo-comer",
+    "name": "Tortilla de patata con cebolla Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60091",
+    "ean": "8480000600912",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60091/tortilla-patata-con-calabacin-listo-comer",
+    "name": "Tortilla de patata con calabacín Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60093",
+    "ean": "8480000600936",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60093/pincho-tortilla-patata-con-cebolla-listo-comer",
+    "name": "Pincho tortilla de patata con cebolla Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60095",
+    "ean": "8480000600950",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60095/pincho-tortilla-patata-con-calabacin-listo-comer",
+    "name": "Pincho tortilla de patata con calabacín Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60127",
+    "ean": "8480000601278",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60127/media-tortilla-patata-con-cebolla-listo-comer",
+    "name": "Media tortilla de patata con cebolla Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60128",
+    "ean": "8480000601285",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60128/media-tortilla-patata-con-calabacin-listo-comer",
+    "name": "Media tortilla de patata con calabacín Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "60221",
