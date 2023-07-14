@@ -23112,6 +23112,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35884",
+    "ean": "8436569262924",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35884/hamburguesa-lomo-vacuno-paquete",
+    "name": "Hamburguesa de lomo de vacuno",
+    "description": "Paquete",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "35888",
     "ean": "8414640192100",
     "brand": "Dragon Ball",
@@ -34749,6 +34758,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "5962",
+    "ean": "8480000059628",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5962/ciruela-claudia-bandeja",
+    "name": "Ciruela Claudia",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "59901",
     "ean": "8412540008385",
     "brand": "Martiko",
@@ -35782,6 +35800,15 @@
     "name": "Trampa contra hormigas Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "60967",
+    "ean": "8480000609670",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/60967/vasos-medianos-plastico-bosque-verde-reutilizables-multiusos-400-ml-paquete",
+    "name": "Vasos medianos de plástico Bosque Verde reutilizables",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "60968",
