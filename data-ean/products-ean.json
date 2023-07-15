@@ -23013,6 +23013,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35855",
+    "ean": "8436559351980",
+    "brand": "Future Cosmétics",
+    "url": "https://tienda.mercadona.es/product/35855/kit-duo-pestanas-postizas-con-eyeliner-negro-adhesivo-future-cosmetics-efecto-natural-volumen-intenso-reutilizables",
+    "name": "Kit dúo pestañas postizas con eyeliner negro adhesivo Future Cosmétics efecto natural y volumen intenso",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35856",
     "ean": "8402001010705",
     "brand": "Hacendado",
@@ -34997,6 +35006,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/60345/leche-condensada-hacendado-bote",
     "name": "Leche condensada Hacendado",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "60346",
+    "ean": "8480000603463",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60346/leche-condensada-desnatada-hacendado-bote",
+    "name": "Leche condensada desnatada Hacendado",
     "description": "Bote",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
@@ -48274,6 +48292,15 @@
     "name": "Golosinas Muaks Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "80517",
+    "ean": "8480000805171",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80517/chocolate-con-leche-classic-hacendado-tableta",
+    "name": "Chocolate con leche classic Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "80518",
