@@ -22419,6 +22419,42 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "35696",
+    "ean": "8402001006906",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35696/laca-unas-neon-deliplus-195-rosa",
+    "name": "Laca de uñas neón Deliplus 195 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35697",
+    "ean": "8402001006913",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35697/laca-unas-neon-deliplus-196-coral",
+    "name": "Laca de uñas neón Deliplus 196 coral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35698",
+    "ean": "8402001006920",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35698/laca-unas-neon-deliplus-197-naranja",
+    "name": "Laca de uñas neón Deliplus 197 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "35699",
+    "ean": "8402001006937",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35699/laca-unas-neon-deliplus-198-amarillo",
+    "name": "Laca de uñas neón Deliplus 198 amarillo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "3570",
     "ean": "8437019040451",
     "brand": null,
@@ -22426,6 +22462,15 @@
     "name": "Garretas brazuelo de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35700",
+    "ean": "8402001006944",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35700/laca-unas-neon-deliplus-199-verde",
+    "name": "Laca de uñas neón Deliplus 199 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "35701",
@@ -23092,6 +23137,15 @@
     "name": "Vino rosado espumoso Sílaba frizzante",
     "description": "Botella",
     "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "35870",
+    "ean": "8402001012310",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35870/crema-calabacin-hacendado-bol",
+    "name": "Crema de calabacín Hacendado",
+    "description": "Bol",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
   {
     "id": "35874",
@@ -23855,6 +23909,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/3770/nispero-bandeja",
     "name": "Níspero",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3771",
+    "ean": "8480000037718",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3771/ciruelas-amarillas-bandeja",
+    "name": "Ciruelas amarillas",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
   },
@@ -33624,6 +33687,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "5561",
+    "ean": "8480000055613",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/5561/ensaladilla-rusa-grande-listo-comer-bandeja",
+    "name": "Ensaladilla rusa grande Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "56033",
     "ean": "8480000560339",
     "brand": "Hacendado",
@@ -34893,6 +34965,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "60212",
+    "ean": "8480000602121",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60212/ensaladilla-rusa-pequena-listo-comer-bandeja",
+    "name": "Ensaladilla rusa pequeña Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "60221",
     "ean": "8480000602213",
     "brand": "Listo para Comer",
@@ -34900,6 +34981,15 @@
     "name": "Ensalada de pasta con atún y surimi Listo para Comer",
     "description": "Bol",
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "60226",
+    "ean": "8480000602268",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60226/ensaladilla-rusa-mediana-listo-comer-bandeja",
+    "name": "Ensaladilla rusa mediana Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
     "id": "60235",
