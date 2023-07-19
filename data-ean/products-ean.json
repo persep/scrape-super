@@ -936,6 +936,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "10738",
+    "ean": "8480000107381",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/10738/tortilla-patata-con-cebolla-listo-comer",
+    "name": "Tortilla de patata con cebolla Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "1077",
     "ean": "8421610010777",
     "brand": null,
@@ -1069,6 +1078,15 @@
     "name": "Bebida láctea desnatada omega 3 Hacendado",
     "description": "Brick",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "10882",
+    "ean": "8480000108821",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/10882/tortilla-patata-con-calabacin-listo-comer",
+    "name": "Tortilla de patata con calabacín Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
     "id": "10884",
@@ -33145,6 +33163,15 @@
     "name": "Pacharán Oibar",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "52483",
+    "ean": "8410436456067",
+    "brand": "Somat",
+    "url": "https://tienda.mercadona.es/product/52483/lavavajillas-total-duo-somat-gel-lavado-maquina-botella",
+    "name": "Lavavajillas Total Duo Somat en gel",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
     "id": "5250",
