@@ -33201,6 +33201,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "52513",
+    "ean": "5411188139126",
+    "brand": "Alpro",
+    "url": "https://tienda.mercadona.es/product/52513/postre-soja-natural-alpro-con-coco-bote",
+    "name": "Postre de soja natural Alpro con coco",
+    "description": "Bote",
+    "category": "Postres y yogures > Postres de soja"
+  },
+  {
     "id": "52523",
     "ean": "4005900478238",
     "brand": "Nivea",
@@ -33658,6 +33667,15 @@
     "name": "Longaniza de pavo Imperial extra Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "5514",
+    "ean": "7622201393038",
+    "brand": "El Caserio",
+    "url": "https://tienda.mercadona.es/product/5514/queso-caserio-lonchas-paquete",
+    "name": "Queso El Caserio lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "55142",
@@ -35044,6 +35062,15 @@
     "name": "Cereales con salvado de trigo Fibra Sticks Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "60243",
+    "ean": "8480000602435",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60243/pechuga-pavo-bajo-sal-hacendado-finas-lonchas-paquete",
+    "name": "Pechuga de pavo bajo en sal Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "60244",
@@ -52826,6 +52853,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/8904/brevas-bandeja",
     "name": "Brevas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "8905",
+    "ean": "8480000089052",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8905/higos-bandeja",
+    "name": "Higos",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
   },
