@@ -22590,6 +22590,24 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "35736",
+    "ean": "8402001011351",
+    "brand": "Knebep",
+    "url": "https://tienda.mercadona.es/product/35736/bebida-preparada-vodka-sabor-limon-knebep-ice-botellin",
+    "name": "Bebida preparada de vodka sabor limón Knebep Ice",
+    "description": "Botellín",
+    "category": "Bodega > Licores"
+  },
+  {
+    "id": "35737",
+    "ean": "8402001011368",
+    "brand": "Knebep",
+    "url": "https://tienda.mercadona.es/product/35737/bebida-preparada-vodka-sabor-pina-knebep-botellin",
+    "name": "Bebida preparada de vodka sabor piña Knebep",
+    "description": "Botellín",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "35739",
     "ean": "8402001010118",
     "brand": "Deliplus",
@@ -22732,6 +22750,24 @@
     "name": "Pintalabios Mousse lips Summer Paradise Deliplus 04 morado",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35765",
+    "ean": "8402001009853",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35765/mascara-pestanas-iconic-deliplus-negro",
+    "name": "Máscara de pestañas Iconic Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35766",
+    "ean": "8402001009877",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35766/mascara-pestanas-waterproof-deliplus-negro",
+    "name": "Máscara de pestañas Waterproof Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35767",
@@ -23274,6 +23310,15 @@
     "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
+    "id": "35917",
+    "ean": "8402001012174",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35917/barritas-espelta-hacendado-sabor-manzana-0-azucares-anadidos-caja",
+    "name": "Barritas de espelta Hacendado sabor manzana",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "35919",
     "ean": "8402001009723",
     "brand": "La Recompensa",
@@ -23335,6 +23380,33 @@
     "name": "Povidona yodada 10% Cuidaplus",
     "description": "Botella",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "35943",
+    "ean": "8402001011849",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35943/capsulas-antiox-colagen-piel-deliplus-contiene-colageno-acido-hialuronico-wakame-q10-caja",
+    "name": "Cápsulas Antiox Colagen piel Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "35945",
+    "ean": "8402001011825",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35945/capsulas-memory-forte-deliplus-contiene-bacopa-ashwagandha-gaba-caja",
+    "name": "Cápsulas Memory Forte Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "35947",
+    "ean": "8402001011870",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35947/quitamanchas-tinte-capilar-deliplus-con-aceite-rosa-mosqueta-bote",
+    "name": "Quitamanchas de tinte capilar Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Coloración cabello"
   },
   {
     "id": "35955",
@@ -23400,6 +23472,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35980",
+    "ean": "8402001010569",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35980/pastillas-antical-lavadora-bosque-verde-caja",
+    "name": "Pastillas antical para lavadora Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "35984",
     "ean": "83800064991",
     "brand": "Montagne Jeunesse",
@@ -23416,6 +23497,15 @@
     "name": "Cereales de arroz inflado Choco Krispies Kellogg's con chocolate",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "35992",
+    "ean": "8413941322339",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35992/costilla-cerdo-sabor-barbacoa-pieza",
+    "name": "Costilla de cerdo sabor barbacoa",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "35997",
