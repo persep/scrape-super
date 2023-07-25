@@ -22671,6 +22671,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "35753",
+    "ean": "8436601370181",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35753/paleta-sombras-ojos-toffe-temptation-deliplus",
+    "name": "Paleta sombras de ojos Toffe Temptation Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35754",
     "ean": "8402001008306",
     "brand": "Deliplus",
@@ -23103,6 +23112,15 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "35847",
+    "ean": "8402001010279",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35847/bebida-lactea-desnatada-proteinas-sabor-acai-platano-hacendado-0-mg-20-g-proteinas-botella",
+    "name": "Bebida láctea desnatada +Proteínas sabor açaí plátano Hacendado 0% m.g 20 g proteínas",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "35848",
     "ean": "8402001010439",
     "brand": "Deliplus",
@@ -23301,6 +23319,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "35913",
+    "ean": "8402001011535",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35913/crema-corporal-hidratante-sorbete-lolly-bomb-deliplus-con-acido-hialuronico-colageno-tarro",
+    "name": "Crema corporal hidratante sorbete Lolly Bomb Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "35915",
     "ean": "8410104914257",
     "brand": "Finish",
@@ -23479,6 +23506,15 @@
     "name": "Pastillas antical para lavadora Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "35982",
+    "ean": "8402001009013",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35982/dentifrico-3-action-deliplus-tubo",
+    "name": "Dentífrico 3 action Deliplus",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "35984",
@@ -25351,6 +25387,15 @@
     "name": "Chocolate negro 55% cacao Hacendado con almendras",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "40365",
+    "ean": "8480000403650",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/40365/mortadela-pavo-con-aceitunas-hacendado-finas-lonchas-paquete",
+    "name": "Mortadela de pavo con aceitunas Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "40369",
@@ -35217,6 +35262,15 @@
     "category": "Congelados > Rebozados"
   },
   {
+    "id": "60308",
+    "ean": "8480000603081",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60308/crema-verduras-hacendado-brick",
+    "name": "Crema de verduras Hacendado",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
     "id": "60315",
     "ean": "8413462120018",
     "brand": "La Rubia",
@@ -41055,6 +41109,24 @@
     "url": "https://tienda.mercadona.es/product/67938/refresco-te-sabor-limon-hacendado-botella",
     "name": "Refresco té sabor limón Hacendado",
     "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "67939",
+    "ean": "8480000679390",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67939/refresco-ice-tea-sabor-limon-hacendado-pack-6",
+    "name": "Refresco ice tea sabor limón Hacendado",
+    "description": "Pack-6",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "67940",
+    "ean": "8480000679406",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67940/refresco-ice-tea-sabor-limon-hacendado-lata",
+    "name": "Refresco ice tea sabor limón Hacendado",
+    "description": "Lata",
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
