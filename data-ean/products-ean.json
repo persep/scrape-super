@@ -11925,6 +11925,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "23457",
+    "ean": "8480000234575",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23457/tallarines-formaggio-hacendado-salsa-cremosa-queso",
+    "name": "Tallarines Formaggio Hacendado salsa cremosa de queso",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "23459",
     "ean": "8480000234599",
     "brand": "Deliplus",
@@ -20331,6 +20340,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35342",
+    "ean": "8402001006890",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35342/maquinilla-afeitar-desechable-active-2-deliplus-2-hojas-paquete",
+    "name": "Maquinilla de afeitar desechable Active 2 Deliplus 2 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "35343",
     "ean": "8402001007033",
     "brand": "Hacendado",
@@ -21661,6 +21679,15 @@
     "name": "Salfumant Bosque Verde",
     "description": "Pack-2",
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
+    "id": "35572",
+    "ean": "8402001008313",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35572/chicle-probiotico-con-zinc-deliplus-sabor-menta-suave-gragea-paquete",
+    "name": "Chicle probiótico con zinc Deliplus sabor menta suave gragea",
+    "description": "Paquete",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "35576",
@@ -52763,6 +52790,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/87271/langostino-cocido-hacendado-bandeja",
     "name": "Langostino cocido Hacendado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "87278",
+    "ean": "8480000872784",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/87278/gamba-cocida-hacendado-bandeja",
+    "name": "Gamba cocida Hacendado",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
   },
