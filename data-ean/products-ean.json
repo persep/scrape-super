@@ -23427,6 +23427,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "35936",
+    "ean": "8402001011733",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35936/tiras-protectoras-poliuretano-surtidas-deliplus-resistentes-agua-caja",
+    "name": "Tiras protectoras de poliuretano surtidas Deliplus resistentes al agua",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "35940",
     "ean": "8402001010866",
     "brand": "Cuidaplus",
@@ -31725,6 +31734,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50543",
+    "ean": "8480000505439",
+    "brand": "Entrepinares",
+    "url": "https://tienda.mercadona.es/product/50543/queso-tierno-vaca-entrepinares-lonchas-paquete",
+    "name": "Queso tierno de vaca Entrepinares lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
     "id": "50545",
     "ean": "8480000505453",
     "brand": "Hacendado",
@@ -32830,6 +32848,15 @@
     "name": "Trozos en salsa perro adulto Delikuit con ternera, pavo y verduras",
     "description": "Tarrina",
     "category": "Mascotas > Perro"
+  },
+  {
+    "id": "52070",
+    "ean": "8480000520708",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/52070/pate-gato-junior-delikuit-con-pollo-pavo-tarrina",
+    "name": "Paté gato júnior Delikuit con pollo y pavo",
+    "description": "Tarrina",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "52072",
