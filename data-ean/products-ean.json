@@ -17145,6 +17145,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "29546",
+    "ean": "8412941006041",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/29546/zanahoria-tiras-convite-tarro",
+    "name": "Zanahoria en tiras Convite",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "29604",
     "ean": "5449000144607",
     "brand": "Aquarius",
@@ -17764,6 +17773,15 @@
     "name": "Peras Conferencia",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "33010",
+    "ean": "8480000330109",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33010/aceitunas-rellenas-anchoa-hacendado-calibre-grande-bote",
+    "name": "Aceitunas rellenas de anchoa Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "33022",
@@ -19112,6 +19130,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza",
     "name": "Melocotón amarillo",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "3436",
+    "ean": "8480000034366",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3436/melocoton-rojo-pieza",
+    "name": "Melocotón rojo",
     "description": "Pieza",
     "category": "Fruta y verdura > Fruta"
   },
@@ -51865,6 +51892,15 @@
     "name": "Helado cucurucho de vainilla Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "86238",
+    "ean": "8410783409365",
+    "brand": "Noel",
+    "url": "https://tienda.mercadona.es/product/86238/lacon-cortado-mano-noel-paquete",
+    "name": "Lacón cortado a mano Noel",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "86245",
