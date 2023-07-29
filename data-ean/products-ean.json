@@ -6507,6 +6507,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "1699",
+    "ean": "8480000016997",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/1699/pan-molde-blanco-rebanada-gruesa-hacendado-paquete",
+    "name": "Pan de molde blanco rebanada gruesa Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "17010",
     "ean": "84138026",
     "brand": "Ligeresa",
@@ -17145,6 +17154,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "29540",
+    "ean": "8480000295408",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/29540/pepinillos-pequenos-hacendado-tarro",
+    "name": "Pepinillos pequeños Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "29546",
     "ean": "8412941006041",
     "brand": "Convite",
@@ -23445,6 +23463,33 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35929",
+    "ean": "8414640192193",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35929/neceser-flores-grande-con-asa-245-x-215-x-85-mm",
+    "name": "Neceser flores grande con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35930",
+    "ean": "8414640192247",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35930/neceser-tom-jerry-mediano-220-x-150-x-40",
+    "name": "Neceser Tom y Jerry mediano",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
+    "id": "35931",
+    "ean": "8414640192209",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35931/neceser-lola-bunny-grande-con-asa-215-x-140-x-90",
+    "name": "Neceser Lola Bunny grande con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Neceseres"
+  },
+  {
     "id": "35932",
     "ean": "8402001011788",
     "brand": "Hacendado",
@@ -23587,6 +23632,15 @@
     "name": "Mascarilla facial peeling carbón Montagne Jeunesse",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "35986",
+    "ean": "8402001012082",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35986/mostaza-dulce-hacendado-bote",
+    "name": "Mostaza dulce Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
     "id": "35987",
@@ -33732,6 +33786,15 @@
     "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
+    "id": "5393",
+    "ean": "84151230",
+    "brand": "Amstel Oro",
+    "url": "https://tienda.mercadona.es/product/5393/cerveza-tostada-amstel-oro-botellin",
+    "name": "Cerveza tostada Amstel Oro",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "5396",
     "ean": "8411090612011",
     "brand": "Desperados",
@@ -34251,6 +34314,15 @@
     "url": "https://tienda.mercadona.es/product/58262/lomo-bellota-iberico-hacienda-iberico-pieza",
     "name": "Lomo de bellota ibérico La Hacienda del ibérico",
     "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "58263",
+    "ean": "2105600582630",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/58263/lomo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Lomo de bellota ibérico cortado a máquina",
+    "description": "Paquete",
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
@@ -52693,6 +52765,15 @@
     "name": "Golosinas Rega Black Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "86868",
+    "ean": "8410569120026",
+    "brand": "Amstel Oro",
+    "url": "https://tienda.mercadona.es/product/86868/cerveza-tostada-amstel-oro-pack-6",
+    "name": "Cerveza tostada Amstel Oro",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "86872",
