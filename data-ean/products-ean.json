@@ -22311,6 +22311,15 @@
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
+    "id": "35669",
+    "ean": "8032804431904",
+    "brand": "Felicia",
+    "url": "https://tienda.mercadona.es/product/35669/penne-con-avena-maiz-felicia-paquete",
+    "name": "Penne con avena y maiz Felicia",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "3567",
     "ean": "8437019040420",
     "brand": null,
@@ -33435,6 +33444,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "52464",
+    "ean": "8402001012259",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52464/spray-bucal-deliplus-paquete",
+    "name": "Spray bucal Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "52471",
     "ean": "8420010120994",
     "brand": "Oibar",
@@ -43594,6 +43612,15 @@
     "name": "Edulcorante líquido sacarina Hacendado",
     "description": "Bote",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "70744",
+    "ean": "8480000707444",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/70744/esparragos-delgados-hacendado-tarro",
+    "name": "Espárragos delgados Hacendado",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
     "id": "70745",
