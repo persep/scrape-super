@@ -30627,6 +30627,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "4849",
+    "ean": "8480000048493",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4849/zumo-melon-mango-pina-hacendado-con-pure-fruta-botella",
+    "name": "Zumo de melón, mango y piña Hacendado con puré de fruta",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "4850",
     "ean": "8437009466476",
     "brand": "Casa Juncal",
@@ -33444,6 +33453,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "52453",
+    "ean": "9000100417839",
+    "brand": "Got 2b",
+    "url": "https://tienda.mercadona.es/product/52453/cera-cabello-beach-matt-got-2b-fijacion-3-bote",
+    "name": "Cera cabello Beach Matt Got 2b fijación 3",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "52464",
     "ean": "8402001012259",
     "brand": "Deliplus",
@@ -33505,6 +33523,15 @@
     "name": "Crema protección solar facial antimanchas Q10 Nivea FPS 50",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "52553",
+    "ean": "8700216168601",
+    "brand": "Ariel",
+    "url": "https://tienda.mercadona.es/product/52553/detergente-ropa-all-in-1-ariel-pods-capsulas-lavadora-caja",
+    "name": "Detergente ropa All in 1 Ariel Pods en cápsulas",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "52884",
@@ -42430,6 +42457,15 @@
     "ean": "8715817016206",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69491/pimientos-tricolor-rojo-amarillo-verde-bandeja",
+    "name": "Pimientos tricolor rojo, amarillo y verde",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69495",
+    "ean": "8480000694959",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69495/pimientos-tricolor-rojo-amarillo-verde-bandeja",
     "name": "Pimientos tricolor rojo, amarillo y verde",
     "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
@@ -51955,6 +51991,15 @@
     "name": "Picos 100% integrales Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "86225",
+    "ean": "8480000862259",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86225/tarta-infantil-justice-league-hacendado-congelada",
+    "name": "Tarta infantil Tesia and Friends Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "86226",
