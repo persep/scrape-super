@@ -30852,6 +30852,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "4911",
+    "ean": "8436009777506",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4911/empanadilla-atun-16-pieza",
+    "name": "Empanadilla de atún 16%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "49116",
     "ean": "5601354210159",
     "brand": "Tres Estrellas",
@@ -49642,6 +49651,15 @@
     "name": "Morralla",
     "description": "Granel",
     "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "8175",
+    "ean": "8480000081759",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8175/manzana-roja-pieza",
+    "name": "Manzana Roja",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "8177",
