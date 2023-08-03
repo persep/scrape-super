@@ -11682,6 +11682,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "23363",
+    "ean": "8480000233639",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/23363/rodillo-quitapelusas-bosque-verde",
+    "name": "Rodillo quitapelusas Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
     "id": "23365",
     "ean": "8480000233653",
     "brand": "Hacendado",
@@ -21969,6 +21978,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "35612",
+    "ean": "8006540875872",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35612/champu-repara-protege-pantene-cabello-debil-danado-bote",
+    "name": "Champú Repara & Protege Pantene cabello débil y dañado",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
     "id": "35613",
     "ean": "8006540431009",
     "brand": "Pantene",
@@ -23531,6 +23549,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/35943/capsulas-antiox-colagen-piel-deliplus-contiene-colageno-acido-hialuronico-wakame-q10-caja",
     "name": "Cápsulas Antiox Colagen piel Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "35944",
+    "ean": "8402001011832",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35944/capsulas-articular-forte-deliplus-contiene-boswellia-ortiga-vitamina-d3-caja",
+    "name": "Cápsulas Articular Forte Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
