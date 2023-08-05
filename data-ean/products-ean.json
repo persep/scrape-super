@@ -53028,6 +53028,15 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "87197",
+    "ean": "8480000871978",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87197/rodajas-atun-aleta-amarilla-bandeja",
+    "name": "Rodajas de atún",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
     "id": "8722",
     "ean": "8480000087225",
     "brand": "Hacendado",
@@ -53269,6 +53278,15 @@
     "name": "Tarta de la abuela Hacendado congelada",
     "description": null,
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87706",
+    "ean": "8480000877062",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87706/sepia-sucia-sin-piel-sin-tripa-pieza",
+    "name": "Sepia sucia sin piel y sin tripa",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87723",
