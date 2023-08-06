@@ -2457,6 +2457,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "13370",
+    "ean": "8480000133700",
+    "brand": "Convidado de Baco",
+    "url": "https://tienda.mercadona.es/product/13370/ponche-convidado-baco-botella",
+    "name": "Ponche Convidado de Baco",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "13372",
     "ean": "8480000133724",
     "brand": "Hacendado",
@@ -21348,6 +21357,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35513",
+    "ean": "8480000804693",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35513/cacao-soluble-hacendado-bote",
+    "name": "Cacao soluble Hacendado",
+    "description": "Bote",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
     "id": "35514",
     "ean": "5099821001230",
     "brand": "Hawaiian Tropic",
@@ -34108,6 +34126,15 @@
     "name": "Naranjas",
     "description": "Malla",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "5547",
+    "ean": "8480000055477",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5547/tomillo-hacendado-bote",
+    "name": "Tomillo Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "5561",
