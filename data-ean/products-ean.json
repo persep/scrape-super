@@ -33597,6 +33597,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "52602",
+    "ean": "8402001013843",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52602/pan-hamburguesa-brioche-hacendado-paquete",
+    "name": "Pan de hamburguesa Brioche Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "52884",
     "ean": "8410320349642",
     "brand": "Campofrío",
@@ -37402,6 +37411,15 @@
     "name": "Muslitos de surimi Pescanova ultracongelados",
     "description": "Paquete",
     "category": "Congelados > Rebozados"
+  },
+  {
+    "id": "62502",
+    "ean": "8480000625021",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62502/palitos-surimi-hacendado-paquete",
+    "name": "Palitos de surimi Hacendado",
+    "description": "Paquete",
+    "category": "Marisco y pescado > Marisco"
   },
   {
     "id": "6253",
