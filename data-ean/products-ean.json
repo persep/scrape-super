@@ -23283,6 +23283,15 @@
     "category": "Maquillaje > Pinceles y brochas"
   },
   {
+    "id": "35849",
+    "ean": "8402001011276",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35849/pan-redondo-sin-gluten-hacendado-paquete",
+    "name": "Pan redondo sin gluten Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "35850",
     "ean": "8006540470886",
     "brand": "Evax",
@@ -23758,6 +23767,15 @@
     "name": "Costilla de cerdo sabor barbacoa",
     "description": "Pieza",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "35995",
+    "ean": "8402001013362",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35995/hueva-maruca-hacendado-paquete",
+    "name": "Hueva de Maruca Hacendado",
+    "description": "Paquete",
+    "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
     "id": "35997",
@@ -33062,6 +33080,15 @@
     "brand": "Delikuit",
     "url": "https://tienda.mercadona.es/product/52070/pate-gato-junior-delikuit-con-pollo-pavo-tarrina",
     "name": "Paté gato júnior Delikuit con pollo y pavo",
+    "description": "Tarrina",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "52071",
+    "ean": "8480000520715",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/52071/pate-gato-adulto-delikuit-con-ternera-higado-tarrina",
+    "name": "Paté gato adulto Delikuit con ternera e hígado",
     "description": "Tarrina",
     "category": "Mascotas > Gato"
   },
@@ -48996,6 +49023,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "80515",
+    "ean": "8480000805157",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80515/cereales-estrellas-maiz-stars-hacendado-con-miel-caja",
+    "name": "Cereales estrellas de maíz Stars Hacendado con miel",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "80517",
     "ean": "8480000805171",
     "brand": "Hacendado",
@@ -52765,6 +52801,15 @@
     "name": "Sazonador sabor barbacoa Hacendado",
     "description": "Sobre",
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "86684",
+    "ean": "8480000866844",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86684/mermelada-melocoton-hacendado-tarro",
+    "name": "Mermelada de melocotón Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
     "id": "86687",
