@@ -23445,6 +23445,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35889",
+    "ean": "8402001010996",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35889/tampones-mini-deliplus-con-aplicador-compacto-caja",
+    "name": "Tampones mini Deliplus con aplicador compacto",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "35890",
     "ean": "8414640192087",
     "brand": "Fidget Slug",
@@ -26215,6 +26224,15 @@
     "name": "Laca de uñas efecto gel Deliplus 671 rosa manicura francesa",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "4204",
+    "ean": "8480000055217",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4204/aceite-oliva-suave-hacendado-garrafa",
+    "name": "Aceite de oliva suave Hacendado",
+    "description": "Garrafa",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
     "id": "42130",
@@ -37395,6 +37413,15 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "62312",
+    "ean": "8480000623126",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62312/cigala-mediana-hacendado-ultracongelada-caja",
+    "name": "Cigala mediana Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
     "id": "6238",
     "ean": "8480000062635",
     "brand": "Hacendado",
@@ -44186,6 +44213,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/71377/estropajo-inox-bosque-verde-paquete",
     "name": "Estropajo inox Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
+    "id": "71380",
+    "ean": "8480000713803",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/71380/estropajo-suciedad-resistente-bosque-verde-paquete",
+    "name": "Estropajo suciedad resistente Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
