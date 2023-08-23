@@ -44199,6 +44199,15 @@
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
+    "id": "71342",
+    "ean": "8480000713421",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/71342/estropajo-suciedad-resistente-bosque-verde-paquete",
+    "name": "Estropajo suciedad resistente Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
     "id": "71344",
     "ean": "8480000713445",
     "brand": "Bosque Verde",
@@ -52144,6 +52153,15 @@
     "name": "Refresco ice tea sabor melocotón Hacendado zero",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "86145",
+    "ean": "8480000861450",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86145/patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete",
+    "name": "Patatas fritas onduladas Hacendado sabor jamón serrano",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "86154",
