@@ -22338,6 +22338,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "35660",
+    "ean": "8402001007903",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35660/espuma-cabello-ondas-curly-deliplus-fijacion-3-profix-bote",
+    "name": "Espuma cabello Ondas Curly Deliplus fijación 3",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "35661",
     "ean": "8720182698261",
     "brand": "Starlux",
@@ -23641,6 +23650,15 @@
     "name": "Tiras protectoras de poliuretano surtidas Deliplus resistentes al agua",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "35939",
+    "ean": "8402001011740",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35939/capsulas-dormir-deliplus-contiene-melatonina-extractos-plantas-magnesio-vitamina-b6-caja",
+    "name": "Cápsulas Dormir Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "35940",
@@ -33631,6 +33649,15 @@
     "name": "Queso rallado Gouda Hacendado",
     "description": "Paquete",
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
+    "id": "52437",
+    "ean": "8402001012549",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52437/golosinas-pulpis-mix-hacendado-con-pica-paquete",
+    "name": "Golosinas Pulpis Mix Hacendado con pica",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "5245",
