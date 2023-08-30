@@ -22968,6 +22968,15 @@
     "category": "Congelados > Arroz y pasta"
   },
   {
+    "id": "35769",
+    "ean": "8402001010361",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35769/mascarilla-cabello-chocolate-deliplus-caja",
+    "name": "Mascarilla cabello chocolate Deliplus",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "35773",
     "ean": "8402001010064",
     "brand": "Hacendado",
@@ -42975,6 +42984,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69657",
+    "ean": "8480000696571",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69657/mix-setas-intenso-bandeja",
+    "name": "Mix de setas intenso",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69664",
     "ean": "8480000696649",
     "brand": null,
@@ -43369,6 +43387,15 @@
     "name": "Ensalada ensatún",
     "description": "Bol",
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "69876",
+    "ean": "8480000698766",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69876/mix-setas-suave-bandeja",
+    "name": "Mix de setas suave",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
   },
   {
     "id": "69877",
