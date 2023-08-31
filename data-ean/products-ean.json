@@ -23517,6 +23517,15 @@
     "category": "Cuidado facial y corporal > Neceseres"
   },
   {
+    "id": "35894",
+    "ean": "8402001011689",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35894/recipiente-hermetico-plastico-rectangular-1l-bosque-verde-paquete",
+    "name": "Recipiente hermético de Plástico Rectangular 1L Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "35895",
     "ean": "8414640192179",
     "brand": null,
@@ -33804,6 +33813,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "52562",
+    "ean": "8402001010170",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52562/helado-stracciatella-hacendado-tarrina",
+    "name": "Helado stracciatella Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "52602",
     "ean": "8402001013843",
     "brand": "Hacendado",
@@ -33811,6 +33829,15 @@
     "name": "Pan de hamburguesa Brioche Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "52716",
+    "ean": "8402001014697",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52716/figatells-cerdo-bandeja",
+    "name": "Figatells de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "52884",
@@ -35748,6 +35775,15 @@
     "category": "Congelados > Rebozados"
   },
   {
+    "id": "60307",
+    "ean": "8480000603074",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60307/margarina-con-sal-hacendado-tarrina",
+    "name": "Margarina con sal Hacendado",
+    "description": "Tarrina",
+    "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
     "id": "60308",
     "ean": "8480000603081",
     "brand": "Hacendado",
@@ -37346,6 +37382,15 @@
     "brand": "Icelandic",
     "url": "https://tienda.mercadona.es/product/62045/filetes-bacalao-sin-espinas-icelandic-ultracongelado-punto-sal-paquete",
     "name": "Filetes de bacalao sin espinas Icelandic ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
+  },
+  {
+    "id": "62046",
+    "ean": "8480000620460",
+    "brand": "Icelandic",
+    "url": "https://tienda.mercadona.es/product/62046/lomo-bacalao-sin-espinas-icelandic-ultracongelado-punto-sal-paquete",
+    "name": "Lomo de bacalao sin espinas Icelandic ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Pescado"
   },
