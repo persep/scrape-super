@@ -8028,6 +8028,15 @@
     "category": "Postres y yogures > Yogures naturales y sabores"
   },
   {
+    "id": "20324",
+    "ean": "8410500017712",
+    "brand": "Activia",
+    "url": "https://tienda.mercadona.es/product/20324/bifidus-cremoso-con-lima-limon-activia-danone-pack-4",
+    "name": "Bífidus cremoso con lima y limón Activia",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Bífidus"
+  },
+  {
     "id": "20376",
     "ean": "8480000203762",
     "brand": "Hacendado",
@@ -22716,6 +22725,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "35720",
+    "ean": "8402001009556",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35720/papilla-verduras-con-pollo-hacendado-6-meses-tarrito",
+    "name": "Papilla verduras con pollo Hacendado +6 meses",
+    "description": "Tarrito",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "35723",
     "ean": "8402001010309",
     "brand": "Hacendado",
@@ -22973,6 +22991,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/35769/mascarilla-cabello-chocolate-deliplus-caja",
     "name": "Mascarilla cabello chocolate Deliplus",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "35770",
+    "ean": "8402001010354",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35770/mascarilla-cabello-rojo-deliplus-caja",
+    "name": "Mascarilla cabello rojo Deliplus",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
   },
@@ -25018,6 +25045,15 @@
     "name": "Mosto tinto Casón Histórico",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "3990",
+    "ean": "8480000039903",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3990/uva-blanca-con-semillas-bandeja",
+    "name": "Uva blanca con semillas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "39900",
@@ -33829,6 +33865,15 @@
     "name": "Pan de hamburguesa Brioche Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "52627",
+    "ean": "8410500019587",
+    "brand": "Activia",
+    "url": "https://tienda.mercadona.es/product/52627/bifidus-cremoso-desnatado-vainilla-activia-0-mg-0-sin-azucares-anadidos-danone-pack-4",
+    "name": "Bífidus cremoso desnatado vainilla Activia 0% m.g 0% sin azúcares añadidos",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Bífidus"
   },
   {
     "id": "52716",
@@ -50821,6 +50866,15 @@
     "name": "Picatostes tostados Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "8280",
+    "ean": "8480000082800",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8280/manzanas-gala-bolsa",
+    "name": "Manzanas Gala",
+    "description": "Bolsa",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "82830.1",
