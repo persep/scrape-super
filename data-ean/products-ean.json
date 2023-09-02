@@ -22734,6 +22734,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "35722",
+    "ean": "8402001009617",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35722/papilla-verduras-con-arroz-hacendado-6-meses-tarrito",
+    "name": "Papilla verduras con arroz Hacendado +6 meses",
+    "description": "Tarrito",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "35723",
     "ean": "8402001010309",
     "brand": "Hacendado",
@@ -52549,6 +52558,24 @@
     "name": "Ron añejo La Recompensa",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "86233",
+    "ean": "8410793647733",
+    "brand": "Victoria Marengo",
+    "url": "https://tienda.mercadona.es/product/86233/cerveza-negra-victoria-marengo-pack-6",
+    "name": "Cerveza negra Victoria Marengo",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "86234",
+    "ean": "8410793646132",
+    "brand": "Victoria Marengo",
+    "url": "https://tienda.mercadona.es/product/86234/cerveza-negra-victoria-marengo-lata",
+    "name": "Cerveza negra Victoria Marengo",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "86236",
