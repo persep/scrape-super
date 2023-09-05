@@ -17955,6 +17955,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "3312",
+    "ean": "2105400033127",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3312/uva-roja-con-semillas-bandeja",
+    "name": "Uva roja con semillas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "33120",
     "ean": "8480000800152",
     "brand": "Hacendado",
@@ -23839,6 +23848,24 @@
     "name": "Croquetas de jamón sin gluten",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "35978",
+    "ean": "8402001009884",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35978/paleta-sombras-ojos-desert-deliplus",
+    "name": "Paleta sombras de ojos Desert Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "35979",
+    "ean": "8402001009891",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35979/paleta-sombras-ojos-attraction-deliplus",
+    "name": "Paleta sombras de ojos Attraction Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "35980",
@@ -34558,6 +34585,15 @@
     "name": "Tiras de pechuga de pollo al natural Hacendado",
     "description": "Paquete",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "5695",
+    "ean": "8480000056955",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5695/surtido-sushi-bento-mix-contiene-ensalada-alga-wakame-2-nigiris-salmon-3-makis-salmon-1-wrap-salmon-salsa-ponzu-bandeja",
+    "name": "Surtido sushi Bento mix",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Sushi"
   },
   {
     "id": "5716",
@@ -54349,6 +54385,15 @@
     "name": "Papilla lentejas con verduritas Hero baby recetas caseras +8 meses",
     "description": "Pack-2",
     "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "92998",
+    "ean": "8424465915372",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/92998/panecillo-sin-sal-anadida",
+    "name": "Panecillo sin sal añadida",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "9333",
