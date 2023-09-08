@@ -33921,6 +33921,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "52563",
+    "ean": "8402001010255",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52563/helado-capuccino-hacendado-tarrina",
+    "name": "Helado capuccino Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "52602",
     "ean": "8402001013843",
     "brand": "Hacendado",
@@ -34495,6 +34504,15 @@
     "name": "Ensaladilla rusa grande Listo para Comer",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "5599",
+    "ean": "8480000055996",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5599/perejil-hacendado-bote",
+    "name": "Perejil Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "56033",
@@ -36295,6 +36313,15 @@
     "name": "Magdalenas Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "60855",
+    "ean": "8480000608550",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60855/queso-rallado-gouda-hacendado-paquete",
+    "name": "Queso rallado Gouda Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "60857",
