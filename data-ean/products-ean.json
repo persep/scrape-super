@@ -23949,6 +23949,15 @@
     "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
+    "id": "35996",
+    "ean": "8402001008603",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35996/laca-unas-mate-deliplus-200-naranja",
+    "name": "Laca de uñas Mate Deliplus 200 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "35997",
     "ean": "8480000359971",
     "brand": "Bosque Verde",
@@ -33768,6 +33777,42 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "52414",
+    "ean": "8402001008610",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52414/laca-unas-mate-deliplus-201-rojo",
+    "name": "Laca de uñas Mate Deliplus 201 rojo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52415",
+    "ean": "8402001008627",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52415/laca-unas-mate-deliplus-202-granate",
+    "name": "Laca de uñas Mate Deliplus 202 granate",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52416",
+    "ean": "8402001008634",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52416/laca-unas-mate-deliplus-203-azul",
+    "name": "Laca de uñas Mate Deliplus 203 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52417",
+    "ean": "8402001008641",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52417/laca-unas-mate-204-verde",
+    "name": "Laca de uñas Mate 204 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52437",
     "ean": "8402001012549",
     "brand": "Hacendado",
@@ -33910,6 +33955,15 @@
     "name": "Detergente ropa All in 1 Ariel Pods en cápsulas",
     "description": "Caja",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "52560",
+    "ean": "8402001010248",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52560/helado-vainilla-praline-con-nueces-pecan-hacendado-tarrina",
+    "name": "Helado vainilla praliné con nueces pecán Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
   },
   {
     "id": "52562",
