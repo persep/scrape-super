@@ -9018,6 +9018,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "22119",
+    "ean": "8480000221193",
+    "brand": "Capítulo",
+    "url": "https://tienda.mercadona.es/product/22119/lote-mujer-capitulo-oriental-contiene-eau-toilette-200-ml-body-milk-100-ml-gel-bano-100-ml-caja",
+    "name": "Lote mujer Capítulo Oriental",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "22123",
     "ean": "8480000221230",
     "brand": null,
@@ -23724,6 +23733,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "35935",
+    "ean": "8402001010972",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35935/tonico-facial-arbol-te-prebioticos-facial-clean-deliplus-apto-tipo-piel-excepto-piel-sensible-bote",
+    "name": "Tónico facial árbol de té y prebióticos Facial Clean Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "35936",
     "ean": "8402001011733",
     "brand": "Deliplus",
@@ -33939,6 +33957,15 @@
     "category": "Postres y yogures > Postres de soja"
   },
   {
+    "id": "52517",
+    "ean": "8402001013454",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52517/avellanas-banadas-chocolate-blanco-chocolate-con-leche-cacao-hacendado-paquete",
+    "name": "Avellanas bañadas de chocolate blanco, chocolate con leche y cacao Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "52523",
     "ean": "4005900478238",
     "brand": "Nivea",
@@ -33946,6 +33973,15 @@
     "name": "Crema protección solar facial antimanchas Q10 Nivea FPS 50",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "52531",
+    "ean": "8402001008887",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52531/discos-impregnados-acido-salicilico-deliplus-caja",
+    "name": "Discos impregnados ácido salicílico Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "52553",
@@ -34000,6 +34036,15 @@
     "name": "Bífidus cremoso desnatado vainilla Activia 0% m.g 0% sin azúcares añadidos",
     "description": "Pack-4",
     "category": "Postres y yogures > Bífidus"
+  },
+  {
+    "id": "52645",
+    "ean": "8700216090148",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52645/maquinilla-afeitar-gillette-fusion-sport-5-hojas-paquete",
+    "name": "Maquinilla de afeitar Gillette Fusion Sport",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "52716",
