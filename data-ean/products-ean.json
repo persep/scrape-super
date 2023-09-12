@@ -22104,6 +22104,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "35616",
+    "ean": "8006540876138",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/35616/champu-suave-liso-pantene-cabello-encrespado-seco-bote",
+    "name": "Champú Suave & Liso Pantene cabello encrespado o seco",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
     "id": "35617",
     "ean": "8700216089890",
     "brand": "Pantene",
@@ -23517,6 +23526,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "35876",
+    "ean": "8402001010750",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35876/perfilador-labios-long-lasting-deliplus-11-nude",
+    "name": "Perfilador de labios Long Lasting Deliplus 11 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35880",
     "ean": "8402001012006",
     "brand": "Deliplus",
@@ -23641,6 +23659,15 @@
     "name": "Lavavajillas Quantum Finish en pastillas",
     "description": "Paquete",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "35916",
+    "ean": "8402001012433",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35916/barritas-avena-hacendado-con-chocolate-negro-caja",
+    "name": "Barritas de avena Hacendado con chocolate negro",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "35917",
@@ -33874,6 +33901,15 @@
     "name": "Spray bucal Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52467",
+    "ean": "8402001013218",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52467/salsa-miel-mostaza-hacendado-bote",
+    "name": "Salsa miel y mostaza Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
     "id": "52471",
