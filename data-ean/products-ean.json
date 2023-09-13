@@ -23706,6 +23706,15 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "35926",
+    "ean": "9000100656801",
+    "brand": "Bref",
+    "url": "https://tienda.mercadona.es/product/35926/colgador-wc-power-activ-pino-bref-paquete",
+    "name": "Colgador WC Power Activ Pino Bref",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
     "id": "35927",
     "ean": "8414640192148",
     "brand": null,
@@ -33894,6 +33903,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "52454",
+    "ean": "8402001012655",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52454/masa-pizza-fresca-familiar-hacendado-paquete",
+    "name": "Masa pizza fresca familiar Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "52464",
     "ean": "8402001012259",
     "brand": "Deliplus",
@@ -33993,6 +34011,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "52511",
+    "ean": "8402001013430",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52511/pizza-masa-fina-carbonara-hacendado-ultracongelada-con-salsa-setas",
+    "name": "Pizza masa fina carbonara Hacendado ultracongelada",
+    "description": null,
+    "category": "Congelados > Pizzas"
+  },
+  {
     "id": "52513",
     "ean": "5411188139126",
     "brand": "Alpro",
@@ -34007,6 +34034,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/52517/avellanas-banadas-chocolate-blanco-chocolate-con-leche-cacao-hacendado-paquete",
     "name": "Avellanas bañadas de chocolate blanco, chocolate con leche y cacao Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52518",
+    "ean": "8402001013461",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52518/anacardos-caramelizados-hacendado-banados-chocolate-con-leche-paquete",
+    "name": "Anacardos caramelizados Hacendado bañados de chocolate con leche",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
@@ -34495,6 +34531,15 @@
     "name": "Salami montañés El Pozo",
     "description": null,
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "5503",
+    "ean": "8437018501113",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5503/mandarina-malla",
+    "name": "Mandarina",
+    "description": "Malla",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "5504",
