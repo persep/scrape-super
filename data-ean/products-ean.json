@@ -20907,6 +20907,15 @@
     "category": "Maquillaje > Pinceles y brochas"
   },
   {
+    "id": "35402",
+    "ean": "8402001007491",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35402/tijera-unas-deliplus-paquete",
+    "name": "Tijera uñas Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "35403",
     "ean": "7613033689635",
     "brand": "Yogolino",
@@ -22840,6 +22849,15 @@
     "name": "Vino tinto D.O Valdepeñas Señorío de los Llanos crianza",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "35732",
+    "ean": "8402001009150",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/35732/bocaditos-salsa-gato-adulto-delikuit-esterilizado-contiene-4-con-pavo-salsa-4-con-ternera-salsa-caja",
+    "name": "Bocaditos en salsa gato adulto Delikuit esterilizado",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "35736",
@@ -34065,6 +34083,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "52534",
+    "ean": "8402001013706",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52534/menestra-verduras-hacendado-ultracongelada-paquete",
+    "name": "Menestra de verduras Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "52553",
     "ean": "8700216168601",
     "brand": "Ariel",
@@ -34099,6 +34126,15 @@
     "name": "Helado capuccino Hacendado",
     "description": "Tarrina",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "52589",
+    "ean": "8402001013904",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52589/capsulas-probiotico-deliplus-5-variedades-cepas-elaborado-base-microorganismos-fos-caja",
+    "name": "Cápsulas Probiótico Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "52602",
