@@ -23931,6 +23931,60 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35972",
+    "ean": "8402001009921",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35972/iluminador-facial-fluido-origen-deliplus-con-dosificador",
+    "name": "Iluminador facial fluido Origen Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "35973",
+    "ean": "8402001009907",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35973/paleta-rostro-completo-origen-deliplus-contiene-polvo-claro-oscuro-iluminador",
+    "name": "Paleta rostro completo Origen Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "35974",
+    "ean": "8402001009938",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35974/pintalabios-mate-velvet-lips-origen-deliplus-01-nude-larga-duracion",
+    "name": "Pintalabios mate velvet lips Origen Deliplus 01 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35975",
+    "ean": "8402001009945",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35975/pintalabios-mate-velvet-lips-origen-deliplus-02-nude-medio-larga-duracion",
+    "name": "Pintalabios mate velvet lips Origen Deliplus 02 nude medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35976",
+    "ean": "8402001009952",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35976/pintalabios-mate-velvet-lips-origen-deliplus-03-rosa-nude-larga-duracion",
+    "name": "Pintalabios mate velvet lips Origen Deliplus 03 rosa nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35977",
+    "ean": "8402001009914",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35977/mascara-pestanas-all-in-one-origen-deliplus-negro",
+    "name": "Máscara de pestañas All in one Origen Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "35978",
     "ean": "8402001009884",
     "brand": "Deliplus",
@@ -34162,6 +34216,15 @@
     "name": "Bífidus cremoso desnatado vainilla Activia 0% m.g 0% sin azúcares añadidos",
     "description": "Pack-4",
     "category": "Postres y yogures > Bífidus"
+  },
+  {
+    "id": "52628",
+    "ean": "8411241520486",
+    "brand": "Ruiz",
+    "url": "https://tienda.mercadona.es/product/52628/torta-gazpacho-manchego-congelado-ruiz-paquete",
+    "name": "Torta gazpacho manchego congelado Ruiz",
+    "description": "Paquete",
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "52645",
