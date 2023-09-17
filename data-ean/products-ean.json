@@ -21645,6 +21645,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35541",
+    "ean": "8402001008757",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35541/arroz-negro-hacendado-ultracongelado-paquete",
+    "name": "Arroz negro Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "35545",
     "ean": "8402001008139",
     "brand": "Hacendado",
@@ -22048,6 +22057,15 @@
     "name": "Protector solar Nivea FPS 30",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "35608",
+    "ean": "8402001008528",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35608/pintalabios-fluido-mate-deliplus-11-rosa-medio-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 11 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "3561",
@@ -23929,6 +23947,15 @@
     "name": "Croquetas de jamón sin gluten",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "35971",
+    "ean": "8402001013782",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35971/bruma-facial-multifuncional-make-up-fixer-origen-deliplus-5-1-hidrata-prepara-protege-fija-refresca-spray",
+    "name": "Bruma facial multifuncional Make Up Fixer Origen Deliplus 5 en 1",
+    "description": "Spray",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "35972",
@@ -34236,6 +34263,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52677",
+    "ean": "8410225537786",
+    "brand": "Heno de Pravia",
+    "url": "https://tienda.mercadona.es/product/52677/agua-colonia-heno-pravia-original-botella",
+    "name": "Agua de colonia Heno de Pravia Original",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52716",
     "ean": "8402001014697",
     "brand": null,
@@ -34801,6 +34837,15 @@
     "name": "Ensaladilla rusa grande Listo para Comer",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "5564",
+    "ean": "8480000055644",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5564/bebida-energetica-energy-drink-zero-hacendado-pack-6",
+    "name": "Bebida energética Energy Drink Zero Hacendado",
+    "description": "Pack-6",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "5599",
