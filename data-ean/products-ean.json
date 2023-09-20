@@ -11754,6 +11754,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "23366",
+    "ean": "8480000233660",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23366/mix-natural-anacardo-arandano-hacendado-paquete",
+    "name": "Mix natural anacardo y arándano Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "23367",
     "ean": "8480000233677",
     "brand": "Deliplus",
@@ -13543,6 +13552,15 @@
     "name": "Alistado pequeño congelado",
     "description": "Granel",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24805",
+    "ean": "8480000248053",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24805/queso-semicurado-gouda-hacendado-pieza",
+    "name": "Queso semicurado Gouda Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "25089",
@@ -22561,6 +22579,15 @@
     "name": "Chuletas de cordero paletilla",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "35682",
+    "ean": "8402001009105",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35682/gelatina-0-azucar-sabor-fresa-hacendado-gellytina-pack-6",
+    "name": "Gelatina 0% azúcar sabor fresa Hacendado",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "35683",
@@ -34981,6 +35008,15 @@
     "name": "Fresón",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "5774",
+    "ean": "8480000057747",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5774/queso-viejo-intenso-mezcla-hacendado-pieza",
+    "name": "Queso viejo intenso mezcla Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "58006",
