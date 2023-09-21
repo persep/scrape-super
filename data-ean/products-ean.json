@@ -1746,6 +1746,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "11972",
+    "ean": "8480000119728",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11972/sazonador-hierbas-provenzales-hacendado-pollo-costillas-horno-microondas-con-bolsa",
+    "name": "Sazonador hierbas provenzales Hacendado para pollo y costillas",
+    "description": "Sobre",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "12012",
     "ean": "8480000120120",
     "brand": "Hacendado",
@@ -23121,6 +23130,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "35772",
+    "ean": "8402001010330",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35772/mascarilla-cabello-rubio-miel-deliplus-caja",
+    "name": "Mascarilla cabello rubio miel Deliplus",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "35773",
     "ean": "8402001010064",
     "brand": "Hacendado",
@@ -34002,6 +34020,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52423",
+    "ean": "8402001012327",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52423/colgador-antipolillas-ropa-limpia-bosque-verde-paquete",
+    "name": "Colgador antipolillas Ropa Limpia Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52437",
     "ean": "8402001012549",
     "brand": "Hacendado",
@@ -34189,6 +34216,15 @@
     "name": "Crema protección solar facial antimanchas Q10 Nivea FPS 50",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "52530",
+    "ean": "8402001012464",
+    "brand": "My Moment",
+    "url": "https://tienda.mercadona.es/product/52530/lote-mujer-my-moment-ritual-triple-limpieza-facial-contiene-desmaquillante-limpiador-100-ml-exfoliante-facial-50-ml-tonico-100-ml-disco-desmaquillante-caja",
+    "name": "Lote mujer My Moment Ritual triple limpieza facial",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "52531",
@@ -51973,6 +52009,15 @@
     "name": "Caballa Verdel abierta a la espalda con espinas y con cabeza",
     "description": "Pieza",
     "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "83728",
+    "ean": "8480000837288",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/83728/mejillon-malla",
+    "name": "Mejillón",
+    "description": "Malla",
+    "category": "Marisco y pescado > Marisco"
   },
   {
     "id": "83789",
