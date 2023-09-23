@@ -9081,6 +9081,15 @@
     "category": "Postres y yogures > Yogures líquidos"
   },
   {
+    "id": "22130",
+    "ean": "8436581946734",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/22130/lote-mujer-gold-seduction-contiene-eau-parfum-60-ml-mini-eau-parfum-30-ml-caja",
+    "name": "Lote mujer Gold seduction",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "22133",
     "ean": "3616303465704",
     "brand": "Chanson d'Eau",
@@ -13570,6 +13579,15 @@
     "name": "Alistado pequeño congelado",
     "description": "Granel",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24804",
+    "ean": "8480000248046",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24804/queso-semicurado-gouda-hacendado-lonchas-paquete",
+    "name": "Queso semicurado Gouda Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "24805",
@@ -20637,6 +20655,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "35363",
+    "ean": "8402001007781",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35363/desodorante-antitranspirante-aloe-deliplus-0-alcohol-spray",
+    "name": "Desodorante antitranspirante aloe Deliplus",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "35364",
     "ean": "8436596040243",
     "brand": "Muy Tú",
@@ -23517,6 +23544,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "35852",
+    "ean": "8402001012280",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35852/aceite-corporal-tacto-seco-deliplus-con-aceite-argan-bote",
+    "name": "Aceite corporal tacto seco Deliplus con aceite de argán",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "35855",
     "ean": "8436559351980",
     "brand": "Future Cosmétics",
@@ -23866,6 +23902,15 @@
     "name": "Mermelada de arándanos Hacendado",
     "description": "Tarro",
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
+    "id": "35934",
+    "ean": "8402001010613",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35934/tonico-facial-vitamina-c-niacinamida-facial-clean-deliplus-iluminador-antioxidante-tipo-pieles-bote",
+    "name": "Tónico facial vitamina C y niacinamida Facial Clean Deliplus iluminador y antioxidante",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "35935",
@@ -34227,6 +34272,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "52520",
+    "ean": "8711571090261",
+    "brand": "Lambweston",
+    "url": "https://tienda.mercadona.es/product/52520/patatas-prefritas-waffle-fries-lambweston-ultracongeladas-paquete",
+    "name": "Patatas prefritas Waffle fries Lambweston ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "52523",
     "ean": "4005900478238",
     "brand": "Nivea",
@@ -34234,6 +34288,15 @@
     "name": "Crema protección solar facial antimanchas Q10 Nivea FPS 50",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "52529",
+    "ean": "8402001008801",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52529/lote-facial-mujer-deliplus-vitamina-c-antiox-contiene-tonico-100-ml-5-potenciadores-vitamina-c-3-ml-2-parches-hidrogel-ojos-caja",
+    "name": "Lote facial mujer Deliplus Vitamina C Antiox",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "52530",
