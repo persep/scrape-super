@@ -2007,6 +2007,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "12408",
+    "ean": "8421699222054",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12408/piruleta-chocolate-halloween-hacendado",
+    "name": "Piruleta de chocolate Halloween Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "12413",
     "ean": "8480000124135",
     "brand": "Hacendado",
@@ -2058,6 +2067,15 @@
     "url": "https://tienda.mercadona.es/product/12421/huevo-chocolate-hacendado-con-sorpresa",
     "name": "Huevo de chocolate Hacendado",
     "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12422",
+    "ean": "8480000124227",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12422/surtido-chocolates-halloween-hacendado-paquete",
+    "name": "Surtido chocolates Halloween Hacendado",
+    "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
@@ -5677,6 +5695,15 @@
     "name": "Haba frita con sal Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "15901",
+    "ean": "8480000159014",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15901/turron-chocolate-cream-avellana-hacendado-tableta",
+    "name": "Turrón de chocolate Cream avellana Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "15909",
@@ -23778,6 +23805,24 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "35905",
+    "ean": "8402001011382",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35905/saco-golosinas-halloween-hacendado-saco",
+    "name": "Saco de golosinas Halloween Hacendado",
+    "description": "Saco",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35906",
+    "ean": "8402001011399",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35906/surtido-golosinas-halloween-hacendado-paquete",
+    "name": "Surtido de golosinas Halloween Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "35913",
     "ean": "8402001011535",
     "brand": "Deliplus",
@@ -24244,6 +24289,33 @@
     "name": "Ciruela roja",
     "description": "Pieza",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "36012",
+    "ean": "8480000360120",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36012/turron-chocolate-cacahuete-frito-con-miel-hacendado-tableta",
+    "name": "Turrón de chocolate y cacahuete frito con miel Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36014",
+    "ean": "8480000360144",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36014/turron-blando-hacendado-tableta",
+    "name": "Turrón blando Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36017",
+    "ean": "8480000360175",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36017/turron-duro-hacendado-tableta",
+    "name": "Turrón duro Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "36051",
@@ -31122,6 +31194,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "47973",
+    "ean": "8480000479730",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/47973/momia-chocolate-halloween-hacendado",
+    "name": "Momia de chocolate Halloween Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "4798",
     "ean": "8480000047984",
     "brand": "Hacendado",
@@ -34083,6 +34164,24 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52418",
+    "ean": "8402001012563",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52418/turron-chocolate-con-galleta-caocream-hacendado-tableta",
+    "name": "Turrón de chocolate con galleta Caocream Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "52419",
+    "ean": "8402001012297",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52419/turron-cheesecake-hacendado-tableta",
+    "name": "Turrón de cheesecake Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "52423",
     "ean": "8402001012327",
     "brand": "Bosque Verde",
@@ -34099,6 +34198,24 @@
     "name": "Golosinas Pulpis Mix Hacendado con pica",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "52443",
+    "ean": "8410109127256",
+    "brand": "Senzza",
+    "url": "https://tienda.mercadona.es/product/52443/surtido-bombones-senzza-cappuccino-con-caramelo-original-avellana-paquete",
+    "name": "Surtido bombones Senzza de Cappuccino con caramelo, original y avellana",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52447",
+    "ean": "8402001012600",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52447/naranja-confitada-banada-con-chocolate-negro-hacendado-caja",
+    "name": "Naranja confitada bañada con chocolate negro Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "5245",
@@ -34126,6 +34243,15 @@
     "name": "Masa pizza fresca familiar Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "52456",
+    "ean": "7622201734848",
+    "brand": "Cadbury",
+    "url": "https://tienda.mercadona.es/product/52456/surtido-bombones-cadbury-caja",
+    "name": "Surtido bombones Cadbury",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "52464",
@@ -41922,6 +42048,15 @@
     "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
+    "id": "67735",
+    "ean": "8480000677358",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67735/surtido-golosinas-halloween-hacendado-boo-mix-paquete",
+    "name": "Surtido de golosinas Halloween Hacendado BOO! Mix",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "67736",
     "ean": "8480000677365",
     "brand": "Hacendado",
@@ -42154,6 +42289,15 @@
     "name": "Salsa ligera Ligeresa",
     "description": "Tarro",
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
+    "id": "67875",
+    "ean": "8480000678751",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67875/turron-chocolate-crujiente-hacendado-tableta",
+    "name": "Turrón de chocolate crujiente Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "67888",
