@@ -34569,6 +34569,33 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "52630",
+    "ean": "8445290842107",
+    "brand": "Fuente Dehesa",
+    "url": "https://tienda.mercadona.es/product/52630/agua-mineral-grande-fuente-dehesa-mineralizacion-debil-garrafa",
+    "name": "Agua mineral grande Fuente Dehesa",
+    "description": "Garrafa",
+    "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "52643",
+    "ean": "8700216239929",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52643/maquinilla-afeitar-recargable-gillette-labs-5-hojas-caja",
+    "name": "Maquinilla de afeitar recargable Gillette Labs 5 hojas",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52644",
+    "ean": "8001090835109",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52644/recambios-maquinilla-afeitar-gillette-labs-5-hojas-paquete",
+    "name": "Recambios maquinilla de afeitar Gillette Labs 5 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52645",
     "ean": "8700216090148",
     "brand": "Gillette",
@@ -34594,6 +34621,15 @@
     "name": "Figatells de cerdo",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "52781",
+    "ean": "8437018565917",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52781/pelota-alicantina-cerdo-vacuno-bandeja",
+    "name": "Pelota Alicantina de cerdo y vacuno",
+    "description": "Bandeja",
+    "category": "Carne > Arreglos"
   },
   {
     "id": "52884",
