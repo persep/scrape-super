@@ -23715,6 +23715,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "35878",
+    "ean": "8402001011818",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35878/brocheta-golosinas-halloween-hacendado",
+    "name": "Brocheta golosinas Halloween Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "35880",
     "ean": "8402001012006",
     "brand": "Deliplus",
@@ -24253,6 +24262,15 @@
     "name": "Cereales de arroz inflado Choco Krispies Kellogg's con chocolate",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "35991",
+    "ean": "8402001012266",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35991/capsulas-spirulina-vitamina-b12-deliplus-caja",
+    "name": "Cápsulas Spirulina + vitamina B12 Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "35992",
@@ -43475,6 +43493,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69286/cebollino-bandeja",
     "name": "Cebollino",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69287",
+    "ean": "8437023785478",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69287/albahaca-bandeja",
+    "name": "Albahaca",
     "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
   },
