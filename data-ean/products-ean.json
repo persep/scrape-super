@@ -22653,6 +22653,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35679",
+    "ean": "8402001009082",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35679/compresa-sin-alas-incontinencia-deliplus-maxi-paquete",
+    "name": "Compresa sin alas de incontinencia Deliplus Maxi",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "3568",
     "ean": "8437019040437",
     "brand": null,
@@ -23544,6 +23553,24 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "35845",
+    "ean": "8402001010583",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35845/dulce-membrillo-hacendado-categoria-primera-tarrina",
+    "name": "Dulce de membrillo Hacendado categoría primera",
+    "description": "Tarrina",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "35846",
+    "ean": "8402001010590",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35846/dulce-membrillo-hacendado-0-azucares-anadidos-tarrina",
+    "name": "Dulce de membrillo Hacendado 0% azúcares añadidos",
+    "description": "Tarrina",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "35847",
     "ean": "8402001010279",
     "brand": "Hacendado",
@@ -23848,6 +23875,15 @@
     "name": "Surtido de golosinas Halloween Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35910",
+    "ean": "8402001010651",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/35910/snack-cachorros-junior-compy-paquete",
+    "name": "Snack cachorros júnior Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
   },
   {
     "id": "35913",
@@ -24379,6 +24415,15 @@
     "name": "Trufas clásicas al cacao Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "36403",
+    "ean": "8480000364036",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36403/huesos-santo-hacendado-paquete",
+    "name": "Huesos de santo Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "3649",
@@ -34227,6 +34272,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "52422",
+    "ean": "8402001012341",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52422/colgador-antipolillas-lavanda-bosque-verde-paquete",
+    "name": "Colgador antipolillas Lavanda Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52423",
     "ean": "8402001012327",
     "brand": "Bosque Verde",
@@ -34340,6 +34394,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/52472/cepillo-dental-sensitive-deliplus-encias-dientes-sensibles-paquete",
     "name": "Cepillo dental Sensitive Deliplus encías y dientes sensibles",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52473",
+    "ean": "8402001012990",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52473/cepillo-dental-especial-ortodoncia-deliplus-paquete",
+    "name": "Cepillo dental Especial Ortodoncia Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
@@ -34551,6 +34614,51 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "52566",
+    "ean": "8402001009181",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/52566/eau-parfum-mujer-soiree-my-soul-for-her-frasco",
+    "name": "Eau de parfum mujer Soirée My Soul for her",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52567",
+    "ean": "8402001009198",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/52567/eau-parfum-hombre-my-soul-soiree-for-him-frasco",
+    "name": "Eau de parfum hombre My Soul Soirée for him",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52568",
+    "ean": "8414135040336",
+    "brand": "Mr. Wonderful",
+    "url": "https://tienda.mercadona.es/product/52568/lote-mujer-mr-wonderful-i-m-your-love-potion-contiene-eau-toilette-75-ml-crema-manos-75-ml-body-lotion-75-ml-caja",
+    "name": "Lote mujer Mr. Wonderful I´m your love potion",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52569",
+    "ean": "3616305160430",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/52569/lote-hombre-adidas-champions-star-contiene-eau-toilette-100-ml-mini-eau-toilette-50-ml-desodorante-spray-150-ml-gel-250-ml-caja",
+    "name": "Lote hombre Adidas Champions Star",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52570",
+    "ean": "8402001011993",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52570/caramelos-sabor-eucalipto-mentol-hacendado-extra-forte-paquete",
+    "name": "Caramelos sabor eucalipto y mentol Hacendado extra forte",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
     "id": "52589",
     "ean": "8402001013904",
     "brand": "Deliplus",
@@ -34623,6 +34731,24 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52659",
+    "ean": "8720182750907",
+    "brand": "Dove",
+    "url": "https://tienda.mercadona.es/product/52659/lote-corporal-mujer-dove-contiene-gel-ducha-250-ml-mini-gel-ducha-55-ml-locion-corporal-250-ml-desodorante-roll-on-50-ml-crema-manos-75-ml-neceser",
+    "name": "Lote corporal mujer Dove",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "52676",
+    "ean": "83800065004",
+    "brand": "Montagne Jeunesse",
+    "url": "https://tienda.mercadona.es/product/52676/mascarilla-facial-barro-arcilla-rosas-montagne-jeunesse-pack-2",
+    "name": "Mascarilla facial de barro arcilla de rosas Montagne Jeunesse",
+    "description": "Pack-2",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "52677",
     "ean": "8410225537786",
     "brand": "Heno de Pravia",
@@ -34639,6 +34765,15 @@
     "name": "Sticks vegetales Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "52687",
+    "ean": "8402001015045",
+    "brand": "Semiluna",
+    "url": "https://tienda.mercadona.es/product/52687/vino-blanco-chardonnay-semiluna-botella",
+    "name": "Vino blanco Chardonnay Semiluna",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "52716",
