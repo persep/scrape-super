@@ -5004,6 +5004,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "15600",
+    "ean": "8480000156006",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15600/preparado-polvo-crema-pastelera-hacendado-caja",
+    "name": "Preparado en polvo crema pastelera Hacendado",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "15604",
     "ean": "8480000156044",
     "brand": "Hacendado",
@@ -24039,6 +24048,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "35938",
+    "ean": "8402001011252",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35938/vela-perfumada-toffee-bosque-verde-pequena-caja",
+    "name": "Vela perfumada Toffee Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "35939",
     "ean": "8402001011740",
     "brand": "Deliplus",
@@ -34290,6 +34308,24 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "52431",
+    "ean": "8436601370198",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52431/lote-facial-12-essentials-make-up-contiene-labial-fluido-brillo-labios-sombra-pigmento-iluminador-barra-paleta-sombras-lapiz-ojos-polvo-bronceador-pre-base-parpados-balsamo-labial-pincel-sombras-esponja-maquillaje-espejo-tocador-caja",
+    "name": "Lote facial 12 essentials Make up",
+    "description": "Caja",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52432",
+    "ean": "8402001009808",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52432/calendario-adviento-24-cosmeticos-sweet-winter-deliplus-contiene-turbante-corrector-esponja-exfoliante-labial-polvo-bronceador-brocha-3-sombras-ojos-delineador-negro-lapiz-cejas-decoraciones-adhesivas-colorete-lima-iluminador-balsamo-2-lacas-unas-lapiz-labios-2-pintalabios-top-coat-neceser-caja",
+    "name": "Calendario Adviento 24 cosméticos Sweet winter Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52437",
     "ean": "8402001012549",
     "brand": "Hacendado",
@@ -34677,6 +34713,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "52604",
+    "ean": "8402001014345",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52604/capsulas-inmuno-protect-deliplus-contiene-equinacea-vitamina-c-d-elaborado-base-especies-vegetales-caja",
+    "name": "Cápsulas Inmuno Protect Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "52627",
     "ean": "8410500019587",
     "brand": "Activia",
@@ -34729,6 +34774,51 @@
     "name": "Maquinilla de afeitar Gillette Fusion Sport",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52654",
+    "ean": "8414640192391",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/52654/neceser-acolchado-rosa-mediano-uahuu-245-x-135-x-65-mm",
+    "name": "Neceser acolchado rosa mediano Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52655",
+    "ean": "8414640192384",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/52655/neceser-negro-lazo-mediano-uahuu-190-x-140-x-80-mm",
+    "name": "Neceser negro lazo mediano Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52656",
+    "ean": "8414640192377",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52656/neceser-snoopy-pelo-rosa-mediano-con-asa-190-x-120-x-100-mm",
+    "name": "Neceser Snoopy pelo rosa mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52657",
+    "ean": "8414640192407",
+    "brand": "Harry Potter",
+    "url": "https://tienda.mercadona.es/product/52657/neceser-pequeno-harry-potter-180-x-130-x-55-mm",
+    "name": "Neceser pequeño Harry Potter",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52658",
+    "ean": "8414640192414",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/52658/neceser-verde-brillo-pequeno-uahuu-210-x-70-x-50-mm",
+    "name": "Neceser verde brillo pequeño Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "52659",
@@ -54448,6 +54538,15 @@
     "name": "Corazón de chocolate con leche San Valentín Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86905",
+    "ean": "8480000869050",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86905/arroz-tres-delicias-hacendado-ultracongelado-con-2-sazonadores-paquete",
+    "name": "Arroz tres delicias Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
   },
   {
     "id": "86906",
