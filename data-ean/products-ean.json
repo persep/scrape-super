@@ -33030,6 +33030,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50994",
+    "ean": "8480000509949",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50994/queso-viejo-hacendado-madurado-cava-pieza",
+    "name": "Queso viejo Hacendado madurado en cava",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50999",
     "ean": "8480000509994",
     "brand": "Hacendado",
@@ -34882,6 +34891,24 @@
     "name": "Figatells de cerdo",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "52740",
+    "ean": "8402001012044",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52740/stick-arnica-cata-pum-deliplus-caja",
+    "name": "Stick de árnica Cata pum Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "52760",
+    "ean": "8402001012129",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52760/balsamo-facial-corporal-infantil-pieles-atopicas-deliplus-bote",
+    "name": "Bálsamo facial corporal infantil pieles atópicas Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
   },
   {
     "id": "52781",
