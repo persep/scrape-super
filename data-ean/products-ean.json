@@ -23778,6 +23778,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35882",
+    "ean": "8402001007736",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35882/limpiador-muebles-con-ceras-bosque-verde-spray",
+    "name": "Limpiador de Muebles con ceras Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Limpieza muebles y multiusos"
+  },
+  {
     "id": "35884",
     "ean": "8436569262924",
     "brand": null,
@@ -34891,6 +34900,15 @@
     "name": "Figatells de cerdo",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "52730",
+    "ean": "8410436289382",
+    "brand": "Schwarzkopf",
+    "url": "https://tienda.mercadona.es/product/52730/retoca-raices-instantaneo-schwarzkopf-negro-waterproof-root-retouch-spray",
+    "name": "Retoca raíces instantáneo Schwarzkopf negro",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
   },
   {
     "id": "52740",
