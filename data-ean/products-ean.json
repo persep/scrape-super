@@ -13527,6 +13527,15 @@
     "category": "Congelados > Pescado"
   },
   {
+    "id": "24458",
+    "ean": "8480000244581",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24458/tacos-atun-hacendado-congelado-aleta-amarilla-bandeja",
+    "name": "Tacos de atún Hacendado congelado",
+    "description": "Bandeja",
+    "category": "Congelados > Pescado"
+  },
+  {
     "id": "24477",
     "ean": "8480000244772",
     "brand": "Hacendado",
@@ -34306,6 +34315,15 @@
     "name": "Turrón de cheesecake Hacendado",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "52421",
+    "ean": "8402001012051",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52421/yogur-griego-ligero-natural-hacendado-pack-6",
+    "name": "Yogur griego ligero natural Hacendado",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Yogures griegos"
   },
   {
     "id": "52422",
