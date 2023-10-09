@@ -34938,6 +34938,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "52735",
+    "ean": "8410436289498",
+    "brand": "Schwarzkopf",
+    "url": "https://tienda.mercadona.es/product/52735/retoca-raices-instantaneo-schwarzkopf-castano-oscuro-waterproof-root-retouch-spray",
+    "name": "Retoca raíces instantáneo Schwarzkopf castaño oscuro",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "52740",
     "ean": "8402001012044",
     "brand": "Deliplus",
@@ -43591,6 +43600,15 @@
     "ean": "8480000690791",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69079/cebollas-malla",
+    "name": "Cebollas",
+    "description": "Malla",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69089",
+    "ean": "8480000690890",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69089/cebollas-malla",
     "name": "Cebollas",
     "description": "Malla",
     "category": "Fruta y verdura > Verdura"
