@@ -17460,6 +17460,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "30501",
+    "ean": "8480000305015",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/30501/mandarinas-bandeja",
+    "name": "Mandarinas",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3065",
     "ean": "8480000030658",
     "brand": null,
@@ -35548,6 +35557,15 @@
     "name": "Bebida energética Energy Drink Zero Hacendado",
     "description": "Pack-6",
     "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "5598",
+    "ean": "8480000055989",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5598/oregano-hacendado-bote",
+    "name": "Orégano Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "5599",
@@ -53728,6 +53746,15 @@
     "name": "Picos 100% integrales Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "86224",
+    "ean": "8480000862242",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86224/tarta-infantil-tesia-and-friends-hacendado-congelada",
+    "name": "Tarta infantil Barbie Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "86225",
