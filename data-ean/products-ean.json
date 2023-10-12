@@ -34389,6 +34389,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "52442",
+    "ean": "8402001013102",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52442/barritas-peanuts-banadas-chocolate-con-leche-rellenas-con-caramelo-cacahuetes-tostados-crema-azucarada-hacendado-paquete",
+    "name": "Barritas Peanuts bañadas de chocolate con leche y rellenas con caramelo, cacahuetes tostados y crema azucarada Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "52443",
     "ean": "8410109127256",
     "brand": "Senzza",
@@ -34927,6 +34936,15 @@
     "name": "Vino blanco Chardonnay Semiluna",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "52699",
+    "ean": "8402001012662",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52699/paleta-sombras-ojos-nude-again-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombras de ojos Nude Again Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "52716",
