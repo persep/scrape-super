@@ -25299,6 +25299,15 @@
     "category": "Zumos > Tomate y otros sabores"
   },
   {
+    "id": "3914",
+    "ean": "8480000039149",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3914/caqui-persimon-pieza",
+    "name": "Caqui persimón",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "3915",
     "ean": "8480000039156",
     "brand": null,
@@ -25342,6 +25351,15 @@
     "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
     "description": "Pack-6",
     "category": "Zumos > Melocotón y piña"
+  },
+  {
+    "id": "3928",
+    "ean": "8480000039286",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3928/caquis-persimon-bandeja",
+    "name": "Caquis persimón",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "39301",
