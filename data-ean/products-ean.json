@@ -22464,6 +22464,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "35649",
+    "ean": "8402001008832",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35649/azucar-glas-hacendado-bote",
+    "name": "Azúcar glas Hacendado",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
     "id": "35650",
     "ean": "8402001007354",
     "brand": "Deliplus",
@@ -23911,6 +23920,15 @@
     "name": "Surtido de golosinas Halloween Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "35909",
+    "ean": "8402001011900",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35909/bombones-cereza-licor-hacendado-con-chocolate-negro-paquete",
+    "name": "Bombones cereza al licor Hacendado con chocolate negro",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "35910",
@@ -54673,6 +54691,24 @@
     "name": "Golosinas Rega Black Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "86866",
+    "ean": "8411327007764",
+    "brand": "Mahou",
+    "url": "https://tienda.mercadona.es/product/86866/cerveza-especial-mini-mahou-pack-12",
+    "name": "Cerveza especial mini Mahou",
+    "description": "Pack-12",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "86867",
+    "ean": "8411327007733",
+    "brand": "Mahou",
+    "url": "https://tienda.mercadona.es/product/86867/cerveza-especial-mini-mahou-botellin",
+    "name": "Cerveza especial mini Mahou",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "86868",
