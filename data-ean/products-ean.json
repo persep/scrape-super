@@ -31374,6 +31374,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "4791",
+    "ean": "8480000047915",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4791/aceitunas-verdes-rellenas-boqueron-hacendado-vinagre-bote",
+    "name": "Aceitunas verdes rellenas de boquerón Hacendado en vinagre",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "4793",
     "ean": "8480000047939",
     "brand": "Hacendado",
@@ -34416,6 +34425,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "52429",
+    "ean": "8402001010163",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52429/pintalabios-fluido-mate-deliplus-12-fucsia-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 12 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "52431",
     "ean": "8436601370198",
     "brand": null,
@@ -34902,6 +34920,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52649",
+    "ean": "3616304693649",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/52649/eau-toilette-hombre-adidas-champions-star-frasco",
+    "name": "Eau de toilette hombre Adidas Champions Star",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52654",
     "ean": "8414640192391",
     "brand": "Uahuu",
@@ -35008,6 +35035,24 @@
     "name": "Figatells de cerdo",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "52725",
+    "ean": "8402001013324",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52725/laca-unas-alto-brillo-deliplus-79-azul",
+    "name": "Laca de uñas alto brillo Deliplus 79 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52727",
+    "ean": "8402001013331",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52727/laca-unas-alto-brillo-deliplus-80-mostaza",
+    "name": "Laca de uñas alto brillo Deliplus 80 mostaza",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "52730",
