@@ -5661,6 +5661,24 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "15847",
+    "ean": "8480000158475",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15847/turron-blando-crema-almendras-hacendado-0-sin-azucares-anadidos-tableta",
+    "name": "Turrón blando crema de almendras Hacendado 0% sin azúcares añadidos",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "15848",
+    "ean": "8480000158482",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15848/turron-imperial-con-almendras-hacendado-0-sin-azucares-anadidos-tableta",
+    "name": "Turrón imperial con almendras Hacendado 0% sin azúcares añadidos",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "15859",
     "ean": "84105905",
     "brand": "Amstel",
@@ -5668,6 +5686,24 @@
     "name": "Cerveza Amstel",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "15860",
+    "ean": "8480000158604",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15860/figuritas-mazapan-hacendado-paquete",
+    "name": "Figuritas de mazapán Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "15861",
+    "ean": "8480000158611",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15861/mazapan-soto-hacendado-paquete",
+    "name": "Mazapán de Soto Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "15862",
@@ -5713,6 +5749,24 @@
     "name": "Haba frita con sal Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "15897",
+    "ean": "8480000158970",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15897/turron-cacahuete-blando-hacendado-tableta",
+    "name": "Turrón de cacahuete blando Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "15898",
+    "ean": "8480000158987",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15898/turron-cacahuete-duro-hacendado-tableta",
+    "name": "Turrón de cacahuete duro Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "15901",
@@ -9054,6 +9108,24 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "22094",
+    "ean": "8480000220943",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22094/turron-blando-porciones-hacendado-calidad-suprema-paquete",
+    "name": "Turrón blando en porciones Hacendado calidad suprema",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "22099",
+    "ean": "8480000220998",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22099/surtido-mini-turrones-hacendado-contiene-turron-duro-turron-blando-turron-yema-tostada-turron-chocolate-crujiente-paquete",
+    "name": "Surtido de mini turrones Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "22101",
     "ean": "8480000221018",
     "brand": "Hacendado",
@@ -10528,6 +10600,15 @@
     "name": "Helado barrita crema sabor coco Hacendado con cobertura de chocolate con leche",
     "description": "Caja",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "22838",
+    "ean": "8410109120868",
+    "brand": "Senzza",
+    "url": "https://tienda.mercadona.es/product/22838/surtido-bombones-senzza-0-azucares-anadidos-paquete",
+    "name": "Surtido bombones Senzza 0% azúcares añadidos",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "22840",
@@ -24453,6 +24534,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "36013",
+    "ean": "8480000360137",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36013/pan-cadiz-hacendado-caja",
+    "name": "Pan de Cádiz Hacendado",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "36014",
     "ean": "8480000360144",
     "brand": "Hacendado",
@@ -24471,6 +24561,42 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "36029",
+    "ean": "8480000360298",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36029/turron-guirlache-hacendado-tableta",
+    "name": "Turrón de guirlache Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36030",
+    "ean": "8480000360304",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36030/turron-praline-3-chocolates-hacendado-tableta",
+    "name": "Turrón 3 chocolates Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36032",
+    "ean": "8480000360328",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36032/turron-crema-catalana-hacendado-tableta",
+    "name": "Turrón crema catalana Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36033",
+    "ean": "8480000360335",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36033/turron-yogur-con-arandanos-fresa-hacendado-tableta",
+    "name": "Turrón de yogur con arándanos y fresa Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "36051",
     "ean": "7622201639679",
     "brand": "Cadbury",
@@ -24478,6 +24604,60 @@
     "name": "Huevos de chocolate con leche Spoon con relleno Pascua Cadbury",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "36126",
+    "ean": "8480000361264",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36126/turron-chocolate-negro-crujiente-hacendado-tableta",
+    "name": "Turrón de chocolate negro crujiente Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36127",
+    "ean": "8480000361271",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36127/turron-chocolate-blanco-crujiente-hacendado-tableta",
+    "name": "Turrón de chocolate blanco crujiente Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36136",
+    "ean": "8480000361363",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36136/turron-chocolate-blanco-con-limon-hacendado-tableta",
+    "name": "Turrón de chocolate blanco con limón Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36143",
+    "ean": "8480000361431",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36143/turron-pistacho-hacendado-tableta",
+    "name": "Turrón de pistacho Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36203",
+    "ean": "8480000362032",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36203/barquillos-rellenos-turron-hacendado-bote",
+    "name": "Barquillos rellenos de turrón Hacendado",
+    "description": "Bote",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "36204",
+    "ean": "8480000362049",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36204/barquillos-rellenos-chocolate-hacendado-bote",
+    "name": "Barquillos rellenos de chocolate Hacendado",
+    "description": "Bote",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "36205",
@@ -24498,6 +24678,24 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "36333",
+    "ean": "8480000363336",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36333/turron-yema-tostada-hacendado-tableta",
+    "name": "Turrón de yema tostada Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "36334",
+    "ean": "8480000363343",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36334/turron-fruta-hacendado-tableta",
+    "name": "Turrón de fruta Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "36403",
     "ean": "8480000364036",
     "brand": "Hacendado",
@@ -24505,6 +24703,24 @@
     "name": "Huesos de santo Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "36421",
+    "ean": "8480000364210",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36421/almendras-rellenas-turron-hacendado-paquete",
+    "name": "Almendras rellenas de turrón Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "36434",
+    "ean": "8480000364340",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36434/peladillas-hacendado-paquete",
+    "name": "Peladillas Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "3649",
@@ -24541,6 +24757,15 @@
     "name": "Filetes pechuga de pollo extra tiernos",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "36705",
+    "ean": "8480000367051",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36705/pinones-hacendado-paquete",
+    "name": "Piñones Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "3677",
@@ -34398,6 +34623,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "52420",
+    "ean": "8410152000315",
+    "brand": "Antiu Xixona",
+    "url": "https://tienda.mercadona.es/product/52420/turron-crocant-con-frutos-secos-antiu-xixona-calidad-suprema-tableta",
+    "name": "Turrón Crocant con frutos secos Antiu Xixona calidad suprema",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "52421",
     "ean": "8402001012051",
     "brand": "Hacendado",
@@ -34479,6 +34713,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "52444",
+    "ean": "8410109127249",
+    "brand": "Senzza",
+    "url": "https://tienda.mercadona.es/product/52444/surtido-bombones-postres-senzza-dulce-leche-tarta-chocolate-nata-stracciatella-paquete",
+    "name": "Surtido bombones Postres Senzza de dulce de leche, tarta de chocolate y nata y stracciatella",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "52445",
     "ean": "8402001010521",
     "brand": "Hacendado",
@@ -34531,6 +34774,15 @@
     "name": "Surtido bombones Cadbury",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52460",
+    "ean": "8402001012761",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52460/tortitas-turron-almendra-hacendado-calidad-suprema-caja",
+    "name": "Tortitas de turrón de almendra Hacendado calidad suprema",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "52464",
@@ -35019,6 +35271,33 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "52696",
+    "ean": "8402001012402",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52696/laca-unas-glimmer-deliplus-205-glitter",
+    "name": "Laca de uñas Glimmer Deliplus 205 glitter",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52697",
+    "ean": "8402001012419",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52697/laca-unas-glimmer-deliplus-206-dorado",
+    "name": "Laca de uñas Glimmer Deliplus 206 Dorado",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52698",
+    "ean": "8402001012426",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52698/laca-unas-glimmer-deliplus-207-rojo",
+    "name": "Laca de uñas Glimmer Deliplus 207 rojo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52699",
     "ean": "8402001012662",
     "brand": "Deliplus",
@@ -35485,6 +35764,15 @@
     "name": "Chorizo picante extra Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "5464",
+    "ean": "8480000054647",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5464/semillas-chia-hacendado-paquete",
+    "name": "Semillas de chía Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "5500",
@@ -38867,6 +39155,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/62198/rodajas-merluza-hacendado-ultracongeladas-paquete",
     "name": "Rodajas de merluza Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
+  },
+  {
+    "id": "62228",
+    "ean": "8480000622280",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62228/filetes-merluza-sin-piel-hacendado-ultracongelados-paquete",
+    "name": "Filetes de merluza sin piel Hacendado ultracongelados",
     "description": "Paquete",
     "category": "Congelados > Pescado"
   },
@@ -42874,6 +43171,15 @@
     "name": "Lote Precision System 6 Deliplus",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "67835",
+    "ean": "8480000678355",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67835/torta-imperial-hacendado-caja",
+    "name": "Torta imperial Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "67836",
