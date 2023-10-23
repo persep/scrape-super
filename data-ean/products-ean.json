@@ -18405,6 +18405,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "3333",
+    "ean": "8437011889034",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3333/calabaza-halloween",
+    "name": "Calabaza de Halloween",
+    "description": null,
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "33335",
     "ean": "8480000333353",
     "brand": "Hacendado",
@@ -24597,6 +24606,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "36041",
+    "ean": "8480000360410",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36041/turron-chocolate-con-almendras-hacendado-0-sin-azucares-anadidos-tableta",
+    "name": "Turrón de chocolate con almendras Hacendado 0% sin azúcares añadidos",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "36051",
     "ean": "7622201639679",
     "brand": "Cadbury",
@@ -24604,6 +24622,15 @@
     "name": "Huevos de chocolate con leche Spoon con relleno Pascua Cadbury",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "36109",
+    "ean": "8480000361097",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36109/turron-chocolate-negro-72-hacendado-con-almendras-tableta",
+    "name": "Turrón de chocolate negro 72% Hacendado con almendras",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "36126",
@@ -24676,6 +24703,15 @@
     "name": "Trufas clásicas al cacao Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "36313",
+    "ean": "8480000363138",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/36313/turron-chocolate-con-almendras-hacendado-tableta",
+    "name": "Turrón de chocolate con almendras Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "36333",
