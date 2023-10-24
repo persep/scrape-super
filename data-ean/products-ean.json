@@ -5769,6 +5769,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "15900",
+    "ean": "8480000159007",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15900/turron-coco-hacendado-tableta",
+    "name": "Turrón de coco Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "15901",
     "ean": "8480000159014",
     "brand": "Hacendado",
@@ -17505,6 +17514,15 @@
     "category": "Carne > Carne congelada"
   },
   {
+    "id": "30167",
+    "ean": "8437019922153",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/30167/huevos-paquete",
+    "name": "Huevos",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
+  },
+  {
     "id": "3021",
     "ean": "8480000030214",
     "brand": null,
@@ -22797,6 +22815,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35678",
+    "ean": "8402001009075",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35678/compresa-sin-alas-incontinencia-deliplus-extra-paquete",
+    "name": "Compresa sin alas de incontinencia Deliplus Extra",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "35679",
     "ean": "8402001009082",
     "brand": "Deliplus",
@@ -23859,6 +23886,15 @@
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
   {
+    "id": "35873",
+    "ean": "8402001010736",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35873/perfilador-labios-long-lasting-deliplus-08-granate",
+    "name": "Perfilador de labios Long Lasting Deliplus 08 granate",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35874",
     "ean": "8410843146506",
     "brand": null,
@@ -24570,6 +24606,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "36020",
+    "ean": "8410152000070",
+    "brand": "Antiu Xixona",
+    "url": "https://tienda.mercadona.es/product/36020/turron-blando-jijona-antiu-xixona-tableta",
+    "name": "Turrón blando de Jijona Antiu Xixona",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "36029",
     "ean": "8480000360298",
     "brand": "Hacendado",
@@ -24694,6 +24739,15 @@
     "name": "Tubitos Hacendado",
     "description": "Bote",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "36304",
+    "ean": "7622210307194",
+    "brand": "Suchard",
+    "url": "https://tienda.mercadona.es/product/36304/turron-chocolate-suchard-tableta",
+    "name": "Turrón de chocolate Suchard",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "36307",
@@ -34821,6 +34875,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "52461",
+    "ean": "8402001012778",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52461/tortitas-turron-almendra-con-chocolate-hacendado-calidad-suprema-caja",
+    "name": "Tortitas de turrón de almendra con chocolate Hacendado calidad suprema",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "52464",
     "ean": "8402001012259",
     "brand": "Deliplus",
@@ -34974,6 +35037,15 @@
     "category": "Postres y yogures > Postres de soja"
   },
   {
+    "id": "52514",
+    "ean": "8411396001359",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52514/solomillos-pollo-marinados-empanados-sin-gluten-bandeja",
+    "name": "Solomillos de pollo marinados empanados sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "52517",
     "ean": "8402001013454",
     "brand": "Hacendado",
@@ -35035,6 +35107,15 @@
     "name": "Discos impregnados ácido salicílico Deliplus",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "52533",
+    "ean": "8402001013157",
+    "brand": "Piccolo Giovanni",
+    "url": "https://tienda.mercadona.es/product/52533/lambrusco-dellemilia-rosado-espumoso-piccolo-giovanni-botella",
+    "name": "Lambrusco dell'Emilia rosado espumoso Piccolo Giovanni",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
   },
   {
     "id": "52534",
@@ -53757,6 +53838,159 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "85649",
+    "ean": "8411171001130",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85649/polvoroncito-chocolate-muralla",
+    "name": "Polvoroncito de chocolate La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85701",
+    "ean": "8411171000348",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85701/mantecado-casero-muralla",
+    "name": "Mantecado casero La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85702",
+    "ean": "8411171000867",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85702/mantecado-aceite-oliva-muralla",
+    "name": "Mantecado de aceite de oliva La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85705",
+    "ean": "8411171000973",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85705/mantecado-coco-muralla",
+    "name": "Mantecado de coco La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85708",
+    "ean": "8411171000355",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85708/polvoron-almendra-muralla",
+    "name": "Polvorón de almendra La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85709",
+    "ean": "8412438005366",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85709/mantecado-cacao-muralla",
+    "name": "Mantecado de cacao La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85713",
+    "ean": "8411171000393",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85713/hojaldrada-muralla",
+    "name": "Hojaldrada La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85714",
+    "ean": "2105900857148",
+    "brand": "Antiu Xixona",
+    "url": "https://tienda.mercadona.es/product/85714/bolitas-coco-antiu-xixona",
+    "name": "Bolitas de coco Antiu Xixona",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85715",
+    "ean": "8411171001031",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85715/hojaldrada-chocolate-muralla",
+    "name": "Hojaldrada al chocolate La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85716",
+    "ean": "8411171000324",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85716/alfajor-almendra-muralla",
+    "name": "Alfajor de almendra La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85717",
+    "ean": "8411171000331",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85717/rosco-vino-almendra-muralla",
+    "name": "Rosco de vino y almendra La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85719",
+    "ean": "8411171001161",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85719/hojaldrada-crema-sin-azucar-anadido-muralla",
+    "name": "Hojaldrada de crema sin azúcar añadido La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85725",
+    "ean": "8412438005373",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85725/mantecado-limon-muralla",
+    "name": "Mantecado de limón La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85733",
+    "ean": "8411171000874",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85733/mantecado-canela-muralla",
+    "name": "Mantecado de canela La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85745",
+    "ean": "8411171001178",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85745/cortadillo-cabello-angel-muralla",
+    "name": "Cortadillo de cabello de Ángel La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85750",
+    "ean": "8411171000416",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85750/mantecado-casero-sin-azucar-anadido-muralla",
+    "name": "Mantecado casero sin azúcar añadido La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85780",
+    "ean": "8411171000423",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85780/mantecado-limon-sin-azucar-anadido-muralla",
+    "name": "Mantecado de limón sin azúcar añadido La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "85786",
     "ean": "8480000857866",
     "brand": "Hacendado",
@@ -53807,6 +54041,24 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/85795/hojaldre-cabello-angel-hacendado",
     "name": "Hojaldre cabello de Ángel Hacendado",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85844",
+    "ean": "8411171000751",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85844/mantecado-limon-sin-gluten-muralla",
+    "name": "Mantecado de limón sin gluten La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "85845",
+    "ean": "8411171000812",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/85845/mantecado-cacao-sin-gluten-muralla",
+    "name": "Mantecado de cacao sin gluten La Muralla",
     "description": null,
     "category": "Panadería y pastelería > Bollería envasada"
   },
