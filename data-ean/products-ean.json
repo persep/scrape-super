@@ -33255,6 +33255,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50939",
+    "ean": "8480000509390",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50939/queso-mezcla-semicurado-hacendado-pieza",
+    "name": "Queso mezcla semicurado Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50941",
     "ean": "8480000509413",
     "brand": "Hacendado",
@@ -35215,6 +35224,15 @@
     "name": "Cápsulas Probiótico Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "52592",
+    "ean": "8402001013195",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52592/galletas-divertidas-chocolate-con-leche-hacendado-caja",
+    "name": "Galletas Divertidas chocolate con leche Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "52602",
