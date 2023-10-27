@@ -23166,6 +23166,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "35734",
+    "ean": "8402001009730",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35734/tiras-protectoras-espuma-acolchado-deliplus-proteccion-extra-caja",
+    "name": "Tiras protectoras de espuma acolchado Deliplus protección extra",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "35736",
     "ean": "8402001011351",
     "brand": "Knebep",
@@ -35307,6 +35316,24 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "52639",
+    "ean": "8402001014574",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52639/bebida-avena-hacendado-0-azucar-pack-6",
+    "name": "Bebida de avena Hacendado 0% azúcar",
+    "description": "Pack-6",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "52640",
+    "ean": "8402001014581",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52640/bebida-avena-hacendado-0-azucar-brick",
+    "name": "Bebida de avena Hacendado 0% azúcar",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "52643",
     "ean": "8700216239929",
     "brand": "Gillette",
@@ -35395,6 +35422,15 @@
     "name": "Lote corporal mujer Dove",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "52673",
+    "ean": "8402001014314",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52673/cera-cabello-mate-deliplus-fijacion-4-profix-bote",
+    "name": "Cera cabello Mate Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
   },
   {
     "id": "52676",
@@ -43765,6 +43801,15 @@
     "name": "Danonino sabor fresa y plátano Danone",
     "description": "Pack-6",
     "category": "Postres y yogures > Yogures y postres infantiles"
+  },
+  {
+    "id": "68130",
+    "ean": "8480000681300",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/68130/lechuga-iceberg-pieza",
+    "name": "Lechuga Iceberg",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
     "id": "68131",
