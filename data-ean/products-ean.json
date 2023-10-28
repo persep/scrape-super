@@ -4977,6 +4977,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "15589",
+    "ean": "8480000155894",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15589/patatas-fritas-corte-ondulado-hacendado-paquete",
+    "name": "Patatas fritas corte ondulado Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "15590",
     "ean": "8480000155900",
     "brand": "Hacendado",
@@ -35424,6 +35433,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "52660",
+    "ean": "8414640192353",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52660/neceser-chupachups-fucsia-grande-240-x-200-x-70-mm",
+    "name": "Neceser Chupachups fucsia grande",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52673",
     "ean": "8402001014314",
     "brand": "Deliplus",
@@ -35971,6 +35989,15 @@
     "name": "Semillas de chía Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "5481",
+    "ean": "8480000054814",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5481/pepinillos-agridulces-hacendado-calibre-pequeno-tarro",
+    "name": "Pepinillos agridulces Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "5500",
