@@ -9477,6 +9477,15 @@
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
+    "id": "22266",
+    "ean": "8480000222664",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22266/figura-chocolate-papa-noel-hacendado-caja",
+    "name": "Figura de chocolate Papá Noel Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "22278",
     "ean": "8410184040754",
     "brand": "Sabroz",
@@ -34911,6 +34920,15 @@
     "category": "Panadería y pastelería > Harina y preparado repostería"
   },
   {
+    "id": "52455",
+    "ean": "8421699226595",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52455/piruleta-chocolate-con-leche-hacendado-navidad",
+    "name": "Piruleta de chocolate con leche Hacendado Navidad",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "52456",
     "ean": "7622201734848",
     "brand": "Cadbury",
@@ -41526,12 +41544,30 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "65721",
+    "ean": "8480000657213",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/65721/surtido-figuras-chocolate-hacendado-paquete",
+    "name": "Surtido figuras de chocolate Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "65732",
     "ean": "8480000657329",
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/65732/surtido-chocolate-con-leche-pascua-hacendado-paquete",
     "name": "Surtido de chocolate con leche Pascua Hacendado",
     "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "65738",
+    "ean": "8480000657381",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/65738/calendario-adviento-con-chocolatinas-hacendado-chocolate-con-leche",
+    "name": "Calendario de Adviento Papá Noel con chocolatinas Hacendado de chocolate con leche",
+    "description": null,
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
@@ -43236,6 +43272,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "67755",
+    "ean": "8480000677556",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67755/calendario-adviento-con-chocolatinas-hacendado-chocolate-con-leche-paw-patrol",
+    "name": "Calendario de Adviento Reyes Magos con chocolatinas Hacendado de chocolate con leche",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "67766",
     "ean": "8480000677662",
     "brand": "Hacendado",
@@ -43387,6 +43432,24 @@
     "name": "Tinto de verano classic Casón Histórico",
     "description": "Botella",
     "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "67820",
+    "ean": "8480000678201",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67820/panettone-con-pasas-naranja-giuseppe-caja",
+    "name": "Panettone con pasas y naranja Hacendado",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "67821",
+    "ean": "8480000678218",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/67821/panettone-con-pepitas-chocolate-giuseppe-caja",
+    "name": "Panettone con pepitas de chocolate Hacendado",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "67832",
