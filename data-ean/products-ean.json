@@ -3447,6 +3447,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "13708",
+    "ean": "2105171137086",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13708/muslo-pato-confitado-hacendado-bandeja",
+    "name": "Muslo de pato confitado Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "13709",
     "ean": "2105171137093",
     "brand": "Hacendado",
@@ -35064,6 +35073,15 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "52494",
+    "ean": "8402001013829",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52494/barritas-galleta-rellenas-arandanos-hacendado-caja",
+    "name": "Barritas de galleta rellenas de arándanos Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "5250",
     "ean": "8480000052506",
     "brand": "Hacendado",
@@ -35217,6 +35235,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "52561",
+    "ean": "8402001010224",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52561/helado-sabor-huevo-chocolate-hacendado-tarrina",
+    "name": "Helado sabor huevo de chocolate Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "52562",
     "ean": "8402001010170",
     "brand": "Hacendado",
@@ -35314,6 +35341,60 @@
     "name": "Cápsulas Inmuno Protect Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "52608",
+    "ean": "3616304825057",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52608/maquillaje-fluido-lasting-finish-rimmel-london-100-ivory-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 100 Ivory",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52609",
+    "ean": "3616304825095",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52609/maquillaje-fluido-lasting-finish-rimmel-london-170-wheat-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 170 Wheat",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52610",
+    "ean": "3616304825101",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52610/maquillaje-fluido-lasting-finish-rimmel-london-200-soft-beige-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 200 Soft beige",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52611",
+    "ean": "3616304825125",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52611/maquillaje-fluido-lasting-finish-rimmel-london-203-true-beige-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 203 True beige",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52612",
+    "ean": "3616304825132",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52612/maquillaje-fluido-lasting-finish-rimmel-london-210-golden-beige-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 210 Golden beige",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52613",
+    "ean": "3616304825163",
+    "brand": "Rimmel London",
+    "url": "https://tienda.mercadona.es/product/52613/maquillaje-fluido-lasting-finish-rimmel-london-303-honey-fps-20",
+    "name": "Maquillaje fluido Lasting Finish Rimmel London 303 Honey",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "52627",
@@ -35638,6 +35719,15 @@
     "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52873",
+    "ean": "8410376040579",
+    "brand": "Gullón",
+    "url": "https://tienda.mercadona.es/product/52873/tortitas-arroz-integral-vitalday-gullon-paquete",
+    "name": "Tortitas de arroz integral Vitalday Gullón",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Tortitas"
   },
   {
     "id": "52884",
