@@ -24426,6 +24426,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "35969",
+    "ean": "8402001009525",
+    "brand": "Dama Mayor",
+    "url": "https://tienda.mercadona.es/product/35969/licor-anis-dulce-dama-mayor-botella",
+    "name": "Licor de anís dulce Dama Mayor",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "35971",
     "ean": "8402001013782",
     "brand": "Deliplus",
@@ -35314,6 +35323,15 @@
     "name": "Caramelos sabor eucalipto y mentol Hacendado extra forte",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "52588",
+    "ean": "8402001014611",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52588/ambientador-electrico-sugar-bosque-verde-6-fragancias-recambio-caja",
+    "name": "Ambientador eléctrico Sugar Bosque Verde 6 fragancias",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "52589",
