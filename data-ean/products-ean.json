@@ -24057,6 +24057,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35892",
+    "ean": "8402001010873",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35892/muesli-crunchy-hacendado-0-azucares-anadidos-0-edulcorantes-paquete",
+    "name": "Muesli Crunchy Hacendado 0% azúcares añadidos 0% edulcorantes",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "35893",
     "ean": "8414640192155",
     "brand": null,
@@ -55771,6 +55780,42 @@
     "name": "Fartons",
     "description": "Bandeja",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "87025",
+    "ean": "8436554810048",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87025/roscon-reyes-relleno-con-crema-congelado-caja",
+    "name": "Roscón de Reyes relleno con crema congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87027",
+    "ean": "8437011891105",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87027/roscon-reyes-relleno-preparado-base-nata-congelado-caja",
+    "name": "Roscón de Reyes relleno de preparado a base de nata congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87028",
+    "ean": "8437011891112",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87028/roscon-reyes-relleno-preparado-base-nata-cacao-congelado-caja",
+    "name": "Roscón de Reyes relleno de preparado a base de nata y cacao congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87029",
+    "ean": "8437011891129",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87029/roscon-reyes-sin-relleno-congelado-caja",
+    "name": "Roscón de Reyes sin relleno congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "8713",
