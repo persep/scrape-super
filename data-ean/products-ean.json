@@ -4428,6 +4428,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "14502",
+    "ean": "8480000145024",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14502/bollitos-glaseados-hacendado-caja",
+    "name": "Bollitos glaseados Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "14555",
     "ean": "8480000145550",
     "brand": "Hacendado",
@@ -26973,6 +26982,15 @@
     "category": "Carne > Carne congelada"
   },
   {
+    "id": "40720",
+    "ean": "8480000407207",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/40720/paletilla-lechal-entera-congelada-pieza",
+    "name": "Paletilla de lechal entera congelada",
+    "description": "Pieza",
+    "category": "Carne > Carne congelada"
+  },
+  {
     "id": "4073",
     "ean": "8436035016556",
     "brand": null,
@@ -31806,6 +31824,15 @@
     "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
+    "id": "47994",
+    "ean": "8480000479945",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/47994/hoja-laurel-hacendado-paquete",
+    "name": "Hoja de laurel Hacendado",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "47995",
     "ean": "8414100364313",
     "brand": "Schweppes",
@@ -34830,6 +34857,24 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "52424",
+    "ean": "8402001012396",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52424/galletas-con-almendra-chocolate-hacendado-caja",
+    "name": "Galletas con almendra y chocolate Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "52425",
+    "ean": "8402001012389",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52425/galletas-caramelo-jengibre-hacendado-caja",
+    "name": "Galletas caramelo y jengibre Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "52429",
     "ean": "8402001010163",
     "brand": "Deliplus",
@@ -35728,6 +35773,15 @@
     "name": "Stick de árnica Cata pum Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "52755",
+    "ean": "8402001013737",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52755/laca-unas-alto-brillo-deliplus-78-rojo",
+    "name": "Laca de uñas alto brillo Deliplus 78 Rojo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "52760",
