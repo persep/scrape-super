@@ -12528,6 +12528,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "23596",
+    "ean": "8480000235961",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23596/pate-pollo-asado-hacendado-tarro",
+    "name": "Paté de pollo asado Hacendado",
+    "description": "Tarro",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "23608",
     "ean": "8480000236081",
     "brand": "Bosque Verde",
@@ -21047,6 +21056,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/35382/brillo-labios-volumizer-gloss-deliplus-06-morado",
     "name": "Brillo de labios Volumizer gloss Deliplus 06 morado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "35383",
+    "ean": "8402001010576",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35383/brillo-labios-volumizer-gloss-deliplus-07-transparente-con-destellos",
+    "name": "Brillo de labios Volumizer gloss Deliplus 07 transparente con destellos",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -35289,6 +35307,24 @@
     "category": "Congelados > Verdura"
   },
   {
+    "id": "52545",
+    "ean": "8402001012471",
+    "brand": "My Moment",
+    "url": "https://tienda.mercadona.es/product/52545/lote-facial-ritual-iluminador-efecto-lifting-my-moment-contiene-mascarilla-facial-75-ml-mascara-silicona-reutilizable-lavable-caja",
+    "name": "Lote facial Ritual iluminador y efecto lifting My Moment",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "52546",
+    "ean": "8402001012457",
+    "brand": "My moment",
+    "url": "https://tienda.mercadona.es/product/52546/lote-facial-contorno-ojos-my-moment-contiene-2-parches-hidrogel-gel-contorno-ojos-eye-roller-caja",
+    "name": "Lote facial para contorno de ojos My moment",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "52553",
     "ean": "8700216168601",
     "brand": "Ariel",
@@ -35377,6 +35413,105 @@
     "name": "Caramelos sabor eucalipto y mentol Hacendado extra forte",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "52571",
+    "ean": "8402001009204",
+    "brand": "Shine",
+    "url": "https://tienda.mercadona.es/product/52571/eau-parfum-mujer-poem-shine-frasco",
+    "name": "Eau de parfum mujer Poem Shine",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52572",
+    "ean": "8428390829827",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/52572/mini-eau-parfum-mujer-flor-mayo-shiny-cup-cake-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Shiny Cup Cake",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52573",
+    "ean": "8428390829797",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/52573/mini-eau-parfum-hombre-flor-mayo-football-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Football",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52575",
+    "ean": "8402001009488",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/52575/lote-mujer-oro-contiene-eau-toilette-100-ml-vela-perfumada-125g-caja",
+    "name": "Lote mujer Como Tú Oro",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52576",
+    "ean": "8427640001808",
+    "brand": "Selk",
+    "url": "https://tienda.mercadona.es/product/52576/lote-mujer-selk-just-contiene-eau-parfum-100-ml-gel-bano-100-ml-locion-corporal-100-ml-caja",
+    "name": "Lote mujer Selk Just Me",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52577",
+    "ean": "8402001009457",
+    "brand": "Elección",
+    "url": "https://tienda.mercadona.es/product/52577/lote-mujer-eleccion-contiene-eau-parfum-100ml-crema-manos-30-ml-body-milk-100-ml-caja-decorativa-multiusos-con-asa-caja",
+    "name": "Lote mujer Elección",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52578",
+    "ean": "8402001009464",
+    "brand": "Rose Nude",
+    "url": "https://tienda.mercadona.es/product/52578/lote-mujer-rose-nude-contiene-eau-parfum-100-ml-crema-manos-30-ml-body-milk-75-ml-joyero-con-espejo-caja",
+    "name": "Lote mujer Rose Nude",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52579",
+    "ean": "8402001009471",
+    "brand": "Soplo",
+    "url": "https://tienda.mercadona.es/product/52579/lote-mujer-soplo-intense-contiene-eau-toilette-100-ml-bolso-pelo-sintetico-caja",
+    "name": "Lote mujer Soplo Intense",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52580",
+    "ean": "8402001009815",
+    "brand": "Éclat Shine",
+    "url": "https://tienda.mercadona.es/product/52580/lote-mujer-eclat-shine-contiene-eau-parfum-100-ml-colgante-multiusos-caja",
+    "name": "Lote mujer Éclat Shine",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52581",
+    "ean": "8402001009426",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/52581/lote-mujer-amor-contiene-eau-toilette-100-ml-body-milk-100-ml-neceser-doble-bolsillo",
+    "name": "Lote mujer Como tú Amor",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52582",
+    "ean": "8402001009501",
+    "brand": "Ella",
+    "url": "https://tienda.mercadona.es/product/52582/lote-mujer-contiene-eau-parfum-100ml-body-milk-100ml-caja",
+    "name": "Lote mujer Ella",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "52588",
@@ -36198,6 +36333,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "5480",
+    "ean": "8480000054807",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5480/pepinillos-agridulces-hacendado-calibre-grande-tarro",
+    "name": "Pepinillos agridulces Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "5481",
     "ean": "8480000054814",
     "brand": "Hacendado",
@@ -36547,6 +36691,15 @@
     "name": "Surtido sushi Bento mix",
     "description": "Bandeja",
     "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "5712",
+    "ean": "8480000057129",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5712/pate-cerdo-iberico-con-trufas-hacendado-tarro",
+    "name": "Paté de cerdo ibérico con trufas Hacendado",
+    "description": "Tarro",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "5716",
@@ -36934,6 +37087,15 @@
     "name": "Jamón gran reserva cortado a máquina",
     "description": "Paquete",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "58421",
+    "ean": "8480000584212",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/58421/lomo-bellota-100-iberico-hacienda-iberico-pieza",
+    "name": "Lomo de bellota 100% ibérico La Hacienda del ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "58488",
@@ -55582,6 +55744,15 @@
     "name": "Empanada murciana",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "86785",
+    "ean": "8480000867858",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86785/pate-cerdo-hacendado-con-cebolla-caramelizada-lata",
+    "name": "Paté de cerdo Hacendado con cebolla caramelizada",
+    "description": "Lata",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "86786",
