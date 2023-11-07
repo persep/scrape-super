@@ -4734,6 +4734,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "15245",
+    "ean": "8480000152459",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15245/macedonia-frutas-almibar-hacendado-bote",
+    "name": "Mix de frutas en almíbar Hacendado",
+    "description": "Bote",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "15260",
     "ean": "8480000152602",
     "brand": "Hacendado",
@@ -22500,6 +22509,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "35627",
+    "ean": "8402001008825",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35627/vaso-mediano-bosque-verde-apto-bebida-caliente-desechable-200-ml",
+    "name": "Vaso mediano Bosque Verde apto para bebida caliente",
+    "description": null,
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "35630",
     "ean": "3600531324506",
     "brand": "Maybelline",
@@ -34893,6 +34911,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "52428",
+    "ean": "8402001012334",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/52428/snack-delicias-perro-adulto-sabor-bacon-compy-paquete",
+    "name": "Snack delicias perro adulto sabor bacon Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "52429",
     "ean": "8402001010163",
     "brand": "Deliplus",
@@ -35159,6 +35186,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/52494/barritas-galleta-rellenas-arandanos-hacendado-caja",
     "name": "Barritas de galleta rellenas de arándanos Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "52495",
+    "ean": "8402001015090",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52495/barritas-100-fruta-manzana-platano-hacendado-caja",
+    "name": "Barritas 100% fruta de manzana y plátano Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
   },
@@ -35439,6 +35475,15 @@
     "url": "https://tienda.mercadona.es/product/52573/mini-eau-parfum-hombre-flor-mayo-football-frasco",
     "name": "Mini eau de parfum hombre Flor de Mayo Football",
     "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52574",
+    "ean": "8428390829810",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/52574/lote-mujer-flor-mayo-petal-dreams-contiene-gel-corporal-100-ml-locion-corporal-80-ml-body-fragante-80-ml-caja",
+    "name": "Lote mujer Flor de Mayo Petal Dreams",
+    "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -35852,6 +35897,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/52716/figatells-cerdo-bandeja",
     "name": "Figatells de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
+    "id": "52718",
+    "ean": "8402001015137",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52718/lomo-cerdo-marinado-empanado-bandeja",
+    "name": "lomo de cerdo marinado empanado",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
   },
@@ -37284,6 +37338,15 @@
     "url": "https://tienda.mercadona.es/product/59126/panceta-sin-corteza-selva-lonchas-paquete",
     "name": "Panceta sin corteza La Selva lonchas",
     "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "59128",
+    "ean": "8410973473305",
+    "brand": "La Selva",
+    "url": "https://tienda.mercadona.es/product/59128/datiles-con-bacon-selva-pack-2",
+    "name": "Dátiles con bacón La Selva",
+    "description": "Pack-2",
     "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
