@@ -21276,6 +21276,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "35412",
+    "ean": "8402001007750",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35412/salsa-curry-tikka-masala-hacendado-picante-paquete",
+    "name": "Salsa curry Tikka Masala Hacendado picante",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35419",
     "ean": "8402001006029",
     "brand": "Deliplus",
@@ -22885,6 +22894,15 @@
     "name": "Lote corporal mujer Nivea",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "35677",
+    "ean": "8402001009068",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35677/compresa-sin-alas-incontinencia-deliplus-normal-paquete",
+    "name": "Compresa sin alas de incontinencia Deliplus Normal",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "35678",
@@ -25828,6 +25846,15 @@
     "name": "Caquis persimón",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "39280",
+    "ean": "8480000392800",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/39280/nectar-guayaba-hacendado-brick",
+    "name": "Néctar de guayaba Hacendado",
+    "description": "Brick",
+    "category": "Zumos > Tomate y otros sabores"
   },
   {
     "id": "39301",
@@ -35892,6 +35919,87 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52700",
+    "ean": "8402001012730",
+    "brand": "Poem",
+    "url": "https://tienda.mercadona.es/product/52700/lote-full-look-palette-poem-contiene-sombra-ojos-polvos-rostro-caja",
+    "name": "Lote Full Look Palette Poem",
+    "description": "Caja",
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52701",
+    "ean": "8402001012716",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52701/iluminador-facial-compacto-poem-deliplus-01-dorado",
+    "name": "Iluminador facial compacto Poem Deliplus 01 dorado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52702",
+    "ean": "8402001012723",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52702/iluminador-facial-compacto-poem-deliplus-02-rosado",
+    "name": "Iluminador facial compacto Poem Deliplus 02 rosado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52703",
+    "ean": "8402001012693",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52703/pintalabios-super-mate-poem-deliplus-nude",
+    "name": "Pintalabios Super Mate Poem Deliplus nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52704",
+    "ean": "8402001012709",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52704/pintalabios-fluido-mate-poem-deliplus-rojo-larga-duracion",
+    "name": "Pintalabios fluido mate Poem Deliplus rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52705",
+    "ean": "8402001012686",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52705/perfilador-ojos-eyeliner-poem-deliplus-glitter",
+    "name": "Perfilador de ojos Eyeliner Poem Deliplus glitter",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52706",
+    "ean": "8402001015564",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52706/bruma-facial-multifuncional-make-up-fixer-poem-deliplus-5-1-hidrata-prepara-protege-fija-refresca-spray",
+    "name": "Bruma facial multifuncional Make Up Fixer Poem Deliplus 5 en 1",
+    "description": "Spray",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52707",
+    "ean": "8402001014215",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52707/perfilador-ojos-eyeliner-poem-deliplus-negro",
+    "name": "Perfilador de ojos Eyeliner Poem Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52708",
+    "ean": "8402001012679",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52708/mascara-pestanas-poem-deliplus-negro",
+    "name": "Máscara de pestañas Poem Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52716",
     "ean": "8402001014697",
     "brand": null,
@@ -35962,6 +36070,15 @@
     "name": "Stick de árnica Cata pum Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "52741",
+    "ean": "8480000056993",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52741/semillas-lino-marron-hacendado-molido-paquete",
+    "name": "Semillas lino marrón Hacendado molido",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "52755",
@@ -37141,6 +37258,15 @@
     "name": "Jamón gran reserva cortado a máquina",
     "description": "Paquete",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "5837",
+    "ean": "8480000058379",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5837/queso-anejo-fuerte-oveja-hacendado-pieza",
+    "name": "Queso añejo fuerte de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "58421",
