@@ -36126,6 +36126,24 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "52788",
+    "ean": "8436559353038",
+    "brand": "Beautik Pro",
+    "url": "https://tienda.mercadona.es/product/52788/kit-pestanas-postizas-con-eyeliner-negro-adhesivo-joyas-faciales-beautik-pro-reutilizables",
+    "name": "Kit pestañas postizas con eyeliner negro adhesivo y  joyas faciales Beautik Pro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52793",
+    "ean": "8402001013744",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52793/laca-unas-alto-brillo-deliplus-74-transparente-destellos",
+    "name": "Laca de uñas alto brillo Deliplus 74 transparente destellos",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52802",
     "ean": "8700216345170",
     "brand": "Oral-B",
@@ -36133,6 +36151,15 @@
     "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52839",
+    "ean": "8410737000020",
+    "brand": "Lea",
+    "url": "https://tienda.mercadona.es/product/52839/crema-afeitar-piel-sensible-lea",
+    "name": "Crema de afeitar piel sensible Lea",
+    "description": null,
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "52873",
