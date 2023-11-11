@@ -9666,6 +9666,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "22332",
+    "ean": "8437010848230",
+    "brand": "La Carloteña",
+    "url": "https://tienda.mercadona.es/product/22332/pechuguita-pollo-asada-carlotena-lonchas-paquete",
+    "name": "Pechuguita de pollo asada La Carloteña lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "22343",
     "ean": "8480000223432",
     "brand": "Hacendado",
@@ -35404,6 +35413,15 @@
     "name": "Detergente ropa All in 1 Ariel Pods en cápsulas",
     "description": "Caja",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "52558",
+    "ean": "8402001013768",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52558/plumero-atrapa-polvo-bosque-verde-1-mango-3-recambios-caja",
+    "name": "Plumero atrapa polvo Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "52560",
