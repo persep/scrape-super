@@ -35226,6 +35226,15 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "52489",
+    "ean": "8402001013416",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52489/coulant-biscuit-hacendado-caja",
+    "name": "Coulant de biscuit Hacendado",
+    "description": "Caja",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "52494",
     "ean": "8402001013829",
     "brand": "Hacendado",
@@ -35316,6 +35325,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "52519",
+    "ean": "8006540886441",
+    "brand": "Oral-B",
+    "url": "https://tienda.mercadona.es/product/52519/recambios-cepillo-dental-electrico-oral-b-pro-precision-clean-paquete",
+    "name": "Recambios cepillo dental eléctrico Oral-B Pro Precision Clean",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "52520",
     "ean": "8711571090261",
     "brand": "Lambweston",
@@ -35386,6 +35404,60 @@
     "name": "Menestra de verduras Hacendado ultracongelada",
     "description": "Paquete",
     "category": "Congelados > Verdura"
+  },
+  {
+    "id": "52536",
+    "ean": "8436037793943",
+    "brand": "Peppa Pig",
+    "url": "https://tienda.mercadona.es/product/52536/lote-infantil-peppa-pig-contiene-eau-toilette-150-ml-figuras-papa-george-pig-caja",
+    "name": "Lote infantil Peppa Pig",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52538",
+    "ean": "8414640192452",
+    "brand": "Naruto",
+    "url": "https://tienda.mercadona.es/product/52538/lote-infantil-naruto-contiene-bruma-corporal-100-ml-taza-caja",
+    "name": "Lote infantil Naruto",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52539",
+    "ean": "8411114092676",
+    "brand": "Marvel",
+    "url": "https://tienda.mercadona.es/product/52539/lote-infantil-marvel-spiderman-contiene-eau-toilette-150-ml-pinball-2-telarana-elastica-accesorio-caja",
+    "name": "Lote infantil Marvel Spiderman",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52540",
+    "ean": "8414640192445",
+    "brand": "Sonic The Hedgehog",
+    "url": "https://tienda.mercadona.es/product/52540/lote-infantil-sonic-the-hedgehog-contiene-agua-colonia-100-ml-llavero-caja",
+    "name": "Lote infantil Sonic The Hedgehog",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52541",
+    "ean": "8436037793912",
+    "brand": "Nerf",
+    "url": "https://tienda.mercadona.es/product/52541/lote-infantil-nerf-contiene-eau-toilette-100-ml-zapatillero",
+    "name": "Lote infantil Nerf",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52544",
+    "ean": "8414640192469",
+    "brand": "Magical",
+    "url": "https://tienda.mercadona.es/product/52544/lote-infantil-magical-contiene-3-sombras-ojos-2-coloretes-2-pinceles-aplicadores-3-barras-labios-3-esmaltes-unas-12-unas-decorativas-con-adhesivo-cajita-joyero-caja",
+    "name": "Lote infantil Magical",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "52545",
@@ -35610,6 +35682,33 @@
     "url": "https://tienda.mercadona.es/product/52582/lote-mujer-contiene-eau-parfum-100ml-body-milk-100ml-caja",
     "name": "Lote mujer Ella",
     "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52584",
+    "ean": "8402001009440",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/52584/lote-hombre-my-soul-supreme-contiene-eau-parfum-100-ml-gel-bano-100-ml-neceser-caja",
+    "name": "Lote hombre My Soul Supreme",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52585",
+    "ean": "8402001009495",
+    "brand": "Él",
+    "url": "https://tienda.mercadona.es/product/52585/lote-hombre-contiene-eau-parfum-100-ml-gel-champu-100-ml-caja",
+    "name": "Lote hombre Él",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52587",
+    "ean": "8402001009433",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/52587/lote-hombre-fuerza-contiene-eau-toilette-100-ml-gel-champu-100-ml-mochila",
+    "name": "Lote hombre Como Tú Fuerza",
+    "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -36169,6 +36268,15 @@
     "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52828",
+    "ean": "5000267195070",
+    "brand": "Cardhu",
+    "url": "https://tienda.mercadona.es/product/52828/whisky-escoces-cardhu-12-anos-caja",
+    "name": "Whisky escocés Cardhu 12 años",
+    "description": "Caja",
+    "category": "Bodega > Licores"
   },
   {
     "id": "52839",
