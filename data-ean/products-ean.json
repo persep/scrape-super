@@ -17577,6 +17577,15 @@
     "category": "Carne > Carne congelada"
   },
   {
+    "id": "30138",
+    "ean": "8480000301383",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/30138/cocktail-mezcla-aperitivos-fritos-hacendado-paquete",
+    "name": "Cocktail mezcla aperitivos fritos Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "30167",
     "ean": "8437019922153",
     "brand": null,
@@ -35406,11 +35415,29 @@
     "category": "Congelados > Verdura"
   },
   {
+    "id": "52535",
+    "ean": "8411114094090",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/52535/lote-infantil-disney-frozen-beauty-contiene-eau-toilette-150-ml-kit-maquillaje-bandolera-caja",
+    "name": "Lote infantil Disney Frozen Beauty",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52536",
     "ean": "8436037793943",
     "brand": "Peppa Pig",
     "url": "https://tienda.mercadona.es/product/52536/lote-infantil-peppa-pig-contiene-eau-toilette-150-ml-figuras-papa-george-pig-caja",
     "name": "Lote infantil Peppa Pig",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52537",
+    "ean": "8411114092720",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/52537/lote-infantil-disney-minnie-mouse-contiene-eau-toilette-150-ml-accesorio-caja",
+    "name": "Lote infantil Disney Minnie Mouse",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -35447,6 +35474,24 @@
     "brand": "Nerf",
     "url": "https://tienda.mercadona.es/product/52541/lote-infantil-nerf-contiene-eau-toilette-100-ml-zapatillero",
     "name": "Lote infantil Nerf",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52542",
+    "ean": "8445326833017",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/52542/lote-cosmetica-infantil-color-up-contiene-1-maletin-2-laca-unas-6-brillo-labios-6-sombra-ojos-1-lima-unas-1-colorete-2-aplicadores-1-set-pegatinas-unas-1-set-gemas-autoadhesivas-1-separador-pedicura",
+    "name": "Lote cosmética infantil Color Up!",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52543",
+    "ean": "8445326883012",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/52543/lote-cosmetica-infantil-unicorn-make-up-case-color-up-contiene-estuche-2-pisos-8-sombra-ojos-1-colorete-6-brillo-labios-2-laca-unas-24-pegatinas-adhesivas",
+    "name": "Lote cosmética infantil Unicorn make up case Color Up!",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -35685,6 +35730,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52583",
+    "ean": "8436037793936",
+    "brand": "DJ Mariio",
+    "url": "https://tienda.mercadona.es/product/52583/lote-hombre-dj-mariio-contiene-eau-toilette-100-ml-taza-caja",
+    "name": "Lote hombre DJ Mariio",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52584",
     "ean": "8402001009440",
     "brand": "My Soul",
@@ -35699,6 +35753,15 @@
     "brand": "Él",
     "url": "https://tienda.mercadona.es/product/52585/lote-hombre-contiene-eau-parfum-100-ml-gel-champu-100-ml-caja",
     "name": "Lote hombre Él",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52586",
+    "ean": "8402001009518",
+    "brand": "Borealia Shine",
+    "url": "https://tienda.mercadona.es/product/52586/lote-hombre-borealia-shine-contiene-eau-parfum-100-ml-bufanda-caja",
+    "name": "Lote hombre Borealia Shine",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -36619,6 +36682,15 @@
     "name": "Cerveza con sabor a tequila Desperados",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "5399",
+    "ean": "8426188006139",
+    "brand": "Olives García",
+    "url": "https://tienda.mercadona.es/product/5399/cebolla-roja-olives-garcia-vinagre-bote",
+    "name": "Cebolla roja Olives García en vinagre",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "54053",
@@ -43360,6 +43432,15 @@
     "name": "Cerveza Especial Steinburg",
     "description": "Pack-12",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "67150",
+    "ean": "8427894024622",
+    "brand": "Viña secret",
+    "url": "https://tienda.mercadona.es/product/67150/vino-espumoso-sin-alcohol-00-vina-secret-botella",
+    "name": "Vino espumoso sin alcohol 0,0% Viña secret",
+    "description": "Botella",
+    "category": "Bodega > Sidra y cava"
   },
   {
     "id": "67154",
