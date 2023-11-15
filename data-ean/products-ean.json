@@ -35010,6 +35010,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52436",
+    "ean": "8402001012501",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52436/lote-pinceles-poem-deliplus-contiene-neceser-pincel-polvos-pincel-blush-2-pinceles-sombras-pincel-difuminador-pincel-cejas-esponja-maquillaje",
+    "name": "Lote de pinceles Poem Deliplus",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "52437",
     "ean": "8402001012549",
     "brand": "Hacendado",
@@ -35242,6 +35251,15 @@
     "name": "Coulant de biscuit Hacendado",
     "description": "Caja",
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "52493",
+    "ean": "8402001013492",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52493/barritas-cereales-con-frutos-secos-hacendado-caja",
+    "name": "Barritas de cereales con frutos secos Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "52494",
@@ -35793,6 +35811,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "52590",
+    "ean": "8402001013881",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52590/aceite-ricino-deliplus-nutre-fortalece-contiene-aplicador-bote",
+    "name": "Aceite de Ricino Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "52592",
     "ean": "8402001013195",
     "brand": "Hacendado",
@@ -36270,6 +36297,24 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "52744",
+    "ean": "8428390829902",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/52744/bruma-capilar-corporal-blossom-serenade-con-brillo-flor-mayo-spray",
+    "name": "Bruma capilar y corporal Blossom Serenade con brillo Flor de Mayo",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "52748",
+    "ean": "8402001015533",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52748/patatas-fritas-sabor-ketchup-hacendado-paquete",
+    "name": "Patatas fritas sabor ketchup Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "52755",
     "ean": "8402001013737",
     "brand": "Deliplus",
@@ -36358,6 +36403,15 @@
     "name": "Tortitas de arroz integral Vitalday Gullón",
     "description": "Paquete",
     "category": "Cereales y galletas > Tortitas"
+  },
+  {
+    "id": "52883",
+    "ean": "4015400219712",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/52883/tampones-super-tampax-compak-con-aplicador-caja",
+    "name": "Tampones super Tampax Compak con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "52884",
