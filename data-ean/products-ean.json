@@ -34965,6 +34965,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "52426",
+    "ean": "8436021413505",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52426/alas-pollo-barbacoa-congeladas-paquete",
+    "name": "Alas de pollo barbacoa congeladas",
+    "description": "Paquete",
+    "category": "Carne > Carne congelada"
+  },
+  {
     "id": "52428",
     "ean": "8402001012334",
     "brand": "Compy",
@@ -35556,6 +35565,15 @@
     "url": "https://tienda.mercadona.es/product/52558/plumero-atrapa-polvo-bosque-verde-1-mango-3-recambios-caja",
     "name": "Plumero atrapa polvo Bosque Verde",
     "description": "Caja",
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
+    "id": "52559",
+    "ean": "8402001013751",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52559/recambios-plumero-bosque-verde-desechables-paquete",
+    "name": "Recambios plumero Bosque Verde",
+    "description": "Paquete",
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
@@ -36369,6 +36387,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52801",
+    "ean": "3600524153465",
+    "brand": "Elvive",
+    "url": "https://tienda.mercadona.es/product/52801/champu-hidra-hialuronico-elvive-cabello-deshidratado-bote",
+    "name": "Champú Hidra Hialurónico Elvive cabello deshidratado",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
     "id": "52802",
     "ean": "8700216345170",
     "brand": "Oral-B",
@@ -36376,6 +36403,15 @@
     "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52814",
+    "ean": "8402001016332",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52814/pera-almibar-ligero-hacendado-bote",
+    "name": "Pera en almíbar ligero Hacendado",
+    "description": "Bote",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
     "id": "52828",
@@ -36421,6 +36457,15 @@
     "name": "Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo",
     "description": "Paquete",
     "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "52885",
+    "ean": "4015400219620",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/52885/tampones-super-plus-tampax-compak-con-aplicador-caja",
+    "name": "Tampones super plus Tampax Compak con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "53007",
