@@ -24282,6 +24282,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "35921",
+    "ean": "8402001011665",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35921/escurridor-cubo-ovalado-bosque-verde-escurrebien",
+    "name": "Escurridor para cubo ovalado Bosque Verde escurrebien",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
     "id": "35923",
     "ean": "8402001011658",
     "brand": "Deliplus",
@@ -36360,6 +36369,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "52769",
+    "ean": "5060896576107",
+    "brand": "Bulldog",
+    "url": "https://tienda.mercadona.es/product/52769/lote-barba-hombre-bulldog-contiene-champu-barba-2-1-200-ml-aceite-barba-30-ml-balsamo-barba-75-ml-peine-neceser",
+    "name": "Lote barba hombre Bulldog",
+    "description": null,
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52781",
     "ean": "8437018565917",
     "brand": null,
@@ -36385,6 +36403,15 @@
     "name": "Laca de uñas alto brillo Deliplus 74 transparente destellos",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52800",
+    "ean": "3600524153458",
+    "brand": "Elvive",
+    "url": "https://tienda.mercadona.es/product/52800/champu-color-vive-elvive-cabello-tenido-con-mechas-bote",
+    "name": "Champú Color Vive Elvive cabello teñido o con mechas",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
   },
   {
     "id": "52801",
@@ -36423,6 +36450,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "52834",
+    "ean": "8402001016370",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52834/escoba-interiores-bosque-verde",
+    "name": "Escoba para interiores Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
     "id": "52839",
     "ean": "8410737000020",
     "brand": "Lea",
@@ -36439,6 +36475,15 @@
     "name": "Tortitas de arroz integral Vitalday Gullón",
     "description": "Paquete",
     "category": "Cereales y galletas > Tortitas"
+  },
+  {
+    "id": "52882",
+    "ean": "4015400219538",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/52882/tampones-regular-tampax-compak-con-aplicador-caja",
+    "name": "Tampones regular Tampax Compak con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "52883",
