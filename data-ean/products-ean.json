@@ -33516,6 +33516,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50959",
+    "ean": "8480000509598",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50959/queso-anejo-romero-oveja-hacendado-pieza",
+    "name": "Queso añejo al romero de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50963",
     "ean": "8480000509635",
     "brand": "Hacendado",
@@ -36342,6 +36351,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "52749",
+    "ean": "8402001015403",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52749/cebolla-caramelizada-hacendado-con-aceite-oliva-tarro",
+    "name": "Cebolla caramelizada Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
     "id": "52755",
     "ean": "8402001013737",
     "brand": "Deliplus",
@@ -36376,6 +36394,15 @@
     "name": "Lote barba hombre Bulldog",
     "description": null,
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52772",
+    "ean": "8402001015120",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52772/cereales-copos-tostados-trigo-integral-arroz-hacendado-con-chocolate-caja",
+    "name": "Cereales copos tostados de trigo integral y arroz Hacendado con chocolate",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "52781",
@@ -56473,6 +56500,15 @@
     "name": "Tortellini fresco jamón y queso Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "86843",
+    "ean": "8480000868435",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86843/pinones-hacendado-bote",
+    "name": "Piñones Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "86847",
