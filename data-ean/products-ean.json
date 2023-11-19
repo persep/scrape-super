@@ -10395,6 +10395,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "22701",
+    "ean": "8480000227010",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22701/crema-queso-brie-con-trufa-hacendado-tarrina",
+    "name": "Crema de queso Brie con Trufa Hacendado",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
     "id": "22702",
     "ean": "8480000227027",
     "brand": "Hacendado",
@@ -10890,6 +10899,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "22975",
+    "ean": "8480000229755",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22975/pate-vino-oporto-hacendado-paquete",
+    "name": "Paté vino de Oporto Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "22977",
     "ean": "8480000229779",
     "brand": "Cabré & Sabaté",
@@ -10942,6 +10960,15 @@
     "name": "Surtido de snacks Picoteo de maiz y patata Tosfrit",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "22992",
+    "ean": "8480000229922",
+    "brand": "Martiko",
+    "url": "https://tienda.mercadona.es/product/22992/bloc-foie-gras-pato-martiko-relleno-queso-cabra-bandeja",
+    "name": "Bloc foie gras de pato Martiko relleno de queso de cabra",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "22996",
@@ -11211,6 +11238,15 @@
     "url": "https://tienda.mercadona.es/product/23072/salsa-cocktail-hacendado-bote",
     "name": "Salsa cocktail Hacendado",
     "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "23073",
+    "ean": "8480000230737",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23073/salsa-cocktail-hacendado-tarro",
+    "name": "Salsa cocktail Hacendado",
+    "description": "Tarro",
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
@@ -13752,6 +13788,24 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "24702",
+    "ean": "8480000247025",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24702/alistado-grande-hacendado-congelado-caja",
+    "name": "Alistado grande Hacendado congelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24703",
+    "ean": "8480000247032",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/24703/alistado-grande-congelado-granel",
+    "name": "Alistado grande congelado",
+    "description": "Granel",
+    "category": "Congelados > Marisco"
+  },
+  {
     "id": "24704",
     "ean": "8480000247049",
     "brand": "Hacendado",
@@ -13785,6 +13839,15 @@
     "url": "https://tienda.mercadona.es/product/24708/alistado-pequeno-congelado-granel",
     "name": "Alistado pequeño congelado",
     "description": "Granel",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24710",
+    "ean": "8480000247100",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24710/carabinero-hacendado-congelado-caja",
+    "name": "Carabinero Hacendado congelado",
+    "description": "Caja",
     "category": "Congelados > Marisco"
   },
   {
@@ -17586,6 +17649,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "30165",
+    "ean": "8480000301659",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/30165/queso-untar-campesina-hacendado-con-pimiento-rojo-especias-tarrina",
+    "name": "Queso untar campesina Hacendado",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
     "id": "30167",
     "ean": "8437019922153",
     "brand": null,
@@ -21249,6 +21321,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "35404",
+    "ean": "8402001007026",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35404/esparragos-hacendado-blancos-gruesos-tarro",
+    "name": "Espárragos Hacendado blancos gruesos",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "35405",
     "ean": "8402001005510",
     "brand": "Deliplus",
@@ -24280,6 +24361,15 @@
     "name": "Ron blanco superior La Recompensa",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "35920",
+    "ean": "8402001011672",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35920/cubo-con-ruedas-13l-bosque-verde",
+    "name": "Cubo con ruedas 13L Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "35921",
@@ -32895,6 +32985,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "50160",
+    "ean": "8480000501608",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50160/queso-mascarpone-hacendado-tarrina",
+    "name": "Queso mascarpone Hacendado",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
     "id": "50163",
     "ean": "2105600501631",
     "brand": "Entrepinares",
@@ -33019,6 +33118,15 @@
     "name": "Arroz bomba Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Arroz"
+  },
+  {
+    "id": "50250",
+    "ean": "8413556003319",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50250/queso-cabra-rulito-con-miel-almendras-hacendado-bandeja",
+    "name": "Queso de cabra rulito con miel y almendras Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "50256",
@@ -34245,6 +34353,15 @@
     "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
+    "id": "51618",
+    "ean": "5711953168062",
+    "brand": "Castello",
+    "url": "https://tienda.mercadona.es/product/51618/queso-brie-con-trufa-castello-paquete",
+    "name": "Queso brie con trufa Castello",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
     "id": "51619",
     "ean": "4020300185524",
     "brand": "Liptana",
@@ -34638,6 +34755,15 @@
     "url": "https://tienda.mercadona.es/product/52160/bloc-foie-gras-pato-martiko-lata",
     "name": "Bloc foie gras de pato Martiko",
     "description": "Lata",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "52166",
+    "ean": "8412540002000",
+    "brand": "Martiko",
+    "url": "https://tienda.mercadona.es/product/52166/foie-gras-entero-pato-cuit-martiko-tarro",
+    "name": "Foie gras entero de pato mi cuit Martiko",
+    "description": "Tarro",
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
@@ -36315,6 +36441,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "52739",
+    "ean": "8402001015106",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52739/eneldo-hacendado-bote",
+    "name": "Eneldo Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "52740",
     "ean": "8402001012044",
     "brand": "Deliplus",
@@ -36826,6 +36961,15 @@
     "name": "Bacón Oscar Mayer lonchas",
     "description": "Paquete",
     "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "53523",
+    "ean": "8412540006145",
+    "brand": "Martiko",
+    "url": "https://tienda.mercadona.es/product/53523/jamon-pato-curado-martiko-lonchas-paquete",
+    "name": "Jamón de pato curado Martiko lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "5393",
@@ -40849,6 +40993,15 @@
     "name": "Pizza masa fina 4 quesos Hacendado ultracongelada",
     "description": null,
     "category": "Congelados > Pizzas"
+  },
+  {
+    "id": "63373",
+    "ean": "8480000633736",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/63373/torpedos-langostino-hacendado-ultracongelados-paquete",
+    "name": "Torpedos de langostino Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
   },
   {
     "id": "63400",
@@ -55458,6 +55611,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "86146",
+    "ean": "8480000861467",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86146/patatas-fritas-extra-crujientes-hacendado-paquete",
+    "name": "Patatas fritas extra crujientes Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "86154",
     "ean": "8410100013275",
     "brand": "Nestlé",
@@ -56023,6 +56185,15 @@
     "name": "Vino blanco viura y tempranillo D.O Rioja Ponce de Albayda",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "86550",
+    "ean": "8480000865502",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86550/surtido-mousse-pato-hacendado-mousse-pato-con-aceitunas-mousse-pato-con-pimienta-verde-mousse-pato-con-dulce-calabaza-mousse-oca-paquete",
+    "name": "Surtido mousse de pato Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "86552",
