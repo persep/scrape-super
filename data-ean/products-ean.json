@@ -33516,6 +33516,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50928",
+    "ean": "8480000509284",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/50928/queso-tetilla-vaca-hacendado-pieza",
+    "name": "Queso tetilla de vaca Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50930",
     "ean": "8480000509307",
     "brand": "Hacendado",
@@ -38158,6 +38167,15 @@
     "name": "Paleta curada lonchas Paletas Marpa",
     "description": "Pack-2",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "5919",
+    "ean": "8480000059192",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5919/caqui-maduro-bandeja",
+    "name": "Caqui maduro",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "59212",
