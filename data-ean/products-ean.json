@@ -20367,6 +20367,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "35186",
+    "ean": "8402001009044",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35186/salsa-fresca-pesto-con-albahaca-hacendado-tarrina",
+    "name": "Salsa fresca Pesto con albahaca Hacendado",
+    "description": "Tarrina",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "35199",
     "ean": "8445326812012",
     "brand": "Color Up!",
@@ -35190,6 +35199,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "52441",
+    "ean": "8402001012068",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52441/yogur-griego-natural-hacendado-con-azucar-cana-pack-6",
+    "name": "Yogur griego natural Hacendado con azúcar de caña",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Yogures griegos"
+  },
+  {
     "id": "52442",
     "ean": "8402001013102",
     "brand": "Hacendado",
@@ -35701,6 +35719,42 @@
     "name": "Lote facial para contorno de ojos My moment",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "52548",
+    "ean": "8436601370235",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52548/polvo-corporal-hadas-aura",
+    "name": "Polvo corporal de Hadas Aura",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52550",
+    "ean": "8436601370228",
+    "brand": "Aura",
+    "url": "https://tienda.mercadona.es/product/52550/paleta-rostro-aura-contiene-sombra-ojos-colorete-iluminador-bronceador",
+    "name": "Paleta de rostro Aura",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52551",
+    "ean": "8436601370204",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52551/brillo-labios-lip-gloss-aura-01-halo",
+    "name": "Brillo de labios Lip Gloss Aura 01 halo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52552",
+    "ean": "8436601370211",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52552/brillo-labios-lip-gloss-aura-02-astral",
+    "name": "Brillo de labios Lip Gloss Aura 02 astral",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "52553",
@@ -36450,6 +36504,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "52738",
+    "ean": "8402001013539",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52738/desodorante-body-spray-limite-deliplus-spray",
+    "name": "Desodorante body spray Limite Deliplus",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "52739",
     "ean": "8402001015106",
     "brand": "Hacendado",
@@ -36630,6 +36693,15 @@
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
+    "id": "52838",
+    "ean": "8402001013713",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52838/laca-unas-alto-brillo-deliplus-76-rosa-medio",
+    "name": "Laca de uñas alto brillo Deliplus 76 rosa medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52839",
     "ean": "8410737000020",
     "brand": "Lea",
@@ -36637,6 +36709,24 @@
     "name": "Crema de afeitar piel sensible Lea",
     "description": null,
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52853",
+    "ean": "4066600499664",
+    "brand": "Paulaner",
+    "url": "https://tienda.mercadona.es/product/52853/cerveza-trigo-paulaner-pack-6",
+    "name": "Cerveza de trigo Paulaner",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "52854",
+    "ean": "4066600611301",
+    "brand": "Paulaner",
+    "url": "https://tienda.mercadona.es/product/52854/cerveza-trigo-paulaner-botellin",
+    "name": "Cerveza de trigo Paulaner",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "52873",
@@ -38553,6 +38643,15 @@
     "url": "https://tienda.mercadona.es/product/59901/surtido-mousse-pato-martiko-mousse-pato-2-olivas-mousse-pato-pimienta-verde-mousse-pato-provenzal-con-salsas-frutas-bosque-melocoton-paquete",
     "name": "Surtido mousse de pato Martiko",
     "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "59913",
+    "ean": "8480000599131",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/59913/surtido-pate-pato-hacendado-con-cebolla-caramelizada-natural-calabaza-pedro-ximenez-carne-confit-gelatina-trufa-bandeja",
+    "name": "Surtido paté de pato Hacendado",
+    "description": "Bandeja",
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
@@ -40532,6 +40631,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/62312/cigala-mediana-hacendado-ultracongelada-caja",
     "name": "Cigala mediana Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "62313",
+    "ean": "8480000623133",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62313/cigala-cruda-grande-hacendado-ultracongelado-caja",
+    "name": "Cigala cruda grande Hacendado ultracongelado",
     "description": "Caja",
     "category": "Congelados > Marisco"
   },
