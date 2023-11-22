@@ -36126,6 +36126,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "52615",
+    "ean": "8402001015892",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52615/vela-perfumada-amber-bosque-verde-caja",
+    "name": "Vela perfumada Amber Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52627",
     "ean": "8410500019587",
     "brand": "Activia",
@@ -36207,6 +36216,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52646",
+    "ean": "8700216239868",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52646/recambios-maquinilla-afeitar-gillette-fusion-sport-5-hojas-paquete",
+    "name": "Recambios maquinilla de afeitar Gillette Fusion Sport",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52649",
     "ean": "3616304693649",
     "brand": "Adidas",
@@ -36275,6 +36293,33 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/52660/neceser-chupachups-fucsia-grande-240-x-200-x-70-mm",
     "name": "Neceser Chupachups fucsia grande",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52661",
+    "ean": "8414640192421",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52661/neceser-negro-star-pequeno-con-asa-200-x-120-x-30-mm",
+    "name": "Neceser negro star pequeño con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52662",
+    "ean": "8414640192360",
+    "brand": "Tokidoki",
+    "url": "https://tienda.mercadona.es/product/52662/neceser-mediano-tokidoki-con-asa-225-x-140-x-80-mm",
+    "name": "Neceser mediano Tokidoki con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52663",
+    "ean": "8414640192438",
+    "brand": "Snoopy",
+    "url": "https://tienda.mercadona.es/product/52663/neceser-marron-mediano-con-asa-snoopy-210-x-120-x-105-mm",
+    "name": "Neceser marrón mediano con asa Snoopy",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -36772,6 +36817,15 @@
     "name": "Tampones super plus Tampax Compak con aplicador",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "52886",
+    "ean": "8402001013591",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52886/after-shave-gel-piel-sensible-deliplus-aloe-vera-bote",
+    "name": "After shave gel piel sensible Deliplus de aloe vera",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "53007",
