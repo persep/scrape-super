@@ -7920,6 +7920,15 @@
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
   },
   {
+    "id": "19816",
+    "ean": "8480000198167",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19816/aroma-agua-azahar-hacendado-bote",
+    "name": "Aroma agua de azahar Hacendado",
+    "description": "Bote",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "19817",
     "ean": "8480000198174",
     "brand": "Hacendado",
@@ -33534,6 +33543,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "50929",
+    "ean": "8480000509291",
+    "brand": "Punteiro",
+    "url": "https://tienda.mercadona.es/product/50929/queso-arzua-ulloa-vaca-punteiro-pieza",
+    "name": "Queso Arzúa-Ulloa de vaca Punteiro",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "50930",
     "ean": "8480000509307",
     "brand": "Hacendado",
@@ -36135,6 +36153,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "52616",
+    "ean": "3616301273127",
+    "brand": "Rimmel",
+    "url": "https://tienda.mercadona.es/product/52616/multi-corrector-rimmel-020-fair",
+    "name": "Multi corrector Rimmel 020 fair",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "52627",
     "ean": "8410500019587",
     "brand": "Activia",
@@ -36826,6 +36853,15 @@
     "name": "After shave gel piel sensible Deliplus de aloe vera",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52968",
+    "ean": "8437016311073",
+    "brand": "Mr. Grills",
+    "url": "https://tienda.mercadona.es/product/52968/pastillas-enciende-fuegos-mr-grills-caja",
+    "name": "Pastillas enciende fuegos Mr. Grills",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "53007",
