@@ -26937,6 +26937,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "40361",
+    "ean": "8480000403612",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/40361/mortadela-hacendado-pieza",
+    "name": "Mortadela Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Chopped y mortadela"
+  },
+  {
     "id": "40365",
     "ean": "8480000403650",
     "brand": "Hacendado",
@@ -34416,6 +34425,24 @@
     "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
+    "id": "51625",
+    "ean": "8480000516251",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/51625/bocaditos-queso-con-mermelada-papaya-hacendado-bandeja",
+    "name": "Bocaditos de queso con mermelada de papaya Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
+    "id": "51626",
+    "ean": "8480000516268",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/51626/delicias-queso-rellenos-mermelada-hacendado-naranja-pimiento-asado-pina-bandeja",
+    "name": "Delicias de queso rellenos de mermelada Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
     "id": "51627",
     "ean": "8480000516275",
     "brand": "Hacendado",
@@ -35474,6 +35501,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/52495/barritas-100-fruta-manzana-platano-hacendado-caja",
     "name": "Barritas 100% fruta de manzana y plátano Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "52496",
+    "ean": "8402001013478",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52496/barritas-cereales-hacendado-con-cacahuetes-sabor-caramelo-caja",
+    "name": "Barritas de cereales Hacendado con cacahuetes sabor caramelo",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
   },
@@ -40731,6 +40767,15 @@
     "url": "https://tienda.mercadona.es/product/62313/cigala-cruda-grande-hacendado-ultracongelado-caja",
     "name": "Cigala cruda grande Hacendado ultracongelado",
     "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "62320",
+    "ean": "8480000623201",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62320/buey-mar-cocido-hacendado-congelado-pieza",
+    "name": "Buey de mar cocido Hacendado congelado",
+    "description": "Pieza",
     "category": "Congelados > Marisco"
   },
   {
@@ -57175,6 +57220,24 @@
     "name": "Fideos orientales Yakisoba sabor soja Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "87302",
+    "ean": "8480000873026",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87302/filete-dorada-bandeja",
+    "name": "Filete de dorada",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87313",
+    "ean": "8480000873132",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87313/filete-lubina-bandeja",
+    "name": "Filete de lubina",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87342",
