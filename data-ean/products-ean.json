@@ -5949,6 +5949,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "15973",
+    "ean": "8480000159731",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/15973/comida-perro-adulto-compy-con-salmon-atun-frutas-verduras-razas-medianas-grandes-paquete",
+    "name": "Comida perro adulto Compy con salmón, atún, frutas y verduras",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "15982",
     "ean": "8480000159823",
     "brand": "Compy",
@@ -36198,6 +36207,24 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "52617",
+    "ean": "3616301273172",
+    "brand": "Rimmel",
+    "url": "https://tienda.mercadona.es/product/52617/multi-corrector-rimmel-50-sand",
+    "name": "Multi corrector Rimmel 50 sand",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52618",
+    "ean": "3616301273219",
+    "brand": "Rimmel",
+    "url": "https://tienda.mercadona.es/product/52618/multi-corrector-rimmel-70-honey",
+    "name": "Multi corrector Rimmel 70 honey",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "52627",
     "ean": "8410500019587",
     "brand": "Activia",
@@ -36729,6 +36756,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "52785",
+    "ean": "8402001015618",
+    "brand": "13 Hectáreas",
+    "url": "https://tienda.mercadona.es/product/52785/vino-tinto-do-ribera-duero-13-hectareas-roble-botella",
+    "name": "Vino tinto D.O Ribera del Duero 13 Hectáreas roble",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
     "id": "52788",
     "ean": "8436559353038",
     "brand": "Beautik Pro",
@@ -36889,6 +36925,15 @@
     "name": "After shave gel piel sensible Deliplus de aloe vera",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52892",
+    "ean": "8402001016868",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52892/gofres-con-chocolate-hacendado-paquete",
+    "name": "Gofres con chocolate Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "52968",
@@ -54088,6 +54133,15 @@
     "name": "Manzanas Roja",
     "description": "Bolsa",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "82717",
+    "ean": "8480000827173",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/82717/laminas-sin-corteza-pan-molde-blanco-hacendado-paquete",
+    "name": "Láminas sin corteza de pan de molde blanco Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "82718",
