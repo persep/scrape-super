@@ -10314,6 +10314,51 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "22633",
+    "ean": "8480000226334",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22633/plato-rojo-decorado-navidad-bosque-verde-desechable-23-cm-paquete",
+    "name": "Plato rojo decorado Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "22634",
+    "ean": "8480000226341",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22634/plato-decoracion-poinsettia-navidad-bosque-verde-desechable-23-cm-paquete",
+    "name": "Plato decoración poinsettia Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "22635",
+    "ean": "8480000226358",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22635/plato-postre-plata-navidad-bosque-verde-desechable-18-cm-paquete",
+    "name": "Plato postre plata Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "22637",
+    "ean": "8480000226372",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22637/bandeja-plata-navidad-bosque-verde-desechable-18-x-24-cm-paquete",
+    "name": "Bandeja plata Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "22638",
+    "ean": "8480000226389",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22638/bol-plata-navidad-bosque-verde-desechable-16-cm-paquete",
+    "name": "Bol plata Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "22648",
     "ean": "8480000226488",
     "brand": "Hacendado",
@@ -10618,6 +10663,15 @@
     "name": "Café en cápsula doble espresso Hacendado",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
+    "id": "22803",
+    "ean": "8480000228031",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22803/mantel-papel-rojo-navidad-bosque-verde-7-x-12-m",
+    "name": "Mantel de papel verde Navidad Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "22804",
@@ -31257,6 +31311,15 @@
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
+    "id": "47181",
+    "ean": "8480000471819",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/47181/servilleta-papel-decoracion-poinsettia-navidad-bosque-verde-2-capas-33-x-33-cm-paquete",
+    "name": "Servilleta papel decoración poinsettia Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "47190",
     "ean": "96086261",
     "brand": "Dove",
@@ -31813,6 +31876,15 @@
     "name": "Protegeslip Cotton flexiform Carefree regular + tanga",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "47555",
+    "ean": "8480000475558",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/47555/copas-cava-plastico-bosque-verde-reutilizables-paquete",
+    "name": "Copas cava de plástico brillo Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "47560",
@@ -32454,6 +32526,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "49196",
+    "ean": "8480000491961",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/49196/mantel-tacto-tela-decoracion-navidad-bosque-verde-25-x-12-m-paquete",
+    "name": "Mantel tacto tela decoración Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "49224",
     "ean": "8480000492241",
     "brand": "Bosque Verde",
@@ -32607,6 +32688,15 @@
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
+    "id": "49632",
+    "ean": "8410765883688",
+    "brand": "P&H",
+    "url": "https://tienda.mercadona.es/product/49632/bandeja-carton-rectangular-ph-desechable-25-x-34-cm-incluye-4-bandejas-4-blondas-paquete",
+    "name": "Bandeja de cartón rectangular P&H",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "4965",
     "ean": "8480000049650",
     "brand": "Hacendado",
@@ -32614,6 +32704,15 @@
     "name": "Crema de vinagre balsámico de manzana Hacendado",
     "description": "Botella",
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
+    "id": "49678",
+    "ean": "8410765883718",
+    "brand": "P&H",
+    "url": "https://tienda.mercadona.es/product/49678/bandeja-carton-redonda-ph-desechable-27-cm-incluye-4-bandejas-4-blondas-paquete",
+    "name": "Bandeja de cartón redonda P&H",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "49701",
@@ -35469,6 +35568,15 @@
     "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
+    "id": "52487",
+    "ean": "8402001011160",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52487/estropajo-limpieza-delicada-bosque-verde-paquete",
+    "name": "Estropajo limpieza delicada Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
     "id": "52488",
     "ean": "8402001012150",
     "brand": "Hacendado",
@@ -36871,6 +36979,15 @@
     "name": "Cerveza de trigo Paulaner",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "52861",
+    "ean": "8402001016431",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52861/pierna-cochinillo-congelada-pieza",
+    "name": "Pierna de cochinillo congelada",
+    "description": "Pieza",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "52873",
@@ -54351,6 +54468,24 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "82901",
+    "ean": "8427778211162",
+    "brand": "Confiletas",
+    "url": "https://tienda.mercadona.es/product/82901/volovanes-confiletas-paquete",
+    "name": "Volovanes Confiletas",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "82902",
+    "ean": "8427778208162",
+    "brand": "Confiletas",
+    "url": "https://tienda.mercadona.es/product/82902/mini-volovanes-confiletas-paquete",
+    "name": "Mini volovanes Confiletas",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
     "id": "82905",
     "ean": "8480000829054",
     "brand": "Hacendado",
@@ -56322,6 +56457,24 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "86473",
+    "ean": "8480000864734",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86473/bandeja-bali-roja-redonda-bosque-verde-desechable-29-cm-paquete",
+    "name": "Bandeja Bali roja y redonda Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "86474",
+    "ean": "8480000864741",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86474/mantel-tacto-tela-verde-navidad-bosque-verde-25-x-12-m",
+    "name": "Mantel tacto tela rojo Navidad Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "8648",
     "ean": "8410300352327",
     "brand": "Gallina Blanca",
@@ -56626,6 +56779,15 @@
     "name": "Palo extensible antideslizante Bosque Verde 88 - 150 cm",
     "description": null,
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
+    "id": "86615",
+    "ean": "8480000866158",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86615/vasos-medianos-plastico-brillo-bosque-verde-desechable-400-ml-paquete",
+    "name": "Vasos medianos de plástico brillo Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "86632",
@@ -57139,6 +57301,15 @@
     "name": "Roscón de Reyes sin relleno congelado",
     "description": "Caja",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87102",
+    "ean": "8480000871022",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87102/huevo-hilado-paquete",
+    "name": "Huevo hilado",
+    "description": "Paquete",
+    "category": "Huevos, leche y mantequilla > Huevos"
   },
   {
     "id": "8713",
