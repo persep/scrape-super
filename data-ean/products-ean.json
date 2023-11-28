@@ -24192,6 +24192,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "35872",
+    "ean": "8402001010729",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35872/perfilador-labios-long-lasting-deliplus-07-rojo",
+    "name": "Perfilador de labios Long Lasting Deliplus 07 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "35873",
     "ean": "8402001010736",
     "brand": "Deliplus",
@@ -24271,6 +24280,15 @@
     "name": "Hamburguesa de lomo de vacuno",
     "description": "Paquete",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "35887",
+    "ean": "8402001010484",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35887/postre-lacteo-con-stracciatella-proteinas-hacendado-0-mg-12-g-proteinas-pack-4",
+    "name": "Postre lácteo con stracciatella +Proteínas Hacendado 0% m.g 12 g proteínas",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Yogures desnatados"
   },
   {
     "id": "35888",
@@ -40911,6 +40929,15 @@
     "url": "https://tienda.mercadona.es/product/62303/caracoles-precocidos-hacendado-ultracongelados-paquete",
     "name": "Caracoles precocidos Hacendado ultracongelados",
     "description": "Paquete",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "62306",
+    "ean": "8480000623065",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62306/vieira-hacendado-ultracongelada-pieza",
+    "name": "Vieira Hacendado ultracongelada",
+    "description": "Pieza",
     "category": "Congelados > Marisco"
   },
   {
