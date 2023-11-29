@@ -36747,6 +36747,15 @@
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
+    "id": "52729",
+    "ean": "8410436289573",
+    "brand": "Schwarzkopf",
+    "url": "https://tienda.mercadona.es/product/52729/retoca-raices-instantaneo-schwarzkopf-rubio-oscuro-waterproof-root-retouch-spray",
+    "name": "Retoca raíces instantáneo Schwarzkopf rubio oscuro",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "52730",
     "ean": "8410436289382",
     "brand": "Schwarzkopf",
@@ -37015,6 +37024,15 @@
     "name": "Tortitas de arroz integral Vitalday Gullón",
     "description": "Paquete",
     "category": "Cereales y galletas > Tortitas"
+  },
+  {
+    "id": "52875",
+    "ean": "8402001017155",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/52875/licor-crema-caramel-biscuit-royal-swan-botella",
+    "name": "Licor crema Caramel Biscuit Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "52882",
@@ -57659,6 +57677,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/87692/tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata",
     "name": "Tarta de la abuela Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "87700",
+    "ean": "8480000877000",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87700/tronco-navidad-trufa-congelado",
+    "name": "Tronco de Navidad de trufa congelado",
     "description": null,
     "category": "Congelados > Tartas y churros"
   },
