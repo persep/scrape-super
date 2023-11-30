@@ -36540,6 +36540,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52672",
+    "ean": "8402001014321",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52672/burger-cerdo-bandeja",
+    "name": "Burger de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "52673",
     "ean": "8402001014314",
     "brand": "Deliplus",
@@ -37087,6 +37096,15 @@
     "name": "Gofres con chocolate Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "52957",
+    "ean": "8402001017858",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52957/san-jacobos-cerdo-sin-gluten-bandeja",
+    "name": "San Jacobos de cerdo sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "52968",
@@ -57211,6 +57229,15 @@
     "name": "Golosinas Rega Black Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "86864",
+    "ean": "8480000868640",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86864/caprichos-queso-con-manzana-hacendado-bandeja",
+    "name": "Caprichos de queso con manzana Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "86866",
