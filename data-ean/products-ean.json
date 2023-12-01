@@ -9981,6 +9981,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "22520",
+    "ean": "8411784200906",
+    "brand": "Frutas 1943",
+    "url": "https://tienda.mercadona.es/product/22520/fruta-surtida-confitada-frutas-1943-bandeja",
+    "name": "Fruta surtida confitada Frutas 1943",
+    "description": "Bandeja",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "22524",
     "ean": "8411327131018",
     "brand": "Mahou",
@@ -36441,6 +36450,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52648",
+    "ean": "8700216239875",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52648/recambios-maquinilla-afeitar-mach-3-start-gillette-3-hojas-paquete",
+    "name": "Recambios maquinilla de afeitar Mach 3 Start Gillette 3 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52649",
     "ean": "3616304693649",
     "brand": "Adidas",
@@ -36981,6 +36999,15 @@
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
+    "id": "52837",
+    "ean": "8402001016202",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52837/mermelada-pimiento-piquillo-confitado-hacendado-tarro",
+    "name": "Mermelada pimiento de piquillo confitado Hacendado",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
     "id": "52838",
     "ean": "8402001013713",
     "brand": "Deliplus",
@@ -37440,6 +37467,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "5398",
+    "ean": "8480000053985",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5398/patatas-fritas-0-sal-anadida-hacendado-paquete",
+    "name": "Patatas fritas 0% sal añadida Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "5399",
     "ean": "8426188006139",
     "brand": "Olives García",
@@ -37852,6 +37888,15 @@
     "name": "Surtido sushi Bento mix",
     "description": "Bandeja",
     "category": "Marisco y pescado > Sushi"
+  },
+  {
+    "id": "5701",
+    "ean": "8480000057013",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/5701/muslo-pollo-corral-relleno-carne-picada-pollo-ciruelas-foie-trufa-cebolla-sal-especias-listo-comer-con-salsa-trufa-pure-patata-trufado-1-2-personas",
+    "name": "Muslo de pollo de corral relleno de carne picada de pollo, ciruelas, foie, trufa, cebolla, sal y especias Listo para Comer",
+    "description": null,
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "5712",
@@ -39042,6 +39087,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "60071",
+    "ean": "8480000600714",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60071/paletilla-cordero-lechal-listo-comer-con-patatas-panaderas-cebollitas-confitadas-1-2-personas",
+    "name": "Paletilla de cordero lechal Listo para Comer con patatas panaderas",
+    "description": null,
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "60089",
     "ean": "8480000600899",
     "brand": "Listo para Comer",
@@ -39076,6 +39130,15 @@
     "name": "Pincho tortilla de patata con calabacín Listo para Comer",
     "description": null,
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "60101",
+    "ean": "8480000601018",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60101/carrillada-ternera-guisada-listo-comer-con-patatas-panaderas-cebollitas-confitadas-1-2-personas",
+    "name": "Carrillada de vacuno guisada Listo para Comer con salsa de vino tinto",
+    "description": null,
+    "category": "Carne > Vacuno"
   },
   {
     "id": "60127",
@@ -39119,6 +39182,15 @@
     "brand": "Listo para Comer",
     "url": "https://tienda.mercadona.es/product/60226/ensaladilla-rusa-mediana-listo-comer-bandeja",
     "name": "Ensaladilla rusa mediana Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "60231",
+    "ean": "8480000602312",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/60231/ensaladilla-marisco-listo-comer-4-6-personas-contiene-bocas-mar-merluza-langostinos-mayonesa-huevo-hilado-bandeja",
+    "name": "Ensaladilla de marisco Listo para Comer",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Listo para Comer"
   },
@@ -55287,6 +55359,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "84397",
+    "ean": "8402001002571",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84397/10-pasteles-boniato-57-bolsa",
+    "name": "10 Pasteles de boniato 57%",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "84429",
     "ean": "8480000844293",
     "brand": "Hacendado",
@@ -56950,6 +57031,15 @@
     "name": "Mermelada de melocotón Hacendado",
     "description": "Tarro",
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
+    "id": "86686",
+    "ean": "8480000866868",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/86686/canapes-tartaletas-listo-comer-rellenas-de-queso-con-salmon-eneldo-crema-sobrasada-con-miel-pinones-queso-stilton-crispy-mango-mezcla-quesos-con-higos-crema-roast-beef-ternera-con-queso-foie-manzana-caramelizada-con-huevo-hilado-humus-crema-queso-sabor-trufa-viruta-cecina-brandada-bacalao-con-pate-aceituna-negra",
+    "name": "Canapés de tartaletas congelados Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
     "id": "86687",
