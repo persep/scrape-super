@@ -32229,6 +32229,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "4848",
+    "ean": "8480000048486",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4848/queso-provolone-hacendado-paquete",
+    "name": "Queso Provolone Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
     "id": "4849",
     "ean": "8480000048493",
     "brand": "Hacendado",
@@ -36882,6 +36891,15 @@
     "category": "Bebé > Higiene y cuidado"
   },
   {
+    "id": "52765",
+    "ean": "8402001014567",
+    "brand": "Granzoo",
+    "url": "https://tienda.mercadona.es/product/52765/alimento-completo-roedores-granzoo-hamster-cobaya-chinchilla-paquete",
+    "name": "Alimento completo para roedores Granzoo",
+    "description": "Paquete",
+    "category": "Mascotas > Otros"
+  },
+  {
     "id": "52768",
     "ean": "8402001013928",
     "brand": "Hacendado",
@@ -36981,6 +36999,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "52820",
+    "ean": "8402001010002",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52820/serum-facial-reparador-micro-capsulas-deliplus-tipo-pieles-frasco",
+    "name": "Sérum facial reparador Micro Cápsulas Deliplus",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "52828",
     "ean": "5000267195070",
     "brand": "Cardhu",
@@ -37053,6 +37080,15 @@
     "category": "Carne > Carne congelada"
   },
   {
+    "id": "52872",
+    "ean": "8402001015755",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52872/colorete-compacto-blush-satin-deliplus-03-rosa-vivo",
+    "name": "Colorete compacto Blush Satin Deliplus 03 rosa vivo",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "52873",
     "ean": "8410376040579",
     "brand": "Gullón",
@@ -37114,6 +37150,15 @@
     "name": "After shave gel piel sensible Deliplus de aloe vera",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "52891",
+    "ean": "8402001016851",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52891/gofres-clasicos-hacendado-paquete",
+    "name": "Gofres clásicos Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "52892",
