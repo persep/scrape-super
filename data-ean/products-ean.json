@@ -25902,6 +25902,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "3897",
+    "ean": "5609178047029",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3897/lima-pieza",
+    "name": "Lima",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "39010",
     "ean": "8480000390103",
     "brand": "Hacendado",
@@ -35928,6 +35937,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "52547",
+    "ean": "8402001013409",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52547/parches-ojos-hidrogel-deliplus-con-acido-hialuronico-tipo-pieles-paquete",
+    "name": "Parches para ojos de hidrogel Deliplus con ácido hialurónico",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "52548",
     "ean": "8436601370235",
     "brand": null,
@@ -36259,6 +36277,15 @@
     "name": "Galletas Divertidas chocolate con leche Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "52597",
+    "ean": "8402001013515",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52597/mascarilla-facial-navidena-christmas-mask-deliplus-con-extractos-arandanos-fresas-tamano-xs-paquete",
+    "name": "Mascarilla facial navideña Christmas Mask Deliplus con extractos de arándanos y fresas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "52602",
