@@ -16857,6 +16857,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "28821",
+    "ean": "8480000288219",
+    "brand": "Knebep",
+    "url": "https://tienda.mercadona.es/product/28821/vodka-knebep-botella",
+    "name": "Vodka Knebep",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "28822",
     "ean": "8480000288226",
     "brand": "Knebep",
@@ -23886,6 +23895,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "35822",
+    "ean": "8402001010675",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35822/rosca-lomo-bacon-queso-emmental-hacendado",
+    "name": "Rosca lomo, bacón y queso emmental Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "35823",
     "ean": "8402001008962",
     "brand": "Monogotas",
@@ -24082,6 +24100,15 @@
     "name": "Compresa con alas de noche Evax Cotton Like",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "35851",
+    "ean": "8402001010668",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35851/rosca-jamon-serrano-queso-emmental-hacendado",
+    "name": "Rosca jamón serrano y queso emmental Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
   },
   {
     "id": "35852",
@@ -36297,6 +36324,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "52603",
+    "ean": "8402001014277",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52603/sticks-infantiles-jalea-real-deliplus-3-anos-sabor-piruleta-elaborado-base-propoleo-especies-vegetales-vitaminas-minerales-caja",
+    "name": "Sticks infantiles Jalea Real Deliplus +3 años",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "52604",
     "ean": "8402001014345",
     "brand": "Deliplus",
@@ -36963,6 +36999,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "52783",
+    "ean": "8402001015878",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52783/aceitunas-manzanilla-sabor-anchoa-hacendado-con-hueso-calibre-grande-tarro",
+    "name": "Aceitunas manzanilla sabor anchoa Hacendado con hueso",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "52785",
     "ean": "8402001015618",
     "brand": "13 Hectáreas",
@@ -37134,6 +37179,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "52880",
+    "ean": "8402001017193",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52880/canela-rama-hacendado-bote",
+    "name": "Canela en rama Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "52882",
     "ean": "4015400219538",
     "brand": "Tampax",
@@ -37195,6 +37249,15 @@
     "name": "Gofres con chocolate Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "52903",
+    "ean": "8402001015274",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52903/paleta-sombras-ojos-eclipse-deliplus-acabado-mate-satinado-metalico-perlado",
+    "name": "Paleta sombras de ojos Eclipse Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "52957",
@@ -46482,6 +46545,15 @@
     "url": "https://tienda.mercadona.es/product/69444/tomate-rosa-pieza",
     "name": "Tomate rosa",
     "description": "Pieza",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69446",
+    "ean": "8480000694461",
+    "brand": "Anhel",
+    "url": "https://tienda.mercadona.es/product/69446/tomates-anhel-bandeja",
+    "name": "Tomates Anhel",
+    "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
   },
   {
