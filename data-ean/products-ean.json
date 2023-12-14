@@ -35703,6 +35703,15 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "52492",
+    "ean": "8402001013027",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52492/perfilador-ojos-waterproof-deliplus-101-negro",
+    "name": "Perfilador de ojos Waterproof Deliplus 101 negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52493",
     "ean": "8402001013492",
     "brand": "Hacendado",
@@ -35746,6 +35755,33 @@
     "name": "Zumo de naranja recién exprimido Hacendado",
     "description": "Botella",
     "category": "Zumos > Naranja"
+  },
+  {
+    "id": "52501",
+    "ean": "8402001013119",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52501/perfilador-ojos-waterproof-deliplus-102-marron",
+    "name": "Perfilador de ojos Waterproof Deliplus 102 marrón",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52502",
+    "ean": "8402001013126",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52502/perfilador-ojos-waterproof-deliplus-103-verde",
+    "name": "Perfilador de ojos Waterproof Deliplus 103 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52503",
+    "ean": "8402001013133",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52503/perfilador-ojos-waterproof-deliplus-104-azul",
+    "name": "Perfilador de ojos Waterproof Deliplus 104 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "52507",
