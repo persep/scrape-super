@@ -23697,6 +23697,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "35771",
+    "ean": "8402001010347",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35771/mascarilla-cabello-cobre-deliplus-caja",
+    "name": "Mascarilla cabello cobre Deliplus",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "35772",
     "ean": "8402001010330",
     "brand": "Deliplus",
@@ -24143,6 +24152,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/35858/difusor-ambientador-spray-manual-bosque-verde-con-recambio-brisa-azul-caja",
     "name": "Difusor ambientador spray manual Bosque Verde con recambio",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "35859",
+    "ean": "8402001011269",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35859/ambientador-mini-spray-brisa-azul-bosque-verde-difusor-manual-caja",
+    "name": "Ambientador mini spray Brisa Azul Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
@@ -43241,6 +43259,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/65158/grageas-regaliz-hacendado-paquete",
     "name": "Grageas de regaliz Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "65160",
+    "ean": "8480000651600",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/65160/carbon-dulce-hacendado-paquete",
+    "name": "Carbón dulce Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
