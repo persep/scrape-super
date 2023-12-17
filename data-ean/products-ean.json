@@ -2943,6 +2943,15 @@
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
+    "id": "13539",
+    "ean": "8480000135391",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/13539/roscon-reyes-sin-gluten-sin-lactosa-congelado-caja",
+    "name": "Roscón de Reyes sin gluten y sin lactosa congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "13542",
     "ean": "8480000135421",
     "brand": "Compy",
@@ -12229,6 +12238,15 @@
     "name": "Limpiador fosas sépticas Bosque Verde bolsitas solubles",
     "description": "Caja",
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
+  },
+  {
+    "id": "23425",
+    "ean": "8480000234254",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23425/uva-almibar-pelada-sin-semillas-hacendado-pack-2",
+    "name": "Uva en almibar pelada y sin semillas Hacendado",
+    "description": "Pack-2",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
     "id": "23429",
@@ -32479,6 +32497,15 @@
     "name": "Reducción de vinagre Pedro Ximénez Hacendado",
     "description": "Botella",
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
+    "id": "49064",
+    "ean": "8480000490643",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/49064/cotillon-nochevieja-paquete",
+    "name": "Cotillón Nochevieja",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "49073",
