@@ -41121,6 +41121,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "61500",
+    "ean": "8480000615008",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/61500/lichi-bandeja",
+    "name": "Lichi",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "6152",
     "ean": "8402001001475",
     "brand": "Hacendado",
@@ -46692,6 +46701,33 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69420",
+    "ean": "8480000694201",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69420/eneldo-bandeja",
+    "name": "Eneldo",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69421",
+    "ean": "8480000694218",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69421/tomillo-bandeja",
+    "name": "Tomillo",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69422",
+    "ean": "8480000694225",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69422/romero-bandeja",
+    "name": "Romero",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69427",
     "ean": "8437023430019",
     "brand": null,
@@ -46977,6 +47013,15 @@
     "url": "https://tienda.mercadona.es/product/69632/ajo-tierno-manojo",
     "name": "Ajo tierno",
     "description": "Manojo",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69641",
+    "ean": "8421816100319",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69641/cebolla-guarnicion-malla",
+    "name": "Cebolla guarnición",
+    "description": "Malla",
     "category": "Fruta y verdura > Verdura"
   },
   {
@@ -54880,6 +54925,15 @@
     "name": "Pan tostado 100% espelta integral Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "82850",
+    "ean": "8480000828507",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/82850/pulpo-cocido-bandeja",
+    "name": "Pulpo cocido",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "82886",
