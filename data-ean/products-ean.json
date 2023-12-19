@@ -22203,6 +22203,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "3555",
+    "ean": "8436047158411",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3555/rellenito-vacuno-con-pasas-pinones-paquete",
+    "name": "Rellenito de vacuno con pasas y piñones",
+    "description": "Paquete",
+    "category": "Carne > Vacuno"
+  },
+  {
     "id": "35552",
     "ean": "8402001006562",
     "brand": "Deliplus",
@@ -28224,6 +28233,15 @@
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
+    "id": "4313",
+    "ean": "8436569260999",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4313/pieza-vacuno-anojo-asar-horno-pieza",
+    "name": "Pieza de vacuno añojo para asar horno",
+    "description": "Pieza",
+    "category": "Carne > Vacuno"
+  },
+  {
     "id": "43204",
     "ean": "8480000432049",
     "brand": "Bosque Verde",
@@ -28375,6 +28393,15 @@
     "name": "Colgador WC Azul perfume marino Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
+    "id": "4348",
+    "ean": "8480000043481",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4348/rellenito-cerdo-con-huevo-queso-bacon-pieza",
+    "name": "Rellenito de cerdo",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "43482",
@@ -28989,6 +29016,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "4429",
+    "ean": "8436021413796",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4429/magro-cabeza-cerdo-malla-bandeja",
+    "name": "Magro cabeza de cerdo malla",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "44290",
     "ean": "8480000442901",
     "brand": "Deliplus",
@@ -29221,6 +29257,15 @@
     "name": "Mousse fijador cabello Deliplus fijación 2",
     "description": "Bote",
     "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "4435",
+    "ean": "8436569261323",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4435/pieza-solomillo-vacuno-anojo-horno-pieza",
+    "name": "Pieza solomillo de vacuno añojo para horno",
+    "description": "Pieza",
+    "category": "Carne > Vacuno"
   },
   {
     "id": "44355",
@@ -29923,6 +29968,15 @@
     "name": "Champú Color Vive Elvive cabello teñido o con mechas",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "46000",
+    "ean": "8714789913919",
+    "brand": "Sanex",
+    "url": "https://tienda.mercadona.es/product/46000/desodorante-stick-ph-balance-dermo-sanex-protector-0-aluminio-0-alcohol",
+    "name": "Desodorante stick pH Balance Dermo Sanex protector",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
   },
   {
     "id": "46001",
@@ -34596,6 +34650,24 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "5143",
+    "ean": "8437017011125",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5143/paletilla-cordero-lechal-asado-facil-pieza",
+    "name": "Paletilla de cordero lechal asado fácil",
+    "description": "Pieza",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "5145",
+    "ean": "8437017011132",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5145/pierna-cordero-lechal-asado-facil-pieza",
+    "name": "Pierna de cordero lechal asado fácil",
+    "description": "Pieza",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "5147",
     "ean": "8424219058256",
     "brand": null,
@@ -37053,6 +37125,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "52747",
+    "ean": "8402001017728",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52747/pollo-relleno-con-pate-ciruelas-nueces-con-salsa-trufa-pieza",
+    "name": "Pollo relleno",
+    "description": "Pieza",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "52748",
     "ean": "8402001015533",
     "brand": "Hacendado",
@@ -37087,6 +37168,15 @@
     "name": "Bálsamo facial corporal infantil pieles atópicas Deliplus",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "52764",
+    "ean": "8402001016660",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52764/costillar-cordero-asado-facil-pieza",
+    "name": "Costillar de cordero asado fácil",
+    "description": "Pieza",
+    "category": "Carne > Conejo y cordero"
   },
   {
     "id": "52765",
@@ -54322,6 +54412,15 @@
     "name": "Fartons tradicionales Polo",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "82222",
+    "ean": "8437006994002",
+    "brand": "San Roque",
+    "url": "https://tienda.mercadona.es/product/82222/piquitos-con-salvado-san-roque-paquete",
+    "name": "Piquitos con salvado San Roque",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
     "id": "82227",
