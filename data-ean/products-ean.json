@@ -29943,6 +29943,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "4591",
+    "ean": "8421384128364",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4591/lomo-cerdo-trozo-pieza",
+    "name": "Lomo de cerdo trozo",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "45913",
     "ean": "83800037339",
     "brand": "Montagne Jeunesse",
@@ -36720,6 +36729,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52647",
+    "ean": "8700216090285",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/52647/maquinilla-afeitar-recargable-mach-3-sport-gillette-3-hojas-incluye-tres-recambios-paquete",
+    "name": "Maquinilla de afeitar recargable Mach 3 Sport Gillette 3 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52648",
     "ean": "8700216239875",
     "brand": "Gillette",
@@ -37510,6 +37528,24 @@
     "name": "Paleta sombras de ojos Eclipse Deliplus",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52920",
+    "ean": "8437023917831",
+    "brand": "Maltín Polar",
+    "url": "https://tienda.mercadona.es/product/52920/malta-maltin-polar-pack-6",
+    "name": "Malta Maltín Polar",
+    "description": "Pack-6",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "52921",
+    "ean": "8437023917824",
+    "brand": "Maltín Polar",
+    "url": "https://tienda.mercadona.es/product/52921/malta-maltin-polar-botellin",
+    "name": "Malta Maltín Polar",
+    "description": "Botellín",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "52957",
@@ -46752,6 +46788,15 @@
     "url": "https://tienda.mercadona.es/product/69347/berenjena-rayada-pieza",
     "name": "Berenjena rayada",
     "description": "Pieza",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69379",
+    "ean": "8730410100008",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69379/coles-bruselas-paquete",
+    "name": "Coles de bruselas",
+    "description": "Paquete",
     "category": "Fruta y verdura > Verdura"
   },
   {
