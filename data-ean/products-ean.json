@@ -14076,6 +14076,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "25625",
+    "ean": "5601853256252",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/25625/pato-entero-bandeja",
+    "name": "Pato entero",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "25629",
     "ean": "8412540001256",
     "brand": null,
@@ -20844,6 +20853,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "35324",
+    "ean": "8480000353245",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/35324/perdices-bandeja",
+    "name": "Perdices",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "35326",
     "ean": "8402001005756",
     "brand": "Deliplus",
@@ -25299,6 +25317,24 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "3664",
+    "ean": "8436039786066",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3664/pavita-pieza",
+    "name": "Pavita",
+    "description": "Pieza",
+    "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "3665",
+    "ean": "8436039789845",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3665/pierna-pavo-paquete",
+    "name": "Pierna de pavo",
+    "description": "Paquete",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "36705",
     "ean": "8480000367051",
     "brand": "Hacendado",
@@ -25306,6 +25342,15 @@
     "name": "Piñones Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "3674",
+    "ean": "8436039786103",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3674/pavita-pieza",
+    "name": "Pavita",
+    "description": "Pieza",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "3677",
@@ -37519,6 +37564,15 @@
     "name": "Gofres con chocolate Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "52895",
+    "ean": "8412276233570",
+    "brand": "Finca Cañadelas",
+    "url": "https://tienda.mercadona.es/product/52895/vino-tinto-do-valencia-finca-canadelas-reserva-botella",
+    "name": "Vino Tinto D.O Valencia Finca Cañadelas reserva",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
   },
   {
     "id": "52903",
