@@ -9927,6 +9927,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "22467",
+    "ean": "8480000224675",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/22467/cerveza-clasica-steinburg-pack-12",
+    "name": "Cerveza Clásica Steinburg",
+    "description": "Pack-12",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "22476",
     "ean": "8480000224767",
     "brand": "Hacendado",
@@ -9934,6 +9943,15 @@
     "name": "Mermelada de ciruela y kiwi Hacendado",
     "description": "Tarro",
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
+    "id": "22489",
+    "ean": "8480000224897",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/22489/cerveza-clasica-steinburg-botellin",
+    "name": "Cerveza Clásica Steinburg",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "22503",
