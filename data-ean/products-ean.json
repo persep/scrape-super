@@ -37746,6 +37746,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "52967",
+    "ean": "8720608039593",
+    "brand": "PG tips",
+    "url": "https://tienda.mercadona.es/product/52967/te-negro-pg-tips-caja",
+    "name": "Té negro PG tips",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "52968",
     "ean": "8437016311073",
     "brand": "Mr. Grills",
@@ -41542,6 +41551,15 @@
     "name": "Preparado de paella y sopa Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "62050",
+    "ean": "8436542057035",
+    "brand": "MareDeus",
+    "url": "https://tienda.mercadona.es/product/62050/lomo-bacalao-maredeus-ultracongelado-punto-sal-paquete",
+    "name": "Lomo de bacalao MareDeus ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "62103",
