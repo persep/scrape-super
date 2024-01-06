@@ -36342,6 +36342,15 @@
     "category": "Limpieza y hogar > Limpieza baño y WC"
   },
   {
+    "id": "52557",
+    "ean": "8402001013799",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52557/esponjas-bano-con-jabon-deliplus-extracto-aloe-vera-usar-tirar-paquete",
+    "name": "Esponjas de baño con jabón Deliplus extracto de aloe vera",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "52558",
     "ean": "8402001013768",
     "brand": "Bosque Verde",
@@ -36754,6 +36763,15 @@
     "name": "Multi corrector Rimmel 70 honey",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52622",
+    "ean": "8402001014055",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52622/aceitunas-picadedos-hacendado-alinadas-sin-hueso-tarro",
+    "name": "Aceitunas picadedos Hacendado aliñadas sin hueso",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "52625",
@@ -39625,6 +39643,15 @@
     "name": "Manzana Evelina",
     "description": "Bolsa",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "5958",
+    "ean": "8480000059581",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5958/queso-viejo-intenso-mezcla-hacendado-pieza",
+    "name": "Queso viejo intenso mezcla Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "5959",
