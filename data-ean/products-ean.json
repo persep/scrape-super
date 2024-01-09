@@ -6507,6 +6507,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "16807",
+    "ean": "8480000168078",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16807/avena-molida-hacendado-paquete",
+    "name": "Avena molida Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "16808",
     "ean": "8480000168085",
     "brand": "Hacendado",
@@ -36810,6 +36819,15 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "52632",
+    "ean": "8402001014062",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52632/zumo-naranja-hacendado-botella",
+    "name": "Zumo de naranja Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Naranja"
+  },
+  {
     "id": "52633",
     "ean": "8402001014352",
     "brand": "Hacendado",
@@ -37186,6 +37204,15 @@
     "name": "Máscara de pestañas Poem Deliplus negro",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52714",
+    "ean": "8402001014086",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52714/zumo-naranja-hacendado-botella",
+    "name": "Zumo de naranja Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Naranja"
   },
   {
     "id": "52716",
@@ -37726,6 +37753,15 @@
     "name": "Vino Tinto D.O Valencia Finca Cañadelas reserva",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "52902",
+    "ean": "8402001015281",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52902/paleta-sombras-ojos-midnight-deliplus-acabado-mate-satinado-metalico-perlado-glitter",
+    "name": "Paleta sombras de ojos Midnight Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "52903",
