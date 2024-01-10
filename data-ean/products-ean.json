@@ -7875,6 +7875,15 @@
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
+    "id": "19733",
+    "ean": "8480000197337",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19733/sal-gruesa-hacendado-paquete",
+    "name": "Sal gruesa Hacendado",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
     "id": "19734",
     "ean": "8480000197344",
     "brand": "Hacendado",
@@ -36945,6 +36954,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "52653",
+    "ean": "8402001014246",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/52653/cerveza-especial-steinburg-botellin",
+    "name": "Cerveza Especial Steinburg",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "52654",
     "ean": "8414640192391",
     "brand": "Uahuu",
@@ -58687,6 +58705,15 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "88407",
+    "ean": "8480000884077",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/88407/lentejas-listo-comer-bol",
+    "name": "Lentejas Listo para Comer",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
     "id": "8904",
