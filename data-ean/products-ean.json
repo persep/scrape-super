@@ -37476,6 +37476,15 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "52770",
+    "ean": "8402001015540",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52770/espuma-afeitar-piel-sensible-deliplus-con-manteca-cacao-bote",
+    "name": "Espuma de afeitar piel sensible Deliplus con manteca de cacao",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "52772",
     "ean": "8402001015120",
     "brand": "Hacendado",
@@ -41126,6 +41135,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/61204/habas-michirones-hacendado-ultracongeladas-paquete",
     "name": "Habas Michirones Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
+    "id": "61205",
+    "ean": "8480000612052",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/61205/alcachofa-baby-hacendado-ultracongelada-paquete",
+    "name": "Alcachofa baby Hacendado ultracongelada",
     "description": "Paquete",
     "category": "Congelados > Verdura"
   },
@@ -57733,6 +57751,24 @@
     "name": "Canelones de carne Hacendado ultracongelados",
     "description": "Caja",
     "category": "Congelados > Arroz y pasta"
+  },
+  {
+    "id": "86610.1",
+    "ean": "8480000866103",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86610.1/barra-pan-espiga",
+    "name": "Barra de pan espiga",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "86610.2",
+    "ean": "8480000866103",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86610.2/barra-pan-espiga-rebanado",
+    "name": "Barra de pan espiga rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "86611",
