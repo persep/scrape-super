@@ -1278,6 +1278,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "11168",
+    "ean": "8480000111685",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11168/infusion-manzanilla-hacendado-caja",
+    "name": "Infusión manzanilla Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "11171",
     "ean": "8480000111715",
     "brand": "Hacendado",
@@ -37861,6 +37870,15 @@
     "name": "Pastillas enciende fuegos Mr. Grills",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "52977",
+    "ean": "8402001017957",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52977/serum-facial-q10-antiarrugas-deliplus-tipo-pieles-frasco",
+    "name": "Sérum facial Q10 Antiarrugas Deliplus",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "53007",
