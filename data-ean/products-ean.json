@@ -36063,6 +36063,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52504",
+    "ean": "8402001013973",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52504/delineador-ojos-deliplus-02-marron",
+    "name": "Delineador de ojos Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52507",
     "ean": "8402001013522",
     "brand": "Hacendado",
@@ -37834,6 +37843,96 @@
     "name": "Paleta sombras de ojos Eclipse Deliplus",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52904",
+    "ean": "8402001016448",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52904/delineador-ojos-micro-rose-quartz-deliplus-negro",
+    "name": "Delineador de ojos micro Rose Quartz Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52905",
+    "ean": "8402001015342",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52905/colorete-compacto-multicolor-rose-quartz-deliplus",
+    "name": "Colorete compacto multicolor Rose Quartz Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52906",
+    "ean": "8402001015335",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52906/prebase-facial-hidratante-deliplus-primer-serum-rose-quartz",
+    "name": "Prebase facial hidratante Deliplus Primer Serum Rose Quartz",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "52907",
+    "ean": "8402001015311",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52907/pintalabios-mate-rose-quartz-deliplus",
+    "name": "Pintalabios mate Rose Quartz Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52908",
+    "ean": "8402001015328",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52908/pintalabios-creamy-rose-quartz-deliplus",
+    "name": "Pintalabios Creamy Rose Quartz Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52909",
+    "ean": "8402001015304",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52909/mascara-pestanas-black-lashes-rose-quartz-deliplus-negro",
+    "name": "Máscara de pestañas Black Lashes Rose Quartz Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52910",
+    "ean": "8402001014734",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52910/laca-unas-rose-quartz-deliplus-208-mauve",
+    "name": "Laca de uñas Rose Quartz Deliplus 208 mauve",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52911",
+    "ean": "8402001014741",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52911/laca-unas-rose-quartz-deliplus-209-rose",
+    "name": "Laca de uñas Rose Quartz Deliplus 209 rose",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52912",
+    "ean": "8402001014758",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52912/laca-unas-rose-quartz-deliplus-210-nude",
+    "name": "Laca de uñas Rose Quartz Deliplus 210 nude",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52913",
+    "ean": "8402001014765",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52913/tratamiento-unas-base-nutritiva-deliplus-211",
+    "name": "Tratamiento para uñas base nutritiva Deliplus 211",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "52920",
@@ -40138,6 +40237,15 @@
     "name": "Picadillo de variantes Convite",
     "description": "Tarro",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "60383",
+    "ean": "8480000603838",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60383/bebida-chufa-hacendado-sin-azucares-anadidos-brick",
+    "name": "Bebida de chufa Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
     "id": "60384",
