@@ -37089,6 +37089,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52667",
+    "ean": "8402001014307",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52667/nuez-natural-troceada-hacendado-paquete",
+    "name": "Nuez natural troceada Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "52672",
     "ean": "8402001014321",
     "brand": null,
@@ -37996,6 +38005,42 @@
     "name": "Pastillas enciende fuegos Mr. Grills",
     "description": "Caja",
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "52973",
+    "ean": "8402001015670",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52973/polvo-compacto-24h-long-lasting-deliplus-01-beige",
+    "name": "Polvo Compacto 24H Long Lasting Deliplus 01 beige",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52974",
+    "ean": "8402001015687",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52974/polvo-compacto-24h-long-lasting-deliplus-02-beige-rosado",
+    "name": "Polvo Compacto 24H Long Lasting Deliplus 02 beige rosado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52975",
+    "ean": "8402001015694",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52975/polvo-compacto-24h-long-lasting-deliplus-03-dorado",
+    "name": "Polvo Compacto 24H Long Lasting Deliplus 03 dorado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52976",
+    "ean": "8402001015700",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52976/polvo-compacto-24h-long-lasting-deliplus-04-dorado-oscuro",
+    "name": "Polvo Compacto 24H Long Lasting Deliplus 04 dorado oscuro",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "52977",
