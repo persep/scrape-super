@@ -37728,6 +37728,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "52857",
+    "ean": "8402001016363",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52857/ambientador-spray-secret-garden-bosque-verde-spray",
+    "name": "Ambientador spray Secret Garden Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52861",
     "ean": "8402001016431",
     "brand": null,
@@ -40455,6 +40464,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "60647",
+    "ean": "8431912576543",
+    "brand": "MilaRosa",
+    "url": "https://tienda.mercadona.es/product/60647/mascarillas-quirurgicas-milarosa-solo-uso-paquete",
+    "name": "Mascarillas quirúrgicas MilaRosa de un solo uso",
+    "description": "Paquete",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "60698",
     "ean": "8480000606983",
     "brand": "La Hacienda del ibérico",
@@ -42577,6 +42595,15 @@
     "name": "Fideo al huevo Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "63432",
+    "ean": "8480000634320",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/63432/calamar-patagonico-pequeno-hacendado-ultracongelado-paquete",
+    "name": "Calamar patagónico pequeño Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "63435",
