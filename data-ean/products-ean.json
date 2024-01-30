@@ -37476,6 +37476,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "52750",
+    "ean": "8402001015175",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52750/bebida-kefir-fresa-platano-hacendado-botella",
+    "name": "Bebida Kéfir de fresa y plátano Hacendado",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "52755",
     "ean": "8402001013737",
     "brand": "Deliplus",
@@ -37510,6 +37519,15 @@
     "name": "Alimento completo para roedores Granzoo",
     "description": "Paquete",
     "category": "Mascotas > Otros"
+  },
+  {
+    "id": "52766",
+    "ean": "8402001016691",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52766/surtido-bombones-hacendado-caja",
+    "name": "Surtido bombones Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "52768",
@@ -40473,6 +40491,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "60572",
+    "ean": "8410436462549",
+    "brand": "Syoss",
+    "url": "https://tienda.mercadona.es/product/60572/gel-fijador-rizos-cabello-curl-control-syoss-apto-metodo-curly-bote",
+    "name": "Gel fijador de rizos cabello Curl Control Syoss",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "60581",
     "ean": "8410655009006",
     "brand": "San Miguel",
@@ -40480,6 +40507,24 @@
     "name": "Cerveza 0,0% sin alcohol San Miguel",
     "description": "Botellín",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "60598",
+    "ean": "8402001016417",
+    "brand": "Él",
+    "url": "https://tienda.mercadona.es/product/60598/eau-parfum-hombre-frasco",
+    "name": "Eau de parfum hombre Él",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60638",
+    "ean": "8410655008993",
+    "brand": "San Miguel",
+    "url": "https://tienda.mercadona.es/product/60638/cerveza-especial-san-miguel-botellin",
+    "name": "Cerveza especial San Miguel",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "60647",
