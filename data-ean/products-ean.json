@@ -37485,6 +37485,15 @@
     "category": "Postres y yogures > Yogures líquidos"
   },
   {
+    "id": "52754",
+    "ean": "8402001017605",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52754/chicle-melones-acidos-hacendado-paquete",
+    "name": "Chicle Melones ácidos Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
     "id": "52755",
     "ean": "8402001013737",
     "brand": "Deliplus",
@@ -37890,6 +37899,15 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "52896",
+    "ean": "8402001017162",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52896/macedonia-mix-frutas-almibar-hacendado-pack-2",
+    "name": "Macedonia mix de frutas en almíbar Hacendado",
+    "description": "Pack-2",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "52902",
     "ean": "8402001015281",
     "brand": "Deliplus",
@@ -38104,6 +38122,15 @@
     "name": "Lote mujer Rose Nude",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52988",
+    "ean": "8402001015236",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52988/mascarilla-facial-arcilla-carbon-vegetal-deliplus-tipo-pieles-bote",
+    "name": "Mascarilla facial de arcilla y carbón vegetal Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "53007",
@@ -57353,6 +57380,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/86137/refresco-ice-tea-sabor-melocoton-hacendado-zero-botella",
     "name": "Refresco ice tea sabor melocotón Hacendado zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "86138",
+    "ean": "8480000861382",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86138/refresco-te-sabor-mango-hacendado-zero-botella",
+    "name": "Refresco té sabor mango Hacendado zero",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
