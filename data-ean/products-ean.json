@@ -38115,6 +38115,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "52984",
+    "ean": "8428390829841",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/52984/mini-eau-parfum-mujer-flor-mayo-love-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Love",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "52985",
     "ean": "8402001017049",
     "brand": "Rose Nude",
@@ -40545,6 +40554,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "60587",
+    "ean": "8402001017896",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60587/sopa-maravilla-hacendado",
+    "name": "Sopa maravilla Hacendado",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "60598",
     "ean": "8402001016417",
     "brand": "Él",
@@ -40561,6 +40579,15 @@
     "name": "Cerveza especial San Miguel",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "60641",
+    "ean": "8710912059226",
+    "brand": "Holland Corona",
+    "url": "https://tienda.mercadona.es/product/60641/queso-semicurado-bola-edam-holland-corona-pieza",
+    "name": "Queso semicurado bola Edam Holland Corona",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "60647",
@@ -58786,6 +58813,15 @@
     "name": "Vichyssoise de puerro y patata Hacendado",
     "description": "Bol",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "87240",
+    "ean": "8480000872401",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87240/porciones-merluza-cabo-bandeja",
+    "name": "Porciones de merluza del cabo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87265",
