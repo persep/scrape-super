@@ -38052,6 +38052,33 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "52958",
+    "ean": "8402001015748",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52958/mascara-pestanas-maxi-curve-deliplus-negro",
+    "name": "Máscara de pestañas Maxi Curve Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52963",
+    "ean": "8402001017414",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52963/laca-unas-efecto-gel-deliplus-242-azul-tinta",
+    "name": "Laca de uñas efecto gel Deliplus 242 Azul tinta",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "52964",
+    "ean": "8402001017421",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52964/laca-unas-efecto-gel-deliplus-243-nude-beige-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 243 Nude beige",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "52967",
     "ean": "8720608039593",
     "brand": "PG tips",
@@ -38129,6 +38156,15 @@
     "brand": "Rose Nude",
     "url": "https://tienda.mercadona.es/product/52985/lote-mujer-rose-nude-contiene-eau-parfum-100-ml-crema-manos-30-ml-body-milk-75-ml-caja",
     "name": "Lote mujer Rose Nude",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52986",
+    "ean": "8436611102307",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52986/lote-mujer-rouge-seduction-contiene-eau-parfum-60-ml-mini-eau-parfum-30-ml-caja",
+    "name": "Lote mujer Rouge seduction",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
