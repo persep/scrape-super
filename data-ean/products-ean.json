@@ -19962,6 +19962,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "34820",
+    "ean": "8480000348203",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/34820/cacahuete-frito-con-sal-hacendado-pelado-paquete",
+    "name": "Cacahuete frito con sal Hacendado pelado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "34821",
     "ean": "8480000348210",
     "brand": "Hacendado",
@@ -37908,6 +37917,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "52897",
+    "ean": "8402001018060",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52897/jabon-manos-avena-deliplus-liquido-bote",
+    "name": "Jabón de manos avena Deliplus líquido",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "52902",
     "ean": "8402001015281",
     "brand": "Deliplus",
@@ -38079,6 +38097,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52966",
+    "ean": "8402001018077",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52966/jabon-manos-kids-deliplus-liquido-bote",
+    "name": "Jabón de manos kids Deliplus líquido",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "52967",
     "ean": "8720608039593",
     "brand": "PG tips",
@@ -38140,6 +38167,60 @@
     "name": "Sérum facial Q10 Antiarrugas Deliplus",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "52978",
+    "ean": "8402001009822",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52978/extrait-parfum-vie-frasco",
+    "name": "Extrait de parfum Vie",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52979",
+    "ean": "8402001009969",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52979/extrait-parfum-petals-frasco",
+    "name": "Extrait de parfum Petals",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52980",
+    "ean": "8402001009976",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52980/extrait-parfum-ambar-frasco",
+    "name": "Extrait de parfum Ámbar",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52981",
+    "ean": "8402001009983",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52981/extrait-parfum-velour-frasco",
+    "name": "Extrait de parfum Velour",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52982",
+    "ean": "8402001014420",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52982/extrait-parfum-metal-frasco",
+    "name": "Extrait de parfum Metal",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "52983",
+    "ean": "8402001009990",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52983/extrait-parfum-cuir-frasco",
+    "name": "Extrait de parfum Cuir",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "52984",
