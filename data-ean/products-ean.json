@@ -37827,6 +37827,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "52876",
+    "ean": "8402001016080",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52876/galletas-choco-con-relleno-crema-cacao-hacendado-recubiertas-chocolate-con-leche-paquete",
+    "name": "Galletas Choco con relleno de crema de cacao Hacendado recubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "52880",
     "ean": "8402001017193",
     "brand": "Hacendado",
@@ -40642,6 +40651,24 @@
     "name": "Filtros de café para cafeteras tamaño 2 y 4 Bosque Verde",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
+  },
+  {
+    "id": "60533",
+    "ean": "8414640192568",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60533/neceser-snoopy-lunares-grande-con-asas-265-x-214-x-100-mm",
+    "name": "Neceser Snoopy lunares grande con asas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60537",
+    "ean": "8414640192599",
+    "brand": "Mafalda",
+    "url": "https://tienda.mercadona.es/product/60537/neceser-plateado-pequeno-mafalda-185-x-135-x-50-mm",
+    "name": "Neceser plateado pequeño Mafalda",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "60565",
