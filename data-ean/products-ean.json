@@ -23670,6 +23670,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "35749",
+    "ean": "8402001010026",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35749/flan-bicapa-caramelo-hacendado-pack-2",
+    "name": "Flan bicapa caramelo Hacendado",
+    "description": "Pack-2",
+    "category": "Postres y yogures > Flan y natillas"
+  },
+  {
     "id": "35751",
     "ean": "8402001011405",
     "brand": "Royal Swan",
@@ -40768,6 +40777,24 @@
     "name": "Eau de parfum hombre Él",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60630",
+    "ean": "8402001012556",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60630/surtido-caramelos-acidos-pintalenguas-hacendado-sabor-frambuesa-cola-paquete",
+    "name": "Surtido de caramelos Ácidos pintalenguas Hacendado sabor frambuesa y cola",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60633",
+    "ean": "8402001020278",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60633/filetes-vacuno-marinado-extra-tiernos-bandeja",
+    "name": "Filetes de vacuno marinado extra tiernos",
+    "description": "Bandeja",
+    "category": "Carne > Vacuno"
   },
   {
     "id": "60638",
