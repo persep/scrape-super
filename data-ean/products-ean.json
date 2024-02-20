@@ -5319,6 +5319,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "15702",
+    "ean": "8480000157027",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15702/ampollas-faciales-colageno-regen-skin-deliplus-con-celulas-madre-vegetales-caja",
+    "name": "Ampollas faciales colágeno Regen Skin Deliplus con células madre vegetales",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "15705",
     "ean": "8480000157058",
     "brand": "Vuela",
@@ -40795,6 +40804,15 @@
     "name": "Aceite solar protector Monoï FPS 15",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "60567",
+    "ean": "8402001016783",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60567/golosinas-rega-fruit-mix-hacendado-paquete",
+    "name": "Golosinas Rega Fruit Mix Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "60572",
