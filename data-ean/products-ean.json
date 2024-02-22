@@ -37647,6 +37647,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "52775",
+    "ean": "8402001014659",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52775/cafe-capsula-cappuccino-hacendado-compatibles-maquinas-dolce-gusto-caja",
+    "name": "Café en cápsula cappuccino Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
     "id": "52781",
     "ean": "8437018565917",
     "brand": null,
@@ -37852,6 +37861,15 @@
     "name": "Cerveza de trigo Paulaner",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "52856",
+    "ean": "8402001016219",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52856/bastoncillos-algodon-bebes-deliplus-caja",
+    "name": "Bastoncillos algodón para bebés Deliplus",
+    "description": "Caja",
+    "category": "Bebé > Higiene y cuidado"
   },
   {
     "id": "52857",
