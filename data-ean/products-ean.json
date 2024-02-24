@@ -38403,6 +38403,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "52992",
+    "ean": "8402001018572",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52992/cana-hojaldre-rellena-crema-sabor-vainilla-hacendado-con-cobertura-cacao-paquete",
+    "name": "Caña de hojaldre rellena de crema sabor vainilla Hacendado con cobertura de cacao",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "53007",
     "ean": "8410320127363",
     "brand": "Campofrío",
@@ -39607,6 +39616,15 @@
     "name": "Salchichón de bellota ibérico cortado a máquina",
     "description": "Paquete",
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "5850",
+    "ean": "8424465903799",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5850/4-panes-cristal-redondos-cortados-100-natural-pack-4",
+    "name": "4 Panes de cristal redondos cortados 100 % natural",
+    "description": "Pack-4",
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "5901",
@@ -42899,6 +42917,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/63163/anillas-pota-romana-hacendado-ultracongeladas-paquete",
     "name": "Anillas de pota a la romana Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
+    "id": "63170",
+    "ean": "8480000631701",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/63170/varitas-merluza-empanadas-hacendado-ultracongeladas-paquete",
+    "name": "Varitas de merluza empanadas Hacendado ultracongeladas",
     "description": "Paquete",
     "category": "Congelados > Rebozados"
   },
