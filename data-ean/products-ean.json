@@ -14400,6 +14400,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "26496",
+    "ean": "8480000264961",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26496/vinagre-balsamico-modena-hacendado-botella",
+    "name": "Vinagre balsámico de Módena Hacendado",
+    "description": "Botella",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
     "id": "2684",
     "ean": "8436021412751",
     "brand": null,
@@ -37778,6 +37787,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/52804/perfilador-ojos-deliplus-01-negro",
     "name": "Perfilador de ojos Deliplus 01 negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52805",
+    "ean": "8402001015823",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52805/perfilador-ojos-deliplus-02-marron",
+    "name": "Perfilador de ojos Deliplus 02 marrón",
     "description": null,
     "category": "Maquillaje > Ojos"
   },
