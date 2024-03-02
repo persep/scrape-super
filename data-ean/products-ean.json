@@ -37980,6 +37980,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "52877",
+    "ean": "8402001018299",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52877/galletas-cream-cookies-hacendado-12-chocolate-negro-24-relleno-chocolate-blanco-paquete",
+    "name": "Galletas Cream Cookies Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "52880",
     "ean": "8402001017193",
     "brand": "Hacendado",
@@ -40930,6 +40939,15 @@
     "name": "Cuellos de pollo",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "60618",
+    "ean": "8402001019708",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60618/datiles-medjoul-con-hueso-hacendado-paquete",
+    "name": "Dátiles Medjoul con hueso Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "60622",
