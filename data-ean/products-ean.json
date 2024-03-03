@@ -37827,6 +37827,42 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "52824",
+    "ean": "8402001015885",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52824/surtido-chocolate-con-leche-pascua-hacendado-paquete",
+    "name": "Surtido de chocolate con leche Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52825",
+    "ean": "8402001013683",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52825/figura-chocolate-con-leche-conejo-pascua-hacendado",
+    "name": "Figura de chocolate con leche conejo Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52826",
+    "ean": "8402001013676",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52826/figura-chocolate-blanco-conejo-pascua-hacendado",
+    "name": "Figura chocolate blanco conejo Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "52827",
+    "ean": "8421699222221",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52827/piruleta-chocolate-con-leche-pascua-hacendado",
+    "name": "Piruleta de chocolate con leche Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "52828",
     "ean": "5000267195070",
     "brand": "Cardhu",
@@ -40860,6 +40896,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "60531",
+    "ean": "8402001017827",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60531/huevos-chocolate-con-leche-minis-relleno-cremoso-cereales-pascua-hacendado-paquete",
+    "name": "Huevos de chocolate con leche Minis relleno cremoso y cereales Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "60533",
     "ean": "8414640192568",
     "brand": null,
@@ -40869,6 +40914,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60535",
+    "ean": "8421699220944",
+    "brand": "Kokoa",
+    "url": "https://tienda.mercadona.es/product/60535/huevo-chocolate-con-leche-chispeante-pascua-kokoa",
+    "name": "Huevo de chocolate con leche chispeante Pascua Kokoa",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "60537",
     "ean": "8414640192599",
     "brand": "Mafalda",
@@ -40876,6 +40930,78 @@
     "name": "Neceser plateado pequeño Mafalda",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60538",
+    "ean": "8402001018596",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60538/golosinas-mix-pascua-hacendado-paquete",
+    "name": "Golosinas Mix Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60539",
+    "ean": "8436556394928",
+    "brand": "Trolli",
+    "url": "https://tienda.mercadona.es/product/60539/caramelos-rellenos-pascua-soft-eggies-trolli-paquete",
+    "name": "Caramelos rellenos Pascua Soft Eggies Trolli",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60540",
+    "ean": "8402001018718",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60540/brocheta-golosinas-pascua-hacendado-paquete",
+    "name": "Brocheta golosinas Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60555",
+    "ean": "8402001018954",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60555/gel-bano-vainilla-miel-deliplus-piel-normal-botella",
+    "name": "Gel de baño vainilla y miel Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "60556",
+    "ean": "8402001018947",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60556/gel-bano-bergamota-yuzu-deliplus-piel-normal-botella",
+    "name": "Gel de baño bergamota y yuzu Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "60557",
+    "ean": "8402001018930",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60557/gel-bano-marino-cedro-deliplus-piel-normal-botella",
+    "name": "Gel de baño marino y cedro Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "60558",
+    "ean": "8402001018923",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60558/gel-bano-ambar-vetiver-deliplus-piel-normal-botella",
+    "name": "Gel de baño ambar y vetiver Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "60559",
+    "ean": "8402001018916",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60559/gel-bano-lavanda-eucalipto-deliplus-piel-normal-botella",
+    "name": "Gel de baño lavanda y eucalipto Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
     "id": "60565",
@@ -41002,6 +41128,141 @@
     "name": "Mascarillas quirúrgicas MilaRosa de un solo uso",
     "description": "Paquete",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "60655",
+    "ean": "8402001009273",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60655/eau-parfum-mujer-amor-frasco",
+    "name": "Eau de parfum mujer Como Tú Amor",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60657",
+    "ean": "8402001013072",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60657/eau-parfum-mujer-enciende-frasco",
+    "name": "Eau de parfum mujer Como Tú Enciende",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60659",
+    "ean": "8402001009280",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60659/eau-parfum-mujer-gold-frasco",
+    "name": "Eau de parfum mujer Como Tú Gold",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60660",
+    "ean": "8402001013065",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60660/eau-parfum-mujer-extratime-frasco",
+    "name": "Eau de parfum mujer Extratime",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60661",
+    "ean": "8402001013058",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60661/eau-parfum-mujer-extra-time-frasco",
+    "name": "Eau de parfum mujer Como Tú Extra Time",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60662",
+    "ean": "8402001009297",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60662/eau-parfum-mujer-sinfonia-frasco",
+    "name": "Eau de parfum mujer Como Tú Sinfonía",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60663",
+    "ean": "8402001009334",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60663/eau-parfum-mujer-atraccion-frasco",
+    "name": "Eau de parfum mujer Como Tú Atracción",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60664",
+    "ean": "8402001009327",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/60664/eau-toilette-hombre-enciende-frasco",
+    "name": "Eau de toilette hombre Como tú Enciende",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60665",
+    "ean": "8402001013089",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60665/eau-parfum-hombre-extra-time-frasco",
+    "name": "Eau de parfum hombre Como Tú Extra Time",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60666",
+    "ean": "8402001013096",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60666/eau-parfum-hombre-extratime-frasco",
+    "name": "Eau de parfum hombre Como Tú Extratime",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60667",
+    "ean": "8402001009303",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60667/eau-parfum-hombre-fuerza-frasco",
+    "name": "Eau de parfum hombre Como Tú Fuerza",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60668",
+    "ean": "8402001009310",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60668/eau-parfum-hombre-viento-frasco",
+    "name": "Eau de parfum hombre Como Tú Viento",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60669",
+    "ean": "8402001009341",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/60669/eau-parfum-hombre-rebel-frasco",
+    "name": "Eau de parfum hombre Como Tú Rebel",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60688",
+    "ean": "8402001014673",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/60688/lote-hombre-fuerza-contiene-eau-parfum-100ml-gel-champu-100ml-neceser",
+    "name": "Lote hombre Como tú Fuerza",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60691",
+    "ean": "8428390829858",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/60691/mini-eau-parfum-hombre-flor-mayo-odyssey-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Odyssey",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "60698",
