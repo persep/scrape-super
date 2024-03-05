@@ -24894,6 +24894,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "35950",
+    "ean": "8402001011955",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35950/pano-seca-vajillas-bosque-verde-paquete",
+    "name": "Paño seca vajillas Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
     "id": "35955",
     "ean": "8402001011696",
     "brand": null,
@@ -39114,6 +39123,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "5593",
+    "ean": "8480000055934",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5593/ensalada-china-hacendado-con-mazorquitas-tarro",
+    "name": "Ensalada china Hacendado con mazorquitas",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "5598",
     "ean": "8480000055989",
     "brand": "Hacendado",
@@ -40750,6 +40768,15 @@
     "name": "Leche condensada Hacendado",
     "description": "Bote",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "60354",
+    "ean": "8424465915228",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60354/pan-integral-100-fino-paquete",
+    "name": "Pan integral 100% fino",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "6037",
