@@ -36828,6 +36828,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "52607",
+    "ean": "8402001014116",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52607/infusion-manzana-canela-hacendado-caja",
+    "name": "Infusión manzana y canela Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "52608",
     "ean": "3616304825057",
     "brand": "Rimmel London",
@@ -39285,6 +39294,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "5710",
+    "ean": "8480000057105",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5710/pechuga-pavo-92-lonchas-paquete",
+    "name": "Pechuga de pavo 92% lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "5712",
     "ean": "8480000057129",
     "brand": "Hacendado",
@@ -41085,6 +41103,33 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "60589",
+    "ean": "8402001016936",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60589/mascara-pestanas-panoramic-deliplus-negro",
+    "name": "Máscara de pestañas Panoramic Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "60590",
+    "ean": "8402001016950",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60590/serum-pestanas-sos-cuida-refuerza-deliplus",
+    "name": "Sérum de pestañas SOS cuida y refuerza Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "60591",
+    "ean": "8402001016943",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60591/mascara-pestanas-twist-deliplus-negro",
+    "name": "Máscara de pestañas Twist Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "60598",
     "ean": "8402001016417",
     "brand": "Él",
@@ -41101,6 +41146,24 @@
     "name": "Cuellos de pollo",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "60602",
+    "ean": "8402001014291",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/60602/bebida-energetica-zero-watermelon-energy-drink-lata",
+    "name": "Bebida energética zero Watermelon Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "60610",
+    "ean": "8402001019333",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60610/capsulas-stop-apetit-deliplus-elaborado-base-extractos-vegetales-minerales-caja",
+    "name": "Cápsulas Stop Apetit Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "60618",
@@ -59641,6 +59704,15 @@
     "name": "Filetes de trucha",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "87350",
+    "ean": "8480000873507",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87350/filetes-gallineta-descongelada-con-agua-anadida-bandeja",
+    "name": "Filetes de Gallineta descongelada",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87540",
