@@ -23526,6 +23526,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "35714",
+    "ean": "8402001010507",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35714/cepillos-interdentales-extrafinos-conicos-deliplus-paquete",
+    "name": "Cepillos interdentales Extrafinos cónicos Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "35720",
     "ean": "8402001009556",
     "brand": "Hacendado",
@@ -41193,6 +41202,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "60632",
+    "ean": "8402001019449",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60632/leche-condensada-desnatada-hacendado-bote",
+    "name": "Leche condensada desnatada Hacendado",
+    "description": "Bote",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "60633",
     "ean": "8402001020278",
     "brand": null,
@@ -54826,6 +54844,15 @@
     "name": "Crunchy picante Munchos",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "80478",
+    "ean": "8480000804785",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80478/refresco-te-sabor-melocoton-hacendado-botella",
+    "name": "Refresco té sabor melocotón Hacendado",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "80490",
