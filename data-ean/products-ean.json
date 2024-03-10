@@ -23490,6 +23490,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "35703",
+    "ean": "8402001010514",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35703/cepillos-interdentales-micro-deliplus-paquete",
+    "name": "Cepillos interdentales Micro Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "35705",
     "ean": "8414640192131",
     "brand": null,
@@ -23623,6 +23632,15 @@
     "name": "Bocaditos en salsa gato adulto Delikuit esterilizado",
     "description": "Caja",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "35733",
+    "ean": "8402001010491",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/35733/cepillos-interdentales-finos-conicos-deliplus-paquete",
+    "name": "Cepillos interdentales Finos cónicos Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "35734",
@@ -41175,6 +41193,24 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "60613",
+    "ean": "8402001017926",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60613/crema-proteccion-solar-facial-deliplus-fps-50-resistente-agua-bote",
+    "name": "Crema protección solar facial Deliplus FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "60615",
+    "ean": "8402001017933",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60615/crema-proteccion-solar-facial-con-color-deliplus-fps-50-resistente-agua-apto-tipo-pieles-bote",
+    "name": "Crema protección solar facial con color Deliplus FPS 50",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "60618",
     "ean": "8402001019708",
     "brand": "Hacendado",
@@ -58293,6 +58329,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "86171",
+    "ean": "4005900283191",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/86171/protector-solar-protege-hidrata-nivea-fps-50-resistente-agua-bote",
+    "name": "Protector solar protege e hidrata Nivea FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "86174",
     "ean": "8410320356312",
     "brand": "Revilla",
@@ -58579,6 +58624,33 @@
     "name": "Crema de setas del bosque Knorr con champiñones",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "86317",
+    "ean": "3600542522878",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/86317/protector-solar-ninos-sensitive-advanced-delial-fps-50-resistente-agua-garnier-spray",
+    "name": "Protector solar niños Sensitive advanced Delial FPS 50+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86318",
+    "ean": "8411135480926",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/86318/aceite-bruma-protectora-sunnique-ecran-fps-30-resistente-agua-spray",
+    "name": "Aceite bruma protectora Sunnique Ecran FPS 30+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86319",
+    "ean": "3600542298254",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/86319/fluido-proteccion-solar-facial-delial-fps50-con-vitamina-acido-hialuronico-garnier-bote",
+    "name": "Fluido protección solar facial Delial FPS50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "86329",
