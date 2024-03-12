@@ -24642,6 +24642,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "35904",
+    "ean": "8005709104013",
+    "brand": "Armando",
+    "url": "https://tienda.mercadona.es/product/35904/spaghetti-armando-paquete",
+    "name": "Spaghetti Armando",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "35905",
     "ean": "8402001011382",
     "brand": "Hacendado",
@@ -38916,6 +38925,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "5459",
+    "ean": "8402001011245",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5459/horchata-fresca-hacendado-botella",
+    "name": "Horchata fresca Hacendado",
+    "description": "Botella",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "5464",
     "ean": "8480000054647",
     "brand": "Hacendado",
@@ -39164,6 +39182,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/5593/ensalada-china-hacendado-con-mazorquitas-tarro",
     "name": "Ensalada china Hacendado con mazorquitas",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "5594",
+    "ean": "8480000055941",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5594/brotes-germinados-hacendado-tarro",
+    "name": "Brotes germinados Hacendado",
     "description": "Tarro",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
@@ -53053,6 +53080,15 @@
     "name": "Crema facial anti-edad integral L'Oréal men expert Vita lift 5 acciones",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "7903",
+    "ean": "8428390079543",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/7903/mini-eau-parfum-mujer-flor-mayo-football-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Football",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "79035",
