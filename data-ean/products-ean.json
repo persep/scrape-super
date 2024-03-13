@@ -41004,6 +41004,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "60532",
+    "ean": "8402001016899",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60532/tratamiento-anti-frizz-deliplus-tipo-cabello-control-encrespamiento-spray",
+    "name": "Tratamiento Anti Frizz Deliplus todo tipo de cabello",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "60533",
     "ean": "8414640192568",
     "brand": null,
@@ -41425,6 +41434,15 @@
     "name": "Eau de parfum hombre Como Tú Rebel",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60674",
+    "ean": "8402001018183",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60674/kit-viaje-higiene-dental-deliplus-anticaries-contiene-dentifrico-30-ml-cepillo-dental",
+    "name": "Kit de viaje higiene dental Deliplus Anticaries",
+    "description": null,
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "60688",
@@ -53179,6 +53197,15 @@
     "name": "Tabletas limpiadoras prótesis dentales Benfix y ortodoncias",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "79121",
+    "ean": "8402001008115",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/79121/gel-proteccion-solar-facial-anti-edad-seesee-fps-50-invisible-bote",
+    "name": "Gel protección solar facial anti-edad Deliplus FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "79126",
