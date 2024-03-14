@@ -24696,6 +24696,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "35914",
+    "ean": "8402001010774",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35914/suavizante-ropa-colonia-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Colonia Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "35915",
     "ean": "8410104914257",
     "brand": "Finish",
@@ -37656,6 +37665,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "52759",
+    "ean": "8402001015960",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52759/difusor-multifragancia-electrico-bosque-verde-con-regulador-intensidad-paquete",
+    "name": "Difusor multifragancia eléctrico Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52760",
     "ean": "8402001012129",
     "brand": "Deliplus",
@@ -37753,6 +37771,15 @@
     "name": "Aceitunas manzanilla sabor anchoa Hacendado con hueso",
     "description": "Tarro",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "52784",
+    "ean": "8413941021539",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52784/codillo-cerdo-pieza",
+    "name": "Codillo de cerdo",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "52785",
@@ -41065,6 +41092,15 @@
     "name": "Brocheta golosinas Pascua Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60545",
+    "ean": "8402001019197",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60545/chocolate-extrafino-con-leche-fussion-hacendado-con-galletas-animadas-tarrina",
+    "name": "Chocolate extrafino con leche Fussion Hacendado con galletas animadas",
+    "description": "Tarrina",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "60554",
@@ -53215,6 +53251,15 @@
     "name": "Protector solar bruma facial Delial FPS 50",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "7913",
+    "ean": "8410109128994",
+    "brand": "Valor",
+    "url": "https://tienda.mercadona.es/product/7913/chocolate-70-negro-valor-0-azucares-anadidos-tableta",
+    "name": "Chocolate 70% negro Valor 0% azúcares añadidos",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "79136",
