@@ -26820,6 +26820,15 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "3998",
+    "ean": "8480000039989",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3998/pitaya-pieza",
+    "name": "Pitaya",
+    "description": "Pieza",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "39980",
     "ean": "8480000399809",
     "brand": "Hacendado",
@@ -53179,6 +53188,15 @@
     "name": "Batido Sustitutivo sabor chocolate y galletas Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "7906",
+    "ean": "8436548784553",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/7906/medallones-pechuga-pollo-ajillo-bandeja",
+    "name": "Medallones pechuga de pollo al ajillo",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "79060",
