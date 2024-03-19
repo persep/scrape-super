@@ -35082,6 +35082,15 @@
     "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
+    "id": "5184",
+    "ean": "8480000051844",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5184/arroz-integral-largo-hacendado-paquete",
+    "name": "Arroz integral largo Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Arroz"
+  },
+  {
     "id": "5186",
     "ean": "8480000051868",
     "brand": null,
@@ -37971,6 +37980,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "52833",
+    "ean": "8402001015977",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52833/difusor-ambientador-electrico-bosque-verde-con-regulador-intensidad-paquete",
+    "name": "Difusor ambientador eléctrico Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52834",
     "ean": "8402001016370",
     "brand": "Bosque Verde",
@@ -38340,6 +38358,33 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "52922",
+    "ean": "8402001015984",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52922/perfilador-ojos-manga-deliplus-01-negro",
+    "name": "Perfilador de ojos Manga Deliplus 01 negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52923",
+    "ean": "8402001015991",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52923/perfilador-ojos-manga-deliplus-02-azul",
+    "name": "Perfilador de ojos Manga Deliplus 02 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52924",
+    "ean": "8402001016004",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52924/perfilador-ojos-manga-deliplus-03-verde",
+    "name": "Perfilador de ojos Manga Deliplus 03 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52931",
     "ean": "8402001013607",
     "brand": "Deliplus",
@@ -38365,6 +38410,60 @@
     "name": "Acondicionador instantáneo Hydra hyaluronic Deliplus cabello de normal a seco",
     "description": "Bote",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "52938",
+    "ean": "8402001015359",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52938/paleta-sombras-ojos-manga-rosa-deliplus",
+    "name": "Paleta sombras de ojos Manga rosa Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52939",
+    "ean": "8402001015298",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52939/paleta-sombras-ojos-manga-verde-deliplus",
+    "name": "Paleta sombras de ojos Manga verde Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52940",
+    "ean": "8402001016929",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52940/paleta-coloretes-faciales-manga-deliplus-contiene-4-tonos-textura-polvo-suave",
+    "name": "Paleta de coloretes faciales Manga Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "52941",
+    "ean": "8402001016875",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52941/brillo-labios-hidratante-manga-deliplus-01-perlado",
+    "name": "Brillo de labios hidratante Manga Deliplus 01 perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52942",
+    "ean": "8402001016905",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52942/brillo-labios-hidratante-manga-deliplus-02-rosa-claro",
+    "name": "Brillo de labios hidratante Manga Deliplus 02 rosa claro",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "52943",
+    "ean": "8402001016912",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52943/brillo-labios-hidratante-manga-deliplus-03-rosa-medio",
+    "name": "Brillo de labios hidratante Manga Deliplus 03 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "52948",
@@ -39436,6 +39535,15 @@
     "name": "Jamón serrano Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "5813",
+    "ean": "8424465905403",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5813/baguette",
+    "name": "Baguette",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "58151",
@@ -41193,6 +41301,51 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "60576",
+    "ean": "8402001006951",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60576/tratamiento-unas-base-manga-deliplus-190",
+    "name": "Tratamiento para uñas Base Manga Deliplus 190",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "60577",
+    "ean": "8402001006968",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60577/laca-unas-manga-deliplus-con-pincel-extrafino-191-verde",
+    "name": "Laca de uñas Manga Deliplus con pincel extrafino 191 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "60578",
+    "ean": "8402001006975",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60578/laca-unas-manga-deliplus-con-pincel-extrafino-192-azul",
+    "name": "Laca de uñas Manga Deliplus con pincel extrafino 192 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "60579",
+    "ean": "8402001006982",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60579/laca-unas-manga-deliplus-con-pincel-extrafino-193-lila",
+    "name": "Laca de uñas Manga Deliplus con pincel extrafino 193 lila",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "60580",
+    "ean": "8402001006999",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60580/laca-unas-manga-deliplus-con-pincel-exrtrafino-194-fucsia",
+    "name": "Laca de uñas Manga Deliplus con pincel exrtrafino 194 fucsia",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "60581",
     "ean": "8410655009006",
     "brand": "San Miguel",
@@ -41362,6 +41515,24 @@
     "name": "Mascarillas quirúrgicas MilaRosa de un solo uso",
     "description": "Paquete",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "60651",
+    "ean": "8402001019760",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60651/infusion-fria-hacendado-con-sabor-pina-coco-caja",
+    "name": "Infusión fría Hacendado con sabor a piña y coco",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
+    "id": "60653",
+    "ean": "8402001019753",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60653/infusion-fria-hacendado-con-sabor-fresa-hierbabuena-caja",
+    "name": "Infusión fría Hacendado con sabor a fresa y hierbabuena",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
     "id": "60655",
@@ -53575,6 +53746,15 @@
     "name": "Ambientador coche Lima Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "7945",
+    "ean": "8402001020827",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7945/barritas-barquillo-hacendado-con-relleno-cobertura-galleta-caramelizada-paquete",
+    "name": "Barritas de barquillo Hacendado con relleno y cobertura de galleta caramelizada",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "79453",
