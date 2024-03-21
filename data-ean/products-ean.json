@@ -22347,6 +22347,15 @@
     "category": "Carne > Vacuno"
   },
   {
+    "id": "35550",
+    "ean": "8402001008481",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35550/vela-citronela-antimosquitos-moscas-bosque-verde-vaso",
+    "name": "Vela citronela antimosquitos y moscas Bosque Verde",
+    "description": "Vaso",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "35552",
     "ean": "8402001006562",
     "brand": "Deliplus",
@@ -41166,6 +41175,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60534",
+    "ean": "8414640192643",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/60534/neceser-verde-flor-mediano-uahuu-220-x-135-x-60-mm",
+    "name": "Neceser verde flor mediano Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "60535",
     "ean": "8421699220944",
     "brand": "Kokoa",
@@ -41173,6 +41191,15 @@
     "name": "Huevo de chocolate con leche chispeante Pascua Kokoa",
     "description": null,
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "60536",
+    "ean": "8414640192650",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/60536/neceser-tokidoki-negro-mediano-con-asa-230-x-160-x-70-mm",
+    "name": "Neceser Tokidoki negro mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "60537",
@@ -41508,6 +41535,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "60644",
+    "ean": "8410225556237",
+    "brand": "Heno de Pravia",
+    "url": "https://tienda.mercadona.es/product/60644/jabon-manos-pastilla-natural-original-heno-pravia-paquete",
+    "name": "Jabón de manos en pastilla natural original Heno de Pravia",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "60647",
     "ean": "8431912576543",
     "brand": "MilaRosa",
@@ -41803,6 +41839,15 @@
     "name": "Ambientador automático Flower Bosque Verde",
     "description": "Bote",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "6082",
+    "ean": "8480000060822",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/6082/tarta-infantil-dc-comics-hacendado-congelada",
+    "name": "Tarta infantil DC Comics Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "60832",
@@ -58912,6 +58957,15 @@
     "name": "Caramelos surtidos 6 sabores Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "86297",
+    "ean": "8402001017216",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86297/crema-proteccion-solar-infantil-fps-50-deliplus-pieles-sensibles-atopicas-resistente-agua-bote",
+    "name": "Crema protección solar infantil FPS 50+ Deliplus para pieles sensibles y atópicas",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "86309",
