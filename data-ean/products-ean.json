@@ -41490,6 +41490,51 @@
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
   },
   {
+    "id": "60623",
+    "ean": "8402001016592",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60623/perfilador-ojos-waterproof-deliplus-azul",
+    "name": "Perfilador de ojos Waterproof Deliplus azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "60624",
+    "ean": "8402001016608",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60624/perfilador-ojos-waterproof-deliplus-green",
+    "name": "Perfilador de ojos Waterproof Deliplus green",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "60625",
+    "ean": "8402001016615",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60625/perfilador-ojos-waterproof-deliplus-ocean",
+    "name": "Perfilador de ojos Waterproof Deliplus ocean",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "60626",
+    "ean": "8402001016622",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60626/perfilador-ojos-waterproof-deliplus-azul-turquesa",
+    "name": "Perfilador de ojos Waterproof Deliplus azul turquesa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "60627",
+    "ean": "8402001016639",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60627/perfilador-ojos-waterproof-deliplus-purpura",
+    "name": "Perfilador de ojos Waterproof Deliplus púrpura",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "60629",
     "ean": "8402001019418",
     "brand": "Bosque Verde",
@@ -41704,6 +41749,15 @@
     "name": "Kit de viaje higiene dental Deliplus Anticaries",
     "description": null,
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "60680",
+    "ean": "8402001018978",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60680/helado-biscuit-hacendado-con-pasta-galletas-caramelizadas-bote",
+    "name": "Helado Biscuit Hacendado",
+    "description": "Bote",
+    "category": "Congelados > Helados"
   },
   {
     "id": "60688",
