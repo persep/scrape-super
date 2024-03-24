@@ -41391,6 +41391,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "60588",
+    "ean": "8402001019272",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60588/bebida-mango-hacendado-sin-azucares-anadidos-brick",
+    "name": "Bebida de mango Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Zumos > Tomate y otros sabores"
+  },
+  {
     "id": "60589",
     "ean": "8402001016936",
     "brand": "Deliplus",
@@ -41607,6 +41616,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "60648",
+    "ean": "8402001020575",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60648/cono-golosinas-celebracion-hacendado-contiene-piruleta-cinta-pica-pica-2-caramelos-goma-snack-maiz-caramelo-blando-caramelo-duro-comprimido-con-polvo-pica-sabor-fresa-gel-dulce-paquete",
+    "name": "Cono de golosinas celebración Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "60651",
     "ean": "8402001019760",
     "brand": "Hacendado",
@@ -41641,6 +41659,15 @@
     "name": "Eau de parfum mujer Como Tú Enciende",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60658",
+    "ean": "8402001020582",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60658/locion-after-shave-fresh-deliplus-con-alcohol-bote",
+    "name": "Loción after shave Fresh Deliplus con alcohol",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "60659",
@@ -53721,6 +53748,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "7942",
+    "ean": "8720181514746",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/7942/champu-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
+    "name": "Champú Liso Keratina TRESemmé cabello encrespado o dañado",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
     "id": "79424",
     "ean": "8480000794246",
     "brand": "Bosque Verde",
@@ -53766,6 +53802,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "7943",
+    "ean": "8720181514753",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/7943/acondicionador-liso-keratina-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-aminoacidos-bote",
+    "name": "Acondicionador Liso Keratina TRESemmé cabello encrespado o dañado",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "79431",
     "ean": "8480000794314",
     "brand": "Deliplus",
@@ -53809,6 +53854,15 @@
     "name": "Colagen sabor limón Deliplus",
     "description": "Bote",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "7944",
+    "ean": "8720181514944",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/7944/mascarilla-intensiva-liso-keratina-1-minute-wow-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-pro-bond-complex-bote",
+    "name": "Mascarilla intensiva Liso Keratina 1 Minute Wow! TRESemmé cabello encrespado o dañado",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
     "id": "79441",
