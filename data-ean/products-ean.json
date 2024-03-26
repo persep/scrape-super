@@ -38394,6 +38394,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52926",
+    "ean": "8402001018251",
+    "brand": "Da Feira",
+    "url": "https://tienda.mercadona.es/product/52926/vino-blanco-do-ribeiro-treixadura-da-feira-botella",
+    "name": "Vino blanco D.O Ribeiro Treixadura Da Feira",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
     "id": "52931",
     "ean": "8402001013607",
     "brand": "Deliplus",
@@ -38419,6 +38428,42 @@
     "name": "Acondicionador instantáneo Hydra hyaluronic Deliplus cabello de normal a seco",
     "description": "Bote",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "52934",
+    "ean": "8436601370242",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52934/paleta-sombras-ojos-maldivas",
+    "name": "Paleta sombras de ojos Maldivas",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52935",
+    "ean": "8436601370259",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52935/paleta-sombras-ojos-cairo",
+    "name": "Paleta sombras de ojos Cairo",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52936",
+    "ean": "8436601370273",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52936/paleta-sombras-ojos-new-york",
+    "name": "Paleta sombras de ojos New York",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52937",
+    "ean": "8436601370266",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52937/paleta-sombras-ojos-manhattan",
+    "name": "Paleta sombras de ojos Manhattan",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "52938",
@@ -53604,6 +53649,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "7917",
+    "ean": "8402001017438",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7917/laca-unas-efecto-gel-deliplus-244-malva-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 244 Malva",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "79179",
     "ean": "8480000791795",
     "brand": "Deliplus",
@@ -53746,6 +53800,15 @@
     "name": "Discos desmaquillantes Deliplus ovalados algodón 100%",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "7941",
+    "ean": "8402001017445",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7941/laca-unas-efecto-gel-deliplus-245-salmon-paso-1o-2",
+    "name": "Laca de uñas efecto gel Deliplus 245 Salmon",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "7942",
