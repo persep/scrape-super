@@ -39996,6 +39996,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "58711",
+    "ean": "8437003894459",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/58711/taco-jamon-curado-pieza",
+    "name": "Taco jamón curado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "5901",
     "ean": "8480000059017",
     "brand": null,
@@ -59137,6 +59146,15 @@
     "name": "Caramelos surtidos 6 sabores Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "86295",
+    "ean": "8402001017209",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86295/crema-proteccion-solar-infantil-fps-50-deliplus-pieles-sensibles-atopicas-resistente-agua-bote",
+    "name": "Crema protección solar infantil FPS 50+ Deliplus para pieles sensibles y atópicas",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "86297",
