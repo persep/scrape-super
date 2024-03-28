@@ -17775,6 +17775,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "29606",
+    "ean": "8410973583363",
+    "brand": "La Selva",
+    "url": "https://tienda.mercadona.es/product/29606/panceta-curada-sin-corteza-selva-lonchas-paquete",
+    "name": "Panceta curada sin corteza La Selva lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
     "id": "29608",
     "ean": "5449000164957",
     "brand": "Aquarius",
@@ -41301,6 +41310,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "60546",
+    "ean": "8711571013253",
+    "brand": "Lambweston",
+    "url": "https://tienda.mercadona.es/product/60546/patatas-prefritas-twister-fries-lambweston-ultracongeladas-paquete",
+    "name": "Patatas prefritas Twister fries Lambweston ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "60554",
     "ean": "8402001018961",
     "brand": "Deliplus",
@@ -45151,6 +45169,15 @@
     "name": "Granizado de limón Hacendado",
     "description": "Pack-6",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "6487",
+    "ean": "8480000064875",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/6487/tarta-infantil-tesia-and-friends-hacendado-congelada",
+    "name": "Tarta infantil Tesia and Friends Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "6495",
@@ -59164,6 +59191,15 @@
     "name": "Crema protección solar infantil FPS 50+ Deliplus para pieles sensibles y atópicas",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86302",
+    "ean": "5054563203335",
+    "brand": "Polident",
+    "url": "https://tienda.mercadona.es/product/86302/crema-fijadora-protesis-dentales-polident-fijacion-fuerte-tubo",
+    "name": "Crema fijadora prótesis dentales Polident fijación fuerte",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "86309",
