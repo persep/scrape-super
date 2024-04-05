@@ -37800,6 +37800,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "52776",
+    "ean": "8436569263174",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52776/preparado-carne-picada-vacuno-paquete",
+    "name": "Preparado de carne picada vacuno",
+    "description": "Paquete",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "52781",
     "ean": "8437018565917",
     "brand": null,
@@ -59272,6 +59281,15 @@
     "name": "Fluido protección solar facial Delial FPS50+",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86327",
+    "ean": "8402001020834",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86327/zumo-naranja-hacendado-botella",
+    "name": "Zumo de naranja Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Naranja"
   },
   {
     "id": "86329",
