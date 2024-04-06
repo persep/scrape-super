@@ -56412,6 +56412,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "8179",
+    "ean": "5411188137993",
+    "brand": "Alpro",
+    "url": "https://tienda.mercadona.es/product/8179/postre-soja-sabor-arandanos-alpro-bote",
+    "name": "Postre de soja sabor arándanos Alpro",
+    "description": "Bote",
+    "category": "Postres y yogures > Postres de soja"
+  },
+  {
     "id": "81790.1",
     "ean": "2105300817902",
     "brand": null,
@@ -56815,6 +56824,15 @@
     "name": "Grissini palitos de pan con sésamo Hacendado",
     "description": "Pack-2",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "8249",
+    "ean": "8410500027841",
+    "brand": "Activia",
+    "url": "https://tienda.mercadona.es/product/8249/bifidus-cremoso-sabor-melocoton-activia-danone-pack-4",
+    "name": "Bífidus cremoso sabor melocotón Activia",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Bífidus"
   },
   {
     "id": "82491",
