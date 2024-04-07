@@ -38430,6 +38430,15 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "52928",
+    "ean": "8402001017674",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52928/almendra-palitos-hacendado-paquete",
+    "name": "Almendra palitos Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
     "id": "52931",
     "ean": "8402001013607",
     "brand": "Deliplus",
@@ -53577,6 +53586,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "7904",
+    "ean": "8402001017865",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7904/laminas-faciales-reabsorbibles-efecto-lifting-deliplus-apto-tipo-pieles-contiene-agua-rosas-4-ml-lamina-frente-ojos-caja",
+    "name": "Láminas faciales reabsorbibles efecto lifting Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "79052",
     "ean": "8480000790521",
     "brand": "Deliplus",
@@ -53637,6 +53655,15 @@
     "url": "https://tienda.mercadona.es/product/79069/toallitas-desmaquillantes-cara-ojos-deliplus-piel-normal-mixta-con-camomila-paquete",
     "name": "Toallitas desmaquillantes cara y ojos Deliplus piel normal-mixta",
     "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "7907",
+    "ean": "8402001018329",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7907/crema-corporal-hidratante-sorbete-mango-deliplus-con-acido-hialuronico-tarro",
+    "name": "Crema corporal hidratante sorbete Mango Deliplus",
+    "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
@@ -59299,6 +59326,24 @@
     "name": "Fluido protección solar facial Delial FPS50+",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86324",
+    "ean": "8402001020391",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86324/zumo-pina-hacendado-botella",
+    "name": "Zumo de piña Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Melocotón y piña"
+  },
+  {
+    "id": "86325",
+    "ean": "8402001020407",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86325/zumo-pina-hacendado-botella",
+    "name": "Zumo de piña Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Melocotón y piña"
   },
   {
     "id": "86327",
