@@ -37683,6 +37683,15 @@
     "category": "Postres y yogures > Yogures líquidos"
   },
   {
+    "id": "52751",
+    "ean": "8402001015205",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52751/cereales-avena-crunchy-hacendado-cacao-caja",
+    "name": "Cereales avena Crunchy Hacendado de cacao",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "52754",
     "ean": "8402001017605",
     "brand": "Hacendado",
@@ -38264,6 +38273,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/52897/jabon-manos-avena-deliplus-liquido-bote",
     "name": "Jabón de manos avena Deliplus líquido",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "52898",
+    "ean": "8402001018084",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52898/jabon-manos-neutralizante-olores-deliplus-bote",
+    "name": "Jabón de manos neutralizante de olores Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
@@ -39400,6 +39418,15 @@
     "name": "Bebida energética Energy Drink Zero Hacendado",
     "description": "Pack-6",
     "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "5588",
+    "ean": "8480000055880",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5588/aceitunas-negras-hacendado-sin-hueso-pack-3",
+    "name": "Aceitunas negras Hacendado sin hueso",
+    "description": "Pack-3",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "5593",
@@ -41029,6 +41056,15 @@
     "name": "Cerveza especial 18/70 La Rubia",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "60323",
+    "ean": "8480000603234",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60323/snack-maiz-redes-sabor-barbacoa-hacendado-paquete",
+    "name": "Snack de maíz Redes sabor barbacoa Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "60329",
@@ -53683,6 +53719,24 @@
     "name": "Toallitas lavadora Bosque Verde acción 2 en 1",
     "description": "Paquete",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "7909",
+    "ean": "8402001018312",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7909/exfoliante-corporal-con-particulas-bambu-semillas-kiwi-aroma-sandia-deliplus-tarro",
+    "name": "Exfoliante corporal con partículas de bambú, semillas de kiwi y aroma a sandía Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "7911",
+    "ean": "8402001018305",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7911/locion-luminosidad-mandarina-deliplus-tubo",
+    "name": "Loción luminosidad mandarina Deliplus",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "79113",
