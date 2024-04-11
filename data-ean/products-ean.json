@@ -38601,6 +38601,33 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52960",
+    "ean": "8402001017971",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52960/rotulador-cejas-flowers-long-lasting-deliplus-01-4-puntas",
+    "name": "Rotulador de cejas Flowers Long Lasting Deliplus 01",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52961",
+    "ean": "8402001017964",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52961/rotulador-cejas-flowers-long-lasting-deliplus-02-4-puntas",
+    "name": "Rotulador de cejas Flowers Long Lasting Deliplus 02",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52962",
+    "ean": "8402001017988",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52962/lapiz-cejas-duo-flowers-highlighter-deliplus-corrector-iluminador-acabado-mate-perlado",
+    "name": "Lápiz de cejas dúo Flowers Highlighter Deliplus corrector e iluminador",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52963",
     "ean": "8402001017414",
     "brand": "Deliplus",
@@ -39733,6 +39760,15 @@
     "name": "Panceta salada ibérica La Hacienda del ibérico",
     "description": "Paquete",
     "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "58228",
+    "ean": "8480000582287",
+    "brand": "La Hacienda",
+    "url": "https://tienda.mercadona.es/product/58228/jamon-cebo-iberico-hacienda-paquete",
+    "name": "Jamón de cebo ibérico La Hacienda",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "58230",
@@ -53523,6 +53559,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "7886",
+    "ean": "8402001018411",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7886/paleta-sombras-ojos-flowers-deliplus",
+    "name": "Paleta sombras de ojos Flowers Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "78861",
     "ean": "8413647036707",
     "brand": "Benfix",
@@ -53530,6 +53575,42 @@
     "name": "Crema adhesiva para prótesis dentales Benfix sin sabor",
     "description": "Tubo",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "7887",
+    "ean": "8402001018367",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7887/mascara-pestanas-big-volume-deliplus-negro",
+    "name": "Máscara de pestañas Big Volume Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "7888",
+    "ean": "8402001018466",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7888/colorete-fluido-blush-flowers-deliplus-01-rosa-acabado-aterciopelado",
+    "name": "Colorete fluido Blush Flowers Deliplus 01 rosa acabado aterciopelado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "7889",
+    "ean": "8402001018473",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7889/colorete-fluido-blush-flowers-deliplus-02-coral-acabado-aterciopelado",
+    "name": "Colorete fluido Blush Flowers Deliplus 02 coral acabado aterciopelado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "7890",
+    "ean": "8402001018480",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7890/iluminador-facial-fluido-flowers-highlighter-deliplus-01-champagne",
+    "name": "Iluminador facial fluido Flowers Highlighter Deliplus 01 champagne",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "78931",
@@ -53541,6 +53622,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "7896",
+    "ean": "8402001014727",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7896/laca-unas-secado-rapido-deliplus-212-blanco",
+    "name": "Laca de uñas secado rápido Deliplus 212 blanco",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "78967",
     "ean": "3616303465711",
     "brand": "Crossmen",
@@ -53548,6 +53638,15 @@
     "name": "Lote hombre Crossmen",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "7897",
+    "ean": "8402001014789",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7897/laca-unas-secado-rapido-deliplus-213-rosa-claro",
+    "name": "Laca de uñas secado rápido Deliplus 213 rosa claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "78975",
@@ -53559,6 +53658,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "7898",
+    "ean": "8402001014796",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7898/laca-unas-secado-rapido-deliplus-214-rosa",
+    "name": "Laca de uñas secado rápido Deliplus 214 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "78983",
     "ean": "8411061945117",
     "brand": "Bustamante",
@@ -53566,6 +53674,15 @@
     "name": "Lote hombre Bustamante Muy mío",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "7899",
+    "ean": "8402001014802",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7899/laca-unas-secado-rapido-deliplus-215-fucsia",
+    "name": "Laca de uñas secado rápido Deliplus 215 fucsia",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "79006",
@@ -53586,6 +53703,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "7901",
+    "ean": "8402001014819",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7901/laca-unas-secado-rapido-deliplus-216-rojo",
+    "name": "Laca de uñas secado rápido Deliplus 216 rojo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "79012",
     "ean": "3600520983813",
     "brand": "L'Oréal",
@@ -53593,6 +53719,15 @@
     "name": "Coloración sin amoníaco L'Oréal 400 castaño",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "7902",
+    "ean": "8402001014826",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7902/tratamiento-unas-serum-vitaminico-deliplus-217",
+    "name": "Tratamiento para uñas sérum vitamínico Deliplus 217",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "79021",
@@ -53899,6 +54034,15 @@
     "name": "Eau de toilette mujer Pacha Ibiza Psicodelic",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "7927",
+    "ean": "8480000079275",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7927/hojaldre-relleno-crema-hacendado-sin-azucar-anadido",
+    "name": "Hojaldre relleno de crema Hacendado sin azúcar añadido",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "79344",
