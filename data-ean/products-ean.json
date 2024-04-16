@@ -26019,6 +26019,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "37802",
+    "ean": "8412423110075",
+    "brand": "Dominio de Borgia",
+    "url": "https://tienda.mercadona.es/product/37802/vino-rosado-dominio-borgia-garrafa",
+    "name": "Vino rosado Dominio de Borgia",
+    "description": "Garrafa",
+    "category": "Bodega > Vino rosado"
+  },
+  {
     "id": "37806",
     "ean": "8412423110044",
     "brand": "Dominio de Borgia",
@@ -57285,6 +57294,15 @@
     "category": "Panadería y pastelería > Pan tostado y rallado"
   },
   {
+    "id": "8266",
+    "ean": "8402001017469",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8266/laca-unas-alto-brillo-deliplus-83-verde",
+    "name": "Laca de uñas alto brillo Deliplus 83 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "82662",
     "ean": "8438001495075",
     "brand": null,
@@ -57301,6 +57319,15 @@
     "name": "Pan tostado pasas Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "8267",
+    "ean": "8402001017476",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8267/laca-unas-alto-brillo-deliplus-84-naranja",
+    "name": "Laca de uñas alto brillo Deliplus 84 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "8268",
@@ -57447,6 +57474,24 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "8281",
+    "ean": "8402001017483",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8281/laca-unas-alto-brillo-deliplus-85-rosa-perlado",
+    "name": "Laca de uñas alto brillo Deliplus 85 rosa perlado",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8282",
+    "ean": "8402001017490",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8282/laca-unas-alto-brillo-deliplus-86-rosa",
+    "name": "Laca de uñas alto brillo Deliplus 86 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "82830.1",
     "ean": "8480000828309",
     "brand": null,
@@ -57499,6 +57544,15 @@
     "name": "Pulpo cocido",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "8286",
+    "ean": "8402001017452",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8286/laca-unas-alto-brillo-deliplus-82-azul",
+    "name": "Laca de uñas alto brillo Deliplus 82 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "82886",
@@ -59488,6 +59542,24 @@
     "name": "Crema protección solar infantil FPS 50+ Deliplus para pieles sensibles y atópicas",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "86299",
+    "ean": "8402001016967",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86299/mascara-pestanas-maxi-color-deliplus-azul",
+    "name": "Máscara de pestañas Maxi Color Deliplus azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86300",
+    "ean": "8402001016974",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86300/mascara-pestanas-waterproof-deliplus-negro",
+    "name": "Máscara de pestañas Waterproof Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "86302",
