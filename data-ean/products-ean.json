@@ -41328,6 +41328,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "60517",
+    "ean": "8402001018763",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/60517/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete",
+    "name": "Recipiente hermético de Plástico Rectangular 3L Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "60531",
     "ean": "8402001017827",
     "brand": "Hacendado",
@@ -54324,6 +54333,15 @@
     "category": "Bebé > Biberón, chupete y menaje"
   },
   {
+    "id": "7946",
+    "ean": "8411114095479",
+    "brand": "Eau My Unicorn",
+    "url": "https://tienda.mercadona.es/product/7946/lote-infantil-eau-my-unicorn-contiene-eau-toilette-150-ml-adhesivos-fluorescentes-antifaz-dormir-caja",
+    "name": "Lote infantil Eau My Unicorn",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "79462",
     "ean": "8480000794628",
     "brand": "Deliplus",
@@ -54349,6 +54367,15 @@
     "name": "Biberón 270 ml tetina silicona tres posiciones +1 mes Deliplus",
     "description": null,
     "category": "Bebé > Biberón, chupete y menaje"
+  },
+  {
+    "id": "7947",
+    "ean": "8411114094373",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/7947/lote-infantil-disney-stitch-contiene-eau-toilette-accesorios-decorativos-cabello-caja",
+    "name": "Lote infantil Disney Stitch",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "79470",
@@ -54385,6 +54412,15 @@
     "name": "Tetina silicona papillas espesas +4 meses Deliplus",
     "description": "Paquete",
     "category": "Bebé > Biberón, chupete y menaje"
+  },
+  {
+    "id": "7948",
+    "ean": "8411114095486",
+    "brand": "Marvel",
+    "url": "https://tienda.mercadona.es/product/7948/lote-infantil-marvel-i-am-groot-contiene-eau-toilette-150-ml-muelle-elastico-caja-multiusos-juego-memoria-caja",
+    "name": "Lote infantil Marvel I am Groot",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "79490",
