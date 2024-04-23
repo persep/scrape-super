@@ -44865,6 +44865,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "64113",
+    "ean": "8480000641137",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/64113/helado-tutti-frutti-hacendado-tarrina",
+    "name": "Helado tutti frutti Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "64126",
     "ean": "8480000641267",
     "brand": null,
@@ -53595,6 +53604,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "7883",
+    "ean": "8428390829834",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/7883/mini-eau-parfum-hombre-flor-mayo-mistery-intense-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Mistery intense",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "78843",
     "ean": "8480000788436",
     "brand": "9.60",
@@ -54504,6 +54522,15 @@
     "category": "Bebé > Biberón, chupete y menaje"
   },
   {
+    "id": "7950",
+    "ean": "8428390829872",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/7950/mini-eau-parfum-mujer-flor-mayo-daily-love-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Daily Love",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "79501",
     "ean": "8480000795014",
     "brand": "Deliplus",
@@ -54529,6 +54556,24 @@
     "name": "Bastoncillos algodón para niños Deliplus",
     "description": "Caja",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "7951",
+    "ean": "8428390079512",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7951/bruma-capilar-corporal-daily-love-con-brillo-deliplus-spray",
+    "name": "Bruma capilar y corporal Daily Love con brillo Deliplus",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "7952",
+    "ean": "8428390829865",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/7952/mini-eau-parfum-mujer-flor-mayo-rose-serenade-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Rose Serenade",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "79522",
@@ -54583,6 +54628,24 @@
     "name": "Tratamiento crema reductor intensivo noche Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "7954",
+    "ean": "8402001015038",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/7954/lote-mujer-the-rose-contiene-eau-parfum-100-ml-bolso",
+    "name": "Lote mujer Como Tú The Rose",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "7956",
+    "ean": "8436611102291",
+    "brand": "Women'Secret",
+    "url": "https://tienda.mercadona.es/product/7956/lote-mujer-womensecret-intimate-delight-contiene-eau-parfum-100-ml-mini-eau-parfum-30-ml-caja",
+    "name": "Lote mujer Women'Secret Intimate Delight",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "79576",
