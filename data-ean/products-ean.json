@@ -37818,6 +37818,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "52774",
+    "ean": "8402001012365",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52774/cafe-capsulas-doble-espresso-hacendado-compatibles-maquinas-nespresso-caja",
+    "name": "Café en cápsulas doble espresso Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
     "id": "52775",
     "ean": "8402001014659",
     "brand": "Hacendado",
@@ -41515,6 +41524,24 @@
     "name": "Gel de baño lavanda y eucalipto Deliplus piel normal",
     "description": "Botella",
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "60560",
+    "ean": "8402001019029",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60560/toallitas-refrescantes-deliplus-paquete",
+    "name": "Toallitas refrescantes Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "60561",
+    "ean": "8402001019036",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60561/toallitas-refrescantes-deliplus-monodosis-caja",
+    "name": "Toallitas refrescantes Deliplus monodosis",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "60565",
@@ -53955,6 +53982,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "7912",
+    "ean": "8402001018862",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7912/enjuague-bucal-sensitive-encias-deliplus-zero-alcohol-botella",
+    "name": "Enjuague bucal Sensitive & Encías Deliplus zero alcohol",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "79121",
     "ean": "8402001008115",
     "brand": "Deliplus",
@@ -57609,6 +57645,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "8283",
+    "ean": "8414640192636",
+    "brand": "Snoopy",
+    "url": "https://tienda.mercadona.es/product/8283/neceser-furgoneta-mediano-con-asa-snoopy-250-x-160-x-145-mm",
+    "name": "Neceser furgoneta mediano con asa Snoopy",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "82830.1",
     "ean": "8480000828309",
     "brand": null,
@@ -59776,6 +59821,15 @@
     "name": "Lavavajillas Aloe Vera y Pepino Fairy líquido",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "86352",
+    "ean": "8700216125468",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/86352/compresa-con-alas-normal-evax-cotton-like-fresh-paquete",
+    "name": "Compresa con alas normal Evax cotton like fresh",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "8645",
