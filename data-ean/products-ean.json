@@ -6723,6 +6723,15 @@
     "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
+    "id": "16864",
+    "ean": "8480000168641",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16864/sal-fina-mesa-hacendado-bote",
+    "name": "Sal fina de mesa Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
     "id": "16874",
     "ean": "8480000168740",
     "brand": null,
@@ -24282,6 +24291,15 @@
     "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
+    "id": "35841",
+    "ean": "8402001010538",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35841/trampa-hormigas-bosque-verde-caja",
+    "name": "Trampa contra hormigas Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "35842",
     "ean": "8402001008993",
     "brand": "Hacendado",
@@ -38203,6 +38221,15 @@
     "name": "Galletas Cream Cookies Hacendado",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "52879",
+    "ean": "8001841144849",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/52879/panales-bebe-talla-3-6-10-kg-dodot-sensitive-paquete",
+    "name": "Pañales bebé talla 3 de 6-10 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
   },
   {
     "id": "52880",
@@ -57735,6 +57762,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "8289",
+    "ean": "8414640192629",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/8289/neceser-celeste-pequeno-uahuu-160-x-80-x-70-mm",
+    "name": "Neceser celeste pequeño Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "82892",
     "ean": "8423102210207",
     "brand": "Anitin",
@@ -59837,6 +59873,15 @@
     "brand": "Evax",
     "url": "https://tienda.mercadona.es/product/86352/compresa-con-alas-normal-evax-cotton-like-fresh-paquete",
     "name": "Compresa con alas normal Evax cotton like fresh",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "86353",
+    "ean": "8700216125383",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/86353/compresa-con-alas-super-evax-cotton-like-fresh-paquete",
+    "name": "Compresa con alas super Evax cotton like fresh",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
