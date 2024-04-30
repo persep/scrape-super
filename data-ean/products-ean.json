@@ -42066,6 +42066,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "60685",
+    "ean": "8402001019814",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60685/pizza-barbacoa-hacendado-pack-2",
+    "name": "Pizza barbacoa Hacendado",
+    "description": "Pack-2",
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "60688",
     "ean": "8402001014673",
     "brand": "Como tú",
@@ -57328,6 +57337,15 @@
     "name": "Crepes rellenos de chocolate",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "8257",
+    "ean": "8402001021619",
+    "brand": "Entrepinares",
+    "url": "https://tienda.mercadona.es/product/8257/queso-lonchas-cabra-entrepinares-paquete",
+    "name": "Queso lonchas de cabra Entrepinares",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "82576",
