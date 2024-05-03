@@ -41130,6 +41130,15 @@
     "category": "Congelados > Rebozados"
   },
   {
+    "id": "60306",
+    "ean": "8480000603067",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60306/pollo-marinado-rebozado-crispy-american-style-hacendado-ultracongeladas-paquete",
+    "name": "Pollo marinado rebozado Crispy American Style Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Carne > Empanados y elaborados"
+  },
+  {
     "id": "60307",
     "ean": "8480000603074",
     "brand": "Hacendado",
@@ -56923,6 +56932,15 @@
     "name": "Merluza media pieza sin aletas y sin escamas",
     "description": "1/2 Pieza",
     "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "8184",
+    "ean": "8402001021527",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8184/capsulas-triptofano-byestress-deliplus-contiene-ashwagandha-elaborado-base-triptofano-vitaminas-minerales-caja",
+    "name": "Cápsulas Triptófano ByeStress Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "81928",
