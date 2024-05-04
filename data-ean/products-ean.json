@@ -41733,6 +41733,24 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "60604",
+    "ean": "8413194676432",
+    "brand": "Estrella de Levante",
+    "url": "https://tienda.mercadona.es/product/60604/cerveza-00-sin-alcohol-tostada-estrella-levante-pack-12",
+    "name": "Cerveza 0,0% sin alcohol tostada Estrella de Levante",
+    "description": "Pack-12",
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "60605",
+    "ean": "8413194676135",
+    "brand": "Estrella de Levante",
+    "url": "https://tienda.mercadona.es/product/60605/cerveza-00-sin-alcohol-tostada-estrella-levante-lata",
+    "name": "Cerveza 0,0% sin alcohol tostada Estrella de Levante",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
     "id": "60610",
     "ean": "8402001019333",
     "brand": "Deliplus",
@@ -61342,6 +61360,15 @@
     "name": "Levadura fresca Levital",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "8794",
+    "ean": "8412941006249",
+    "brand": "Convite",
+    "url": "https://tienda.mercadona.es/product/8794/zanahoria-tiras-convite-tarro",
+    "name": "Zanahoria en tiras Convite",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
     "id": "88180",
