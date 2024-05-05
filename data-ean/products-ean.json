@@ -48384,6 +48384,15 @@
     "category": "Postres y yogures > Flan y natillas"
   },
   {
+    "id": "68233",
+    "ean": "8480000682338",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/68233/escarola-rizada-paquete",
+    "name": "Escarola rizada",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
     "id": "68234",
     "ean": "8480000682345",
     "brand": null,
@@ -57780,6 +57789,15 @@
     "category": "Panadería y pastelería > Pan tostado y rallado"
   },
   {
+    "id": "8284",
+    "ean": "8402001021169",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8284/laca-unas-alto-brillo-deliplus-87-coral",
+    "name": "Laca de uñas alto brillo Deliplus 87 coral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "82842",
     "ean": "8480000828422",
     "brand": "Hacendado",
@@ -61344,6 +61362,15 @@
     "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
+    "id": "8778",
+    "ean": null,
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8778/refresco-fanta-naranja-zero-azucares-anadidos-pack-8",
+    "name": "Refresco Fanta naranja zero azúcares añadidos",
+    "description": "Pack-8",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
     "id": "87783",
     "ean": "8480000877833",
     "brand": "Hacendado",
@@ -61351,6 +61378,15 @@
     "name": "Salpicón de marisco Hacendado",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "8779",
+    "ean": "5449000324122",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8779/refresco-fanta-limon-zero-azucares-anadidos-pack-8",
+    "name": "Refresco Fanta limón zero azúcares añadidos",
+    "description": "Pack-8",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
     "id": "87811",
