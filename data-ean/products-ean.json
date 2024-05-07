@@ -42075,6 +42075,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60672",
+    "ean": "8402001021466",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60672/infusion-quema-grasas-hacendado-caja",
+    "name": "Infusión Quema grasas Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "60674",
     "ean": "8402001018183",
     "brand": "Deliplus",
@@ -54576,6 +54585,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "7949",
+    "ean": "8414640192681",
+    "brand": "One Piece",
+    "url": "https://tienda.mercadona.es/product/7949/lote-infantil-one-piece-contiene-eau-toilette-100ml-bandera-3-parches-adhesivos-caja",
+    "name": "Lote infantil One Piece",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "79490",
     "ean": "8480000794901",
     "brand": "Deliplus",
@@ -56970,6 +56988,42 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "8186",
+    "ean": "8402001018374",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8186/mascara-pestanas-big-color-deliplus-azul",
+    "name": "Máscara de pestañas Big Color Deliplus azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "8187",
+    "ean": "8402001018381",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8187/mascara-pestanas-big-color-deliplus-verde",
+    "name": "Máscara de pestañas Big Color Deliplus verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "8188",
+    "ean": "8402001018398",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8188/mascara-pestanas-big-color-deliplus-rosa",
+    "name": "Máscara de pestañas Big Color Deliplus rosa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "8189",
+    "ean": "8402001018404",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8189/mascara-pestanas-big-color-deliplus-lila",
+    "name": "Máscara de pestañas Big Color Deliplus lila",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "81928",
     "ean": "8480000819284",
     "brand": null,
@@ -56979,6 +57033,15 @@
     "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
+    "id": "8193",
+    "ean": "8402001018428",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8193/paleta-sombras-ojos-shine-fest-deliplus",
+    "name": "Paleta sombras de ojos Shine Fest Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "81931",
     "ean": "8480000819314",
     "brand": null,
@@ -56986,6 +57049,15 @@
     "name": "Rodaja de emperador",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "8199",
+    "ean": "8402001014772",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8199/laca-unas-neon-deliplus-218-verde",
+    "name": "Laca de uñas Neon Deliplus 218 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "82032",
@@ -57258,6 +57330,15 @@
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
+    "id": "8238",
+    "ean": "8402001014833",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8238/laca-unas-neon-219-lima",
+    "name": "Laca de uñas Neon 219 lima",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "82380.1",
     "ean": "8437011917010",
     "brand": null,
@@ -57276,6 +57357,24 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "8239",
+    "ean": "8402001014840",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8239/laca-unas-neon-deliplus-220-naranja",
+    "name": "Laca de uñas Neon Deliplus 220 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8240",
+    "ean": "8402001014857",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8240/laca-unas-neon-deliplus-221-coral",
+    "name": "Laca de uñas Neon Deliplus 221 coral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "82404",
     "ean": "8480000824042",
     "brand": "Hacendado",
@@ -57283,6 +57382,15 @@
     "name": "Sobaos Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "8241",
+    "ean": "8402001014864",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8241/laca-unas-neon-deliplus-222-rosa",
+    "name": "Laca de uñas Neon Deliplus 222 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "82412",
@@ -57301,6 +57409,15 @@
     "name": "Panecillos tostados cereales y semillas Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "8242",
+    "ean": "8402001015434",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8242/laca-unas-neon-deliplus-237",
+    "name": "Laca de uñas Neon Deliplus 237",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "82439",
@@ -57589,6 +57706,15 @@
     "name": "Manzanas Roja",
     "description": "Bolsa",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "82699",
+    "ean": "8411939182750",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/82699/sobaos-hacendado-paquete",
+    "name": "Sobaos Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "82717",
@@ -57969,6 +58095,24 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "8294",
+    "ean": "8402001020070",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8294/pintalabios-creamy-deliplus-215-malva-suave",
+    "name": "Pintalabios Creamy Deliplus 215 malva suave",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8295",
+    "ean": "8402001020087",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8295/pintalabios-creamy-deliplus-216-rosa-medio",
+    "name": "Pintalabios Creamy Deliplus 216 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "82961",
     "ean": "8480000829610",
     "brand": "Hacendado",
@@ -57985,6 +58129,24 @@
     "name": "Bacalao estilo pil pil",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "8299",
+    "ean": "8402001020100",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8299/pintalabios-creamy-deliplus-218-granate-suave",
+    "name": "Pintalabios Creamy Deliplus 218 granate suave",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8300",
+    "ean": "8402001020124",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8300/pintalabios-creamy-deliplus-219-marron-chocolate",
+    "name": "Pintalabios Creamy Deliplus 219 marrón chocolate",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "83056",
