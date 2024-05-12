@@ -41760,6 +41760,33 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "60607",
+    "ean": "4012400800711",
+    "brand": "Sun Med",
+    "url": "https://tienda.mercadona.es/product/60607/protector-solar-sun-med-fps-50-resistente-agua-spray",
+    "name": "Protector solar Sun Med FPS 50+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "60608",
+    "ean": "4012400800704",
+    "brand": "Sun Med",
+    "url": "https://tienda.mercadona.es/product/60608/protector-solar-infantil-pediatrico-sun-med-fps-50-resistente-agua-spray",
+    "name": "Protector solar infantil pediátrico Sun Med FPS 50+",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "60609",
+    "ean": "4012400800780",
+    "brand": "Sun Med",
+    "url": "https://tienda.mercadona.es/product/60609/protector-solar-sun-med-fps-30-resistente-agua-spray",
+    "name": "Protector solar Sun Med FPS 30",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "60610",
     "ean": "8402001019333",
     "brand": "Deliplus",
@@ -41767,6 +41794,15 @@
     "name": "Cápsulas Stop Apetit Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "60612",
+    "ean": "8402001020216",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60612/gelatina-solar-corporal-deliplus-fps-15-tarro",
+    "name": "Gelatina solar corporal Deliplus FPS 15",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "60613",
