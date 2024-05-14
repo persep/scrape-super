@@ -9981,6 +9981,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "22459",
+    "ean": "8411135480667",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/22459/aceite-solar-seco-protector-fps-30-ecran-resistente-agua-bote",
+    "name": "Aceite solar seco protector FPS 30 Ecran resistente al agua",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "22467",
     "ean": "8480000224675",
     "brand": "Steinburg",
@@ -57681,6 +57690,15 @@
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
+    "id": "8260",
+    "ean": "8411114094656",
+    "brand": "Marvel",
+    "url": "https://tienda.mercadona.es/product/8260/colonia-corporal-infantil-marvel-spiderman-bote",
+    "name": "Colonia corporal infantil Marvel Spiderman",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "82609",
     "ean": "8480000826091",
     "brand": "Choco Buns",
@@ -58543,6 +58561,15 @@
     "name": "Pan especial para torrijas con canela y limón",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "8343",
+    "ean": "8411135480674",
+    "brand": "Ecran",
+    "url": "https://tienda.mercadona.es/product/8343/aceite-solar-seco-protector-fps-50-ecran-resistente-agua-bote",
+    "name": "Aceite solar seco protector FPS 50 Ecran resistente al agua",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "83436",
