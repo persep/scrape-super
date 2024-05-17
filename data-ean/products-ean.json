@@ -32832,6 +32832,15 @@
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
+    "id": "4883",
+    "ean": "8480000048837",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/4883/queso-curado-mezcla-con-trufa-hacendado-pieza",
+    "name": "Queso curado mezcla con trufa Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "4888",
     "ean": "8414100388630",
     "brand": "Schweppes",
@@ -40230,6 +40239,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "5882",
+    "ean": "8480000058829",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5882/queso-semicurado-oveja-hacendado-pieza",
+    "name": "Queso semicurado de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "5901",
     "ean": "8480000059017",
     "brand": null,
@@ -42208,6 +42226,15 @@
     "name": "Lote hombre Como tú Fuerza",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60689",
+    "ean": "8402001021992",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60689/helado-dochi-banoffee-hacendado-banana-masa-galleta-con-salsa-dulce-leche-galleta-triturada-caja",
+    "name": "Helado Dochi Banoffee Hacendado de banana y masa de galleta",
+    "description": "Caja",
+    "category": "Congelados > Helados"
   },
   {
     "id": "60691",
@@ -55294,6 +55321,15 @@
     "name": "Tiras protectoras classic color piel surtidas Deliplus",
     "description": "Caja",
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
+    "id": "7980",
+    "ean": "3616301273165",
+    "brand": "Rimmel",
+    "url": "https://tienda.mercadona.es/product/7980/multi-corrector-rimmel-40-ivory",
+    "name": "Multi corrector Rimmel 40 ivory",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "80016",
