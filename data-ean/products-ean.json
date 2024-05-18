@@ -19035,6 +19035,15 @@
     "category": "Zumos > Naranja"
   },
   {
+    "id": "33622",
+    "ean": "8480000336224",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33622/patatas-fritas-onduladas-hacendado-sabor-ketchup-paquete",
+    "name": "Patatas fritas onduladas Hacendado sabor ketchup",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "33624",
     "ean": "8480000336248",
     "brand": "Hacendado",
@@ -41679,6 +41688,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "60575",
+    "ean": "8402001018244",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60575/lote-pinceles-rostro-deliplus-summer-contiene-pincel-polvos-pincel-blush-pincel-sombra-pincel-difuminador-pincel-sombra-biselado-neceser",
+    "name": "Lote de pinceles rostro Deliplus Summer",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "60576",
     "ean": "8402001006951",
     "brand": "Deliplus",
@@ -59434,6 +59452,15 @@
     "name": "Polvoroncito de chocolate La Muralla",
     "description": null,
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "8566",
+    "ean": "8480000085665",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/8566/jamon-cebo-iberico-hacienda-iberico-pieza",
+    "name": "Jamón de cebo ibérico La Hacienda del Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "85701",
