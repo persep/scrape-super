@@ -14031,6 +14031,15 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "24712",
+    "ean": "8480000247124",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/24712/langostino-crudo-ultracongelado-caja",
+    "name": "Langostino crudo ultracongelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
     "id": "24804",
     "ean": "8480000248046",
     "brand": "Hacendado",
@@ -41990,6 +41999,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/60630/surtido-caramelos-acidos-pintalenguas-hacendado-sabor-frambuesa-cola-paquete",
     "name": "Surtido de caramelos Ácidos pintalenguas Hacendado sabor frambuesa y cola",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60631",
+    "ean": "8402001019609",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60631/golosinas-fresi-cream-hacendado-merengue-recubierto-sabor-nata-fresa-paquete",
+    "name": "Golosinas Fresi Cream Hacendado merengue recubierto sabor nata y fresa",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
