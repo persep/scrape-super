@@ -36135,6 +36135,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "52468",
+    "ean": "8402001019630",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52468/bolsitas-antipolillas-ropa-limpia-bosque-verde-paquete",
+    "name": "Bolsitas antipolillas Ropa Limpia Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "52471",
     "ean": "8420010120994",
     "brand": "Oibar",
@@ -38716,6 +38725,15 @@
     "name": "Fruta + leche Caribe Hacendado sin azúcares añadidos",
     "description": "Pack-6",
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "52956",
+    "ean": "8402001017919",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52956/sopa-cocido-hacendado",
+    "name": "Sopa de cocido Hacendado",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
     "id": "52957",
@@ -45574,6 +45592,15 @@
     "name": "Helado fresa Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "6464",
+    "ean": "8480000064646",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/6464/poke-pollo-contiene-arroz-cocido-pollo-garbanzos-queso-blanco-maiz-boniato-mezcla-semillas-salsa-yogurt-bol",
+    "name": "Poke pollo",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
     "id": "64705",
@@ -58410,6 +58437,33 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "8302",
+    "ean": "8402001020117",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8302/pintalabios-mate-deliplus-113-malva-suave",
+    "name": "Pintalabios Mate Deliplus 113 malva suave",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8303",
+    "ean": "8402001020131",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8303/pintalabios-mate-deliplus-114-rosa-medio",
+    "name": "Pintalabios mate Deliplus 114 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8305",
+    "ean": "8402001020148",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8305/pintalabios-mate-deliplus-115-rosa-intenso",
+    "name": "Pintalabios mate Deliplus 115 rosa intenso",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "83056",
     "ean": "8425514085619",
     "brand": null,
@@ -58417,6 +58471,24 @@
     "name": "6 Panes de centeno 51%",
     "description": "Pack-6",
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "8306",
+    "ean": "8402001020162",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8306/pintalabios-mate-deliplus-117-nude-beige",
+    "name": "Pintalabios Mate Deliplus 117 nude beige",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8307",
+    "ean": "8402001020179",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8307/pintalabios-mate-deliplus-118-marron-chocolate",
+    "name": "Pintalabios mate Deliplus 118 marrón chocolate",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "83116",
@@ -60361,6 +60433,15 @@
     "name": "Crema de setas del bosque Knorr con champiñones",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "86315",
+    "ean": "8402001020896",
+    "brand": "1897",
+    "url": "https://tienda.mercadona.es/product/86315/cerveza-tostada-1897-pack-6",
+    "name": "Cerveza tostada 1897",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "86317",
