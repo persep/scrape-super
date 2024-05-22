@@ -41616,6 +41616,15 @@
     "category": "Congelados > Verdura"
   },
   {
+    "id": "60551",
+    "ean": "8402001020520",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60551/mix-mini-barritas-hacendado-chocolate-contiene-barritas-milk-biscuit-caramel-coco-peanut-paquete",
+    "name": "Mix mini barritas Hacendado de chocolate",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "60554",
     "ean": "8402001018961",
     "brand": "Deliplus",
@@ -60415,6 +60424,15 @@
     "name": "Champú Silver Blond Deliplus para cabellos rubios, decolorados y grises",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "86307",
+    "ean": "8402001020445",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86307/aceitunas-rellenas-anchoa-hacendado-tarro",
+    "name": "Aceitunas rellenas de anchoa Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "86309",
