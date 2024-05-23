@@ -39591,6 +39591,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "5548",
+    "ean": "8480000055484",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5548/queso-anejo-iberico-mezcla-hacendado-cortado-cunitas-pieza",
+    "name": "Queso añejo ibérico mezcla Hacendado cortado en cuñitas",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "5561",
     "ean": "8480000055613",
     "brand": "Listo para Comer",
@@ -42064,6 +42073,15 @@
     "name": "Cerveza especial San Miguel",
     "description": "Botellín",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "60640",
+    "ean": "8402001019548",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60640/sazonador-pasta-hacendado-bote",
+    "name": "Sazonador pasta Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "60641",
@@ -61983,6 +62001,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "8804",
+    "ean": "8402001022562",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8804/te-negro-hacendado-caja",
+    "name": "Té negro Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "88180",
     "ean": "8436533104908",
     "brand": null,
@@ -61990,6 +62017,24 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "8834",
+    "ean": "8410436463676",
+    "brand": "Magno",
+    "url": "https://tienda.mercadona.es/product/8834/gel-bano-classic-original-magno-botella",
+    "name": "Gel de baño Classic original Magno",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "8835",
+    "ean": "8410436463034",
+    "brand": "La Toja",
+    "url": "https://tienda.mercadona.es/product/8835/gel-bano-con-sales-minerales-toja-botella",
+    "name": "Gel de baño con sales minerales La Toja",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
     "id": "88407",
