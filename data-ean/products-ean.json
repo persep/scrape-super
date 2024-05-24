@@ -42291,6 +42291,24 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "60681",
+    "ean": "8480000606815",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60681/helado-stracciatella-hacendado-tarrina",
+    "name": "Helado stracciatella Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "60682",
+    "ean": "8402001018992",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60682/helado-sabor-huevo-chocolate-hacendado-bote",
+    "name": "Helado sabor huevo de chocolate Hacendado",
+    "description": "Bote",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "60685",
     "ean": "8402001019814",
     "brand": "Hacendado",
@@ -60228,6 +60246,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "86208",
+    "ean": "8480000862082",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86208/cubo-basura-reciclaje-50l-30l-10l-10l-bosque-verde-445-x-445-x-37-cm-separar",
+    "name": "Cubo de basura reciclaje 50L o 30L + 10L + 10L Bosque Verde 44.5 x 44.5 x 37 cm",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
     "id": "86215",
     "ean": "8480000862150",
     "brand": "Hacendado",
@@ -60541,6 +60568,15 @@
     "name": "Lavavajillas Aloe Vera y Pepino Fairy líquido",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "86331",
+    "ean": "8402001020490",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86331/yogur-liquido-fresa-hacendado-pack-12",
+    "name": "Yogur líquido de fresa Hacendado",
+    "description": "Pack-12",
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "86339",
