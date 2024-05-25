@@ -9927,6 +9927,15 @@
     "category": "Bebé > Alimentación infantil"
   },
   {
+    "id": "22444",
+    "ean": "8402001019906",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/22444/postre-lacteo-infantil-cereales-miel-12-meses",
+    "name": "Postre lácteo infantil de cereales y miel +12 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "22448",
     "ean": "8480000224484",
     "brand": "Delikuit",
@@ -37674,6 +37683,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "52734",
+    "ean": "8402001017148",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52734/aceitunas-negras-hacendado-sin-hueso-bote",
+    "name": "Aceitunas negras Hacendado sin hueso",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "52735",
     "ean": "8410436289498",
     "brand": "Schwarzkopf",
@@ -41794,6 +41812,15 @@
     "name": "Cerveza 0,0% sin alcohol San Miguel",
     "description": "Botellín",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "60586",
+    "ean": "8402001019869",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60586/pastas-aceite-hacendado-caja",
+    "name": "Pastas de aceite Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "60587",
@@ -53910,6 +53937,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "7878",
+    "ean": "8402001020568",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7878/yogur-liquido-natural-hacendado-con-azucar-cana-pack-12",
+    "name": "Yogur líquido natural Hacendado con azúcar de caña",
+    "description": "Pack-12",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "78781",
     "ean": "8480000787811",
     "brand": "9.60",
@@ -58338,6 +58374,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "8290",
+    "ean": "8402001020292",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8290/balsamo-labial-color-balm-deliplus-12-frambuesa",
+    "name": "Bálsamo labial Color Balm Deliplus 12 frambuesa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "82900",
     "ean": "8480000829009",
     "brand": "Hacendado",
@@ -58390,6 +58435,24 @@
     "name": "Tortas de aceite Inés Rosales",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "8291",
+    "ean": "8402001020193",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8291/balsamo-labial-color-balm-deliplus-10-coral",
+    "name": "Bálsamo labial Color Balm Deliplus 10 coral",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8292",
+    "ean": "8402001020285",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8292/balsamo-labial-color-balm-deliplus-11-rosa",
+    "name": "Bálsamo labial Color Balm Deliplus 11 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "82920",
