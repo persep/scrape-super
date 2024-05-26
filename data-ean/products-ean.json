@@ -37683,6 +37683,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "52733",
+    "ean": "8402001017810",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52733/aceitunas-negras-hacendado-sin-hueso-pack-3",
+    "name": "Aceitunas negras Hacendado sin hueso",
+    "description": "Pack-3",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "52734",
     "ean": "8402001017148",
     "brand": "Hacendado",
@@ -39877,6 +39886,15 @@
     "name": "Baguette",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "5815",
+    "ean": "8480000058157",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/5815/salchichas-cocidas-cerdo-estilo-bratwurst-hacendado-pack-2",
+    "name": "Salchichas cocidas de cerdo estilo Bratwurst Hacendado",
+    "description": "Pack-2",
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "58151",
@@ -58469,6 +58487,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/82931/croissant-hacendado-paquete",
     "name": "Croissant Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "82932",
+    "ean": "8480000829320",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/82932/croissant-relleno-crema-cacao-hacendado-paquete",
+    "name": "Croissant relleno de crema al cacao Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
   },
