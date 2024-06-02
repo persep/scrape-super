@@ -12600,6 +12600,24 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "23532",
+    "ean": "8480000235329",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/23532/champu-elixir-fleur-monoi-tipo-cabello-bote",
+    "name": "Champú Elixir Fleur de Monoï todo tipo de cabello",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "23533",
+    "ean": "8480000235336",
+    "brand": "Elixir Fleur de Monoï",
+    "url": "https://tienda.mercadona.es/product/23533/mascarilla-elixir-fleur-monoi-3-1-con-filtro-uva-protege-repara-con-sin-aclarado-bote",
+    "name": "Mascarilla Elixir Fleur de Monoï 3 en 1",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "23534",
     "ean": "8480000235343",
     "brand": "Elixir Fleur de Monoï",
@@ -41895,6 +41913,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "60595",
+    "ean": "8402001017902",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60595/sopa-cebolla-hacendado",
+    "name": "Sopa de cebolla Hacendado",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "60598",
     "ean": "8402001016417",
     "brand": "Él",
@@ -41918,6 +41945,15 @@
     "brand": "Energy drink",
     "url": "https://tienda.mercadona.es/product/60602/bebida-energetica-zero-watermelon-energy-drink-lata",
     "name": "Bebida energética zero Watermelon Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "60603",
+    "ean": "8402001018855",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/60603/bebida-energetica-zero-furious-energy-drink-lata",
+    "name": "Bebida energética Zero Furious Energy drink",
     "description": "Lata",
     "category": "Agua y refrescos > Isotónico y energético"
   },
@@ -60712,6 +60748,15 @@
     "name": "Barritas Caocream crujientes Hacendado con relleno y cobertura galleta de cacao",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86343",
+    "ean": "8428076006825",
+    "brand": "Veet",
+    "url": "https://tienda.mercadona.es/product/86343/bandas-cera-facial-sens-veet-piel-sensible-contiene-3-toallitas-caja",
+    "name": "Bandas de cera facial Sens Veet piel sensible",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "86345",
