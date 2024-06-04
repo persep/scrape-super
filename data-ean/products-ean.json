@@ -9333,6 +9333,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "22131",
+    "ean": "8436581946840",
+    "brand": "Reebok",
+    "url": "https://tienda.mercadona.es/product/22131/lote-mujer-reebok-inspire-your-mind-contiene-eau-toilette-100-ml-desodorante-spray-150-ml-gel-bano-250-ml-caja",
+    "name": "Lote mujer Reebok Inspire your mind",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "22133",
     "ean": "3616303465704",
     "brand": "Chanson d'Eau",
@@ -42399,6 +42408,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "60683",
+    "ean": "8402001019241",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60683/helado-peanut-butter-cups-hacendado-crema-cacahuete-con-tartaletas-cubiertas-chocolate-rellenas-manteca-cacahuete-bote",
+    "name": "Helado Peanut Butter Cups Hacendado de crema de cacahuete",
+    "description": "Bote",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "60684",
     "ean": "8402001020865",
     "brand": "Hacendado",
@@ -50270,6 +50288,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69889/judia-verde-plana-bandeja",
     "name": "Judía verde plana",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69893",
+    "ean": "8716062000613",
+    "brand": "Dulcita",
+    "url": "https://tienda.mercadona.es/product/69893/tomates-cherry-rama-dulcita-bandeja",
+    "name": "Tomates cherry en rama Dulcita",
     "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
   },
@@ -62235,6 +62262,33 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "8827",
+    "ean": "8428390829889",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/8827/mini-eau-parfum-mujer-flor-mayo-charming-journey-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Charming Journey",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8828",
+    "ean": "8428390079529",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/8828/bruma-capilar-corporal-charming-journey-con-brillo-flor-mayo-spray",
+    "name": "Bruma capilar y corporal Charming Journey con brillo Flor de Mayo",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "8831",
+    "ean": "8411061070871",
+    "brand": "Pacha Ibiza",
+    "url": "https://tienda.mercadona.es/product/8831/lote-mujer-pacha-ibiza-247-feeling-contiene-eau-toilette-80-ml-locion-cuerpo-75-ml-caja",
+    "name": "Lote mujer Pacha Ibiza 24/7 Feeling",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "8834",
     "ean": "8410436463676",
     "brand": "Magno",
@@ -62253,6 +62307,24 @@
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
+    "id": "8836",
+    "ean": "8411061070888",
+    "brand": "Pacha Ibiza",
+    "url": "https://tienda.mercadona.es/product/8836/lote-hombre-pacha-ibiza-247-feeling-contiene-eau-toilette-100-ml-gel-ducha-75-ml-caja",
+    "name": "Lote hombre Pacha Ibiza 24/7 Feeling",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8838",
+    "ean": "3616305817433",
+    "brand": "Adidas",
+    "url": "https://tienda.mercadona.es/product/8838/lote-hombre-adidas-ice-dive-contiene-eau-toilette-100-ml-eau-toilette-50-ml-3-1-gel-ducha-cuerpo-cabello-250-ml-desodorante-spray-150-ml-caja",
+    "name": "Lote hombre Adidas Ice Dive",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "88407",
     "ean": "8480000884077",
     "brand": "Listo para Comer",
@@ -62260,6 +62332,24 @@
     "name": "Lentejas Listo para Comer",
     "description": "Bol",
     "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "8856",
+    "ean": "8402001020056",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8856/paleta-sombras-ojos-sunrise-deliplus",
+    "name": "Paleta sombras de ojos Sunrise Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "8857",
+    "ean": "8402001020025",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8857/paleta-rostro-sunset-deliplus-contiene-12-sombras-ojos-1-polvo-bronceador-1-colorete",
+    "name": "Paleta de rostro Sunset Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "8904",
