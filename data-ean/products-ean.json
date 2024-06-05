@@ -57951,6 +57951,15 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "8251",
+    "ean": "8402001022555",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8251/untapan-cangrejo-hacendado-tarrina",
+    "name": "Untapán de cangrejo Hacendado",
+    "description": "Tarrina",
+    "category": "Pizzas y platos preparados > Platos preparados fríos"
+  },
+  {
     "id": "82511",
     "ean": "8425217000438",
     "brand": "Punto Gofre",
@@ -62289,6 +62298,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "8832",
+    "ean": "8402001016790",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8832/laca-unas-deliplus-229-blanco-perla",
+    "name": "Laca de uñas Deliplus 229 blanco perla",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "8834",
     "ean": "8410436463676",
     "brand": "Magno",
@@ -62332,6 +62350,123 @@
     "name": "Lentejas Listo para Comer",
     "description": "Bol",
     "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "8842",
+    "ean": "8402001014871",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8842/laca-unas-deliplus-223-amarillo",
+    "name": "Laca de uñas Deliplus 223 amarillo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8843",
+    "ean": "8402001014888",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8843/laca-unas-deliplus-224-naranja",
+    "name": "Laca de uñas Deliplus 224 naranja",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8844",
+    "ean": "8402001014895",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8844/laca-unas-deliplus-225-coral",
+    "name": "Laca de uñas Deliplus 225 coral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8845",
+    "ean": "8402001014901",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8845/laca-unas-deliplus-226-rosa",
+    "name": "Laca de uñas Deliplus 226 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8846",
+    "ean": "8402001014918",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8846/laca-unas-deliplus-227-verde",
+    "name": "Laca de uñas Deliplus 227 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8848",
+    "ean": "8402001014925",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8848/laca-unas-deliplus-228-azul",
+    "name": "Laca de uñas Deliplus 228 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8849",
+    "ean": "8402001014932",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8849/laca-unas-deliplus-230-salmon-perla",
+    "name": "Laca de uñas Deliplus 230 salmón perla",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8850",
+    "ean": "8402001014949",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8850/laca-unas-deliplus-231-dorado",
+    "name": "Laca de uñas Deliplus 231 dorado",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8851",
+    "ean": "8402001014963",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8851/laca-unas-deliplus-233-pistacho",
+    "name": "Laca de uñas Deliplus 233 pistacho",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8852",
+    "ean": "8402001014970",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8852/laca-unas-deliplus-234-aguamarina",
+    "name": "Laca de uñas Deliplus 234 aguamarina",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8853",
+    "ean": "8402001014987",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8853/laca-unas-deliplus-235-lila",
+    "name": "Laca de uñas Deliplus 235 lila",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8854",
+    "ean": "8402001014994",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8854/laca-unas-deliplus-236-rosa-palo",
+    "name": "Laca de uñas Deliplus 236 rosa palo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8855",
+    "ean": "8402001014956",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8855/tratamiento-unas-gel-deliplus-232-con-acido-hialuronico",
+    "name": "Tratamiento para uñas gel Deliplus 232 con ácido hialurónico",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "8856",
