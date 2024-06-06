@@ -37512,6 +37512,15 @@
     "category": "Bodega > Vino blanco"
   },
   {
+    "id": "52695",
+    "ean": "8402001014505",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52695/laca-cabello-xtra-forte-deliplus-fijacion-4-tamano-viaje-spray",
+    "name": "Laca cabello Xtra Forte Deliplus fijación 4",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "52696",
     "ean": "8402001012402",
     "brand": "Deliplus",
@@ -62269,6 +62278,15 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "8824",
+    "ean": "8402001017544",
+    "brand": "Capítulo",
+    "url": "https://tienda.mercadona.es/product/8824/eau-toilette-mujer-capitulo-mediterraneo-frasco",
+    "name": "Eau de toilette mujer Capítulo Mediterraneo",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "8827",
