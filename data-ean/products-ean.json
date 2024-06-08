@@ -59202,6 +59202,15 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "8370",
+    "ean": "8402001022050",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8370/azafran-hebra-hacendado-paquete",
+    "name": "Azafrán hebra Hacendado",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "83728",
     "ean": "8480000837288",
     "brand": null,
@@ -60703,6 +60712,24 @@
     "name": "Crema de setas del bosque Knorr con champiñones",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "86313",
+    "ean": "8413041318089",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/86313/cerveza-radler-falke-00-sin-alcohol-pack-8",
+    "name": "Cerveza Radler Falke 0,0% sin alcohol",
+    "description": "Pack-8",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "86314",
+    "ean": "8413041318072",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/86314/cerveza-radler-falke-00-sin-alcohol-lata",
+    "name": "Cerveza Radler Falke 0,0% sin alcohol",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "86315",
