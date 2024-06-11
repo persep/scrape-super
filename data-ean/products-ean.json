@@ -62361,6 +62361,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "8826",
+    "ean": "8402001022746",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8826/cocktail-tostado-con-sal-hacendado-compuesto-almendras-nueces-pecanas-anacardos-cacahuetes-paquete",
+    "name": "Cocktail tostado con sal Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "8827",
     "ean": "8428390829889",
     "brand": "Flor de Mayo",
@@ -62575,6 +62584,15 @@
     "name": "Paleta de rostro Sunset Deliplus",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "8870",
+    "ean": "9002490252687",
+    "brand": "Red Bull",
+    "url": "https://tienda.mercadona.es/product/8870/bebida-energetica-red-bull-pack-6",
+    "name": "Bebida energética Red Bull",
+    "description": "Pack-6",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "8904",
