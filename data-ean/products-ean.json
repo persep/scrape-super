@@ -38142,6 +38142,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52807",
+    "ean": "8402001015809",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52807/perfilador-ojos-deliplus-04-azul",
+    "name": "Perfilador de ojos Deliplus 04 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52814",
     "ean": "8402001016332",
     "brand": "Hacendado",
@@ -42397,6 +42406,15 @@
     "name": "Kit de viaje higiene dental Deliplus Anticaries",
     "description": null,
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "60678",
+    "ean": "8402001017704",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60678/kit-esponjas-maquillaje-deliplus-contiene-2-esponjas-maquillaje-1-barril-silicona-guardarlas-caja",
+    "name": "Kit esponjas de maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
   },
   {
     "id": "60680",
@@ -55530,6 +55548,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "7968",
+    "ean": "8402001021268",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7968/pina-jugo-hacendado-rodajas-bote",
+    "name": "Piña en su jugo Hacendado rodajas",
+    "description": "Bote",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "79704",
     "ean": "8480000797049",
     "brand": "Deliplus",
@@ -59074,6 +59101,15 @@
     "name": "5 Barras de pan 51% integral",
     "description": "Pack-5",
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "8348",
+    "ean": "8436545531266",
+    "brand": "Olispania",
+    "url": "https://tienda.mercadona.es/product/8348/surtido-aceitunas-encurtidos-olispania-tarro",
+    "name": "Surtido de aceitunas y encurtidos Olispania",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "83490",
