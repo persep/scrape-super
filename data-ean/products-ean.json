@@ -60858,6 +60858,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "86323",
+    "ean": "8402001018336",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86323/aftersun-locion-con-jojoba-deliplus-repara-alivia-hidrata-bote",
+    "name": "Aftersun loción con jojoba Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "86324",
     "ean": "8402001020391",
     "brand": "Hacendado",
@@ -62647,6 +62656,42 @@
     "name": "Paleta de rostro Sunset Deliplus",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "8866",
+    "ean": "8414640192667",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/8866/neceser-summer-time-mediano-uahuu-290-x-175-x-65-mm",
+    "name": "Neceser Summer Time mediano Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8867",
+    "ean": "8414640192582",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/8867/neceser-vita-bella-mediano-uahuu-con-asa-270-x-195-x-85-mm",
+    "name": "Neceser Vita Bella mediano Uahuu con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8868",
+    "ean": "8414640192612",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/8868/neceser-rosa-silicona-mediano-uahuu-185-x-130-x-40-mm",
+    "name": "Neceser rosa silicona mediano Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8869",
+    "ean": "8414640192605",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/8869/neceser-rayas-colores-mediano-uahuu-con-asa-200-x-150-x-65-mm",
+    "name": "Neceser rayas colores mediano Uahuu con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "8870",
