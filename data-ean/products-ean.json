@@ -55638,6 +55638,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "7974",
+    "ean": "8402001021817",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7974/aceitunas-rellenas-queso-hacendado-tarro",
+    "name": "Aceitunas rellenas de queso Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "7980",
     "ean": "3616301273165",
     "brand": "Rimmel",
@@ -62415,6 +62424,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "8813",
+    "ean": "8402001021305",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8813/mascarilla-facial-aloe-deliplus-con-aloe-vera-betacaroteno-paquete",
+    "name": "Mascarilla facial Aloe Deliplus con aloe vera y betacaroteno",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "88180",
     "ean": "8436533104908",
     "brand": null,
@@ -62658,6 +62676,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "8859",
+    "ean": "8402001022999",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8859/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
+    "name": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "8866",
     "ean": "8414640192667",
     "brand": "Uahuu",
@@ -62719,6 +62746,15 @@
     "name": "Higos",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "8925",
+    "ean": "8402001021978",
+    "brand": "Nuske",
+    "url": "https://tienda.mercadona.es/product/8925/champu-perros-gatos-con-aloe-vera-nuske-efecto-repelente-botella",
+    "name": "Champú perros y gatos con aloe vera Nuske efecto repelente",
+    "description": "Botella",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "89804",
