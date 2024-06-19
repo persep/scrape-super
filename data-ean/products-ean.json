@@ -54126,6 +54126,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "7882",
+    "ean": "8700216266383",
+    "brand": "H&S",
+    "url": "https://tienda.mercadona.es/product/7882/champu-anticaspa-citrus-fresh-hs-cabello-graso-bote",
+    "name": "Champú anticaspa Citrus Fresh H&S cabello graso",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
     "id": "7883",
     "ean": "8428390829834",
     "brand": "Flor de Mayo",
@@ -59400,6 +59409,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "8394",
+    "ean": "8480000083944",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/8394/sepia-grande-salsa-mery-listo-comer-bandeja",
+    "name": "Sepia grande en salsa Mery Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "83965",
     "ean": "8480000839657",
     "brand": "Hacendado",
@@ -60984,6 +61002,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "86369",
+    "ean": "8402001022777",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86369/queso-semicurado-oveja-hacendado-pieza",
+    "name": "Queso semicurado de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "8645",
     "ean": "8410300352914",
     "brand": "Gallina Blanca",
@@ -62478,6 +62505,24 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "8829",
+    "ean": "8402001016721",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/8829/lote-mujer-extratime-contiene-eau-parfum-100ml-bolso",
+    "name": "Lote mujer Como Tú Extratime",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8830",
+    "ean": "8402001016738",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/8830/lote-hombre-extratime-contiene-eau-parfum-100ml-gel-champu-100ml-mochila",
+    "name": "Lote hombre Como Tú Extratime",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "8831",
     "ean": "8411061070871",
     "brand": "Pacha Ibiza",
@@ -62728,6 +62773,15 @@
     "name": "Bebida energética Red Bull",
     "description": "Pack-6",
     "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "8881",
+    "ean": "8402001022036",
+    "brand": "Entrepinares",
+    "url": "https://tienda.mercadona.es/product/8881/queso-lonchas-tierno-mezcla-entrepinares-paquete",
+    "name": "Queso lonchas tierno mezcla Entrepinares",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "8904",
