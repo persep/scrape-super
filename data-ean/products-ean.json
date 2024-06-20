@@ -60957,6 +60957,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "86344",
+    "ean": "8428076006832",
+    "brand": "Veet",
+    "url": "https://tienda.mercadona.es/product/86344/bandas-cera-cuerpo-piernas-pure-veet-piel-sensible-contiene-2-toallitas-caja",
+    "name": "Bandas de cera cuerpo y piernas Pure Veet piel sensible",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "86345",
     "ean": "8402001021848",
     "brand": "Deliplus",
@@ -62809,6 +62818,24 @@
     "name": "Champú perros y gatos con aloe vera Nuske efecto repelente",
     "description": "Botella",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "8957",
+    "ean": "8402001024252",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8957/pincho-cerdo-marinado-estilo-oriental-bandeja",
+    "name": "Pincho de cerdo marinado estilo oriental",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
+    "id": "8970",
+    "ean": "8402001024238",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8970/alas-pollo-adobadas-picantes-bandeja",
+    "name": "Alas de pollo adobadas picantes",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "89804",
