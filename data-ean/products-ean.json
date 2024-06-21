@@ -15246,6 +15246,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "27679",
+    "ean": "8712000610067",
+    "brand": "Heineken",
+    "url": "https://tienda.mercadona.es/product/27679/cerveza-heineken-pack-8",
+    "name": "Cerveza Heineken",
+    "description": "Pack-8",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "27733",
     "ean": "8410283348058",
     "brand": "La Casera",
@@ -37854,6 +37863,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "52752",
+    "ean": "8402001015113",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52752/detergente-lavado-mano-bosque-verde-polvo-caja",
+    "name": "Detergente Lavado a Mano Bosque Verde en polvo",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "52754",
     "ean": "8402001017605",
     "brand": "Hacendado",
@@ -42262,6 +42280,15 @@
     "name": "Infusión fría Hacendado con sabor a fresa y hierbabuena",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
+    "id": "60654",
+    "ean": "8402001019746",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60654/cambiador-multiusos-desechable-deliplus-60-x-60-cm-paquete",
+    "name": "Cambiador multiusos desechable Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
   },
   {
     "id": "60655",
@@ -59409,6 +59436,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "8393",
+    "ean": "8480000083937",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/8393/sepia-pequena-salsa-mery-listo-comer-bandeja",
+    "name": "Sepia pequeña en salsa Mery Listo para Comer",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "8394",
     "ean": "8480000083944",
     "brand": "Listo para Comer",
@@ -60937,6 +60973,15 @@
     "name": "Yogur líquido de fresa Hacendado",
     "description": "Pack-12",
     "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "86333",
+    "ean": "8402001021428",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86333/gelatina-0-azucar-sabor-cereza-cola-sandia-hacendado-pack-6",
+    "name": "Gelatina 0% azúcar sabor cereza, cola y sandía Hacendado",
+    "description": "Pack-6",
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "86339",
@@ -62827,6 +62872,15 @@
     "name": "Pincho de cerdo marinado estilo oriental",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "8958",
+    "ean": "8402001024245",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8958/wok-pollo-adobado-verduras-bandeja",
+    "name": "Wok de pollo adobado y verduras",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "8970",
