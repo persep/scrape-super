@@ -43596,6 +43596,15 @@
     "category": "Congelados > Verdura"
   },
   {
+    "id": "61279",
+    "ean": "8480000612793",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/61279/espinaca-porciones-hacendado-ultracongelada-paquete",
+    "name": "Espinaca en porciones Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "61282",
     "ean": "8480000612823",
     "brand": "Hacendado",
@@ -61065,6 +61074,60 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "86370",
+    "ean": "8402001018435",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86370/paleta-sombras-ojos-crystal-colors-deliplus-01",
+    "name": "Paleta sombras de ojos Crystal Colors Deliplus 01",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86371",
+    "ean": "8402001018442",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86371/paleta-sombras-ojos-crystal-colors-deliplus-02",
+    "name": "Paleta sombras de ojos Crystal Colors Deliplus 02",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86372",
+    "ean": "8402001018459",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86372/paleta-rostro-crystal-colors-deliplus-contiene-polvo-rostro-bronceador-iluminador-colorete",
+    "name": "Paleta de rostro Crystal Colors Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "86373",
+    "ean": "8402001018534",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86373/rotulador-labios-lip-tint-marker-deliplus-efecto-tinta-01-nude-larga-duracion",
+    "name": "Rotulador de labios Lip Tint Marker Deliplus efecto tinta 01 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "86374",
+    "ean": "8402001018541",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86374/rotulador-labios-lip-tint-marker-deliplus-efecto-tinta-02-rosa-larga-duracion",
+    "name": "Rotulador de labios Lip Tint Marker Deliplus efecto tinta 02 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "86375",
+    "ean": "8402001018558",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86375/rotulador-labios-lip-tint-marker-deliplus-efecto-tinta-03-fucsia-larga-duracion",
+    "name": "Rotulador de labios Lip Tint Marker Deliplus efecto tinta 03 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "8645",
     "ean": "8410300352914",
     "brand": "Gallina Blanca",
@@ -62503,6 +62566,15 @@
     "name": "Té negro Hacendado",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
+    "id": "8807",
+    "ean": "8402001023170",
+    "brand": "Piomka",
+    "url": "https://tienda.mercadona.es/product/8807/licor-melon-sin-alcohol-piomka-botella",
+    "name": "Licor melón sin alcohol Piomka",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "8813",
@@ -63988,5 +64060,14 @@
     "name": "Cereales de arroz inflado Choco Rice Hacendado con chocolate",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "9640",
+    "ean": "8480000096401",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9640/brioche-relleno-crema-galleta-congelado-caja",
+    "name": "Brioche relleno de crema de galleta congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
   }
 ]
