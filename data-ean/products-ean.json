@@ -55692,6 +55692,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "7975",
+    "ean": "8402001021404",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7975/barritas-cereales-hacendado-sabor-mango-0-azucares-anadidos-caja",
+    "name": "Barritas de cereales Hacendado sabor mango",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "7980",
     "ean": "3616301273165",
     "brand": "Rimmel",
@@ -61061,6 +61070,15 @@
     "brand": "Royal Swan",
     "url": "https://tienda.mercadona.es/product/86357/licor-crema-sandia-royal-swan-botella",
     "name": "Licor crema de sandía Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
+    "id": "86363",
+    "ean": "8402001022678",
+    "brand": "Glivery",
+    "url": "https://tienda.mercadona.es/product/86363/ginebra-sabor-melon-gin-glivery-botella",
+    "name": "Ginebra sabor melón Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
   },
