@@ -41832,6 +41832,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "60568",
+    "ean": "8402001018794",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60568/lote-mujer-deliplus-body-6-system-6-hojas-contiene-maquinilla-depilacion-2-recambios-cuchilla-mini-maquinilla-depilacion-estuche-viaje",
+    "name": "Lote mujer Deliplus Body 6 system",
+    "description": null,
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "60569",
     "ean": "8410500029470",
     "brand": "Danone",
@@ -41848,6 +41857,15 @@
     "name": "Gel fijador de rizos cabello Curl Control Syoss",
     "description": "Bote",
     "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "60573",
+    "ean": "8402001018756",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60573/pimenton-dulce-hacendado-bote",
+    "name": "Pimentón dulce Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "60575",
@@ -55701,6 +55719,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "7977",
+    "ean": "8402001017889",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7977/capsulas-vitamina-c-10-deliplus-antiox-revitaliza-ilumina-caja",
+    "name": "Cápsulas vitamina C 10% Deliplus Antiox",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "7980",
     "ean": "3616301273165",
     "brand": "Rimmel",
@@ -62593,6 +62620,15 @@
     "name": "Licor melón sin alcohol Piomka",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "8812",
+    "ean": "8402001021312",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8812/mascarilla-facial-infantil-dog-mask-deliplus-con-cereza-manzana-paquete",
+    "name": "Mascarilla facial infantil Dog Mask Deliplus con cereza y manzana",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "8813",
