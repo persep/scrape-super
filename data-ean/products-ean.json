@@ -37818,6 +37818,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "52746",
+    "ean": "8402001015731",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52746/sopa-verduras-hacendado",
+    "name": "Sopa de verduras Hacendado",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "52747",
     "ean": "8402001017728",
     "brand": null,
@@ -61108,6 +61117,15 @@
     "name": "Ginebra sabor melón Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "86365",
+    "ean": "8402001022128",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86365/bruma-facial-multifuncional-make-up-fixer-deliplus-5-1-spray",
+    "name": "Bruma facial multifuncional Make Up Fixer Deliplus 5 en 1",
+    "description": "Spray",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "86369",
