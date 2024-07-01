@@ -50310,6 +50310,15 @@
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
+    "id": "69853",
+    "ean": "8480000698537",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69853/media-calabaza-cacahuete-12-pieza",
+    "name": "Media calabaza cacahuete",
+    "description": "1/2 Pieza",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69855",
     "ean": "8480000698551",
     "brand": null,
@@ -59058,6 +59067,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "8328",
+    "ean": "8436021410085",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8328/burger-pollo-kebab-bandeja",
+    "name": "Burger de pollo Kebab",
+    "description": "Bandeja",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "83284",
     "ean": "8425514131071",
     "brand": null,
@@ -62325,6 +62343,15 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "87305",
+    "ean": "8436575413068",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87305/rodaja-bonito-norte-bandeja",
+    "name": "Rodaja bonito del norte",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87313",
     "ean": "8480000873132",
     "brand": null,
@@ -62782,6 +62809,15 @@
     "name": "Lote hombre Adidas Ice Dive",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8839",
+    "ean": "8402001022807",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8839/burger-cordero-romero-paquete",
+    "name": "Burger de cordero al romero",
+    "description": "Paquete",
+    "category": "Carne > Conejo y cordero"
   },
   {
     "id": "88407",
