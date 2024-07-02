@@ -49761,6 +49761,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69529",
+    "ean": "8437009444061",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69529/maiz-dulce-mazorca-cocido-paquete",
+    "name": "Maíz dulce en mazorca cocido",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69580",
     "ean": "8480000695802",
     "brand": null,
@@ -58761,6 +58770,15 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "8293",
+    "ean": "8402001020315",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8293/brillo-labios-volumizer-gloss-deliplus-09-coral-perlado",
+    "name": "Brillo de labios Volumizer gloss Deliplus 09 coral perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "82931",
     "ean": "8480000829313",
     "brand": "Hacendado",
@@ -63018,6 +63036,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "8877",
+    "ean": "8428390829896",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/8877/eau-parfum-mujer-flor-mayo-ice-cream-summer-frasco",
+    "name": "Eau de parfum mujer Flor de Mayo Ice Cream Summer",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "8881",
     "ean": "8402001022036",
     "brand": "Entrepinares",
@@ -63025,6 +63052,15 @@
     "name": "Queso lonchas tierno mezcla Entrepinares",
     "description": "Paquete",
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
+    "id": "8896",
+    "ean": "8402001020810",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8896/serum-liss-frizz-control-deliplus-iluminador-con-proteccion-termica-bote",
+    "name": "Sérum Liss Frizz Control Deliplus iluminador",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
     "id": "8904",
@@ -63061,6 +63097,15 @@
     "name": "Pepinillos agridulces Melis",
     "description": "Tarro",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "8944",
+    "ean": "8437026259105",
+    "brand": "Horizont",
+    "url": "https://tienda.mercadona.es/product/8944/gel-proteccion-solar-facial-invisible-horizont-tacto-seda-fps-50-anti-edad-con-ashwagandha-bote",
+    "name": "Gel protección solar facial invisible Horizont tacto seda FPS 50",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "8957",
