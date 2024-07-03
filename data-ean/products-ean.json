@@ -41751,6 +41751,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "60552",
+    "ean": "8410136029295",
+    "brand": "Quartett",
+    "url": "https://tienda.mercadona.es/product/60552/trozos-salsa-perros-adultos-quartett-con-pollo-verduras-paquete",
+    "name": "Trozos en salsa para perros adultos Quartett con pollo y verduras",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "60554",
     "ean": "8402001018961",
     "brand": "Deliplus",
@@ -63045,6 +63054,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "8880",
+    "ean": "8428390079567",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/8880/lote-corporal-mujer-flor-mayo-romance-pink-contiene-body-spray-250-ml-locion-corporal-200-ml-neceser",
+    "name": "Lote corporal mujer Flor de Mayo Romance Pink",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "8881",
     "ean": "8402001022036",
     "brand": "Entrepinares",
@@ -63124,6 +63142,15 @@
     "name": "Wok de pollo adobado y verduras",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "8962",
+    "ean": "8410226051106",
+    "brand": "La Alcoyana",
+    "url": "https://tienda.mercadona.es/product/8962/aceitunas-rellenas-anchoa-alcoyana-bote",
+    "name": "Aceitunas rellenas de anchoa La Alcoyana",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "8970",
