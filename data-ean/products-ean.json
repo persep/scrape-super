@@ -36441,6 +36441,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "52515",
+    "ean": "8402001020858",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52515/desodorante-stick-deo-bambu-deliplus-antimanchas-0-aluminio-alcohol",
+    "name": "Desodorante stick Deo Bambú Deliplus antimanchas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "52517",
     "ean": "8402001013454",
     "brand": "Hacendado",
@@ -61171,6 +61180,24 @@
     "name": "Bruma facial multifuncional Make Up Fixer Deliplus 5 en 1",
     "description": "Spray",
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "86366",
+    "ean": "8436601370419",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86366/polvo-corporal-hadas-01-twinkle-pink",
+    "name": "Polvo corporal de Hadas 01 Twinkle pink",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "86367",
+    "ean": "8436601370426",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86367/polvo-corporal-hadas-02-sunset-gold",
+    "name": "Polvo corporal de Hadas 02 Sunset gold",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "86369",
