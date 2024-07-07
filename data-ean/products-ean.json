@@ -39069,6 +39069,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "52990",
+    "ean": "8402001018602",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52990/cocido-hacendado-bote",
+    "name": "Cocido Hacendado",
+    "description": "Bote",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "52992",
     "ean": "8402001018572",
     "brand": "Hacendado",
@@ -58968,6 +58977,42 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "8317",
+    "ean": "8402001016998",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8317/colorete-fluido-blush-luminoso-deliplus-01",
+    "name": "Colorete fluido Blush luminoso Deliplus 01",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "8318",
+    "ean": "8402001017001",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8318/colorete-fluido-blush-luminoso-deliplus-02",
+    "name": "Colorete fluido Blush luminoso Deliplus 02",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "8319",
+    "ean": "8402001016981",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8319/iluminador-facial-fluido-deliplus-01",
+    "name": "Iluminador facial fluido Deliplus 01",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "8320",
+    "ean": "8402001017018",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8320/bronceador-facial-fluido-luminoso-deliplus-01",
+    "name": "Bronceador facial fluido luminoso Deliplus 01",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "83202.1",
     "ean": "8480000832023",
     "brand": null,
@@ -62703,6 +62748,33 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "8795",
+    "ean": "3600524146146",
+    "brand": "L'Oréal",
+    "url": "https://tienda.mercadona.es/product/8795/retoca-raices-instantaneo-loreal-negro-magic-retouch-spray",
+    "name": "Retoca raíces instantáneo L'Oréal negro",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "8796",
+    "ean": "3600524146160",
+    "brand": "L'Oréal",
+    "url": "https://tienda.mercadona.es/product/8796/retoca-raices-instantaneo-loreal-castano-magic-retouch-spray",
+    "name": "Retoca raíces instantáneo L'Oréal castaño",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "8798",
+    "ean": "3600524146184",
+    "brand": "L'Oréal",
+    "url": "https://tienda.mercadona.es/product/8798/retoca-raices-instantaneo-loreal-rubio-magic-retouch-spray",
+    "name": "Retoca raíces instantáneo L'Oréal rubio",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "8799",
     "ean": "3600524146191",
     "brand": "L'Oréal",
@@ -62764,6 +62836,15 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "8822",
+    "ean": "8402001021046",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8822/aceite-facial-micelar-desmaquillante-limpiador-deliplus-facial-clean-bote",
+    "name": "Aceite facial micelar desmaquillante y limpiador Deliplus Facial Clean",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "8824",
