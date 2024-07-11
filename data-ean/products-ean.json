@@ -50337,6 +50337,15 @@
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
+    "id": "69849",
+    "ean": "8480000698490",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69849/ensalada-cesar-compuesta-hortalizas-frescas-pollo-queso-picatostes-salsas-incluye-tenedor-bol",
+    "name": "Ensalada César",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
     "id": "69850",
     "ean": "8437013139250",
     "brand": null,
@@ -54675,6 +54684,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "7914",
+    "ean": "8402001017872",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/7914/capsulas-ojos-regen-skin-deliplus-tipo-piel-caja",
+    "name": "Cápsulas ojos Regen Skin Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "79144",
     "ean": "8480000791443",
     "brand": "Deliplus",
@@ -58948,6 +58966,15 @@
     "name": "Pintalabios mate Deliplus 118 marrón chocolate",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "8308",
+    "ean": "8436569263198",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8308/steak-tartar-vacuno-marinado-bandeja",
+    "name": "Steak Tartar de vacuno marinado",
+    "description": "Bandeja",
+    "category": "Carne > Vacuno"
   },
   {
     "id": "83116",
@@ -63619,6 +63646,15 @@
     "name": "Postre lácteo infantil de plátano Yogolino +6 meses",
     "description": "Pack-4",
     "category": "Bebé > Alimentación infantil"
+  },
+  {
+    "id": "92091",
+    "ean": "8480000920911",
+    "brand": "Encendido",
+    "url": "https://tienda.mercadona.es/product/92091/pastillas-enciende-fuegos-encendido-caja",
+    "name": "Pastillas enciende fuegos Encendido",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "9210",
