@@ -58329,6 +58329,15 @@
     "category": "Panadería y pastelería > Pan tostado y rallado"
   },
   {
+    "id": "8264",
+    "ean": "8402001021640",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/8264/colgador-wc-maxigotas-spa-bosque-verde-paquete",
+    "name": "Colgador WC Maxigotas Spa Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
     "id": "82640",
     "ean": "8436012583552",
     "brand": "Beiker",
@@ -63340,6 +63349,15 @@
     "name": "Escobilla para WC Bosque Verde",
     "description": null,
     "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
+    "id": "8982",
+    "ean": "8402001016349",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8982/parches-ojos-hidrogel-deliplus-vitamina-c-paquete",
+    "name": "Parches para ojos hidrogel Deliplus de vitamina C",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "90080",
