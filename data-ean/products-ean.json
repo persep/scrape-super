@@ -58113,6 +58113,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "8243",
+    "ean": "8402001023088",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8243/patatas-fritas-sabor-chili-lima-hacendado-paquete",
+    "name": "Patatas fritas sabor chili y lima Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "82439",
     "ean": "8002190020150",
     "brand": "Galbusera",
@@ -58120,6 +58129,24 @@
     "name": "Crackers con sal Galbusera",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "8244",
+    "ean": "8402001023064",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8244/patatas-fritas-sabor-sal-vinagre-hacendado-paquete",
+    "name": "Patatas fritas sabor sal y vinagre Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "8245",
+    "ean": "8402001023071",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8245/patatas-fritas-sabor-pimiento-asado-hacendado-paquete",
+    "name": "Patatas fritas sabor pimiento asado Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "82464",
@@ -62791,6 +62818,15 @@
     "name": "Levadura fresca Levital",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "8790",
+    "ean": "8402001022579",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8790/bebida-naranja-hacendado-sin-azucares-anadidos-brick",
+    "name": "Bebida de naranja Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Zumos > Naranja"
   },
   {
     "id": "8794",
