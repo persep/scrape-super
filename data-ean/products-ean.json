@@ -61173,6 +61173,15 @@
     "category": "Zumos > Naranja"
   },
   {
+    "id": "86328",
+    "ean": "8402001019623",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86328/tortillas-maiz-hacendado-paquete",
+    "name": "Tortillas de maíz Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "86329",
     "ean": "8700216460781",
     "brand": "Fairy",
@@ -63304,6 +63313,15 @@
     "name": "Queso lonchas tierno mezcla Entrepinares",
     "description": "Paquete",
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
+    "id": "8893",
+    "ean": "8402001016424",
+    "brand": "Ella",
+    "url": "https://tienda.mercadona.es/product/8893/eau-parfum-mujer-frasco",
+    "name": "Eau de parfum mujer Ella",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "8896",
