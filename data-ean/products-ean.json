@@ -37125,6 +37125,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "52614",
+    "ean": "8402001012198",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52614/chicles-eucalipto-gragea-hacendado-paquete",
+    "name": "Chicles eucalipto gragea Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
     "id": "52615",
     "ean": "8402001015892",
     "brand": "Bosque Verde",
@@ -64548,6 +64557,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "9632",
+    "ean": "8424465892970",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9632/surtido-berlinas-sabor-cheesecake-sabor-fresa-rellena-crema-blanca-sabor-platano-sabor-limon-caja",
+    "name": "Surtido Berlinas",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "9640",
     "ean": "8480000096401",
     "brand": null,
@@ -64555,5 +64573,14 @@
     "name": "Brioche relleno de crema de galleta congelado",
     "description": "Caja",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "9784",
+    "ean": "8402001023453",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9784/contorno-ojos-antiarrugas-iluminador-con-silicio-sisbela-reafirm-deliplus-tipo-piel-tarro",
+    "name": "Contorno de ojos Antiarrugas e Iluminador con silicio Sisbela Reafirm Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   }
 ]
