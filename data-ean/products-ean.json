@@ -60048,6 +60048,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "8484",
+    "ean": "8480000084842",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/8484/salmon-con-verduras-listo-comer-compuesto-salmon-marinado-salsa-romescu-arroz-verduras-asadas-calabacin-patata-pimiento-rojo-boniato-bol",
+    "name": "Salmón con verduras Listo para Comer",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "84900",
     "ean": "8480000849007",
     "brand": null,
@@ -64582,5 +64591,14 @@
     "name": "Contorno de ojos Antiarrugas e Iluminador con silicio Sisbela Reafirm Deliplus",
     "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "9789",
+    "ean": "3574669908504",
+    "brand": "Johnson's",
+    "url": "https://tienda.mercadona.es/product/9789/aceite-corporal-bebe-con-aloe-vera-johnsons-bote",
+    "name": "Aceite corporal bebé con aloe vera Johnson's",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
   }
 ]
