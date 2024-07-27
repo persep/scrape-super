@@ -23391,6 +23391,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "35681",
+    "ean": "8402001021985",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35681/fideos-orientales-sabor-pollo-hacendado-paquete",
+    "name": "Fideos orientales sabor pollo Hacendado",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "35682",
     "ean": "8402001009105",
     "brand": "Hacendado",
@@ -63394,6 +63403,24 @@
     "name": "Higos",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "8923",
+    "ean": "8402001022173",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8923/paleta-sombras-ojos-zafiro-deliplus",
+    "name": "Paleta sombras de ojos Zafiro Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "8924",
+    "ean": "8402001022166",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8924/paleta-sombras-ojos-esmeralda-deliplus",
+    "name": "Paleta sombras de ojos Esmeralda Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "8925",
