@@ -11385,6 +11385,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "23054",
+    "ean": "8480000230546",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23054/tarta-infantil-pjmasks-hacendado-congelada",
+    "name": "Tarta infantil Pjmasks Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "23059",
     "ean": "8480000230591",
     "brand": "Hacendado",
@@ -42244,6 +42253,15 @@
     "name": "Ambientador spray Colonia Bosque Verde",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "6063",
+    "ean": "8480000060631",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/6063/tarta-cookies-cream-hacendado-congelada",
+    "name": "Tarta Cookies & Cream Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "60630",
