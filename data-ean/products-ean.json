@@ -63189,6 +63189,15 @@
     "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
+    "id": "8841",
+    "ean": "8402001020377",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/8841/escoba-interiores-bosque-verde",
+    "name": "Escoba para interiores Bosque Verde",
+    "description": null,
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
+  },
+  {
     "id": "8842",
     "ean": "8402001014871",
     "brand": "Deliplus",
@@ -63448,6 +63457,15 @@
     "name": "Higos",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "8920",
+    "ean": "8445291083974",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/8920/surtido-bombones-caja-roja-nestle-caja",
+    "name": "Surtido bombones Caja Roja Nestlé",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "8923",
