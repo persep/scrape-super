@@ -59067,6 +59067,15 @@
     "category": "Carne > Vacuno"
   },
   {
+    "id": "8309",
+    "ean": "8402001023811",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8309/aceitunas-negras-hacendado-rodajas",
+    "name": "Aceitunas negras Hacendado a rodajas",
+    "description": null,
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "83116",
     "ean": "8425514089792",
     "brand": null,
@@ -61468,6 +61477,15 @@
     "name": "Rotulador de labios Lip Tint Marker Deliplus efecto tinta 03 fucsia",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "86391",
+    "ean": "8414640192803",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/86391/lote-infantil-astronauta-contiene-eau-toilette-150-ml-mochila",
+    "name": "Lote infantil Astronauta",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "86402",
