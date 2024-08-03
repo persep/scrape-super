@@ -11637,6 +11637,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "23146",
+    "ean": "8480000231468",
+    "brand": "De León",
+    "url": "https://tienda.mercadona.es/product/23146/chorizo-sarta-extra-picante-ahumado-leon-pieza",
+    "name": "Chorizo sarta extra picante y ahumado De León",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "23155",
     "ean": "8480000231550",
     "brand": "Hacendado",
@@ -62919,6 +62928,15 @@
     "category": "Marisco y pescado > Marisco"
   },
   {
+    "id": "87786",
+    "ean": "8480000877864",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87786/arreglo-marisco-pelado-bandeja",
+    "name": "Arreglo de marisco pelado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
     "id": "8779",
     "ean": "5449000324122",
     "brand": null,
@@ -63574,6 +63592,15 @@
     "name": "Alas de pollo adobadas picantes",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "8978",
+    "ean": "8402001023750",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8978/barritas-barquillo-hacendado-con-relleno-avellana-cubiertas-chocolate-con-leche-paquete",
+    "name": "Barritas de barquillo Hacendado con relleno de avellana cubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "89804",
@@ -64692,6 +64719,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "9631",
+    "ean": "8424465890235",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9631/berlina-biscuit-con-cobertura-blanca-trozos-galleta-rellena-crema-galleta-pieza",
+    "name": "Berlina biscuit con cobertura blanca y trozos de galleta rellena de crema de galleta",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "9632",
     "ean": "8424465892970",
     "brand": null,
@@ -64726,5 +64762,14 @@
     "name": "Aceite corporal bebé con aloe vera Johnson's",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "9793",
+    "ean": "8402001023224",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9793/champu-volumen-deliplus-cabello-fino-sin-volumen-con-niacinamida-provitamina-b5-extracto-algodon-bote",
+    "name": "Champú Volumen Deliplus cabello fino y sin volumen",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
   }
 ]
