@@ -63495,6 +63495,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "8911",
+    "ean": "8402001023347",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8911/cacao-soluble-instantaneo-hacendado-caja",
+    "name": "Cacao soluble instantáneo Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
     "id": "8920",
     "ean": "8445291083974",
     "brand": "Nestlé",
@@ -63619,6 +63628,15 @@
     "name": "Parches para ojos hidrogel Deliplus de vitamina C",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "8996",
+    "ean": "8402001021473",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8996/dentifrico-herbal-deliplus-jengibre-arbol-te-eucalipto-menta-camomila-tubo",
+    "name": "Dentífrico Herbal Deliplus",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "90080",
