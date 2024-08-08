@@ -55539,6 +55539,15 @@
     "category": "Cuidado del cabello > Coloración cabello"
   },
   {
+    "id": "7963",
+    "ean": "8402001020926",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/7963/friegasuelos-floral-bosque-verde-liquido-botella",
+    "name": "Friegasuelos Floral Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
+  },
+  {
     "id": "79631",
     "ean": "8480000796318",
     "brand": "Deliplus",
@@ -58219,6 +58228,15 @@
     "name": "Grissini palitos de pan con sésamo Hacendado",
     "description": "Pack-2",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "8247",
+    "ean": "8402001021589",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8247/bebida-melocoton-hacendado-sin-azucares-anadidos-brick",
+    "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Zumos > Melocotón y piña"
   },
   {
     "id": "8249",
