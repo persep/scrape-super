@@ -42192,6 +42192,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "60621",
+    "ean": "8402001019616",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60621/arroz-verduras-hacendado-bandeja",
+    "name": "Arroz de verduras Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "60622",
     "ean": "8402001017735",
     "brand": "Hacendado",
@@ -63439,6 +63448,42 @@
     "name": "Bebida energética Red Bull",
     "description": "Pack-6",
     "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "8872",
+    "ean": "8402001016479",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8872/laca-unas-secado-rapido-deliplus-238-verde",
+    "name": "Laca de uñas secado rápido Deliplus 238 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8873",
+    "ean": "8402001016493",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8873/laca-unas-secado-rapido-deliplus-239-azul",
+    "name": "Laca de uñas secado rápido Deliplus 239 azul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8874",
+    "ean": "8402001016509",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8874/laca-unas-secado-rapido-deliplus-240-morado",
+    "name": "Laca de uñas secado rápido Deliplus 240 morado",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "8875",
+    "ean": "8402001016516",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8875/laca-unas-secado-rapido-deliplus-241-frambuesa",
+    "name": "Laca de uñas secado rápido Deliplus 241 frambuesa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "8877",
