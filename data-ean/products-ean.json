@@ -59004,6 +59004,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "8296",
+    "ean": "8402001020094",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8296/pintalabios-creamy-deliplus-217-melocoton",
+    "name": "Pintalabios Creamy Deliplus 217 melocotón",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "82961",
     "ean": "8480000829610",
     "brand": "Hacendado",
@@ -59011,6 +59020,15 @@
     "name": "Salmón al curry Hacendado",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "8297",
+    "ean": "8402001020063",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8297/pintalabios-creamy-deliplus-214-nude-perlado",
+    "name": "Pintalabios Creamy Deliplus 214 nude perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "82975",
@@ -61515,6 +61533,33 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "86379",
+    "ean": "8410436480000",
+    "brand": "Somat",
+    "url": "https://tienda.mercadona.es/product/86379/lavavajillas-frescor-anti-olor-somat-gel-duo-lavado-maquina-botella",
+    "name": "Lavavajillas frescor anti-olor Somat en gel duo",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "86382",
+    "ean": "8402001018695",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/86382/eau-parfum-mujer-the-rose-frasco",
+    "name": "Eau de parfum mujer Como Tú The Rose",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "86384",
+    "ean": "8402001018701",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/86384/eau-parfum-mujer-soplo-intense-frasco",
+    "name": "Eau de parfum mujer Como Tú Soplo Intense",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "86389",
     "ean": "8414640192698",
     "brand": "",
@@ -63693,6 +63738,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "8974",
+    "ean": "8402001024207",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8974/kit-bucal-infantil-6-anos-deliplus-sabor-aleatorio-contiene-dentifrico-30-ml-menta-suave-gominola-cepillo-dental",
+    "name": "Kit bucal infantil +6 años Deliplus sabor aleatorio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "8978",
     "ean": "8402001023750",
     "brand": "Hacendado",
@@ -64906,5 +64960,14 @@
     "name": "Costilla de cerdo finas hierbas",
     "description": "Pieza",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "9893",
+    "ean": "8411916098241",
+    "brand": "Mis Delicias",
+    "url": "https://tienda.mercadona.es/product/9893/guindillas-picantes-delicias-tarro",
+    "name": "Guindillas picantes Mis Delicias",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   }
 ]
