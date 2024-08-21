@@ -38214,6 +38214,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52806",
+    "ean": "8402001015816",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52806/perfilador-ojos-deliplus-03-verde",
+    "name": "Perfilador de ojos Deliplus 03 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52807",
     "ean": "8402001015809",
     "brand": "Deliplus",
@@ -63727,6 +63736,15 @@
     "name": "Aceitunas rellenas de anchoa La Alcoyana",
     "description": "Bote",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "8966",
+    "ean": "8402001024528",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8966/helado-vainilla-hacendado-tarrina",
+    "name": "Helado de vainilla Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
   },
   {
     "id": "8970",
