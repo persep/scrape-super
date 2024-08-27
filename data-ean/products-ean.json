@@ -64989,6 +64989,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "9809",
+    "ean": "8414640192704",
+    "brand": "Ágatha Ruiz de la Prada",
+    "url": "https://tienda.mercadona.es/product/9809/neceser-corazon-grande-transparente-agatha-ruiz-prada-con-asa-242-x-182-x-60-mm",
+    "name": "Neceser corazón grande transparente Ágatha Ruiz de la Prada con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "9810",
     "ean": "8414640192711",
     "brand": "Ágatha Ruiz de la Prada",
@@ -65023,5 +65032,14 @@
     "name": "Guindillas picantes Mis Delicias",
     "description": "Tarro",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "9902",
+    "ean": "8402001022418",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9902/lote-mujer-glow-deliplus-contiene-peeling-enzimatico-100ml-serum-50ml-caja",
+    "name": "Lote mujer Glow Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   }
 ]
