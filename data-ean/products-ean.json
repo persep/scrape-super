@@ -38232,6 +38232,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52808",
+    "ean": "8402001015793",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52808/perfilador-ojos-deliplus-06-beige",
+    "name": "Perfilador de ojos Deliplus 06 beige",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "52814",
     "ean": "8402001016332",
     "brand": "Hacendado",
@@ -58266,6 +58275,15 @@
     "category": "Zumos > Melocotón y piña"
   },
   {
+    "id": "8248",
+    "ean": "8402001021596",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8248/bebida-melocoton-hacendado-sin-azucares-anadidos",
+    "name": "Bebida de melocotón Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Melocotón y piña"
+  },
+  {
     "id": "8249",
     "ean": "8410500027841",
     "brand": "Activia",
@@ -58669,6 +58687,15 @@
     "name": "Palitos de pan con pipas Anitin",
     "description": "Pack-2",
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
+  },
+  {
+    "id": "8278",
+    "ean": "8480000082787",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/8278/ensalada-pollo-queso-frutos-secos-listo-comer-compuesta-pollo-asado-tomate-cherry-queso-fresco-brotes-espinaca-lechuga-verde-lechuga-roja-mezcla-frutos-secos-fruta-desecada-bol",
+    "name": "Ensalada de pollo, queso y frutos secos Listo para Comer",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
     "id": "82786",
@@ -61578,6 +61605,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "86385",
+    "ean": "8402001024887",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86385/fruta-leche-tropical-hacendado-sin-azucares-anadidos-brick",
+    "name": "Fruta + leche tropical Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "86387",
+    "ean": "8402001024900",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86387/fruta-leche-tropical-hacendado-sin-azucares-anadidos",
+    "name": "Fruta + leche tropical Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "86389",
     "ean": "8414640192698",
     "brand": "",
@@ -61587,6 +61632,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "86390",
+    "ean": "8402001024924",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86390/fruta-leche-mediterraneo-hacendado-sin-azucares-anadidos",
+    "name": "Fruta + leche Mediterráneo Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "86391",
     "ean": "8414640192803",
     "brand": "",
@@ -61594,6 +61648,15 @@
     "name": "Lote infantil Astronauta",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "86392",
+    "ean": "8402001024931",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86392/fruta-leche-mediterraneo-hacendado-sin-azucares-anadidos",
+    "name": "Fruta + leche Mediterráneo Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "86402",
