@@ -61614,6 +61614,15 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "86386",
+    "ean": "8402001024894",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86386/fruta-leche-tropical-hacendado-sin-azucares-anadidos",
+    "name": "Fruta + leche Tropical Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "86387",
     "ean": "8402001024900",
     "brand": "Hacendado",
@@ -65077,6 +65086,24 @@
     "name": "Masa gruesa para empanadas Buitoni estilo Argentino",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "9873",
+    "ean": "8402001021183",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9873/laca-unas-alto-brillo-deliplus-88-verde",
+    "name": "Laca de uñas alto brillo Deliplus 88 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9874",
+    "ean": "8402001021190",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9874/laca-unas-alto-brillo-deliplus-89-verde-perla",
+    "name": "Laca de uñas alto brillo Deliplus 89 verde perla",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "9883",
