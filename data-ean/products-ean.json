@@ -65115,6 +65115,24 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "9886",
+    "ean": "5449000330116",
+    "brand": "Coca-Cola",
+    "url": "https://tienda.mercadona.es/product/9886/refresco-coca-cola",
+    "name": "Refresco Coca-Cola",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "9887",
+    "ean": "5449000330123",
+    "brand": "Coca-Cola",
+    "url": "https://tienda.mercadona.es/product/9887/refresco-coca-cola-zero-azucar",
+    "name": "Refresco Coca-Cola Zero azúcar",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
     "id": "9893",
     "ean": "8411916098241",
     "brand": "Mis Delicias",
