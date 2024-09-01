@@ -61452,6 +61452,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "86354",
+    "ean": "8402001021664",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86354/pastillas-cisterna-bosque-verde-paquete",
+    "name": "Pastillas cisterna Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
     "id": "86357",
     "ean": "8402001022470",
     "brand": "Royal Swan",
@@ -61632,6 +61641,15 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "86388",
+    "ean": "8402001024917",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86388/fruta-leche-mediterraneo-hacendado-sin-azucares-anadidos-brick",
+    "name": "Fruta + leche Mediterráneo Hacendado sin azúcares añadidos",
+    "description": "Brick",
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "86389",
     "ean": "8414640192698",
     "brand": "",
@@ -61684,6 +61702,24 @@
     "name": "Paleta curada lonchas Paletas Marpa",
     "description": "Paquete",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "86436",
+    "ean": "8402001024948",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86436/barritas-crujientes-hacendado-recubiertas-chocolate-blanco-con-caramelo-paquete",
+    "name": "Barritas crujientes Hacendado recubiertas de chocolate blanco con caramelo",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86437",
+    "ean": "8402001023767",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86437/mini-barritas-cheesecake-hacendado-con-chocolate-blanco-sabor-tarta-queso-crujiente-fresa-paquete",
+    "name": "Mini barritas de cheesecake Hacendado con chocolate blanco sabor tarta de queso y crujiente de fresa",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "8645",
@@ -65077,6 +65113,15 @@
     "name": "Neceser flores mediano Ágatha Ruiz de la Prada con asa",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9845",
+    "ean": "8402001025075",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9845/bruma-facial-multifuncional-make-up-fixer-amberleaf-deliplus-5-1",
+    "name": "Bruma facial multifuncional Make Up Fixer Amberleaf Deliplus 5 en 1",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "9860",
