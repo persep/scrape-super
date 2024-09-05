@@ -63711,6 +63711,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "8885",
+    "ean": "8402001023217",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8885/panales-bebe-talla-3-4-10-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 3 de 4-10 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "8886",
     "ean": "8402001019784",
     "brand": "Bosque Verde",
@@ -65228,6 +65237,51 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/9874/laca-unas-alto-brillo-deliplus-89-verde-perla",
     "name": "Laca de uñas alto brillo Deliplus 89 verde perla",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9875",
+    "ean": "8402001017353",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9875/laca-unas-jeans-deliplus-247-azul-claro",
+    "name": "Laca de uñas Jeans Deliplus 247 azul claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9876",
+    "ean": "8402001017360",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9876/laca-unas-jeans-deliplus-248-azul-oscuro",
+    "name": "Laca de uñas Jeans Deliplus 248 azul oscuro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9877",
+    "ean": "8402001017377",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9877/laca-unas-jeans-deliplus-249-gris-oscuro",
+    "name": "Laca de uñas Jeans Deliplus 249 gris oscuro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9878",
+    "ean": "8402001017384",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9878/laca-unas-jeans-deliplus-250-gris-claro",
+    "name": "Laca de uñas Jeans Deliplus 250 gris claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9880",
+    "ean": "8402001017391",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9880/set-decoraciones-lima-deliplus-jeans-unas",
+    "name": "Set decoraciones y lima Deliplus Jeans para uñas",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
