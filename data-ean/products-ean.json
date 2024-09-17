@@ -37548,6 +37548,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52684",
+    "ean": "8402001014468",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52684/laca-cabello-suave-deliplus-fijacion-2-spray",
+    "name": "Laca cabello Normal Deliplus fijación 2",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "52685",
     "ean": "8410199025623",
     "brand": "Munchos",
@@ -61729,6 +61738,42 @@
     "name": "Fruta + leche Mediterráneo Hacendado sin azúcares añadidos",
     "description": null,
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "86397",
+    "ean": "8402001024627",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86397/detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella",
+    "name": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "86398",
+    "ean": "8402001024634",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86398/detergente-ropa-frescura-azul-bosque-verde-liquido-botella",
+    "name": "Detergente ropa Frescura Azul Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "86399",
+    "ean": "8402001024641",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86399/detergente-ropa-colonia-hipoalergenico-bosque-verde-liquido-botella",
+    "name": "Detergente ropa Colonia Hipoalergénico Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "86400",
+    "ean": "8402001024610",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86400/detergente-ropa-blanca-color-bosque-verde-liquido-botella",
+    "name": "Detergente ropa Blanca y de Color Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "86402",
