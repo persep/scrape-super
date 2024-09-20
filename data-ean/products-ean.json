@@ -41364,6 +41364,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "6020",
+    "ean": "8480000060204",
+    "brand": "Gold Spring",
+    "url": "https://tienda.mercadona.es/product/6020/refresco-tropical-gold-spring-sin-gas-botella",
+    "name": "Refresco Tropical Gold Spring sin gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
     "id": "60212",
     "ean": "8480000602121",
     "brand": "Listo para Comer",
@@ -44332,6 +44341,15 @@
     "name": "Hélices Hacendado",
     "description": "Paquete",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "62380",
+    "ean": "8480000623805",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62380/bogavante-americano-mediano-crudo-hacendado-pieza",
+    "name": "Bogavante americano mediano crudo Hacendado",
+    "description": "Pieza",
+    "category": "Congelados > Marisco"
   },
   {
     "id": "62386",
