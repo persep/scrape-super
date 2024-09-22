@@ -38358,6 +38358,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "52830",
+    "ean": "8402001023972",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52830/turron-banoffee-hacendado-tableta",
+    "name": "Turrón de banoffee Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "52833",
     "ean": "8402001015977",
     "brand": "Bosque Verde",
@@ -61821,6 +61830,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "86406",
+    "ean": "8402001024665",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86406/bombones-coco-cocolizze-hacendado-caja",
+    "name": "Bombones de coco Cocolizze Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "86436",
     "ean": "8402001024948",
     "brand": "Hacendado",
@@ -63405,6 +63423,15 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "8811",
+    "ean": "8402001023651",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8811/surtido-chocolates-halloween-hacendado-paquete",
+    "name": "Surtido chocolates Halloween Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "8812",
     "ean": "8402001021312",
     "brand": "Deliplus",
@@ -63430,6 +63457,33 @@
     "name": "Arreglo para paella con pollo y conejo",
     "description": "Bandeja",
     "category": "Carne > Arreglos"
+  },
+  {
+    "id": "8819",
+    "ean": "8402001021244",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8819/golosinas-halloween-boo-mix-hacendado-paquete",
+    "name": "Golosinas Halloween BOO! Mix Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "8820",
+    "ean": "8410805012313",
+    "brand": "Cerdán",
+    "url": "https://tienda.mercadona.es/product/8820/caramelos-conde-dracula-sabor-cereza-cerdan-paquete",
+    "name": "Caramelos El Conde Drácula sabor cereza Cerdán",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "8821",
+    "ean": "8413178390880",
+    "brand": "Vidal",
+    "url": "https://tienda.mercadona.es/product/8821/golosinas-monster-jelly-vidal-paquete",
+    "name": "Golosinas Monster Jelly Vidal",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "8822",
@@ -63717,6 +63771,15 @@
     "url": "https://tienda.mercadona.es/product/8859/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
     "name": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
     "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "8863",
+    "ean": "8421699226892",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8863/piruleta-chocolate-halloween-hacendado",
+    "name": "Piruleta de chocolate Halloween Hacendado",
+    "description": null,
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
