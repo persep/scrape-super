@@ -37548,6 +37548,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "52683",
+    "ean": "8402001026829",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52683/alcaparrones-hacendado-vinagre-tarro",
+    "name": "Alcaparrones Hacendado en vinagre",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "52684",
     "ean": "8402001014468",
     "brand": "Deliplus",
@@ -38363,6 +38372,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/52830/turron-banoffee-hacendado-tableta",
     "name": "Turrón de banoffee Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "52832",
+    "ean": "8402001023989",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52832/turron-chocolate-con-leche-cream-cacahuete-hacendado-tableta",
+    "name": "Turrón de chocolate con leche Cream cacahuete Hacendado con caramelo troceado",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
@@ -61837,6 +61855,24 @@
     "name": "Bombones de coco Cocolizze Hacendado",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86407",
+    "ean": "8410109129670",
+    "brand": "Senzza",
+    "url": "https://tienda.mercadona.es/product/86407/surtido-bombones-senzza-chocolate-con-galleta-cacaocream-roditas-animadas-paquete",
+    "name": "Surtido bombones Senzza de chocolate con galleta Cacaocream, Roditas y Animadas",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86427",
+    "ean": "8402001024993",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86427/pimientos-secos-hacendado-caja",
+    "name": "Pimientos secos Hacendado",
+    "description": "Caja",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "86436",
