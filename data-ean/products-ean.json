@@ -63900,6 +63900,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "8876",
+    "ean": "8402001021602",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/8876/ambientador-armarios-spa-bosque-verde-caja",
+    "name": "Ambientador armarios Spa Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "8877",
     "ean": "8428390829896",
     "brand": "Flor de Mayo",
@@ -65338,6 +65347,15 @@
     "name": "Aceite corporal bebé con aloe vera Johnson's",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "9792",
+    "ean": "8402001025488",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9792/cono-golosinas-celebracion-hacendado-contiene-snack-maiz-piruleta-comprimido-con-polvo-pica-sabor-fresa-palote-espuma-dulce-caramelos-goma-paquete",
+    "name": "Cono de golosinas celebración Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "9793",
