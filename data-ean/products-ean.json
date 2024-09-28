@@ -39042,6 +39042,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52965",
+    "ean": "8402001017940",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/52965/comprimidos-cabello-unas-deliplus-contiene-biotina-zinc-caja",
+    "name": "Comprimidos cabello y uñas Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "52966",
     "ean": "8402001018077",
     "brand": "Deliplus",
@@ -64071,6 +64080,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "8945",
+    "ean": "8402001013300",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8945/mascarillas-quirurgicas-deliplus-reutilizables-paquete",
+    "name": "Mascarillas quirúrgicas Deliplus no reutilizables",
+    "description": "Paquete",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "8946",
     "ean": "8402001023606",
     "brand": "Hacendado",
@@ -65464,6 +65482,60 @@
     "name": "Masa gruesa para empanadas Buitoni estilo Argentino",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "9863",
+    "ean": "8402001020971",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9863/paleta-sombras-ojos-deliplus-01-nude",
+    "name": "Paleta sombras de ojos Deliplus 01 nude",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9864",
+    "ean": "8402001020988",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9864/paleta-sombras-ojos-deliplus-02-rosa",
+    "name": "Paleta sombras de ojos Deliplus 02 rosa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9865",
+    "ean": "8402001020995",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9865/paleta-sombras-ojos-deliplus-03-morado",
+    "name": "Paleta sombras de ojos Deliplus 03 morado",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9866",
+    "ean": "8402001021008",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9866/paleta-sombras-ojos-deliplus-04-azul",
+    "name": "Paleta sombras de ojos Deliplus 04 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9867",
+    "ean": "8402001021015",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9867/paleta-sombras-ojos-deliplus-05-verde",
+    "name": "Paleta sombras de ojos Deliplus 05 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9868",
+    "ean": "8402001021022",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9868/paleta-sombras-ojos-deliplus-06-colores-frios",
+    "name": "Paleta sombras de ojos Deliplus 06 colores fríos",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "9873",
