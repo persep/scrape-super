@@ -1539,6 +1539,24 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "11490",
+    "ean": "8402001020254",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11490/lote-mujer-12-iconic-mini-fragancias-15ml-contiene-eau-parfum-eclat-enciende-bright-gold-soiree-the-rose-enchanted-amor-blue-atraccion-supreme-sinfonia-caja",
+    "name": "Lote mujer 12 Iconic mini fragancias de 15ml",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11491",
+    "ean": "8402001020261",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/11491/lote-hombre-the-6-iconic-mini-fragancias-15ml-contiene-eau-parfum-extratime-day-fuerza-viento-enciende-extratime-likes-rebel-caja",
+    "name": "Lote hombre The 6 Iconic Como Tú mini fragancias de 15ml",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "11711",
     "ean": "8480000117113",
     "brand": "Hacendado",
@@ -55548,6 +55566,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "7957",
+    "ean": "8428390079550",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/7957/lote-coporal-mujer-pixie-dreams-flor-mayo-contiene-gel-corporal-perfumado-80ml-locion-corporal-perfumada-80ml-eau-parfum-45ml-caja",
+    "name": "Lote coporal mujer Pixie Dreams Flor De Mayo",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "79576",
     "ean": "8480000795762",
     "brand": "Deliplus",
@@ -65403,6 +65430,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "9818",
+    "ean": "8436601370549",
+    "brand": "Essentials",
+    "url": "https://tienda.mercadona.es/product/9818/lote-the-12-makeup-essentials-contiene-bronceador-delineador-ojos-crayon-sombra-ojos-paleta-sombra-ojos-crema-iluminador-stick-tinte-labios-mejillas-brillo-labios-delineador-labios-crema-labios-mate-delineador-ojos-metalico-brocha-biselada-esponja-maquillaje",
+    "name": "Lote The 12 Makeup Essentials",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9832",
+    "ean": "8009470060769",
+    "brand": "Special Dog Excellence",
+    "url": "https://tienda.mercadona.es/product/9832/bocaditos-salsa-perro-adulto-special-dog-excellence-con-ternera-higado-verduras-bote",
+    "name": "Bocaditos en salsa perro adulto Special Dog Excellence con ternera, hígado y verduras",
+    "description": "Bote",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "9834",
     "ean": "8436601370372",
     "brand": "Dimaprof",
@@ -65679,6 +65724,24 @@
     "url": "https://tienda.mercadona.es/product/9902/lote-mujer-glow-deliplus-contiene-peeling-enzimatico-100ml-serum-50ml-caja",
     "name": "Lote mujer Glow Deliplus",
     "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9910",
+    "ean": "8428390079611",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/9910/mini-eau-parfum-mujer-flor-mayo-daily-red-frasco",
+    "name": "Mini eau de parfum mujer Flor De Mayo Daily Red",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9911",
+    "ean": "8428390079635",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/9911/mini-eau-parfum-hombre-flor-mayo-odyssius-blue-frasco",
+    "name": "Mini eau de parfum hombre Flor De Mayo Odyssius Blue",
+    "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   }
 ]
