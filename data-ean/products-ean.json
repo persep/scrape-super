@@ -60453,6 +60453,15 @@
     "category": "Marisco y pescado > Marisco"
   },
   {
+    "id": "85200",
+    "ean": "8480000852007",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85200/mejillon-vivo-bandeja",
+    "name": "Mejillón vivo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
     "id": "85473",
     "ean": "8437008336237",
     "brand": null,
@@ -65743,5 +65752,14 @@
     "name": "Mini eau de parfum hombre Flor De Mayo Odyssius Blue",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9999",
+    "ean": "8437018565962",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9999/pelotas-cerdo-cocido-bandeja",
+    "name": "Pelotas de cerdo para cocido",
+    "description": "Bandeja",
+    "category": "Carne > Arreglos"
   }
 ]
