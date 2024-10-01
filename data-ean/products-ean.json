@@ -62451,6 +62451,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "8667",
+    "ean": "8480000086679",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8667/pechuga-pollo-92-hacendado-lonchas-paquete",
+    "name": "Pechuga de pollo 92% Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "86684",
     "ean": "8480000866844",
     "brand": "Hacendado",
@@ -63374,6 +63383,15 @@
     "brand": "",
     "url": "https://tienda.mercadona.es/product/87786/arreglo-marisco-pelado-bandeja",
     "name": "Arreglo de marisco pelado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "87789",
+    "ean": "8480000877895",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/87789/salpicon-marisco-hacendado-bandeja",
+    "name": "Salpicón de marisco Hacendado",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
   },
@@ -65421,6 +65439,15 @@
     "category": "Cuidado del cabello > Champú"
   },
   {
+    "id": "9795",
+    "ean": "8480000442666",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/9795/rasqueta-vitroceramicas-bosque-verde-contiene-5-recambios-paquete",
+    "name": "Rasqueta Vitrocerámicas Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza cocina"
+  },
+  {
     "id": "9809",
     "ean": "8414640192704",
     "brand": "Ágatha Ruiz de la Prada",
@@ -65752,6 +65779,33 @@
     "name": "Mini eau de parfum hombre Flor De Mayo Odyssius Blue",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9915",
+    "ean": "8412300052795",
+    "brand": "Nivea Men",
+    "url": "https://tienda.mercadona.es/product/9915/lote-corporal-nivea-men-contiene-balsamo-after-shave-100-ml-desodorante-roll-on-50-ml-gel-ducha-250-ml-crema-150-ml-neceser",
+    "name": "Lote corporal Nivea Men",
+    "description": null,
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "9933",
+    "ean": "8402001020353",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9933/lote-24-make-up-essentials-contiene-corrector-liquido-esponjas-maquillaje-polvo-bronceador-sombra-ojos-liquida-balsamo-labial-brocha-polvos-sombra-ojos-numeros-12-13-14-pinza-cejas-colorete-crema-pincel-sombra-doble-lapiz-ojos-negro-funda-pintalabios-liquido-lima-unas-lapiz-labios-rojo-guante-desmaquillar-lacas-unas-numeros-23-24-lapiz-cejas-pintalabios-rojo-antifaz-neceser-caja",
+    "name": "Calendario Adviento 24 Make up  Essentials Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "9977",
+    "ean": "8402001026690",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9977/costileja-cerdo-congelada-paquete",
+    "name": "Costileja de cerdo congelada",
+    "description": "Paquete",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "9999",
