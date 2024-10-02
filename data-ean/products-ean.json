@@ -61542,6 +61542,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "86341",
+    "ean": "8480000863416",
+    "brand": "Brüggen",
+    "url": "https://tienda.mercadona.es/product/86341/copos-avena-bruggen-caja",
+    "name": "Copos de avena Brüggen",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "86343",
     "ean": "8428076006825",
     "brand": "Veet",
@@ -65779,6 +65788,15 @@
     "name": "Mini eau de parfum hombre Flor De Mayo Odyssius Blue",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9914",
+    "ean": "8402001025358",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9914/queso-curado-mezcla-campestre-hacendado-pieza",
+    "name": "Queso curado mezcla Campestre Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "9915",
