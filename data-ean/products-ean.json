@@ -1557,6 +1557,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "11567",
+    "ean": "4006000086095",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/11567/leche-corporal-nutritiva-nivea-con-acido-hialuronico-aceite-almendras-serum-nutricion-profunda-bote",
+    "name": "Leche corporal nutritiva Nivea con ácido hialurónico, aceite de almendras y sérum de nutrición profunda",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "11711",
     "ean": "8480000117113",
     "brand": "Hacendado",
@@ -65489,6 +65498,15 @@
     "brand": "Special Dog Excellence",
     "url": "https://tienda.mercadona.es/product/9832/bocaditos-salsa-perro-adulto-special-dog-excellence-con-ternera-higado-verduras-bote",
     "name": "Bocaditos en salsa perro adulto Special Dog Excellence con ternera, hígado y verduras",
+    "description": "Bote",
+    "category": "Mascotas > Perro"
+  },
+  {
+    "id": "9833",
+    "ean": "8009470060776",
+    "brand": "Special Dog Excellence",
+    "url": "https://tienda.mercadona.es/product/9833/bocaditos-salsa-perro-adulto-special-dog-excellence-con-salmon-verduras-bote",
+    "name": "Bocaditos en salsa perro adulto Special Dog Excellence con salmón y verduras",
     "description": "Bote",
     "category": "Mascotas > Perro"
   },
