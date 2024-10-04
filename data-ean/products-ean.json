@@ -63999,6 +63999,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "8878",
+    "ean": "8402001015373",
+    "brand": "9.60",
+    "url": "https://tienda.mercadona.es/product/8878/eau-toilette-mujer-960-bloom-sport-water-frasco",
+    "name": "Eau de toilette mujer 9.60 Bloom Sport water",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "8879",
+    "ean": "8402001015366",
+    "brand": "9.60",
+    "url": "https://tienda.mercadona.es/product/8879/eau-toilette-hombre-960-sport-water-wild-frasco",
+    "name": "Eau de toilette hombre 9.60 Sport water wild",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "8880",
     "ean": "8428390079567",
     "brand": "Flor de Mayo",
@@ -64177,6 +64195,15 @@
     "name": "Agua de colonia fresca infantil Deliplus con notas cítricas",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "8955",
+    "ean": "8402001024061",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/8955/pate-perro-adulto-delikuit-con-ternera-cordero-paquete",
+    "name": "Paté perro adulto Delikuit con ternera y cordero",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
   },
   {
     "id": "8957",
@@ -65437,6 +65464,15 @@
     "name": "Aceite corporal bebé con aloe vera Johnson's",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "9791",
+    "ean": "8402001025242",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9791/chocolate-negro-72-cacao-hacendado-con-sal-rosa-tableta",
+    "name": "Chocolate negro 72% cacao Hacendado con sal rosa",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "9792",
