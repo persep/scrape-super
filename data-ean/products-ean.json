@@ -37089,6 +37089,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "52594",
+    "ean": "8402001013201",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52594/galletas-digestive-avena-chocolate-con-leche-hacendado-paquete",
+    "name": "Galletas Digestive avena chocolate con leche Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "52597",
     "ean": "8402001013515",
     "brand": "Deliplus",
@@ -37762,6 +37771,15 @@
     "name": "Máscara de pestañas Poem Deliplus negro",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "52710",
+    "ean": "8009470060653",
+    "brand": "Lechat Excellence",
+    "url": "https://tienda.mercadona.es/product/52710/bocaditos-salsa-gato-adulto-lechat-excellence-con-pollo-pavo-verduras-bote",
+    "name": "Bocaditos en salsa gato adulto Lechat Excellence con pollo, pavo y verduras",
+    "description": "Bote",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "52714",
@@ -65871,6 +65889,87 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "9949",
+    "ean": "8402001021091",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9949/paleta-sombras-ojos-eyeshadow-universe-deliplus",
+    "name": "Paleta sombras de ojos Eyeshadow Universe Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9950",
+    "ean": "8402001021060",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9950/mascara-pestanas-laminated-universed-deliplus-negro",
+    "name": "Máscara de pestañas Laminated Universed Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9951",
+    "ean": "8402001021077",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9951/delineador-ojos-pearly-eyeliner-universe-deliplus-01-plata",
+    "name": "Delineador de ojos Pearly Eyeliner Universe Deliplus 01 plata",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9952",
+    "ean": "8402001021084",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9952/delineador-ojos-pearly-eyeliner-universe-deliplus-02-azul",
+    "name": "Delineador de ojos Pearly Eyeliner Universe Deliplus 02 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9953",
+    "ean": "8402001021138",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9953/iluminador-facial-fluido-highlighter-universe-deliplus",
+    "name": "Iluminador facial fluido Highlighter Universe Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "9954",
+    "ean": "8402001021145",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9954/iluminador-facial-efecto-gel-highlighter-universe-deliplus",
+    "name": "Iluminador facial efecto gel Highlighter Universe Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "9955",
+    "ean": "8402001021107",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9955/brillo-labios-pearly-gloss-universe-deliplus-01-rosa",
+    "name": "Brillo de labios Pearly gloss Universe Deliplus 01 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9956",
+    "ean": "8402001021114",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9956/brillo-labios-pearly-gloss-universe-deliplus-02-plata",
+    "name": "Brillo de labios Pearly gloss Universe Deliplus 02 plata",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9957",
+    "ean": "8402001021121",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9957/brillo-labios-pearly-gloss-universe-deliplus-03-bronce",
+    "name": "Brillo de labios Pearly gloss Universe Deliplus 03 bronce",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "9977",
     "ean": "8402001026690",
     "brand": "",
@@ -65878,6 +65977,33 @@
     "name": "Costileja de cerdo congelada",
     "description": "Paquete",
     "category": "Carne > Carne congelada"
+  },
+  {
+    "id": "9990",
+    "ean": "8402001019678",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9990/lapiz-unas-polvo-magic-pen-deliplus-252-night-efecto-cromado",
+    "name": "Lápiz de uñas polvo Magic Pen Deliplus 252 Night",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9992",
+    "ean": "8402001019685",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9992/lapiz-unas-polvo-magic-pen-deliplus-253-mirror-silver-efecto-cromado",
+    "name": "Lápiz de uñas polvo Magic Pen Deliplus 253 Mirror Silver",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9993",
+    "ean": "8402001017513",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9993/lapiz-unas-polvo-magic-pen-deliplus-251-holographic-efecto-cromado",
+    "name": "Lápiz de uñas polvo Magic Pen Deliplus 251 Holographic",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "9999",
