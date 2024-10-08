@@ -19188,6 +19188,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "33639",
+    "ean": "8480000336392",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33639/tiras-maiz-frito-sabor-barbacoa-hacendado-paquete",
+    "name": "Tiras de maíz frito sabor barbacoa Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "33640",
     "ean": "8480000336408",
     "brand": "Hacendado",
@@ -37778,6 +37787,15 @@
     "brand": "Lechat Excellence",
     "url": "https://tienda.mercadona.es/product/52710/bocaditos-salsa-gato-adulto-lechat-excellence-con-pollo-pavo-verduras-bote",
     "name": "Bocaditos en salsa gato adulto Lechat Excellence con pollo, pavo y verduras",
+    "description": "Bote",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "52711",
+    "ean": "8009470060660",
+    "brand": "Lechat Excellence",
+    "url": "https://tienda.mercadona.es/product/52711/bocaditos-salsa-gato-adulto-lechat-excellence-con-salmon-trucha-verduras-bote",
+    "name": "Bocaditos en salsa gato adulto Lechat Excellence con salmón, trucha  y verduras",
     "description": "Bote",
     "category": "Mascotas > Gato"
   },
