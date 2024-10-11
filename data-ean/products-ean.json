@@ -1557,6 +1557,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "11510",
+    "ean": "8436565363229",
+    "brand": "La Carloteña",
+    "url": "https://tienda.mercadona.es/product/11510/pollo-relleno-con-trufa-carlotena-lonchas-paquete",
+    "name": "Pollo relleno con trufa La Carloteña lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -64098,6 +64107,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "8895",
+    "ean": "8402001025167",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8895/salsa-bacon-hacendado-bote",
+    "name": "Salsa bacon Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "8896",
     "ean": "8402001020810",
     "brand": "Deliplus",
@@ -65995,6 +66013,15 @@
     "name": "Brillo de labios Pearly gloss Universe Deliplus 03 bronce",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9966",
+    "ean": "8402001020018",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9966/mix-frutos-secos-hacendado-banados-chocolate-negro-paquete",
+    "name": "Mix de frutos secos Hacendado bañados en chocolate negro",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "9977",
