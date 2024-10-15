@@ -1566,6 +1566,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "11544",
+    "ean": "8402001027345",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11544/roscon-mini-relleno-preparado-base-nata-congelado-caja",
+    "name": "Roscón mini relleno de preparado a base de nata congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -65743,6 +65752,15 @@
     "name": "Paleta sombras de ojos Deliplus 06 colores fríos",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9871",
+    "ean": "8402001025983",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9871/barritas-cereales-hacendado-con-leche-cacahuetes-palomitas-caja",
+    "name": "Barritas de cereales Hacendado con leche, cacahuetes y palomitas",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "9873",
