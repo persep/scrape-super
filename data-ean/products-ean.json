@@ -1593,6 +1593,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "11582",
+    "ean": "8436561133529",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11582/pinchos-cordero-bandeja",
+    "name": "Pinchos de cordero",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
     "id": "11711",
     "ean": "8480000117113",
     "brand": "Hacendado",
@@ -65520,6 +65529,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "9661",
+    "ean": "8480000096616",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9661/napolitana-chocolate-26-pieza",
+    "name": "Napolitana chocolate 26%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "9778",
     "ean": "8402001023415",
     "brand": "Bosque Verde",
@@ -65698,6 +65716,15 @@
     "name": "Bruma facial multifuncional Make Up Fixer Amberleaf Deliplus 5 en 1",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "9847",
+    "ean": "8402001024511",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9847/cafe-capsula-colombia-hacendado-compatibles-maquinas-nespresso-caja",
+    "name": "Café en cápsula Colombia Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
     "id": "9860",
