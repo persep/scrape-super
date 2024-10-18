@@ -1575,6 +1575,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "11513",
+    "ean": "8402001026379",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11513/cocktail-rodeo-hacendado-paquete",
+    "name": "Cocktail rodeo Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "11544",
     "ean": "8402001027345",
     "brand": "",
@@ -19058,6 +19067,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/33436/torreznos-sabor-barbacoa-hacendado-paquete",
     "name": "Torreznos sabor barbacoa Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "33439",
+    "ean": "8480000334398",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/33439/patatas-fritas-receta-churreria-hacendado-paquete",
+    "name": "Patatas fritas receta churrería Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
   },
@@ -61479,6 +61497,24 @@
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
   {
+    "id": "86311",
+    "ean": "8413041110010",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/86311/cerveza-especial-sin-gluten-falke-pack-8",
+    "name": "Cerveza especial sin gluten Falke",
+    "description": "Pack-8",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "86312",
+    "ean": "8413041110003",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/86312/cerveza-especial-sin-gluten-falke-lata",
+    "name": "Cerveza especial sin gluten Falke",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "86313",
     "ean": "8413041318089",
     "brand": "Falke",
@@ -62593,6 +62629,15 @@
     "name": "Ron viejo La Recompensa",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "8671",
+    "ean": "8480000086716",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8671/tarta-carrot-cake-hacendado-congelada-bizcocho-zanahoria-con-crema-queso",
+    "name": "Tarta carrot cake Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "86711",
