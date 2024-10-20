@@ -1602,6 +1602,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "11553",
+    "ean": "8700216488495",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/11553/panales-bebe-talla-1-2-5-kg-dodot-sensitive-paquete",
+    "name": "Pañales bebé talla 1 de 2-5 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -66130,6 +66139,15 @@
     "name": "Mix de frutos secos Hacendado bañados en chocolate negro",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "9970",
+    "ean": "8402001022081",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9970/acondicionador-instantaneo-kids-deliplus-bote",
+    "name": "Acondicionador instantáneo Kids Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
     "id": "9977",
