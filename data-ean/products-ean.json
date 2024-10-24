@@ -1674,6 +1674,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "11556",
+    "ean": "8700216493451",
+    "brand": "Dodot",
+    "url": "https://tienda.mercadona.es/product/11556/panales-bebe-talla-6-13-18-kg-dodot-paquete",
+    "name": "Pañales bebé talla 6 de 13-18 kg Dodot",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -42849,6 +42858,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "60670",
+    "ean": "8402001014154",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60670/desodorante-roll-on-aloe-deliplus-antitranspirante-0-alcohol",
+    "name": "Desodorante roll-on Aloe Deliplus antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "60671",
     "ean": "8402001019777",
     "brand": "Hacendado",
@@ -49388,6 +49406,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/68350/mousse-chocolate-hacendado-pack-4",
     "name": "Mousse de chocolate Hacendado",
+    "description": "Pack-4",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "68354",
+    "ean": "8480000683540",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/68354/arroz-con-leche-hacendado-pack-4",
+    "name": "Arroz con leche Hacendado",
     "description": "Pack-4",
     "category": "Postres y yogures > Gelatina y otros postres"
   },
@@ -65761,6 +65788,15 @@
     "name": "Lote The 12 Makeup Essentials",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9820",
+    "ean": "8402001025600",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9820/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-0-azucares-anadidos-tableta",
+    "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "9832",
