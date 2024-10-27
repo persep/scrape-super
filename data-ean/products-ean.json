@@ -1665,6 +1665,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "11549",
+    "ean": "8424465885477",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11549/surtido-berlinas-navidad-cocoa-rellena-crema-cacao-con-avellanas-coconut-rellena-crema-blanca-con-almendra-caja",
+    "name": "Surtido Berlinas Navidad",
+    "description": "Caja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "11553",
     "ean": "8700216488495",
     "brand": "Dodot",
@@ -64440,6 +64449,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "8948",
+    "ean": "8402001023668",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8948/figura-chocolate-papa-noel-hacendado",
+    "name": "Figura de chocolate Papá Noel Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "8949",
     "ean": "8402001023804",
     "brand": "Deliplus",
@@ -64447,6 +64465,15 @@
     "name": "Agua de colonia fresca infantil Deliplus con notas cítricas",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "8950",
+    "ean": "7622202039133",
+    "brand": "Suchard",
+    "url": "https://tienda.mercadona.es/product/8950/turron-chocolate-suchard-tableta",
+    "name": "Turrón de chocolate Suchard",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
     "id": "8955",
