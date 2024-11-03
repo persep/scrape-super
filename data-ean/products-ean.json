@@ -10224,6 +10224,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "22496",
+    "ean": "8480000224965",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/22496/vasos-medianos-plastico-bosque-verde-reutilizables-400-ml-paquete",
+    "name": "Vasos medianos de plástico Bosque Verde reutilizables",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "22503",
     "ean": "8480000225030",
     "brand": "Deliplus",
@@ -37042,6 +37051,24 @@
     "name": "Helado capuccino Hacendado",
     "description": "Tarrina",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "52564",
+    "ean": "8402001024672",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52564/postre-3-chocolates-hacendado-pack-3",
+    "name": "Postre 3 chocolates Hacendado",
+    "description": "Pack-3",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "52565",
+    "ean": "8402001024689",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52565/postre-dulce-leche-hacendado-pack-3",
+    "name": "Postre dulce de leche Hacendado",
+    "description": "Pack-3",
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "52566",
@@ -65860,6 +65887,15 @@
     "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "9822",
+    "ean": "8402001021763",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9822/cepillo-dental-medio-deliplus-paquete",
+    "name": "Cepillo dental Medio Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "9832",
