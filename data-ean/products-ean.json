@@ -1692,6 +1692,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "11561",
+    "ean": "8402001025327",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11561/queso-viejo-oveja-hacendado-pieza",
+    "name": "Queso viejo de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -1717,6 +1726,24 @@
     "name": "Pinchos de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "11593",
+    "ean": "8402001022289",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11593/prebase-facial-hidratante-deliplus-primer-serum-special",
+    "name": "Prebase facial hidratante Deliplus Primer Serum Special",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "11615",
+    "ean": "8402001028403",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11615/bruma-facial-multifuncional-make-up-fixer-special-deliplus-5-1",
+    "name": "Bruma facial multifuncional Make Up Fixer Special Deliplus 5 en 1",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "11711",
@@ -57843,6 +57870,15 @@
     "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
+    "id": "8138",
+    "ean": "8480000081384",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8138/pasta-penne-rigate-hacendado-paquete",
+    "name": "Pasta penne rigate Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "81407",
     "ean": "8480000814074",
     "brand": null,
@@ -63837,6 +63873,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "8805",
+    "ean": "8402001022364",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8805/infusion-frutos-rojos-hacendado-caja",
+    "name": "Infusión frutos rojos Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "8807",
     "ean": "8402001023170",
     "brand": "Piomka",
@@ -66400,6 +66445,24 @@
     "name": "Acondicionador instantáneo Kids Deliplus",
     "description": "Bote",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "9971",
+    "ean": "8402001023729",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9971/delineador-ojos-special-duo-eyes-deliplus-negro-champagne",
+    "name": "Delineador de ojos Special Duo Eyes Deliplus negro y champagne",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "9972",
+    "ean": "8402001023736",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9972/perfilador-labios-special-duo-lips-deliplus-rojo-nude",
+    "name": "Perfilador de labios Special Duo Lips Deliplus rojo y nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "9977",
