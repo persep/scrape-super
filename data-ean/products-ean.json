@@ -1611,6 +1611,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "11499",
+    "ean": "8402001023002",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11499/pate-cerdo-iberico-con-trufa-negra-hacendado-lata",
+    "name": "Paté de cerdo ibérico con trufa negra Hacendado",
+    "description": "Lata",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "11508",
     "ean": "8412422396067",
     "brand": "",
@@ -1825,6 +1834,15 @@
     "name": "Iluminador facial compacto Special Deliplus",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "11609",
+    "ean": "8402001025617",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11609/cacao-polvo-taza-hacendado-paquete",
+    "name": "Cacao en polvo a la taza Hacendado",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
     "id": "11615",
@@ -66580,6 +66598,15 @@
     "name": "Costileja de cerdo congelada",
     "description": "Paquete",
     "category": "Carne > Carne congelada"
+  },
+  {
+    "id": "9989",
+    "ean": "8402001025266",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9989/pate-atun-con-aceitunas-hacendado-tarro",
+    "name": "Paté de atún con aceitunas Hacendado",
+    "description": "Tarro",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "9990",
