@@ -1800,6 +1800,24 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "11591",
+    "ean": "8402001023293",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11591/laca-unas-special-deliplus-257-oro-rosa",
+    "name": "Laca de uñas Special Deliplus 257 oro rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "11592",
+    "ean": "8402001023309",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11592/laca-unas-special-deliplus-258-rose",
+    "name": "Laca de uñas Special Deliplus 258 rose",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "11593",
     "ean": "8402001022289",
     "brand": "Deliplus",
@@ -38579,6 +38597,15 @@
     "brand": "13 Hectáreas",
     "url": "https://tienda.mercadona.es/product/52785/vino-tinto-do-ribera-duero-13-hectareas-roble-botella",
     "name": "Vino tinto D.O Ribera del Duero 13 Hectáreas roble",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "52786",
+    "ean": "8411767164300",
+    "brand": "Pieza Rey",
+    "url": "https://tienda.mercadona.es/product/52786/vino-tinto-do-rioja-pieza-rey-botella",
+    "name": "Vino tinto D.O Rioja Pieza Rey",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
   },
