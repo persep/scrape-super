@@ -1890,6 +1890,24 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "11627",
+    "ean": "8402001028267",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11627/altramuces-hacendado",
+    "name": "Altramuces Hacendado",
+    "description": null,
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "11673",
+    "ean": "8410843155577",
+    "brand": "El Pozo",
+    "url": "https://tienda.mercadona.es/product/11673/jamon-serrano-1954-duroc-pozo-serie-oro-pieza",
+    "name": "Jamón serrano 1954 Duroc El Pozo serie oro",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "11711",
     "ean": "8480000117113",
     "brand": "Hacendado",
@@ -46557,6 +46575,15 @@
     "category": "Congelados > Helados"
   },
   {
+    "id": "6459",
+    "ean": "8480000064592",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/6459/chapata-cristal-paquete",
+    "name": "4 Panes chapata de cristal",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "6464",
     "ean": "8480000064646",
     "brand": null,
@@ -64314,6 +64341,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "8847",
+    "ean": "8402001022982",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8847/fruta-surtida-confitada-hacendado-bandeja",
+    "name": "Fruta surtida confitada Hacendado",
+    "description": "Bandeja",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "8848",
     "ean": "8402001014925",
     "brand": "Deliplus",
@@ -66119,6 +66155,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/9822/cepillo-dental-medio-deliplus-paquete",
     "name": "Cepillo dental Medio Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "9823",
+    "ean": "8402001021770",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9823/cepillo-dental-duro-deliplus-paquete",
+    "name": "Cepillo dental Duro Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
