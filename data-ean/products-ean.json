@@ -42669,6 +42669,24 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "60592",
+    "ean": "8402001018879",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60592/kit-verde-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja",
+    "name": "Kit verde de pinceles rostro Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
+    "id": "60593",
+    "ean": "8402001018886",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60593/kit-verde-pinceles-ojos-deliplus-contiene-pincel-difuminador-pincel-precision-pincel-sombra-pincel-duo-caja",
+    "name": "Kit verde de pinceles ojos Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "60595",
     "ean": "8402001017902",
     "brand": "Hacendado",
@@ -66519,6 +66537,141 @@
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
+    "id": "9917",
+    "ean": "8428390079901",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/9917/bruma-capilar-corporal-precious-con-brillo-flor-mayo-spray",
+    "name": "Bruma capilar y corporal Precious con brillo Flor de Mayo",
+    "description": "Spray",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "9918",
+    "ean": "8428390079628",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/9918/eau-parfum-mujer-flor-mayo-precious-frasco",
+    "name": "Eau de parfum mujer Flor de Mayo Precious",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9920",
+    "ean": "8428390079888",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/9920/mini-eau-parfum-hombre-flor-mayo-football-gold-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Football Gold",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9921",
+    "ean": "8402001019463",
+    "brand": "Shine",
+    "url": "https://tienda.mercadona.es/product/9921/eau-parfum-mujer-shine-special-frasco",
+    "name": "Eau de parfum mujer Shine Special",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9922",
+    "ean": "8402001020698",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/9922/lote-mujer-gold-contiene-eau-parfum-100-ml-vela",
+    "name": "Lote mujer Como Tú Gold",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9923",
+    "ean": "8402001020704",
+    "brand": "Elección",
+    "url": "https://tienda.mercadona.es/product/9923/lote-mujer-eleccion-contiene-eau-parfum-100-ml-crema-manos-30-ml-body-milk-75-ml-caja",
+    "name": "Lote mujer Elección",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9924",
+    "ean": "8402001020711",
+    "brand": "Rose Nude",
+    "url": "https://tienda.mercadona.es/product/9924/lote-mujer-rose-nude-contiene-eau-parfum-100-ml-crema-manos-30-ml-body-milk-75-ml",
+    "name": "Lote mujer Rose Nude",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9925",
+    "ean": "8402001020728",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/9925/lote-mujer-soplo-intense-contiene-eau-parfum-100ml-neceser",
+    "name": "Lote mujer Como Tú Soplo Intense",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9926",
+    "ean": "8402001020681",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/9926/lote-mujer-atraccion-contiene-eau-parfum-100ml-body-milk-100ml-neceser",
+    "name": "Lote mujer Como Tú Atracción",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9927",
+    "ean": "8402001020674",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/9927/lote-mujer-amor-contiene-eau-parfum-100-ml-vaporizador-rellenable-caja",
+    "name": "Lote mujer Como Tú Amor",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9928",
+    "ean": "8402001020735",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/9928/lote-mujer-my-soul-soiree-contiene-eau-parfum-100-ml-bolso",
+    "name": "Lote mujer My Soul Soirée",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9929",
+    "ean": "8411114094359",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/9929/lote-infantil-disney-frozen-contiene-eau-toilette-150-ml-brillo-labios-6-ml-balsamo-labial-4g-cepillo-clips-cabello-trenzas-con-goma-caja",
+    "name": "Lote infantil Disney Frozen",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9930",
+    "ean": "8411114094380",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/9930/lote-infantil-disney-stitch-contiene-eau-toilette-150-ml-pulsera-juego-memoria-caja-caja",
+    "name": "Lote infantil Disney Stitch",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9931",
+    "ean": "8411114094335",
+    "brand": "Marvel",
+    "url": "https://tienda.mercadona.es/product/9931/lote-infantil-marvel-spiderman-contiene-eau-toilette-150-ml-pulsera-lanzadiscos-pulsera-slap-caja-domino-caja",
+    "name": "Lote infantil Marvel Spiderman",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9932",
+    "ean": "8411114094342",
+    "brand": "Hot Wheels",
+    "url": "https://tienda.mercadona.es/product/9932/lote-infantil-hot-wheels-lets-race-contiene-eau-toilette-150ml-2-coches-caja",
+    "name": "Lote infantil Hot Wheels Let's Race",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "9933",
     "ean": "8402001020353",
     "brand": "Deliplus",
@@ -66526,6 +66679,24 @@
     "name": "Calendario Adviento 24 Make up  Essentials Deliplus",
     "description": "Caja",
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "9934",
+    "ean": "8445326874010",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/9934/lote-infantil-maquillaje-color-up-magical-unicorn-contiene-12-brillos-labios-12-sombras-ojos-3-coloretes-2-lacas-unas-2-aplicadores-2-pinceles-lima-unas-separador-pedicura-set-gemas-adhesivas-espejo-caja",
+    "name": "Lote infantil maquillaje Color Up! Magical Unicorn",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9935",
+    "ean": "8445326884019",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/9935/lote-infantil-maquillaje-color-up-unicorn-power-contiene-paleta-4-brillos-labios-16-sombras-ojos-2-coloretes-3-aplicadores-espejo",
+    "name": "Lote infantil maquillaje Color Up! Unicorn Power",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "9947",
