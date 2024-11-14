@@ -42687,6 +42687,15 @@
     "category": "Maquillaje > Pinceles y brochas"
   },
   {
+    "id": "60594",
+    "ean": "8480000605948",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/60594/kit-verde-pinceles-maquillaje-deliplus-contiene-esponja-maquillaje-brocha-caja",
+    "name": "Kit verde de pinceles maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "60595",
     "ean": "8402001017902",
     "brand": "Hacendado",
@@ -64294,6 +64303,15 @@
     "name": "Burger de cordero al romero",
     "description": "Paquete",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "8840",
+    "ean": "8436569263365",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/8840/burger-vaca-madurada-paquete",
+    "name": "Burger de vaca madurada",
+    "description": "Paquete",
+    "category": "Carne > Hamburguesas y picadas"
   },
   {
     "id": "88407",
