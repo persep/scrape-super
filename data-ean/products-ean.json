@@ -1656,6 +1656,24 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "11517",
+    "ean": "8402001023026",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11517/mousse-pato-con-pimienta-verde-hacendado-paquete",
+    "name": "Mousse de pato con pimienta verde Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "11518",
+    "ean": "8402001023033",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11518/mousse-pato-con-dulce-calabaza-hacendado-paquete",
+    "name": "Mousse de pato con dulce de calabaza Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "11526",
     "ean": "8436590110713",
     "brand": "Flor Sierra de Aracena",
@@ -1708,6 +1726,15 @@
     "name": "Pañales bebé talla 6 de 13-18 kg Dodot",
     "description": "Paquete",
     "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "11557",
+    "ean": "8402001027697",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11557/queso-curado-oveja-con-ajo-negro-hacendado-pieza",
+    "name": "Queso curado de oveja con ajo negro Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "11561",
@@ -40597,6 +40624,15 @@
     "name": "Queso viejo intenso mezcla Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "5778",
+    "ean": "8411763133003",
+    "brand": "La Cuina",
+    "url": "https://tienda.mercadona.es/product/5778/surtido-especial-pates-cuina-pate-trufa-dulce-higos-maracuya-frambuesa-paquete",
+    "name": "Surtido especial de patés La Cuina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "58006",
