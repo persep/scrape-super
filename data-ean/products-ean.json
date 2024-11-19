@@ -1935,6 +1935,69 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11647",
+    "ean": "8414640192742",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/11647/neceser-minnie-grande-con-asa-disney-223-x-113-x-115",
+    "name": "Neceser Minnie grande con asa Disney",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11648",
+    "ean": "8414640192780",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/11648/neceser-lentejuelas-color-mediano-uahuu-con-asa-200-x-111-x-80-mm",
+    "name": "Neceser lentejuelas color mediano Uahuu con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11649",
+    "ean": "8414640192797",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/11649/neceser-lentejuelas-negro-mediano-uahuu-con-asa-perlas-210-x-130-x-60-mm",
+    "name": "Neceser lentejuelas negro mediano Uahuu con asa perlas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11650",
+    "ean": "8414640192766",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/11650/neceser-mediano-lilo-stitch-disney-200-x-113-x-100",
+    "name": "Neceser mediano Lilo & Stitch Disney",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11651",
+    "ean": "8414640192728",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11651/neceser-xl-con-asas-300-x-260-x-115-mm",
+    "name": "Neceser XL con asas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11663",
+    "ean": "8402001021824",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11663/balsamo-labial-color-balm-deliplus-13-perlado",
+    "name": "Bálsamo labial Color Balm Deliplus 13 perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "11670",
+    "ean": "8402001028793",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11670/patatas-bravas-con-allioli-salsa-picante-hacendado-bandeja",
+    "name": "Patatas bravas con allioli y salsa picante Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "11673",
     "ean": "8410843155577",
     "brand": "El Pozo",
@@ -63603,6 +63666,24 @@
     "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
+    "id": "87163",
+    "ean": "8480000871879",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87163/filete-rodaballo-bandeja",
+    "name": "Filete de rodaballo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87164",
+    "ean": "8436550546828",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87164/tira-rodaballo-bandeja",
+    "name": "Tira de rodaballo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87191",
     "ean": "8480000871916",
     "brand": "Hacendado",
@@ -66958,6 +67039,15 @@
     "name": "Perfilador de labios Special Duo Lips Deliplus rojo y nude",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9973",
+    "ean": "8402001026614",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9973/espuma-cabello-xtra-forte-deliplus-fijacion-4-bote",
+    "name": "Espuma cabello Xtra Forte Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
   },
   {
     "id": "9977",
