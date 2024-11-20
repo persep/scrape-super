@@ -1935,6 +1935,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11635",
+    "ean": "8402001022067",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11635/lote-mujer-deliplus-diamond-contiene-bolso-colorete-201-pintalabios-302-brillo-labios-301-formato-mini",
+    "name": "Lote mujer Deliplus Diamond",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "11647",
     "ean": "8414640192742",
     "brand": "Disney",
@@ -63680,6 +63689,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/87164/tira-rodaballo-bandeja",
     "name": "Tira de rodaballo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87177",
+    "ean": "8480000871770",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87177/calamar-pequeno-limpio-patagonico-bandeja",
+    "name": "Calamar pequeño limpio patagónico",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
   },
