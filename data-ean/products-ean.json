@@ -42543,6 +42543,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "60553",
+    "ean": "8410136029271",
+    "brand": "Quartett",
+    "url": "https://tienda.mercadona.es/product/60553/gelatina-perros-adultos-quartett-con-buey-pollo-verduras-paquete",
+    "name": "Gelatina perros adultos Quartett con buey, pollo y verduras",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "60554",
     "ean": "8402001018961",
     "brand": "Deliplus",
@@ -66994,6 +67003,24 @@
     "name": "Brillo de labios Pearly gloss Universe Deliplus 03 bronce",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "9963",
+    "ean": "8437019040970",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9963/cordero-chuleteado-bandeja",
+    "name": "Cordero chuleteado",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "9965",
+    "ean": "8402001026447",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9965/bizcocho-con-azucar-moreno-nueces-bandeja",
+    "name": "Bizcocho con azúcar moreno y nueces",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "9966",
