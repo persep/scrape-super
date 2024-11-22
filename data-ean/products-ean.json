@@ -65079,6 +65079,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "8980",
+    "ean": "8006540886540",
+    "brand": "Oral-B",
+    "url": "https://tienda.mercadona.es/product/8980/recambios-cepillo-dental-electrico-oral-b-pro-precision-clean-paquete",
+    "name": "Recambios cepillo dental eléctrico Oral-B Pro Precision Clean",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "89804",
     "ean": "8480000898043",
     "brand": "Bosque Verde",
@@ -66879,6 +66888,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "9938",
+    "ean": "8402001019494",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/9938/eau-parfum-mujer-my-soul-rouge-frasco",
+    "name": "Eau de parfum mujer My Soul Rouge",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9939",
+    "ean": "8402001019500",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/9939/eau-parfum-hombre-my-soul-vert-frasco",
+    "name": "Eau de parfum hombre My Soul Vert",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "9942",
     "ean": "8402001020773",
     "brand": "Como Tú",
@@ -66911,6 +66938,15 @@
     "brand": "Él",
     "url": "https://tienda.mercadona.es/product/9945/lote-hombre-contiene-eau-parfum-100ml-gel-champu-100ml-neceser",
     "name": "Lote hombre Él",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9946",
+    "ean": "8402001020766",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/9946/lote-hombre-fuerza-contiene-eau-parfum-100ml-gel-champu-100ml-mochila",
+    "name": "Lote hombre Como Tú Fuerza",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
