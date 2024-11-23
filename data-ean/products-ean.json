@@ -1926,6 +1926,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "11622",
+    "ean": "8402001027888",
+    "brand": "Llanto de uva",
+    "url": "https://tienda.mercadona.es/product/11622/vino-tinto-do-jumilla-llanto-uva-monastrell-roble-botella",
+    "name": "Vino tinto D.O Jumilla Llanto de uva Monastrell roble",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
     "id": "11627",
     "ean": "8402001028267",
     "brand": "Hacendado",
@@ -2014,6 +2023,24 @@
     "name": "Jamón serrano 1954 Duroc El Pozo serie oro",
     "description": "Pieza",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "11677",
+    "ean": "8437025258208",
+    "brand": "S3",
+    "url": "https://tienda.mercadona.es/product/11677/agua-colonia-s3-mediterranea-botella",
+    "name": "Agua de colonia S3 Mediterránea",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "11688",
+    "ean": "5449000329028",
+    "brand": "Fuze Tea",
+    "url": "https://tienda.mercadona.es/product/11688/refresco-te-sabor-limon-fuze-tea-bajo-calorias-botella",
+    "name": "Refresco té sabor limón Fuze Tea",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "11711",
