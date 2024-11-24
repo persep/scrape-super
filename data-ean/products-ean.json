@@ -1539,6 +1539,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "11489",
+    "ean": "8402001027031",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11489/ambientador-electrico-matcha-bosque-verde-recambio-caja",
+    "name": "Ambientador eléctrico Matcha Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "11490",
     "ean": "8402001020254",
     "brand": "",
@@ -38250,6 +38259,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "5270",
+    "ean": "8436042773824",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5270/paletilla-cochinillo-congelada-pieza",
+    "name": "Paletilla de cochinillo congelada",
+    "description": "Pieza",
+    "category": "Carne > Carne congelada"
+  },
+  {
     "id": "52700",
     "ean": "8402001012730",
     "brand": "Poem",
@@ -62307,6 +62325,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "86349",
+    "ean": "8402001022487",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86349/copas-cava-plastico-brillo-bosque-verde-reutilizables-caja",
+    "name": "Copas cava de plástico brillo Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "86350",
     "ean": "8402001022395",
     "brand": "Hacendado",
@@ -66915,6 +66942,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "9936",
+    "ean": "8402001019517",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9936/extrait-parfum-oud-frasco",
+    "name": "Extrait de parfum Oud",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9937",
+    "ean": "8402001019524",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9937/extrait-parfum-tabac-frasco",
+    "name": "Extrait de parfum Tabac",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "9938",
     "ean": "8402001019494",
     "brand": "My Soul",
@@ -66929,6 +66974,24 @@
     "brand": "My Soul",
     "url": "https://tienda.mercadona.es/product/9939/eau-parfum-hombre-my-soul-vert-frasco",
     "name": "Eau de parfum hombre My Soul Vert",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9940",
+    "ean": "8402001019470",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/9940/eau-parfum-mujer-cerise-frasco",
+    "name": "Eau de parfum mujer Como tú Cerise",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9941",
+    "ean": "8402001019487",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/9941/eau-parfum-hombre-eternal-frasco",
+    "name": "Eau de parfum hombre Como tú Eternal",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
