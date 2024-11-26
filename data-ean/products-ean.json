@@ -1926,6 +1926,24 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "11610",
+    "ean": "8402001023279",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11610/bol-plata-navidad-bosque-verde-desechable-16-cm-paquete",
+    "name": "Bol plata Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "11611",
+    "ean": "8402001023286",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11611/bandeja-plata-navidad-bosque-verde-desechable-18-x-24-cm-paquete",
+    "name": "Bandeja plata Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "11615",
     "ean": "8402001028403",
     "brand": "Deliplus",
@@ -2049,6 +2067,24 @@
     "url": "https://tienda.mercadona.es/product/11688/refresco-te-sabor-limon-fuze-tea-bajo-calorias-botella",
     "name": "Refresco té sabor limón Fuze Tea",
     "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "11690",
+    "ean": "5449000332110",
+    "brand": "Fuze Tea",
+    "url": "https://tienda.mercadona.es/product/11690/refresco-te-sabor-limon-fuze-tea",
+    "name": "Refresco té sabor limón Fuze Tea",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "11691",
+    "ean": "5449000325983",
+    "brand": "Fuze Tea",
+    "url": "https://tienda.mercadona.es/product/11691/refresco-te-sabor-limon-fuze-tea-lata",
+    "name": "Refresco té sabor limón Fuze Tea",
+    "description": "Lata",
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
@@ -7261,6 +7297,15 @@
     "name": "Sal fina de mesa Hacendado",
     "description": "Bote",
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
+    "id": "16869",
+    "ean": "8480000168696",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/16869/jamon-bellota-iberico-50-hacienda-iberico-pieza",
+    "name": "Jamón de bellota ibérico 50% La Hacienda del Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "16874",
@@ -38655,6 +38700,15 @@
     "category": "Bebé > Higiene y cuidado"
   },
   {
+    "id": "52763",
+    "ean": "8402001015380",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/52763/servilleta-papel-decoracion-poinsettia-navidad-bosque-verde-2-capas-33-x-33-cm-paquete",
+    "name": "Servilleta papel decoración Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "52764",
     "ean": "8402001016660",
     "brand": null,
@@ -62352,6 +62406,15 @@
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
   },
   {
+    "id": "86351",
+    "ean": "8402001022494",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/86351/vasos-decoracion-navidad-bosque-verde-reutilizables-paquete",
+    "name": "Vasos decoración Navidad Bosque Verde reutilizables",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "86352",
     "ean": "8700216125468",
     "brand": "Evax",
@@ -64159,6 +64222,15 @@
     "name": "Patas de pulpo cocido",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "87775",
+    "ean": "8480000877758",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87775/patas-pulpo-cocido-bandeja",
+    "name": "Patas de pulpo cocido",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "8778",
