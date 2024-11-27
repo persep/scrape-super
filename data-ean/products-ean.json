@@ -12231,6 +12231,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "23145",
+    "ean": "8480000231451",
+    "brand": "De León",
+    "url": "https://tienda.mercadona.es/product/23145/chorizo-sarta-extra-ahumado-leon-pieza",
+    "name": "Chorizo sarta extra ahumado De León",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "23146",
     "ean": "8480000231468",
     "brand": "De León",
@@ -66456,6 +66465,15 @@
     "category": "Limpieza y hogar > Limpieza cocina"
   },
   {
+    "id": "9797",
+    "ean": "8402001024436",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9797/lote-pinceles-rostro-special-deliplus-contiene-pincel-polvos-pincel-iluminador-pincel-blush-pincel-sombra-pincel-precision-pincel-sombra-biselado-maletin",
+    "name": "Lote de pinceles rostro Special Deliplus",
+    "description": null,
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "9809",
     "ean": "8414640192704",
     "brand": "Ágatha Ruiz de la Prada",
@@ -66490,6 +66508,15 @@
     "name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "9821",
+    "ean": "8402001021756",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9821/cepillo-dental-suave-deliplus-paquete",
+    "name": "Cepillo dental Suave Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "9822",
