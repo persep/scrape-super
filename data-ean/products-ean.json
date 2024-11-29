@@ -1764,6 +1764,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "11566",
+    "ean": "8402001027543",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11566/chocolate-blanco-fussion-hacendado-relleno-con-chocolate-con-leche-aireado-tableta",
+    "name": "Chocolate blanco Fussion Hacendado relleno con chocolate con leche aireado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "11567",
     "ean": "4006000086095",
     "brand": "Nivea",
@@ -63375,6 +63384,15 @@
     "url": "https://tienda.mercadona.es/product/86741/6-pasteles-cabello-angel-33-bandeja",
     "name": "6 Pasteles de cabello de Ángel 30%",
     "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "86742",
+    "ean": "8435605401785",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/86742/torta-pascua-pieza",
+    "name": "Torta de Pascua",
+    "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
