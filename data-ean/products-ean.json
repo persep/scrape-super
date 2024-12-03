@@ -55710,6 +55710,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "7910",
+    "ean": "8435472603831",
+    "brand": "Vitaldin",
+    "url": "https://tienda.mercadona.es/product/7910/gominolas-regulacion-sueno-melatonina-gummies-vitaldin-contiene-vitamina-b6-extractos-herbales-sabor-mora-bote",
+    "name": "Gominolas Regulación del sueño Melatonina Gummies Vitaldin",
+    "description": "Bote",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "7911",
     "ean": "8402001018305",
     "brand": "Deliplus",
@@ -62901,6 +62910,24 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "86413",
+    "ean": "8402001023248",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86413/coloracion-permanente-55-caoba-deliplus-0-amoniaco-colorcor-caja",
+    "name": "Coloración permanente 5.5 caoba Deliplus 0% amoníaco",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "86414",
+    "ean": "8402001023231",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86414/coloracion-permanente-634-caramelo-miel-deliplus-0-amoniaco-colorcor-caja",
+    "name": "Coloración permanente 6.34 caramelo miel Deliplus 0% amoníaco",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
     "id": "86427",
     "ean": "8402001024993",
     "brand": "Hacendado",
@@ -66580,6 +66607,15 @@
     "name": "Contorno de ojos Antiarrugas e Iluminador con silicio Sisbela Reafirm Deliplus",
     "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "9788",
+    "ean": "8402001025129",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9788/crema-queso-tex-mex-hacendado-tarrina",
+    "name": "Crema de queso Tex-Mex Hacendado",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "9789",
