@@ -50157,6 +50157,24 @@
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
   },
   {
+    "id": "68462",
+    "ean": "8480000684622",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/68462/medio-repollo-liso-12-pieza",
+    "name": "Medio repollo liso",
+    "description": "1/2 Pieza",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "68463",
+    "ean": "8480000684639",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/68463/medio-repollo-rizado-12-pieza",
+    "name": "Medio repollo rizado",
+    "description": "1/2 Pieza",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "68470",
     "ean": "8425208000218",
     "brand": null,
