@@ -1746,6 +1746,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "11559",
+    "ean": "8402001029349",
+    "brand": "Barril Nº7",
+    "url": "https://tienda.mercadona.es/product/11559/vino-blanco-chardonnay-barril-no7-botella",
+    "name": "Vino blanco Chardonnay Barril Nº7",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
     "id": "11561",
     "ean": "8402001025327",
     "brand": "Hacendado",
@@ -61305,6 +61314,15 @@
     "url": "https://tienda.mercadona.es/product/84785/berlina-cacao-paquete",
     "name": "Berlina al cacao",
     "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "84815",
+    "ean": "2105900848153",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/84815/10-pasteles-cabello-angel-57-bolsa",
+    "name": "10 Pasteles de cabello de Ángel 57%",
+    "description": "Bolsa",
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
