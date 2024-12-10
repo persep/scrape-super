@@ -2403,6 +2403,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "11941",
+    "ean": "8402001023101",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11941/crema-facial-antiarrugas-reafirmante-men-care-deliplus-acido-hialuronico-matrixyl-6-1-bote",
+    "name": "Crema facial Antiarrugas y Reafirmante Men care Deliplus ácido hialurónico y matrixyl",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "11959",
     "ean": "8402001015656",
     "brand": "Deliplus",
@@ -2428,6 +2437,15 @@
     "name": "Sazonador hierbas provenzales Hacendado para pollo y costillas",
     "description": "Sobre",
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "11974",
+    "ean": "8402001016356",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11974/parches-ojos-hidrogel-deliplus-con-acido-hialuronico-colageno-paquete",
+    "name": "Parches para ojos de hidrogel Deliplus con ácido hialurónico y colágeno",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "12012",
@@ -65277,6 +65295,15 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "8917",
+    "ean": "8402001021688",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8917/cepillo-dental-infantil-electrico-deliplus-contiene-base-cactus-caja",
+    "name": "Cepillo dental infantil eléctrico Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "8920",
     "ean": "8445291083974",
     "brand": "Nestlé",
@@ -67633,6 +67660,15 @@
     "name": "Lápiz de uñas polvo Magic Pen Deliplus 254 Chameleon",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9996",
+    "ean": "8711571095860",
+    "brand": "Lambweston",
+    "url": "https://tienda.mercadona.es/product/9996/patatas-prefritas-grill-fries-lambweston-ultracongeladas-paquete",
+    "name": "Patatas prefritas grill fries Lambweston ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "9998",
