@@ -1989,6 +1989,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11630",
+    "ean": "8402001025693",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11630/crema-avellanas-cacao-hacendado-bote",
+    "name": "Crema de avellanas y cacao Hacendado",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "11635",
     "ean": "8402001022067",
     "brand": "Deliplus",
@@ -66168,6 +66177,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "9358",
+    "ean": "8480000093585",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9358/pan-proteina-con-semillas-rebanado-paquete",
+    "name": "Pan +Proteína con semillas rebanado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "9374",
     "ean": "8480000093745",
     "brand": "Hacendado",
@@ -66913,6 +66931,15 @@
     "name": "Café en cápsula Colombia Hacendado",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
+    "id": "9851",
+    "ean": "8410843153160",
+    "brand": "Legado Ibérico",
+    "url": "https://tienda.mercadona.es/product/9851/jamon-cebo-iberico-legado-iberico-pieza",
+    "name": "Jamón de cebo ibérico Legado Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "9860",
