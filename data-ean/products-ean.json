@@ -2421,6 +2421,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "11942",
+    "ean": "8402001023118",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11942/gel-facial-revitalizante-matificante-24h-men-care-deliplus-con-niacinamida-bote",
+    "name": "Gel facial Revitalizante y Matificante 24H Men Care Deliplus con niacinamida",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "11959",
     "ean": "8402001015656",
     "brand": "Deliplus",
@@ -2428,6 +2437,15 @@
     "name": "Desodorante roll-on Avena Deliplus antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "11969",
+    "ean": "8402001029448",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11969/mortadela-pavo-hacendado-finas-lonchas-paquete",
+    "name": "Mortadela de pavo Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
     "id": "11971",
@@ -58626,6 +58644,15 @@
     "category": "Marisco y pescado > Marisco"
   },
   {
+    "id": "81534",
+    "ean": "810046402191",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/81534/bogavante-americano-crudo-pieza",
+    "name": "Bogavante americano crudo",
+    "description": "Pieza",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
     "id": "81617",
     "ean": "8426995150339",
     "brand": "Helifrusa",
@@ -65446,6 +65473,15 @@
     "name": "Wok de pollo adobado y verduras",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "8959",
+    "ean": "8402001024115",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/8959/snack-tiras-perro-adulto-compy-todas-razas-paquete",
+    "name": "Snack tiras perro adulto Compy para todas las razas",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
   },
   {
     "id": "8962",
