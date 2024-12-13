@@ -45261,6 +45261,15 @@
     "category": "Congelados > Pescado"
   },
   {
+    "id": "62203",
+    "ean": "8480000622037",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62203/lenguado-tigre-limpio-hacendado-ultracongelado-pieza",
+    "name": "Lenguado tigre limpio Hacendado ultracongelado",
+    "description": "Pieza",
+    "category": "Congelados > Pescado"
+  },
+  {
     "id": "62228",
     "ean": "8480000622280",
     "brand": "Hacendado",
@@ -66218,6 +66227,15 @@
     "brand": "",
     "url": "https://tienda.mercadona.es/product/9358/pan-proteina-con-semillas-rebanado-paquete",
     "name": "Pan +Proteína con semillas rebanado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "9369",
+    "ean": "8480000093691",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9369/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+    "name": "Media Hogaza integral de avena, semillas de girasol y sésamo rebanado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
