@@ -1629,6 +1629,15 @@
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
+    "id": "11507",
+    "ean": "8436565363281",
+    "brand": "La Carloteña",
+    "url": "https://tienda.mercadona.es/product/11507/lomo-asado-carlotena-lonchas-paquete",
+    "name": "Lomo asado La Carloteña lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "11508",
     "ean": "8412422396067",
     "brand": "",
@@ -66996,6 +67005,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "9852",
+    "ean": "8402001026225",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9852/jamon-cebo-iberico-cortado-cuchillo-envasado-vacio-paquete",
+    "name": "Jamón cebo ibérico cortado a cuchillo",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "9860",
     "ean": "8445291292024",
     "brand": "Buitoni",
@@ -67120,6 +67138,15 @@
     "name": "Laca de uñas Jeans Deliplus 250 gris claro",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9879",
+    "ean": "8402001024351",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9879/crema-depilatoria-facial-deliplus-piel-sensible-contiene-tubo-crema-depil-espatula-folleto-con-precauciones-tubo-gel-post-depil-caja",
+    "name": "Crema depilatoria facial Deliplus piel sensible",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "9880",
