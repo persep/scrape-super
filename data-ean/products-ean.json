@@ -1719,6 +1719,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "11548",
+    "ean": "8402001024139",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11548/roscon-reyes-sin-relleno-hacendado-sin-gluten-sin-lactosa-congelado-caja",
+    "name": "Roscón de Reyes sin relleno Hacendado sin gluten y sin lactosa",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "11549",
     "ean": "8424465885477",
     "brand": "",
@@ -2473,6 +2482,15 @@
     "name": "Sazonador hierbas provenzales Hacendado para pollo y costillas",
     "description": "Sobre",
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "11973",
+    "ean": "8402001029455",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11973/mortadela-pavo-con-aceitunas-hacendado-finas-lonchas-paquete",
+    "name": "Mortadela de pavo con aceitunas Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
     "id": "11974",
@@ -63675,6 +63693,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "86714",
+    "ean": "8480000867148",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86714/tabla-quesos-internacionales-hacendado-bandeja",
+    "name": "Tabla de quesos internacionales Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "86741",
     "ean": "8480000867414",
     "brand": null,
@@ -67720,6 +67747,15 @@
     "ean": "8402001026614",
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/9973/espuma-cabello-xtra-forte-deliplus-fijacion-4-bote",
+    "name": "Espuma cabello Xtra Forte Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "9974",
+    "ean": "8402001026621",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/9974/espuma-cabello-xtra-forte-deliplus-fijacion-4-tamano-viaje-bote",
     "name": "Espuma cabello Xtra Forte Deliplus fijación 4",
     "description": "Bote",
     "category": "Cuidado del cabello > Fijación cabello"
