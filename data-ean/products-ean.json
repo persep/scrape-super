@@ -39699,6 +39699,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "52917",
+    "ean": "8410843103738",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/52917/solomillo-cerdo-marinado-con-romero-pieza",
+    "name": "Solomillo de cerdo marinado con romero",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "52920",
     "ean": "8437023917831",
     "brand": "Maltín Polar",
@@ -64573,6 +64582,15 @@
     "name": "Merluza rebozada Hacendado",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "87755",
+    "ean": "8480000877550",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87755/nuggets-salmon-rebozados-bandeja",
+    "name": "Nuggets de salmón rebozados",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87770",
