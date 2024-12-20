@@ -2142,6 +2142,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "11653",
+    "ean": "8402001026096",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11653/toallitas-intimas-deliplus-monodosis-caja",
+    "name": "Toallitas íntimas Deliplus monodosis",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "11663",
     "ean": "8402001021824",
     "brand": "Deliplus",
@@ -2428,6 +2437,15 @@
     "name": "Café en cápsula espresso intenso Dolce Gusto",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
+    "id": "11938",
+    "ean": "8402001029158",
+    "brand": "Capricho de Uva",
+    "url": "https://tienda.mercadona.es/product/11938/vino-blanco-crianza-do-rioja-capricho-uva-botella",
+    "name": "Vino blanco crianza D.O Rioja Capricho de Uva",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "11941",
