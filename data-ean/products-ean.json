@@ -1845,6 +1845,24 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "11585",
+    "ean": "8402001027185",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11585/champu-anticaida-fortificante-deliplus-con-ginseng-biotina-acido-salicilico-bote",
+    "name": "Champú Anticaída Fortificante Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "11586",
+    "ean": "8402001027208",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11586/serum-anticaida-fortificante-deliplus-con-ginseng-biotina-cafeina-bote",
+    "name": "Sérum Anticaída Fortificante Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "11587",
     "ean": "8402001022234",
     "brand": "Deliplus",
