@@ -38187,6 +38187,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "52637",
+    "ean": "8410184042895",
+    "brand": "Sabor",
+    "url": "https://tienda.mercadona.es/product/52637/arroz-redondo-sabor-cigala-paquete",
+    "name": "Arroz redondo Sabor",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Arroz"
+  },
+  {
     "id": "52638",
     "ean": "8402001014161",
     "brand": "Hacendado",
@@ -45403,6 +45412,15 @@
     "name": "Buey de mar cocido Hacendado congelado",
     "description": "Pieza",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "62322",
+    "ean": "8480000623225",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62322/cigala-cruda-mediana-hacendado-ultracongelada-caja",
+    "name": "Cigala cruda mediana Hacendado ultracongelada",
+    "description": "Caja",
+    "category": "Marisco y pescado > Marisco"
   },
   {
     "id": "6238",
