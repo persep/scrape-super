@@ -2025,6 +2025,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11629",
+    "ean": "8425402316542",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11629/serum-aceite-facial-licopeno-anti-ox-tipo-piel-frasco",
+    "name": "Sérum aceite facial Licopeno Anti Ox",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "11630",
     "ean": "8402001025693",
     "brand": "Hacendado",
@@ -2617,6 +2626,24 @@
     "name": "Surtido bombones Mondose",
     "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12049.1",
+    "ean": "8402001030161",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12049.1/pan-integral-trigo-100",
+    "name": "Pan integral trigo 100%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "12049.2",
+    "ean": "8402001030161",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12049.2/pan-integral-trigo-100-rebanado",
+    "name": "Pan integral de trigo 100% rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "12094",
@@ -66868,6 +66895,24 @@
     "name": "Surtido Berlinas",
     "description": "Caja",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "9638.1",
+    "ean": "8480000096388",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9638.1/barra-pan-rustica",
+    "name": "Barra de pan rústica",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "9638.2",
+    "ean": "8480000096388",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9638.2/barra-pan-rustica-rebanada",
+    "name": "Barra de pan rústica rebanada",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "9640",
