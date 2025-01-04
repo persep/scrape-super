@@ -45756,6 +45756,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "63040",
+    "ean": "8480000630407",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/63040/gambon-empanado-bandeja",
+    "name": "Gambón empanado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "6305",
     "ean": "8480000063052",
     "brand": "Hacendado",
@@ -60516,6 +60525,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "8311",
+    "ean": "8402001021794",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8311/aceitunas-verdes-rellenas-lima-limon-hacendado-bote",
+    "name": "Aceitunas verdes rellenas de lima limón Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "83116",
     "ean": "8425514089792",
     "brand": null,
@@ -67489,6 +67507,15 @@
     "name": "Eau de parfum mujer Flor de Mayo Precious",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9919",
+    "ean": "8402001026348",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9919/patatinas-extra-crujientes-hacendado-paquete",
+    "name": "Patatinas extra crujientes Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "9920",
