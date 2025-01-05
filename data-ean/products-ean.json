@@ -2502,6 +2502,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "11967",
+    "ean": "8402001029486",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11967/bolsa-basura-grande-bosque-verde-50l-cubo-grande-paquete",
+    "name": "Bolsa de basura grande Bosque Verde 50L cubo grande",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
+  },
+  {
     "id": "11969",
     "ean": "8402001029448",
     "brand": "Hacendado",
@@ -67417,6 +67426,33 @@
     "name": "Refresco Coca-Cola Zero azúcar",
     "description": null,
     "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "9888",
+    "ean": "8402001026874",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/9888/pate-gato-junior-delikuit-con-pollo-ternera-paquete",
+    "name": "Paté gato júnior Delikuit con pollo y ternera",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "9889",
+    "ean": "8402001026867",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/9889/pate-gato-adulto-delikuit-con-pollo-ternera-paquete",
+    "name": "Paté gato adulto Delikuit con pollo y ternera",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "9890",
+    "ean": "8402001026881",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/9890/pate-gato-adulto-delikuit-con-salmon-atun-paquete",
+    "name": "Paté gato adulto Delikuit con salmón y atún",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "9893",
