@@ -2556,6 +2556,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "11985",
+    "ean": "8402001025754",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11985/desodorante-roll-on-invisible-men-deliplus-antitranspirante-0-alcohol",
+    "name": "Desodorante roll-on Invisible men Deliplus antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "11995",
     "ean": "8402001029837",
     "brand": "Hacendado",
@@ -26170,6 +26179,15 @@
     "name": "Pastillas antical para lavadora Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "35981",
+    "ean": "8402001011924",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/35981/noodles-arroz-hacendado-paquete",
+    "name": "Noodles de arroz Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Arroz"
   },
   {
     "id": "35982",
