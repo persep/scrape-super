@@ -1647,6 +1647,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "11509",
+    "ean": "8402001027369",
+    "brand": "Iso drink",
+    "url": "https://tienda.mercadona.es/product/11509/bebida-isotonica-sabor-citrico-iso-drink-zero-hacendado-botella",
+    "name": "Bebida isotónica sabor cítrico Iso drink zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "11510",
     "ean": "8436565363229",
     "brand": "La Carloteña",
@@ -2570,6 +2579,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/11985/desodorante-roll-on-invisible-men-deliplus-antitranspirante-0-alcohol",
     "name": "Desodorante roll-on Invisible men Deliplus antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "11986",
+    "ean": "8402001015663",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11986/desodorante-roll-on-invisible-deliplus-antitranspirante-0-alcohol",
+    "name": "Desodorante roll-on Invisible Deliplus antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
   },
@@ -23562,6 +23580,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "35575",
+    "ean": "8402001007941",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/35575/lavavajillas-bosque-verde-gel-lavado-maquina-botella",
+    "name": "Lavavajillas Bosque Verde en gel",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
     "id": "35576",
     "ean": "8428390829346",
     "brand": "Flor de Mayo",
@@ -43873,6 +43900,15 @@
     "name": "Mini eau de parfum hombre Flor de Mayo Odyssey",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "60697",
+    "ean": "8402001016325",
+    "brand": "Convidado de Baco",
+    "url": "https://tienda.mercadona.es/product/60697/bebida-espirituosa-convidado-baco-botella",
+    "name": "Bebida espirituosa Convidado de Baco",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "60698",
