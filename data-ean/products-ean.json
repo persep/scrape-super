@@ -3249,6 +3249,42 @@
     "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
+    "id": "12761",
+    "ean": "8402001030031",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12761/laca-unas-alto-brillo-deliplus-101-burdeos",
+    "name": "Laca de uñas alto brillo Deliplus 101 burdeos",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12762",
+    "ean": "8402001030109",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12762/laca-unas-alto-brillo-deliplus-102-nude",
+    "name": "Laca de uñas alto brillo Deliplus 102 nude",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12763",
+    "ean": "8402001030116",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12763/laca-unas-alto-brillo-deliplus-103-destellos",
+    "name": "Laca de uñas alto brillo Deliplus 103 destellos",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12765",
+    "ean": "8402001030123",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12765/laca-unas-top-coat-efecto-gel-deliplus-100-plumpling",
+    "name": "Laca de uñas top coat efecto gel Deliplus 100",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "1283",
     "ean": "8437015056104",
     "brand": null,
@@ -65869,6 +65905,15 @@
     "name": "Dentífrico Herbal Deliplus",
     "description": "Tubo",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "8999",
+    "ean": "8402001024429",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/8999/plumero-atrapa-polvo-bosque-verde-1-mango-3-recambios-paquete",
+    "name": "Plumero atrapa polvo Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Utensilios de limpieza y calzado"
   },
   {
     "id": "90080",
