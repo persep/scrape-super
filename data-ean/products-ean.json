@@ -2691,6 +2691,42 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "12077",
+    "ean": "8402001026546",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12077/paleta-sombras-ojos-eyeshadow-palette-silence-deliplus",
+    "name": "Paleta sombras de ojos Eyeshadow Palette Silence Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12078",
+    "ean": "8402001026560",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12078/brillo-labios-icy-volumizer-gloss-silence-deliplus-efecto-frescor",
+    "name": "Brillo de labios Icy Volumizer gloss Silence Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12079",
+    "ean": "8402001026522",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12079/mascara-pestanas-2-1-volumen-definicion-silence-deliplus-negro",
+    "name": "Máscara de pestañas 2 en 1 volumen y definición Silence Deliplus negro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12080",
+    "ean": "8402001026553",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12080/sombra-ojos-fluida-shiny-eyeshadow-silence-deliplus",
+    "name": "Sombra de ojos fluida Shiny Eyeshadow Silence Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "12094",
     "ean": "5601055317225",
     "brand": null,
@@ -3247,6 +3283,24 @@
     "name": "Brioche Listo para Comer",
     "description": null,
     "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "12748",
+    "ean": "8402001026515",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12748/colorete-compacto-multicolor-blush-silence-deliplus",
+    "name": "Colorete compacto Multicolor Blush Silence Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "12749",
+    "ean": "8402001026492",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12749/prebase-facial-iluminadora-glowy-primer-silence-deliplus",
+    "name": "Prebase facial iluminadora Glowy Primer Silence Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "12761",
@@ -43666,6 +43720,15 @@
     "name": "Infusión fría Hacendado con sabor a piña y coco",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
+    "id": "60652",
+    "ean": "8402001021442",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60652/patatas-fritas-con-carne-kebab-salsa-hacendado-bandeja",
+    "name": "Patatas fritas con carne kebab y salsa Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "60653",
