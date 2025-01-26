@@ -2700,6 +2700,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "12076",
+    "ean": "8700216680103",
+    "brand": "Fairy",
+    "url": "https://tienda.mercadona.es/product/12076/lavavajillas-1-fairy-pastillas-lavado-maquina-paquete",
+    "name": "Lavavajillas Todo en 1 Fairy en pastillas",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
     "id": "12077",
     "ean": "8402001026546",
     "brand": "Deliplus",
@@ -68227,6 +68236,15 @@
     "name": "Costileja de cerdo congelada",
     "description": "Paquete",
     "category": "Carne > Carne congelada"
+  },
+  {
+    "id": "9981",
+    "ean": "8402001026669",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9981/bebida-lactea-natural-azucarada-hacendado-botella",
+    "name": "Bebida láctea natural azucarada Hacendado",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "9982",
