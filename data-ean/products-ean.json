@@ -2061,6 +2061,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "11631",
+    "ean": "8402001028625",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11631/cepillo-dental-medio-deliplus-action-paquete",
+    "name": "Cepillo dental Medio Deliplus + Action",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "11635",
     "ean": "8402001022067",
     "brand": "Deliplus",
@@ -2518,6 +2527,15 @@
     "name": "Desodorante roll-on Avena Deliplus antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "11964",
+    "ean": "8402001029851",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11964/pollo-ajillo-hacendado-bandeja",
+    "name": "Pollo al ajillo Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "11967",
@@ -3355,6 +3373,24 @@
     "name": "Laca de uñas top coat efecto gel Deliplus 100",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12766",
+    "ean": "8402001022821",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12766/caramelos-sabor-lima-hacendado-0-azucares",
+    "name": "Caramelos sabor lima Hacendado 0% azúcares",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "12771",
+    "ean": "8402001022814",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12771/caramelos-sabor-eucalipto-mentol-hacendado-0-azucares",
+    "name": "Caramelos sabor eucalipto y mentol Hacendado 0% azúcares",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "1283",
@@ -67732,6 +67768,15 @@
     "name": "Lote mujer Glow Deliplus",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "9903",
+    "ean": "8402001026324",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9903/snack-maiz-sabor-mantequilla-stars-hacendado-paquete",
+    "name": "Snack de maíz sabor mantequilla Stars Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "9910",
