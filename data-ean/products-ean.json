@@ -50958,6 +50958,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69171",
+    "ean": "8480000691712",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/69171/verdura-crema-calabaza-hacendado-contiene-calabaza-patata-zanahoria-puerro-bandeja",
+    "name": "Verdura para Crema de Calabaza Hacendado",
+    "description": "Bandeja",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69173",
     "ean": "2105427691737",
     "brand": null,
@@ -51174,6 +51183,15 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69392",
+    "ean": "8436006184475",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/69392/floretas-coliflor-microondas-hacendado-paquete",
+    "name": "Floretas de coliflor para microondas Hacendado",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69411",
     "ean": "8480000694119",
     "brand": null,
@@ -51219,11 +51237,29 @@
     "category": "Fruta y verdura > Verdura"
   },
   {
+    "id": "69423",
+    "ean": "8480000694232",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/69423/salteado-pimientos-cebolla-hacendado-paquete",
+    "name": "Salteado de pimientos y cebolla Hacendado",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
     "id": "69427",
     "ean": "8437023430019",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/69427/hierbabuena-paquete",
     "name": "Hierbabuena",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "69433",
+    "ean": "8480000694331",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/69433/preparado-verduras-sofreir-compuesto-calabacin-pimiento-cebolla-paquete",
+    "name": "Preparado de verduras para sofreír",
     "description": "Paquete",
     "category": "Fruta y verdura > Verdura"
   },
@@ -51289,6 +51325,15 @@
     "name": "Ensalada de pasta",
     "description": "Bol",
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "69463",
+    "ean": "8480000694638",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/69463/mix-verduras-microondas-compuesto-calabacin-cebolla-pimiento-rojo-verde-zanahoria-brocoli-paquete",
+    "name": "Mix de verduras para microondas",
+    "description": "Paquete",
+    "category": "Fruta y verdura > Verdura"
   },
   {
     "id": "69465",
