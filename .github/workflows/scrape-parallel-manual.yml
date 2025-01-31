@@ -10,11 +10,11 @@ jobs:
     steps:
       - name: Get ip
         run: echo $(curl -s https://httpbin.org/ip)
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Run scrape
         run: bash ./scrapep.sh
       - name: Upload products
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: products-odd
           path: tmp/*
@@ -25,11 +25,11 @@ jobs:
    steps:
      - name: Get ip
        run: echo $(curl -s https://httpbin.org/ip)
-     - uses: actions/checkout@v3
+     - uses: actions/checkout@v4
      - name: Run scrape even
        run: bash ./scrape2p.sh
      - name: Upload products
-       uses: actions/upload-artifact@v3
+       uses: actions/upload-artifact@v4
        with:
          name: products-even
          path: tmp/*
@@ -41,14 +41,14 @@ jobs:
     steps:
       - name: Get ip
         run: echo $(curl -s https://httpbin.org/ip)
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Download products odds
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: products-odd
           path: tmp
       - name: Download products even
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: products-even
           path: tmp
