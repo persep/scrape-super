@@ -1800,6 +1800,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "11564",
+    "ean": "8402001023835",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/11564/tinto-verano-cason-historico-botella",
+    "name": "Tinto de verano Casón Histórico",
+    "description": "Botella",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
     "id": "11565",
     "ean": "8402001027956",
     "brand": "Hacendado",
@@ -63538,6 +63547,15 @@
     "name": "Coloración permanente 6.34 caramelo miel Deliplus 0% amoníaco",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "86418",
+    "ean": "8402001025334",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86418/batido-lacteo-sabor-chocolate-proteinas-hacendado-30-g-proteinas-brick",
+    "name": "Batido lácteo sabor chocolate +Proteínas Hacendado 30 g proteínas",
+    "description": "Brick",
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "86427",
