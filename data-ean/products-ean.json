@@ -2781,6 +2781,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "12082",
+    "ean": "8428390080310",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/12082/mini-eau-parfum-hombre-flor-mayo-odyssius-amber-frasco",
+    "name": "Mini eau de parfum hombre Flor De Mayo Odyssius Amber",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12094",
     "ean": "5601055317225",
     "brand": null,
@@ -63554,6 +63563,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/86418/batido-lacteo-sabor-chocolate-proteinas-hacendado-30-g-proteinas-brick",
     "name": "Batido lácteo sabor chocolate +Proteínas Hacendado 30 g proteínas",
+    "description": "Brick",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "86419",
+    "ean": "8402001025341",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86419/batido-lacteo-sabor-vainilla-proteinas-hacendado-30-g-proteinas-brick",
+    "name": "Batido lácteo sabor vainilla +Proteínas Hacendado 30 g proteínas",
     "description": "Brick",
     "category": "Postres y yogures > Yogures líquidos"
   },
