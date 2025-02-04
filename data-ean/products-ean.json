@@ -2637,6 +2637,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "11994",
+    "ean": "8402001030963",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11994/lasana-pollo-hacendado-bandeja",
+    "name": "Lasaña de pollo Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "11995",
     "ean": "8402001029837",
     "brand": "Hacendado",
@@ -2734,6 +2743,42 @@
     "name": "Pan integral de trigo 100% rebanado",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "12057",
+    "ean": "8414640193480",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12057/neceser-saquito-snoopy-grande-230-x-230-x-70-mm",
+    "name": "Neceser saquito Snoopy grande",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12058",
+    "ean": "8414640193527",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12058/neceser-nube-mediano-con-asa-205-x-160-x-70-mm",
+    "name": "Neceser Nube mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12059",
+    "ean": "8414640193596",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12059/neceser-corazones-mediano-con-asa-210-x-140-x-70-mm",
+    "name": "Neceser corazones mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12061",
+    "ean": "8414640193404",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12061/neceser-snoopy-golf-team-pequeno-175-x-135-x-40-mm",
+    "name": "Neceser Snoopy Golf Team pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "12076",
@@ -3364,6 +3409,15 @@
     "name": "Prebase facial iluminadora Glowy Primer Silence Deliplus",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "12760",
+    "ean": "8402001025532",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12760/disco-desmaquillante-deliplus-reutilizable-paquete",
+    "name": "Disco desmaquillante Deliplus reutilizable",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "12761",
@@ -67489,6 +67543,15 @@
     "name": "Cepillo dental Duro Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "9824",
+    "ean": "8402001021909",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9824/margarina-omega-3-hacendado-tarrina",
+    "name": "Margarina Omega 3 Hacendado",
+    "description": "Tarrina",
+    "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
   },
   {
     "id": "9832",
