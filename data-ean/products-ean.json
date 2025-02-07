@@ -2250,6 +2250,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "11687",
+    "ean": "8411396001557",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/11687/filetes-pechuga-pollo-marinadas-empanadas-picantes-sin-gluten-bandeja",
+    "name": "Filetes pechuga de pollo marinadas empanadas picantes sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "11688",
     "ean": "5449000329028",
     "brand": "Fuze Tea",
@@ -3481,6 +3490,15 @@
     "name": "Longaniza fresca d'Ontinyent",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "12838",
+    "ean": "8700216317788",
+    "brand": "Oral-B",
+    "url": "https://tienda.mercadona.es/product/12838/cepillo-dental-electrico-oral-b-vitality-pro-precision-clean-caja",
+    "name": "Cepillo dental Eléctrico Oral-B Vitality Pro Precision Clean",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "1294",
