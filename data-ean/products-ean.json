@@ -2052,6 +2052,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11628",
+    "ean": "8402001030840",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11628/crema-lentejas-hacendado-bol",
+    "name": "Crema de lentejas Hacendado",
+    "description": "Bol",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
     "id": "11629",
     "ean": "8425402316542",
     "brand": "",
@@ -2536,6 +2545,15 @@
     "name": "Gel facial Revitalizante y Matificante 24H Men Care Deliplus con niacinamida",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "11946",
+    "ean": "8402001029134",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11946/aceitunas-verdes-rellenas-pepinillo-hacendado-tarro",
+    "name": "Aceitunas verdes rellenas de pepinillo Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "11959",
@@ -3499,6 +3517,15 @@
     "name": "Cepillo dental Eléctrico Oral-B Vitality Pro Precision Clean",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "12857",
+    "ean": "8402001030567",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12857/tarta-infantil-sonic-hacendado-congelada",
+    "name": "Tarta infantil Sonic Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "1294",
@@ -66157,6 +66184,15 @@
     "name": "Helado de vainilla Hacendado",
     "description": "Tarrina",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "8968",
+    "ean": "8402001024160",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8968/lote-precision-system-6-hojas-deliplus-3d-motion-power-contiene-maquinilla-4-recambios-caja",
+    "name": "Lote Precision System 6 hojas Deliplus 3D Motion Power",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "8970",
