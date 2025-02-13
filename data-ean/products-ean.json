@@ -3438,6 +3438,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "12757",
+    "ean": "8414640193657",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12757/lote-infantil-maquillaje-happy-little-princess-contiene-1-esmalte-unas-2-barras-labios-6-sombras-ojos-2-brillos-labios-1-pincel-ojos-neceser",
+    "name": "Lote infantil maquillaje Happy Little Princess",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12760",
     "ean": "8402001025532",
     "brand": "Deliplus",
@@ -37105,6 +37114,42 @@
     "name": "Queso Hacendado en porciones",
     "description": "Caja",
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
+    "id": "52406",
+    "ean": "8480000524065",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52406/queso-fresco-burgos-natural-hacendado-pack-2",
+    "name": "Queso fresco Burgos natural Hacendado",
+    "description": "Pack-2",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
+    "id": "52408",
+    "ean": "8480000524089",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52408/queso-fresco-burgos-natural-hacendado-pack-4",
+    "name": "Queso fresco Burgos natural Hacendado",
+    "description": "Pack-4",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
+    "id": "52409",
+    "ean": "8480000524096",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52409/queso-fresco-burgos-desnatado-0-mg-hacendado-pack-4",
+    "name": "Queso fresco Burgos desnatado 0% m.g Hacendado",
+    "description": "Pack-4",
+    "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
+    "id": "52411",
+    "ean": "8480000524119",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52411/queso-fresco-burgos-sin-lactosa-hacendado-pack-4",
+    "name": "Queso fresco Burgos sin lactosa Hacendado",
+    "description": "Pack-4",
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "52412",
