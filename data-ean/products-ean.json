@@ -3483,6 +3483,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "12764",
+    "ean": "8402001030895",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12764/aceitunas-verdes-rellenas-anchoa-hacendado-seleccion-bote",
+    "name": "Aceitunas verdes rellenas de anchoa Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "12765",
     "ean": "8402001030123",
     "brand": "Deliplus",
@@ -68038,6 +68047,15 @@
     "name": "Snack de maíz sabor mantequilla Stars Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "9907",
+    "ean": "8402001020933",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9907/galletas-digestive-fibra-20-cereales-hacendado-paquete",
+    "name": "Galletas Digestive fibra 20% y cereales Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "9910",
