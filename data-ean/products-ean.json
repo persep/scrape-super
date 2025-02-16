@@ -2772,6 +2772,15 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "12050",
+    "ean": "8402001030024",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12050/barritas-barquillo-black-white-hacendado-banadas-cobertura-blanca-relleno-sabor-nata-arroz-inflado-paquete",
+    "name": "Barritas de barquillo Black & White Hacendado bañadas de cobertura blanca",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "12057",
     "ean": "8414640193480",
     "brand": "",
@@ -3526,6 +3535,15 @@
     "name": "Longaniza fresca d'Ontinyent",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "12835",
+    "ean": "8424465881257",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12835/berlina-bombon-rellena-sabor-chocolate-blanco-pieza",
+    "name": "Berlina bombón rellena sabor a chocolate blanco",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "12838",
