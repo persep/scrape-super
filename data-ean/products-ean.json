@@ -15768,6 +15768,15 @@
     "category": "Carne > Arreglos"
   },
   {
+    "id": "26989",
+    "ean": "8480000269898",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26989/migas-bacalao-estilo-ingles-hacendado-bandeja",
+    "name": "Migas de bacalao al estilo inglés Hacendado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
     "id": "26990",
     "ean": "5449000205568",
     "brand": "Sprite",
@@ -67696,6 +67705,15 @@
     "name": "Margarina Omega 3 Hacendado",
     "description": "Tarrina",
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
+    "id": "9826",
+    "ean": "8411327012324",
+    "brand": "Mahou",
+    "url": "https://tienda.mercadona.es/product/9826/cerveza-especial-mahou",
+    "name": "Cerveza especial Mahou",
+    "description": null,
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "9832",
