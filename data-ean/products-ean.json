@@ -3537,6 +3537,42 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "12780",
+    "ean": "8411114095646",
+    "brand": "Minecraft",
+    "url": "https://tienda.mercadona.es/product/12780/lote-infantil-minecraft-contiene-eau-toilette-150-ml-gel-ducha-champu-400-ml-caja",
+    "name": "Lote infantil Minecraft",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12822",
+    "ean": "8402001030475",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12822/aceite-labial-lip-oil-glow-bloom-deliplus-01-naranja",
+    "name": "Aceite labial Lip Oil glow bloom Deliplus 01 naranja",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12823",
+    "ean": "8402001030482",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12823/aceite-labial-lip-oil-glow-bloom-deliplus-02-fucsia",
+    "name": "Aceite labial Lip Oil glow bloom Deliplus 02 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12824",
+    "ean": "8402001030499",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12824/aceite-labial-lip-oil-glow-bloom-deliplus-03-cherry",
+    "name": "Aceite labial Lip Oil glow bloom Deliplus 03 cherry",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "1283",
     "ean": "8437015056104",
     "brand": null,
