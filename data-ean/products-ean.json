@@ -2790,6 +2790,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "12053",
+    "ean": "8412450000028",
+    "brand": "L'Illa especialidades",
+    "url": "https://tienda.mercadona.es/product/12053/sobrasada-picante-lilla-especialidades-tarrina",
+    "name": "Sobrasada picante L'Illa especialidades",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "12057",
     "ean": "8414640193480",
     "brand": "",
@@ -2824,6 +2833,15 @@
     "name": "Neceser Snoopy Golf Team pequeño",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12071",
+    "ean": "8402001030543",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12071/papilla-fruta-variada-con-galleta-hacendado-6-meses",
+    "name": "Papilla fruta variada con galleta Hacendado +6 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
   },
   {
     "id": "12076",
@@ -66049,6 +66067,15 @@
     "name": "Queso lonchas tierno mezcla Entrepinares",
     "description": "Paquete",
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
+    "id": "8883",
+    "ean": "8402001017759",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8883/tiras-faciales-limpia-poros-deliplus-caja",
+    "name": "Tiras faciales limpia poros Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "8885",
