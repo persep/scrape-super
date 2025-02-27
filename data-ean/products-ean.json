@@ -1665,6 +1665,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "11511",
+    "ean": "8436021419484",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11511/carne-cerdo-pulled-pork-hacendado-sabor-barbacoa-bandeja",
+    "name": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "11513",
     "ean": "8402001026379",
     "brand": "Hacendado",
@@ -45828,6 +45837,15 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "62049",
+    "ean": "8436542057196",
+    "brand": "MareDeus",
+    "url": "https://tienda.mercadona.es/product/62049/porciones-bacalao-punto-sal-maredeus-ultracongelado-paquete",
+    "name": "Porciones de bacalao sin piel MareDeus ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
+  },
+  {
     "id": "62050",
     "ean": "8436542057035",
     "brand": "MareDeus",
@@ -64987,6 +65005,15 @@
     "name": "Rodajas de atún",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "87208",
+    "ean": "8480000872081",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87208/medio-salmon-bandeja",
+    "name": "Medio salmón",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87211",
