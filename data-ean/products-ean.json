@@ -3582,6 +3582,24 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "12818",
+    "ean": "8402001028816",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12818/kit-viaje-higiene-dental-deliplus-3-action-contiene-dentifrico-50-ml-cepillo-dental",
+    "name": "Kit de viaje higiene dental Deliplus 3 Action",
+    "description": null,
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "12820",
+    "ean": "8402001027017",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/12820/lote-hombre-rebel-contiene-eau-parfum-100-ml-gel-champu-100-ml-neceser-caja",
+    "name": "Lote hombre Como Tú Rebel",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12822",
     "ean": "8402001030475",
     "brand": "Deliplus",
@@ -3643,6 +3661,33 @@
     "name": "Tarta infantil Sonic Hacendado congelada",
     "description": null,
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "12861",
+    "ean": "8402001031984",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12861/laca-unas-alto-brillo-deliplus-107-toffee",
+    "name": "Laca de uñas alto brillo Deliplus 107 toffee",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12862",
+    "ean": "8402001032004",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12862/laca-unas-alto-brillo-deliplus-108-mocha",
+    "name": "Laca de uñas alto brillo Deliplus 108 mocha",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12863",
+    "ean": "8402001032011",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12863/laca-unas-alto-brillo-deliplus-109-cream",
+    "name": "Laca de uñas alto brillo Deliplus 109 cream",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "12869",
