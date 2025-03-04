@@ -3591,6 +3591,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "12819",
+    "ean": "8402001026577",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12819/colorete-fluido-blush-mate-deliplus-01-rosa-amarronado",
+    "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "12820",
     "ean": "8402001027017",
     "brand": "Como Tú",
@@ -3627,6 +3636,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "12825",
+    "ean": "8402001026584",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12825/colorete-fluido-blush-mate-deliplus-02-coral",
+    "name": "Colorete fluido Blush mate Deliplus 02 coral",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "1283",
     "ean": "8437015056104",
     "brand": null,
@@ -3634,6 +3652,24 @@
     "name": "Longaniza fresca d'Ontinyent",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "12832",
+    "ean": "8402001026591",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12832/colorete-fluido-blush-mate-deliplus-03-rosa",
+    "name": "Colorete fluido Blush mate Deliplus 03 rosa",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "12833",
+    "ean": "8402001026607",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12833/colorete-fluido-blush-mate-deliplus-04-rojo",
+    "name": "Colorete fluido Blush mate Deliplus 04 rojo",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "12835",
@@ -3652,6 +3688,15 @@
     "name": "Cepillo dental Eléctrico Oral-B Vitality Pro Precision Clean",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "12853",
+    "ean": "8402001025150",
+    "brand": "Capítulo",
+    "url": "https://tienda.mercadona.es/product/12853/eau-toilette-hombre-capitulo-amaderado-frasco",
+    "name": "Eau de toilette hombre Capítulo Amaderado",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "12857",
@@ -63711,6 +63756,15 @@
     "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
+    "id": "86380",
+    "ean": "8700216807845",
+    "brand": "Fairy",
+    "url": "https://tienda.mercadona.es/product/86380/lavavajillas-ultra-1-fairy-pastillas-lavado-maquina-paquete",
+    "name": "Lavavajillas Ultra Todo en 1 Fairy en pastillas",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
     "id": "86382",
     "ean": "8402001018695",
     "brand": "Como Tú",
@@ -68209,6 +68263,15 @@
     "name": "Paté gato adulto Delikuit con salmón y atún",
     "description": "Paquete",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "9891",
+    "ean": "8402001026263",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9891/chocolate-blanco-fussion-hacendado-relleno-crema-galleta-cacao-tableta",
+    "name": "Chocolate blanco Fussion Hacendado relleno de crema de galleta y cacao",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "9893",
