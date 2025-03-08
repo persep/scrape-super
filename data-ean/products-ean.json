@@ -2700,6 +2700,42 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "11996",
+    "ean": "8402001029615",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11996/perfilador-ojos-ultra-precision-deliplus-01-topo-larga-duracion",
+    "name": "Perfilador de ojos Ultra Precisión Deliplus 01 topo",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "11997",
+    "ean": "8402001029622",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11997/perfilador-ojos-ultra-precision-deliplus-02-burgundy",
+    "name": "Perfilador de ojos Ultra Precisión Deliplus 02 Burgundy",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "11998",
+    "ean": "8402001029639",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11998/perfilador-ojos-ultra-precision-deliplus-03-turquesa-larga-duracion",
+    "name": "Perfilador de ojos Ultra Precisión Deliplus 03 turquesa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "11999",
+    "ean": "8402001029646",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11999/perfilador-ojos-ultra-precision-deliplus-04-verde-larga-duracion",
+    "name": "Perfilador de ojos Ultra Precisión Deliplus 04 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "12012",
     "ean": "8480000120120",
     "brand": "Hacendado",
@@ -68911,6 +68947,15 @@
     "name": "Lápiz de uñas polvo Magic Pen Deliplus 254 Chameleon",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "9995",
+    "ean": "8436039786998",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/9995/solomillo-pavo-paquete",
+    "name": "Solomillo de pavo",
+    "description": "Paquete",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "9996",
