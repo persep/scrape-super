@@ -2538,6 +2538,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "11933",
+    "ean": "8402001029479",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11933/polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote",
+    "name": "Polvos voluminizador para el cabello Volum Fix Deliplus mate fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "11938",
     "ean": "8402001029158",
     "brand": "Capricho de Uva",
@@ -28508,6 +28517,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/39980/smoothie-fresa-hacendado-botella",
     "name": "Smoothie fresa Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "39987",
+    "ean": "8480000399878",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/39987/zumo-fresh-maracuya-chia-hacendado-botella",
+    "name": "Zumo maracuyá & chía Hacendado",
     "description": "Botella",
     "category": "Zumos > Fruta variada"
   },
