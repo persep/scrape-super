@@ -65196,6 +65196,33 @@
     "category": "Marisco y pescado > Pescado en bandeja"
   },
   {
+    "id": "87203",
+    "ean": "8480000872036",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87203/escalopin-salmon-bandeja",
+    "name": "Escalopin de salmón",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87204",
+    "ean": "8480000872043",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87204/filete-salmon-bandeja",
+    "name": "Filete de salmón",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87205",
+    "ean": "8480000872050",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87205/rodaja-salmon-bandeja",
+    "name": "Rodaja de salmón",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87208",
     "ean": "8480000872081",
     "brand": null,
