@@ -2016,6 +2016,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "11601",
+    "ean": "8402001028205",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11601/preparado-polvo-instantaneo-crepes-hacendado-bote",
+    "name": "Preparado en polvo instantáneo para crepes Hacendado",
+    "description": "Bote",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "11609",
     "ean": "8402001025617",
     "brand": "Hacendado",
@@ -62521,6 +62530,15 @@
     "name": "Berlina con cobertura de caramelo y cacao rellena de crema avellana 2%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "8553",
+    "ean": "8480000085535",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8553/salami-extra-pimienta-hacendado-finas-lonchas-paquete",
+    "name": "Salami extra pimienta Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "85649",
