@@ -3888,6 +3888,123 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "13232",
+    "ean": "8480000132321",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13232/surtido-sushi-bento-grande-contiene-4-uramakis-4-makis-4-nigiris-2-futomakis-salsa-soja-salsa-ponzu-salsa-wasabi-bandeja",
+    "name": "Surtido sushi Bento grande",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13233",
+    "ean": "8480000132338",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13233/surtido-sushi-bento-pequeno-contiene-2-nigiris-4-makis-2-uramakis-salsa-soja-salsa-wasabi-bandeja",
+    "name": "Surtido sushi Bento pequeño",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13234",
+    "ean": "8480000132345",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13234/surtido-sushi-bento-mix-contiene-ensalada-alga-wakame-2-nigiris-salmon-3-makis-salmon-1-wrap-salmon-cortado-salsa-ponzu-bandeja",
+    "name": "Surtido sushi Bento mix",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13235",
+    "ean": "8480000132352",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13235/noodles-yakisoba-con-carne-verduras-contiene-noodles-carne-cerdo-verduras-salsa-yakisoba-mayonesa-bol",
+    "name": "Noodles Yakisoba con carne y verduras",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13236",
+    "ean": "8480000132369",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13236/pollo-teriyaki-contiene-arroz-jazmin-pollo-salsa-teriyaki-puerro-sesamo-bol",
+    "name": "Pollo teriyaki",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13237",
+    "ean": "8480000132376",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13237/poke-salmon-contine-arroz-cocido-salmon-mango-pepino-ensalada-wakame-cebolla-encurtida-mezcla-semillas-salsa-soja-bol",
+    "name": "Poke salmón",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13238",
+    "ean": "8480000132383",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13238/poke-pollo-contiene-arroz-cocido-pollo-garbanzos-queso-blanco-maiz-boniato-mezcla-semillas-salsa-yogurt-bol",
+    "name": "Poke pollo",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13240",
+    "ean": "8480000132406",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13240/ensalada-pollo-queso-frutos-secos-listo-comer-compuesta-pollo-asado-tomate-cherry-queso-fresco-brotes-espinaca-lechuga-verde-lechuga-roja-mezcla-frutos-secos-fruta-desecada-con-monodosis-bol",
+    "name": "Ensalada de pollo, queso y frutos secos Listo para Comer",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "13241",
+    "ean": "8480000132413",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13241/ensalada-pasta-listo-comer-compuesta-atun-huevo-cocido-surimi-mix-queso-cebolla-con-monodosis-bol",
+    "name": "Ensalada de pasta Listo para Comer",
+    "description": "Bol",
+    "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "13242",
+    "ean": "8480000132420",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13242/ensalada-marisco-listo-comer-compuesta-pasta-poton-gambon-langostino-aceituna-negra-zanahoria-cebolla-roja-encurtidas-con-monodosis-bol",
+    "name": "Ensalada de marisco Listo para Comer",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13243",
+    "ean": "8480000132437",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13243/salmon-con-verduras-listo-comer-compuesto-salmon-marinado-salsa-romescu-arroz-verduras-asadas-calabacin-patata-pimiento-rojo-boniato-bol",
+    "name": "Salmón con verduras Listo para Comer",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13250",
+    "ean": "8480000132505",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13250/ensaladilla-marisco-listo-comer-compuesta-mayonesa-boca-mar-langostino-merluza-huevo-hilado-bol",
+    "name": "Ensaladilla de marisco Listo para Comer",
+    "description": "Bol",
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
+    "id": "13251",
+    "ean": "8480000132512",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/13251/brioche-listo-comer-con-jamon-cocido-lechuga-romana-huevo-cocido-mayonesa",
+    "name": "Brioche Listo para Comer",
+    "description": null,
+    "category": "Pizzas y platos preparados > Listo para Comer"
+  },
+  {
     "id": "13332",
     "ean": "8480000133328",
     "brand": "Compy",
