@@ -2016,6 +2016,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "11600",
+    "ean": "8402001028151",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11600/topping-chocolate-avellana-hacendado-bote",
+    "name": "Topping de chocolate avellana Hacendado",
+    "description": "Bote",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
     "id": "11601",
     "ean": "8402001028205",
     "brand": "Hacendado",
@@ -2851,6 +2860,15 @@
     "name": "Barritas de barquillo Black & White Hacendado bañadas de cobertura blanca",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12051",
+    "ean": "8402001030086",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12051/algodon-hidrofilo-100-zig-zag-hipoalergenico-deliplus-paquete",
+    "name": "Algodón hidrófilo 100% zig-zag hipoalergénico Deliplus",
+    "description": "Paquete",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
     "id": "12053",
@@ -3760,6 +3778,33 @@
     "name": "Cepillo dental Eléctrico Oral-B Vitality Pro Precision Clean",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "12839",
+    "ean": "8402001027628",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12839/figura-chocolate-con-leche-conejo-pascua-hacendado",
+    "name": "Figura de chocolate con leche conejo Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12840",
+    "ean": "8402001026478",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12840/figura-chocolate-blanco-conejo-pascua-hacendado",
+    "name": "Figura de chocolate blanco conejo Pascua Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12841",
+    "ean": "8402001030369",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12841/golosinas-mix-pascua-hacendado-paquete",
+    "name": "Golosinas Mix Pascua Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "12853",
