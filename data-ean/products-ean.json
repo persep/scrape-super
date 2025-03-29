@@ -3546,6 +3546,15 @@
     "category": "Pizzas y platos preparados > Listo para Comer"
   },
   {
+    "id": "12747",
+    "ean": "8412450000011",
+    "brand": "L'Illa especialidades",
+    "url": "https://tienda.mercadona.es/product/12747/sobrasada-con-miel-lilla-especialidades-tarrina",
+    "name": "Sobrasada con miel L'Illa especialidades",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "12748",
     "ean": "8402001026515",
     "brand": "Deliplus",
@@ -3816,6 +3825,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "12849",
+    "ean": "8402001027390",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12849/parches-ojos-hidrogel-glow-deliplus-con-colageno-paquete",
+    "name": "Parches para ojos de hidrogel Glow Deliplus con colágeno",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "12853",
     "ean": "8402001025150",
     "brand": "Capítulo",
@@ -3832,6 +3850,15 @@
     "name": "Tarta infantil Sonic Hacendado congelada",
     "description": null,
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "12858",
+    "ean": "8411114095639",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/12858/lote-infantil-disney-stitch-contiene-eau-toilette-150-ml-paleta-con-14-sombras-ojos-4-brillos-labios-3-coloretes-caja",
+    "name": "Lote infantil Disney Stitch",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "12861",
@@ -3931,6 +3958,60 @@
     "name": "Morcilla oreada d' Ontinyent",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "12947",
+    "ean": "8402001029387",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12947/sombra-ojos-creamy-deliplus-01-blanco-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 01 blanco",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12948",
+    "ean": "8402001029394",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12948/sombra-ojos-creamy-deliplus-02-topper-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 02 topper",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12949",
+    "ean": "8402001029400",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12949/sombra-ojos-creamy-deliplus-03-plata-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 03 plata",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12950",
+    "ean": "8402001029417",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12950/sombra-ojos-creamy-deliplus-04-rose-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 04 rose",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12951",
+    "ean": "8402001029424",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12951/sombra-ojos-creamy-deliplus-05-duochromo-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 05 duochromo",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12952",
+    "ean": "8402001029431",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12952/sombra-ojos-creamy-deliplus-06-chocolate-larga-duracion",
+    "name": "Sombra de ojos Creamy Deliplus 06 chocolate",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "12968",
