@@ -1719,6 +1719,15 @@
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
+    "id": "11522",
+    "ean": "8402001027109",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11522/snack-balls-sabor-queso-hacendado-paquete",
+    "name": "Snack Balls sabor queso Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "11526",
     "ean": "8436590110713",
     "brand": "Flor Sierra de Aracena",
@@ -3949,6 +3958,15 @@
     "name": "Paleta sombras de ojos Sunset",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12935",
+    "ean": "4006000129600",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/12935/protector-solar-protege-hidrata-nivea-fps-50-con-vitamina-c-acido-hialuronico-bote",
+    "name": "Protector solar protege e hidrata Nivea FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "1294",
