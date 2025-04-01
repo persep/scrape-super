@@ -1692,6 +1692,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "11516",
+    "ean": "8402001027246",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11516/salchichas-cocidas-estilo-parrillero-hacendado-cerdo-paquete",
+    "name": "Salchichas cocidas de cerdo Hacendado estilo parrillero",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
     "id": "11517",
     "ean": "8402001023026",
     "brand": "Hacendado",
@@ -3582,6 +3591,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "12754",
+    "ean": "8402001030659",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12754/cuchillas-perfilar-cejas-vello-facial-deliplus-paquete",
+    "name": "Cuchillas para perfilar cejas y vello facial Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "12757",
     "ean": "8414640193657",
     "brand": "",
@@ -3958,6 +3976,15 @@
     "name": "Paleta sombras de ojos Sunset",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12930",
+    "ean": "3600542452496",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/12930/aceite-solar-protector-delial-fps-30-bronze-resistente-agua-spray",
+    "name": "Aceite solar protector Delial FPS 30",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "12935",
@@ -64458,6 +64485,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "86452",
+    "ean": "8413941947396",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/86452/costilla-cerdo-tex-mex-picante-bandeja",
+    "name": "Costilla de cerdo Tex Mex picante",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
+  },
+  {
     "id": "86464",
     "ean": "8480000864642",
     "brand": "Bosque Verde",
@@ -65410,6 +65446,15 @@
     "name": "Galletas Cookie Caramel Hacendado rellenas de caramelo y chocolate negro",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "86911",
+    "ean": "8436021419620",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/86911/burger-pollo-gruesa-bandeja",
+    "name": "Burger de pollo gruesa",
+    "description": "Bandeja",
+    "category": "Carne > Hamburguesas y picadas"
   },
   {
     "id": "86998",
