@@ -3123,6 +3123,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "12282",
+    "ean": "8402001030277",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12282/lomo-pavo-hacendado-lonchas",
+    "name": "Lomo de pavo Hacendado lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "12288",
     "ean": "7613031474936",
     "brand": "Nestlé",
@@ -3778,6 +3787,33 @@
     "name": "Crema facial Retinal primeras arrugas Prevent Age Skin Deliplus",
     "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "12827",
+    "ean": "8402001030956",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12827/laca-unas-manicura-francesa-deliplus-104-efecto-glaseado-rosa",
+    "name": "Laca de uñas manicura francesa Deliplus 104 efecto glaseado rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12828",
+    "ean": "8402001030994",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12828/laca-unas-manicura-francesa-deliplus-105-efecto-glaseado",
+    "name": "Laca de uñas manicura francesa Deliplus 105 efecto glaseado",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12829",
+    "ean": "8402001031007",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12829/laca-unas-manicura-francesa-deliplus-106-rosa-punta",
+    "name": "Laca de uñas manicura francesa Deliplus 106 rosa punta",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "1283",
@@ -11239,6 +11275,15 @@
     "name": "Cortaúñas pies Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "22177",
+    "ean": "8480000221773",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/22177/combinado-aperitivos-hacendado-paquete",
+    "name": "Combinado de aperitivos Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "22178",
