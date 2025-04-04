@@ -1782,6 +1782,24 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "11551",
+    "ean": "8402001028656",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11551/salsa-light-hacendado-bote",
+    "name": "Salsa Light Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
+  },
+  {
+    "id": "11552",
+    "ean": "8402001028663",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11552/salsa-cocktail-hacendado-bote",
+    "name": "Salsa Cocktail Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "11553",
     "ean": "8700216488495",
     "brand": "Dodot",
@@ -2934,6 +2952,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "12062",
+    "ean": "8414640193695",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12062/neceser-hello-kitty-pequeno-210-x-140-x-60-mm",
+    "name": "Neceser Hello Kitty pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12071",
     "ean": "8402001030543",
     "brand": "Hacendado",
@@ -3852,6 +3879,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "12836",
+    "ean": "8402001031236",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12836/trampa-con-cebo-hormigas-bosque-verde-caja",
+    "name": "Trampa con cebo contra hormigas Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "12838",
     "ean": "8700216317788",
     "brand": "Oral-B",
@@ -3886,6 +3922,15 @@
     "name": "Golosinas Mix Pascua Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "12846",
+    "ean": "8480000128461",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12846/queso-lonchas-sin-lactosa-vaca-hacendado-paquete",
+    "name": "Queso lonchas sin lactosa de vaca Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "12849",
@@ -4023,6 +4068,33 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "12918",
+    "ean": "8411114095707",
+    "brand": "Minecraft",
+    "url": "https://tienda.mercadona.es/product/12918/lote-infantil-minecraft-contiene-eau-toilette-150ml-bandolera-caja",
+    "name": "Lote infantil Minecraft",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12919",
+    "ean": "8411114095677",
+    "brand": "Disney",
+    "url": "https://tienda.mercadona.es/product/12919/lote-infantil-disney-frozen-contiene-eau-toilette-150ml-4-paletas-sombras-esmalte-unas-4-brillo-labios-decoracion-unas-lima-pulsera-caja",
+    "name": "Lote infantil Disney Frozen",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12920",
+    "ean": "8411114095691",
+    "brand": "Marvel",
+    "url": "https://tienda.mercadona.es/product/12920/lote-infantil-marvel-spiderman-contiene-eau-toilette-150-ml-pulsera-5-charms-paracaidista-caja",
+    "name": "Lote infantil Marvel Spiderman",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12921",
     "ean": "8436601370433",
     "brand": "",
@@ -4041,6 +4113,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "12923",
+    "ean": "8414640193398",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12923/neceser-rafia-mafalda-mediano-con-asa-250-x-180-x-120-mm",
+    "name": "Neceser rafia Mafalda mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12924",
     "ean": "8436601370457",
     "brand": "",
@@ -4048,6 +4129,15 @@
     "name": "Paleta sombras de ojos Sunset",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12925",
+    "ean": "8414640193497",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12925/neceser-naranja-looney-tunes-grande-330-x-260-x-100-mm",
+    "name": "Neceser naranja Looney Tunes grande",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "12930",
