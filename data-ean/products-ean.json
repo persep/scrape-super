@@ -3744,6 +3744,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "12781",
+    "ean": "8402001030925",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12781/bastoncillos-algodon-deliplus-tamano-viaje-bote",
+    "name": "Bastoncillos de algodón Deliplus tamaño viaje",
+    "description": "Bote",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "12809",
     "ean": "8402001030697",
     "brand": "",
@@ -67084,6 +67093,15 @@
     "name": "Pepinillos agridulces Melis",
     "description": "Tarro",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "8938",
+    "ean": "8402001023699",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/8938/helado-caramelo-con-salsa-caramelo-trozos-caramelo-hacendado-tarrina",
+    "name": "Helado caramelo con salsa de caramelo y trozos de caramelo Hacendado",
+    "description": "Tarrina",
+    "category": "Congelados > Helados"
   },
   {
     "id": "8944",
