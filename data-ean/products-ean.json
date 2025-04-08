@@ -3960,6 +3960,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "12850",
+    "ean": "8402001031137",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12850/barritas-barquillo-hacendado-con-relleno-cobertura-pistacho-paquete",
+    "name": "Barritas de barquillo Hacendado con relleno y cobertura de pistacho",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "12853",
     "ean": "8402001025150",
     "brand": "Capítulo",
@@ -4086,6 +4095,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "12917",
+    "ean": "8445326824015",
+    "brand": "Color Up",
+    "url": "https://tienda.mercadona.es/product/12917/lote-infantil-manicura-color-up-unicorn-power-contiene-12-esmaltes-unas-2-sets-gemas-adhesivas-pegatinas-unas-caja",
+    "name": "Lote infantil manicura Color Up Unicorn Power",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12918",
     "ean": "8411114095707",
     "brand": "Minecraft",
@@ -4156,6 +4174,15 @@
     "name": "Neceser naranja Looney Tunes grande",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12929",
+    "ean": "3600542572798",
+    "brand": "Delial",
+    "url": "https://tienda.mercadona.es/product/12929/aceite-solar-protector-delial-fps-50-bronze-resistente-agua-spray",
+    "name": "Aceite solar protector Delial FPS 50",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "12930",
@@ -45122,6 +45149,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/60689/helado-dochi-banoffee-hacendado-banana-masa-galleta-con-salsa-dulce-leche-galleta-triturada-caja",
     "name": "Helado Dochi Banoffee Hacendado de banana y masa de galleta",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "60690",
+    "ean": "8402001019876",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60690/helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja",
+    "name": "Helado bombón mango blanco Hacendado con salsa de mango y cobertura de chocolate blanco con trozos de coco crujientes",
     "description": "Caja",
     "category": "Congelados > Helados"
   },
