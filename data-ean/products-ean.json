@@ -4077,6 +4077,24 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "12899",
+    "ean": "8402001032530",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/12899/pate-gato-adulto-delikuit-con-ternera-bote",
+    "name": "Paté gato adulto Delikuit con ternera",
+    "description": "Bote",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "12900",
+    "ean": "8402001032523",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/12900/pate-perro-adulto-delikuit-con-pollo-bote",
+    "name": "Paté perro adulto Delikuit con pollo",
+    "description": "Bote",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "12913",
     "ean": "8411090310276",
     "brand": "Falke",
@@ -4192,6 +4210,15 @@
     "name": "Aceite solar protector Delial FPS 30",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "12931",
+    "ean": "8402001033308",
+    "brand": "La Distinguida",
+    "url": "https://tienda.mercadona.es/product/12931/vino-blanco-semidulce-finca-distinguida-botella",
+    "name": "Vino blanco semidulce Finca La Distinguida",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "12935",
