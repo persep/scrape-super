@@ -3969,6 +3969,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "12852",
+    "ean": "8402001024764",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12852/jabon-manos-oriental-woods-deliplus-bote",
+    "name": "Jabón de manos oriental woods Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "12853",
     "ean": "8402001025150",
     "brand": "Capítulo",
@@ -68587,6 +68596,15 @@
     "name": "Napolitana chocolate 26%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "9664",
+    "ean": "8480000096647",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9664/3-bocadillos",
+    "name": "3 Bocadillos",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "9778",
