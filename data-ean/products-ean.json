@@ -3042,6 +3042,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "12083",
+    "ean": "8402001030796",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12083/pizza-carnivora-hacendado",
+    "name": "Pizza carnívora Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "12094",
     "ean": "5601055317225",
     "brand": null,
@@ -4102,6 +4111,24 @@
     "name": "Paté perro adulto Delikuit con pollo",
     "description": "Bote",
     "category": "Mascotas > Perro"
+  },
+  {
+    "id": "12907",
+    "ean": "8402001024481",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12907/mascarilla-pies-exfoliante-deliplus-con-acido-salicilico-paquete",
+    "name": "Mascarilla de pies exfoliante Deliplus con ácido salicílico",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "12908",
+    "ean": "8402001024498",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12908/mascarilla-pies-hidratante-deliplus-con-centella-asiatica-mentol-paquete",
+    "name": "Mascarilla de pies hidratante Deliplus con centella asiática & mentol",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "12913",
@@ -6046,6 +6073,15 @@
     "name": "Cerveza El Águila sin filtrar",
     "description": "Pack-6",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "13926",
+    "ean": "8410505320145",
+    "brand": "Luengo",
+    "url": "https://tienda.mercadona.es/product/13926/soja-texturizada-luengo-paquete",
+    "name": "Soja texturizada Luengo",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Legumbres"
   },
   {
     "id": "1393",
