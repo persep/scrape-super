@@ -4347,6 +4347,33 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "12998",
+    "ean": "8402001032196",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12998/laca-unas-efecto-satinado-deliplus-110-lila",
+    "name": "Laca de uñas efecto satinado Deliplus 110 lila",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "12999",
+    "ean": "8402001032202",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12999/laca-unas-efecto-satinado-deliplus-111-turquesa",
+    "name": "Laca de uñas efecto satinado Deliplus 111 turquesa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "13001",
+    "ean": "8402001032219",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13001/laca-unas-efecto-satinado-deliplus-112-rosa",
+    "name": "Laca de uñas efecto satinado Deliplus 112 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "13006",
     "ean": "8410014238450",
     "brand": "ColaCao",
@@ -4381,6 +4408,15 @@
     "name": "Lote mujer Como Tú The Rose",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "13062",
+    "ean": "8402001024801",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13062/tratamiento-facial-intensivo-colageno-deliplus-noche-dia-caja",
+    "name": "Tratamiento facial intensivo de colágeno Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "13204",
