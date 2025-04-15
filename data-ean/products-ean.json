@@ -4401,6 +4401,15 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "13024",
+    "ean": "8402001015021",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/13024/lote-mujer-amor-contiene-eau-parfum-100-ml-abanico",
+    "name": "Lote mujer Como Tú Amor",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "13035",
     "ean": "8402001027024",
     "brand": "Como Tú",
@@ -62566,6 +62575,15 @@
     "name": "Barra de pan sin sal añadida rebanada",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "83664",
+    "ean": "5604621305794",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/83664/pastel-crema-65-pieza",
+    "name": "Pastel de crema 65%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "83692.1",
