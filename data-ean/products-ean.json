@@ -3654,6 +3654,15 @@
     "category": "Cuidado facial y corporal > Depilación"
   },
   {
+    "id": "12756",
+    "ean": "8402001030932",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12756/arroz-con-verduras-hacendado-ultracongelado-paquete",
+    "name": "Arroz con verduras Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "12757",
     "ean": "8414640193657",
     "brand": "",
@@ -4095,6 +4104,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "12887",
+    "ean": "8402001032189",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12887/snack-maiz-mini-mix-hacendado-sabor-barbacoa-paquete",
+    "name": "Snack de maíz Mini mix Hacendado sabor barbacoa",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "12899",
     "ean": "8402001032530",
     "brand": "Delikuit",
@@ -4336,6 +4354,15 @@
     "name": "Desodorante Dark Temptation Axe Essentiel",
     "description": "Spray",
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "12969",
+    "ean": "8402001032813",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12969/golosinas-tubos-rellenos-hacendado-sabor-fresa-acida-caja",
+    "name": "Golosinas tubos pica Hacendado sabor fresa y nata",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "12970",
@@ -64843,6 +64870,15 @@
     "name": "Mini barritas de cheesecake Hacendado con chocolate blanco sabor tarta de queso y crujiente de fresa",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "86444",
+    "ean": "8402001030253",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86444/lomo-embuchado-hacendado-lonchas",
+    "name": "Lomo embuchado Hacendado lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "86447",
