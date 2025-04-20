@@ -2925,6 +2925,15 @@
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
+    "id": "12056",
+    "ean": "8402001029929",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12056/carbon-vegetal-bosque-verde-paquete",
+    "name": "Carbón vegetal Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "12057",
     "ean": "8414640193480",
     "brand": "",
@@ -3049,6 +3058,15 @@
     "name": "Pizza carnívora Hacendado",
     "description": null,
     "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
+    "id": "12084",
+    "ean": "8402001030239",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12084/chorizo-picante-extra-hacendado-lonchas",
+    "name": "Chorizo picante extra Hacendado lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "12094",
@@ -4248,6 +4266,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "12927",
+    "ean": "8428390080372",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/12927/mini-eau-parfum-mujer-flor-mayo-daily-tale-frasco",
+    "name": "Mini eau de parfum mujer Flor De Mayo Daily Tale",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "12929",
     "ean": "3600542572798",
     "brand": "Delial",
@@ -4426,6 +4453,15 @@
     "name": "Cacao soluble ColaCao original",
     "description": "Bote",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "13023",
+    "ean": "8402001028984",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/13023/eau-parfum-mujer-santal-frasco",
+    "name": "Eau de parfum mujer Como Tú Santal",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "13024",
