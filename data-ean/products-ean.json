@@ -4437,6 +4437,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "12984",
+    "ean": "8402001031700",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12984/vela-perfumada-peonia-bosque-verde-caja",
+    "name": "Vela perfumada Peonía Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "12998",
     "ean": "8402001032196",
     "brand": "Deliplus",
@@ -67336,6 +67345,15 @@
     "name": "Cacao soluble instantáneo Hacendado",
     "description": "Bote",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "8915",
+    "ean": "8402001023743",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/8915/super-cuquis",
+    "name": "Súper Cuquis",
+    "description": null,
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "8916",
