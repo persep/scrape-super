@@ -2664,6 +2664,24 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "11950",
+    "ean": "8402001029202",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11950/perfilador-labios-long-lasting-deliplus-13-sandia",
+    "name": "Perfilador de labios Long Lasting Deliplus 13 sandía",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "11951",
+    "ean": "8402001029219",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11951/perfilador-labios-long-lasting-deliplus-14-malva",
+    "name": "Perfilador de labios Long Lasting Deliplus 14 malva",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "11959",
     "ean": "8402001015656",
     "brand": "Deliplus",
@@ -4176,6 +4194,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "12906",
+    "ean": "8402001022609",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12906/colorete-compacto-blush-satin-deliplus-04-multicolor-coral",
+    "name": "Colorete compacto Blush Satin Deliplus 04 multicolor coral",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "12907",
     "ean": "8402001024481",
     "brand": "Deliplus",
@@ -4446,6 +4473,78 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "12987",
+    "ean": "8402001030376",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12987/pintalabios-mate-12h-lasting-lips-deliplus-01-rosa-nude",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 01 rosa nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12988",
+    "ean": "8402001030406",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12988/pintalabios-mate-12h-lasting-lips-deliplus-02-beige-nude",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 02 beige nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12989",
+    "ean": "8402001030413",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12989/pintalabios-mate-12h-lasting-lips-deliplus-03-medio-marron",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 03 medio marrón",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12990",
+    "ean": "8402001030420",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12990/pintalabios-mate-12h-lasting-lips-deliplus-04-rosa-medio",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 04 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12992",
+    "ean": "8402001030437",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12992/pintalabios-mate-12h-lasting-lips-deliplus-05-rosa-petalo",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 05 rosa pétalo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12993",
+    "ean": "8402001030444",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12993/pintalabios-mate-12h-lasting-lips-deliplus-06-malva",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 06 malva",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12994",
+    "ean": "8402001030451",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12994/pintalabios-mate-12h-lasting-lips-deliplus-07-fucsia",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 07 fucsia",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "12995",
+    "ean": "8402001030468",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12995/pintalabios-mate-12h-lasting-lips-deliplus-08-rojo",
+    "name": "Pintalabios mate 12h Lasting Lips Deliplus 08 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "12998",
     "ean": "8402001032196",
     "brand": "Deliplus",
@@ -4518,6 +4617,42 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13026",
+    "ean": "8402001031786",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13026/polvo-compacto-perfeccionador-efecto-seda-deliplus-100-beige-claro",
+    "name": "Polvo compacto perfeccionador efecto seda Deliplus 100 beige claro",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "13029",
+    "ean": "8402001031793",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13029/polvo-compacto-perfeccionador-efecto-seda-deliplus-200-beige-rosado",
+    "name": "Polvo compacto perfeccionador efecto seda Deliplus 200 beige rosado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "13030",
+    "ean": "8402001031809",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13030/polvo-compacto-perfeccionador-efecto-seda-deliplus-210-almendra",
+    "name": "Polvo compacto perfeccionador efecto seda Deliplus 210 almendra",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "13033",
+    "ean": "8402001031816",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13033/polvo-compacto-perfeccionador-efecto-seda-deliplus-300-cappuccino",
+    "name": "Polvo compacto perfeccionador efecto seda Deliplus 300 cappuccino",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "13035",
     "ean": "8402001027024",
     "brand": "Como Tú",
@@ -4525,6 +4660,15 @@
     "name": "Lote mujer Como Tú The Rose",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "13044",
+    "ean": "8402001027451",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13044/esencia-facial-hidratante-oxigenante-tonificante-prevent-age-skin-deliplus-bote",
+    "name": "Esencia facial hidratante, oxigenante y tonificante Prevent Age Skin Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "13062",
