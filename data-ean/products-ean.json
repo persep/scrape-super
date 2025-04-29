@@ -3123,6 +3123,33 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "12088",
+    "ean": "8402001025846",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12088/paleta-sombras-ojos-deliplus-08-nude",
+    "name": "Paleta sombras de ojos Deliplus 08 nude",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12090",
+    "ean": "8402001025860",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12090/paleta-sombras-ojos-deliplus-10-rosados",
+    "name": "Paleta sombras de ojos Deliplus 10 rosados",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12091",
+    "ean": "8402001025877",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12091/paleta-sombras-ojos-deliplus-11-verdes",
+    "name": "Paleta sombras de ojos Deliplus 11 verdes",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "12094",
     "ean": "5601055317225",
     "brand": null,
@@ -4183,6 +4210,15 @@
     "name": "Snack de maíz Mini mix Hacendado sabor barbacoa",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "12897",
+    "ean": "8402001032851",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12897/bolsa-basura-saco-bosque-verde-100l-cubo-industrial-paquete",
+    "name": "Bolsa de basura saco Bosque Verde 100L cubo industrial",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
   },
   {
     "id": "12899",
