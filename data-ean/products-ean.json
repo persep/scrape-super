@@ -3870,6 +3870,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "12795",
+    "ean": "8402001030581",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12795/kit-esponjas-maquillaje-deliplus-contiene-esponja-aplicar-maquillaje-correctores-fijar-polvos-sueltos-caja",
+    "name": "Kit de esponjas maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "12809",
     "ean": "8402001030697",
     "brand": "",
@@ -4435,6 +4444,15 @@
     "name": "Morcilla oreada d' Ontinyent",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "12946",
+    "ean": "8402001033902",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12946/chocolate-extrafino-con-leche-hacendado-0-azucares-anadidos-tableta",
+    "name": "Chocolate extrafino con leche Hacendado 0% azúcares añadidos",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "12947",
