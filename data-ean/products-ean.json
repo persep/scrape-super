@@ -4230,6 +4230,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "12895",
+    "ean": "8402001032875",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12895/bolsa-basura-compostables-bosque-verde-10l-cubo-pequeno-restos-organicos-paquete",
+    "name": "Bolsa de basura compostables Bosque Verde 10L cubo pequeño",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
+  },
+  {
     "id": "12897",
     "ean": "8402001032851",
     "brand": "Bosque Verde",
@@ -4507,6 +4516,15 @@
     "name": "Sombra de ojos Creamy Deliplus 06 chocolate",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "12965",
+    "ean": "8402001032783",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12965/golosinas-rega-red-hacendado-sabor-fresa-paquete",
+    "name": "Golosinas Rega Red Hacendado sabor fresa",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "12968",
@@ -6505,6 +6523,42 @@
     "name": "Neceser rafia Agatha Ruiz de la Prada pequeño",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "13959",
+    "ean": "8402001031977",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13959/gel-glitter-face-body-shine-mermaid-deliplus-rostro-cabello-cuerpo",
+    "name": "Gel glitter Face & Body Shine Mermaid Deliplus",
+    "description": null,
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "13960",
+    "ean": "8402001031960",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13960/paleta-sombras-ojos-mermaid-deliplus-acabado-glitter",
+    "name": "Paleta sombras de ojos Mermaid Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "13961",
+    "ean": "8402001031946",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13961/mascara-pestanas-volumen-water-resistant-mermaid-deliplus-01-rosa",
+    "name": "Máscara de pestañas volumen y Water Resistant Mermaid Deliplus 01 rosa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "13962",
+    "ean": "8402001031953",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13962/mascara-pestanas-volumen-water-resistant-mermaid-deliplus-02-turquesa",
+    "name": "Máscara de pestañas volumen y Water Resistant Mermaid Deliplus 02 turquesa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "13968",
@@ -66220,6 +66274,15 @@
     "name": "Pierna de cordero chuleteada",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "86927",
+    "ean": "8402001032103",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86927/perfilador-ojos-efecto-holografico-mermaid-deliplus-morado-azulado",
+    "name": "Perfilador de ojos efecto holográfico Mermaid Deliplus morado azulado",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "86998",
