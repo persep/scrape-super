@@ -2268,6 +2268,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "11646",
+    "ean": "8402001028830",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11646/sopa-pollo-hacendado-con-fideos-finos",
+    "name": "Sopa de pollo Hacendado con fideos finos",
+    "description": "Sobre",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
     "id": "11647",
     "ean": "8414640192742",
     "brand": "Disney",
@@ -2779,6 +2788,24 @@
     "name": "Parches para ojos de hidrogel Deliplus con ácido hialurónico y colágeno",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "11976",
+    "ean": "8402001029363",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11976/toalla-turbante-estampado-seca-pelo-microfibra-deliplus",
+    "name": "Toalla turbante estampado seca pelo microfibra Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "11977",
+    "ean": "8402001029370",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/11977/toalla-turbante-kids-estampado-seca-pelo-microfibra-deliplus",
+    "name": "Toalla turbante kids estampado seca pelo microfibra Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
     "id": "11984",
@@ -4392,6 +4419,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "12926",
+    "ean": "8436601370655",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12926/pack-tratamiento-labial-kiss-contiene-exfoliante-labial-mascarilla-labial-brillo-labios-caja",
+    "name": "Pack tratamiento labial Kiss Me",
+    "description": "Caja",
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "12927",
     "ean": "8428390080372",
     "brand": "Flor De Mayo",
@@ -4776,6 +4812,15 @@
     "url": "https://tienda.mercadona.es/product/13044/esencia-facial-hidratante-oxigenante-tonificante-prevent-age-skin-deliplus-bote",
     "name": "Esencia facial hidratante, oxigenante y tonificante Prevent Age Skin Deliplus",
     "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "13060",
+    "ean": "8402001031021",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13060/mascarilla-facial-infantil-cat-mask-deliplus-con-cereza-manzana-paquete",
+    "name": "Mascarilla facial infantil Cat Mask Deliplus con cereza y manzana",
+    "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
