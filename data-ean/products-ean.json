@@ -3123,6 +3123,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "12081",
+    "ean": "8402001030611",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12081/lote-mujer-depilacion-deliplus-body-system-6-hojas-contiene-maquinilla-depilacion-3-recambios-cuchilla-estuche-viaje",
+    "name": "Lote mujer depilación Deliplus Body System 6 hojas",
+    "description": null,
+    "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
     "id": "12082",
     "ean": "8428390080310",
     "brand": "Flor De Mayo",
@@ -6552,6 +6561,15 @@
     "category": "Arroz, legumbres y pasta > Legumbres"
   },
   {
+    "id": "13929",
+    "ean": "8402001033001",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13929/refresco-cherry-up-hacendado-sin-gas-botella",
+    "name": "Refresco Cherry Up Hacendado sin gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
     "id": "1393",
     "ean": "8421610013938",
     "brand": null,
@@ -6559,6 +6577,15 @@
     "name": "Botifarrón de carne",
     "description": "Bandeja",
     "category": "Carne > Embutido"
+  },
+  {
+    "id": "13930",
+    "ean": "8402001032998",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13930/refresco-berry-lime-hacendado-sin-gas-botella",
+    "name": "Refresco Berry Lime Hacendado sin gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "13952",
@@ -67687,6 +67714,24 @@
     "name": "Golosinas rellenas Trolli Watermelon Splash",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "8900",
+    "ean": "8402001029981",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8900/maquinilla-afeitar-recargable-deliplus-flection-system-6-hojas-caja",
+    "name": "Maquinilla de afeitar recargable Deliplus Flection System 6 hojas",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "8901",
+    "ean": "8402001029998",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/8901/recambios-maquinilla-afeitar-deliplus-flection-system-6-hojas-caja",
+    "name": "Recambios maquinilla de afeitar Deliplus Flection System 6 hojas",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "8904",
