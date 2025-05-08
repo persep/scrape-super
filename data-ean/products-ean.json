@@ -2367,6 +2367,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "11681",
+    "ean": "8402001029110",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11681/molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete",
+    "name": "Molde de papel de pulpa de madera y silicona Bosque Verde para Freidora de aire 20 cm",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "11687",
     "ean": "8411396001557",
     "brand": "",
@@ -2725,6 +2734,15 @@
     "name": "Pollo al ajillo Hacendado",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "11966",
+    "ean": "8402001029653",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11966/mojama-atun-extra-hacendado-lonchas-paquete",
+    "name": "Mojama de atún extra Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
     "id": "11967",
@@ -6584,6 +6602,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/13930/refresco-berry-lime-hacendado-sin-gas-botella",
     "name": "Refresco Berry Lime Hacendado sin gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "13944",
+    "ean": "8402001035210",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13944/refresco-naranja-hacendado-sin-gas-botella",
+    "name": "Refresco de naranja Hacendado sin gas",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
@@ -52639,6 +52666,15 @@
     "name": "Escarola rizada",
     "description": "Paquete",
     "category": "Fruta y verdura > Lechuga y ensalada preparada"
+  },
+  {
+    "id": "69128",
+    "ean": "8480000691286",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/69128/tomate-ensalada-bandeja",
+    "name": "Tomate ensalada",
+    "description": null,
+    "category": "Fruta y verdura > Verdura"
   },
   {
     "id": "69139",
