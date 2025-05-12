@@ -6570,6 +6570,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "13913",
+    "ean": "8001841811963",
+    "brand": "Oral-B",
+    "url": "https://tienda.mercadona.es/product/13913/dentifrico-pro-expert-oral-b-sabor-menta-especiada-tubo",
+    "name": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "13926",
     "ean": "8410505320145",
     "brand": "Luengo",
@@ -7081,6 +7090,15 @@
     "name": "Galletas de espelta Hacendado 0% azúcares añadidos",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14266",
+    "ean": "8436021419675",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14266/lomo-cerdo-marinado-empanado-sin-gluten-bandeja",
+    "name": "Lomo de cerdo marinado empanado sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
   },
   {
     "id": "14324",
