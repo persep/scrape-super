@@ -4851,6 +4851,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "13052",
+    "ean": "8402001034220",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13052/barritas-cereales-con-galleta-animada-hacendado-caja",
+    "name": "Barritas de cereales con galleta animada Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "13060",
     "ean": "8402001031021",
     "brand": "Deliplus",
@@ -6577,6 +6586,15 @@
     "name": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
     "description": "Tubo",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "13917",
+    "ean": "5411188138013",
+    "brand": "Alpro",
+    "url": "https://tienda.mercadona.es/product/13917/postre-soja-sabor-lima-limon-alpro-bote",
+    "name": "Postre de soja sabor lima limón Alpro",
+    "description": "Bote",
+    "category": "Postres y yogures > Postres de soja"
   },
   {
     "id": "13926",
@@ -20814,6 +20832,15 @@
     "url": "https://tienda.mercadona.es/product/30501/mandarinas-bandeja",
     "name": "Mandarinas",
     "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "30506",
+    "ean": "8480000305060",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/30506/media-pina-12-pieza",
+    "name": "Media piña",
+    "description": "1/2 Pieza",
     "category": "Fruta y verdura > Fruta"
   },
   {
