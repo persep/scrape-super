@@ -3906,6 +3906,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "12779",
+    "ean": "8402001030147",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12779/tiras-adhesivas-protectoras-poliuretano-aqua-deliplus-surtidas-resistentes-agua-caja",
+    "name": "Tiras adhesivas protectoras de poliuretano Aqua Deliplus surtidas resistentes al agua",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "12780",
     "ean": "8411114095646",
     "brand": "Minecraft",
@@ -6696,6 +6705,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13954",
+    "ean": "8700216911887",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/13954/protegeslip-normal-evax-caja",
+    "name": "Protegeslip normal Evax",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "13959",
     "ean": "8402001031977",
     "brand": "Deliplus",
@@ -6739,6 +6757,33 @@
     "name": "Medio pollo adobado",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "13973",
+    "ean": "8402001031724",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13973/polvo-unas-efecto-glaseado-magic-pen-deliplus-114-rosa",
+    "name": "Polvo para uñas efecto glaseado Magic Pen Deliplus 114 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "13974",
+    "ean": "8402001031731",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13974/polvo-unas-efecto-glaseado-magic-pen-deliplus-115-verde",
+    "name": "Polvo para uñas efecto glaseado Magic Pen Deliplus 115 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "13975",
+    "ean": "8402001032226",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13975/laca-unas-alto-brillo-deliplus-113-blanco",
+    "name": "Laca de uñas alto brillo Deliplus 113 blanco",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "14006",
