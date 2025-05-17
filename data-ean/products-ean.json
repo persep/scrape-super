@@ -2331,6 +2331,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "11661",
+    "ean": "8402001027536",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11661/suavizante-ropa-violets-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Violets Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "11663",
     "ean": "8402001021824",
     "brand": "Deliplus",
@@ -6894,6 +6903,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14122",
+    "ean": "8402001027383",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14122/suavizante-ropa-azul-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Azul Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "14130",
     "ean": "8480000141309",
     "brand": "Hacendado",
@@ -6975,6 +6993,15 @@
     "category": "Cereales y galletas > Tortitas"
   },
   {
+    "id": "14148",
+    "ean": "8402001027505",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14148/suavizante-ropa-floral-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Floral Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "14151",
     "ean": "8480000141514",
     "brand": "Hacendado",
@@ -7027,6 +7054,33 @@
     "name": "Galletas mini cookies Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14163",
+    "ean": "8402001027499",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14163/suavizante-ropa-talco-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Talco Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "14165",
+    "ean": "8402001027512",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14165/suavizante-ropa-spa-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Spa Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "14170",
+    "ean": "8402001027529",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14170/suavizante-ropa-hipoalergenico-colonia-bosque-verde-concentrado-botella",
+    "name": "Suavizante ropa Hipoalergénico Colonia Bosque Verde concentrado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "14173",
