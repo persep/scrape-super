@@ -3186,6 +3186,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "12086",
+    "ean": "8402001030246",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12086/salchichon-extra-hacendado-lonchas",
+    "name": "Salchichón extra Hacendado lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "12088",
     "ean": "8402001025846",
     "brand": "Deliplus",
@@ -4192,6 +4201,15 @@
     "name": "Eau de toilette hombre Capítulo Amaderado",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "12854",
+    "ean": "8402001031908",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/12854/bebida-energetica-zero-katrine-energy-drink-lata",
+    "name": "Bebida energética Zero Katrine Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "12857",
@@ -6631,6 +6649,15 @@
     "name": "Postre de soja sabor lima limón Alpro",
     "description": "Bote",
     "category": "Postres y yogures > Postres de soja"
+  },
+  {
+    "id": "13924",
+    "ean": "830372000434",
+    "brand": "Eco style",
+    "url": "https://tienda.mercadona.es/product/13924/gel-fijador-cabello-con-aceite-oliva-eco-style-bote",
+    "name": "Gel fijador cabello con aceite de oliva Eco style",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
   },
   {
     "id": "13926",
