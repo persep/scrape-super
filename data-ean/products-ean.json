@@ -4572,6 +4572,15 @@
     "category": "Carne > Embutido"
   },
   {
+    "id": "12941",
+    "ean": "8402001029295",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12941/aceite-solar-protector-bronceado-intenso-deliplus-fps-15-resistente-agua-deliplus-spray",
+    "name": "Aceite solar protector bronceado intenso Deliplus FPS 15",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "12946",
     "ean": "8402001033902",
     "brand": "Hacendado",
@@ -44784,6 +44793,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "60320",
+    "ean": "8480000603203",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60320/banderillas-gildas-hacendado-pinchos-anchoa-aceite-girasol-paquete",
+    "name": "Banderillas Gildas Hacendado pinchos de aceituna, anchoa y guindilla",
+    "description": "Paquete",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "60323",
     "ean": "8480000603234",
     "brand": "Hacendado",
@@ -66634,6 +66652,15 @@
     "name": "Perfilador de ojos efecto holográfico Mermaid Deliplus morado azulado",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86933",
+    "ean": "8402001034817",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86933/zumo-clementina-hacendado-botella",
+    "name": "Zumo de clementina Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Naranja"
   },
   {
     "id": "86998",
