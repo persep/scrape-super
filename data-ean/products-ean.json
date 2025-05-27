@@ -55008,6 +55008,15 @@
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
+    "id": "71341",
+    "ean": "8480000713414",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/71341/estropajo-limpieza-delicada-bosque-verde-paquete",
+    "name": "Estropajo salvauñas limpieza delicada Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
     "id": "71342",
     "ean": "8480000713421",
     "brand": "Bosque Verde",
@@ -59596,6 +59605,15 @@
     "name": "Hueva de Maruca Ubago",
     "description": "Paquete",
     "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
+    "id": "80146",
+    "ean": "8480000801463",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/80146/mollejas-pollo-congeladas-paquete",
+    "name": "Mollejas de pollo congeladas",
+    "description": "Paquete",
+    "category": "Congelados > Carne"
   },
   {
     "id": "80151",
@@ -66679,6 +66697,15 @@
     "name": "Pierna de cordero chuleteada",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "86918",
+    "ean": "8402001032905",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/86918/licor-chicle-royal-swan-botella",
+    "name": "Licor de chicle Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "86927",
