@@ -6678,6 +6678,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "13915",
+    "ean": "8436039788022",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13915/filetes-pechuga-pavo-adobado-bandeja",
+    "name": "Filetes pechuga de pavo adobado",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
+  },
+  {
     "id": "13917",
     "ean": "5411188138013",
     "brand": "Alpro",
@@ -55031,6 +55040,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/71342/estropajo-suciedad-resistente-bosque-verde-paquete",
     "name": "Estropajo suciedad resistente Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
+    "id": "71343",
+    "ean": "8480000713438",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/71343/estropajo-limpieza-delicada-bosque-verde-paquete",
+    "name": "Estropajo limpieza delicada Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
