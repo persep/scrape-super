@@ -4437,6 +4437,15 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "12912",
+    "ean": "8402001032837",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/12912/papel-higienico-suave-bosque-verde-4-capas-paquete",
+    "name": "Papel higiénico Suave Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Papel higiénico y celulosa"
+  },
+  {
     "id": "12913",
     "ean": "8411090310276",
     "brand": "Falke",
@@ -6874,6 +6883,15 @@
     "name": "Medio pollo adobado",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "13969",
+    "ean": "8402001027925",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13969/sorbete-corporal-posidonia-deliplus-tarro",
+    "name": "Sorbete corporal Posidónia Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "13973",
@@ -69676,6 +69694,24 @@
     "name": "3 Bocadillos",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "9776",
+    "ean": "8411090310238",
+    "brand": "El Águila",
+    "url": "https://tienda.mercadona.es/product/9776/cerveza-00-sin-alcohol-aguila-sin-filtrar-pack-6",
+    "name": "Cerveza 0,0% sin alcohol El Águila sin filtrar",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "9777",
+    "ean": "8410590310021",
+    "brand": "El Águila",
+    "url": "https://tienda.mercadona.es/product/9777/cerveza-00-sin-alcohol-aguila-sin-filtrar-botellin",
+    "name": "Cerveza 0,0% sin alcohol El Águila sin filtrar",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "9778",
