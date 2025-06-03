@@ -7407,6 +7407,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14260",
+    "ean": "8402001032967",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14260/exfoliante-corporal-marino-deliplus-sal-mar-muerto-tarro",
+    "name": "Exfoliante corporal marino Deliplus Sal Mar Muerto",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "14261",
     "ean": "8402001028564",
     "brand": "Deliplus",
@@ -7422,6 +7431,15 @@
     "url": "https://tienda.mercadona.es/product/14262/aceite-corporal-oil-glow-maracuja-deliplus-bote",
     "name": "Aceite corporal Oil Glow Maracujá Deliplus",
     "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "14263",
+    "ean": "8402001028533",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14263/glitter-roll-on-corporal-cherry-deliplus",
+    "name": "Glitter roll-on corporal Cherry Deliplus",
+    "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
@@ -7569,11 +7587,38 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14326",
+    "ean": "8414640193640",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/14326/neceser-concha-blanco-nacarado-pequeno-uahuu-124-x-105-x-40",
+    "name": "Neceser concha blanco nacarado pequeño Uahuu",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "14327",
+    "ean": "8414640193718",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/14327/neceser-fluor-silicona-mediano-uahuu-con-asa-175-x-130-x-30-mm",
+    "name": "Neceser flúor silicona mediano Uahuu con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "14328",
     "ean": "8414640193619",
     "brand": "",
     "url": "https://tienda.mercadona.es/product/14328/neceser-caseta-playa-snoopy-mediano-180-x-190-x-90",
     "name": "Neceser caseta playa Snoopy mediano",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "14329",
+    "ean": "8414640193602",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/14329/neceser-sandia-transparente-grande-uahuu-con-asa-310-x-190-x-60-mm",
+    "name": "Neceser sandía transparente grande Uahuu con asa",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -7594,6 +7639,15 @@
     "name": "Galletas canela Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14470",
+    "ean": "8480000144706",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14470/peras-conferencia",
+    "name": "Peras Conferencia",
+    "description": null,
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "14500",
@@ -65869,6 +65923,15 @@
     "name": "Bruma facial hidratante Facial Clean Deliplus con ácido hialurónico y niacinamida",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "86403",
+    "ean": "8402001024733",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86403/mix-frutas-tropical-hacendado-ultracongeladas-mango-melocoton-papaya-paquete",
+    "name": "Mix frutas tropical Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "86404",
