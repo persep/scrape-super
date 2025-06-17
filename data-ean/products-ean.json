@@ -2655,6 +2655,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "11934",
+    "ean": "8402001029264",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11934/pasta-tiburon-mac-cheese-hacendado-con-salsa-queso-paquete",
+    "name": "Pasta tiburón Mac & Cheese Hacendado con salsa de queso",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "11938",
     "ean": "8402001029158",
     "brand": "Capricho de Uva",
@@ -2968,6 +2977,24 @@
     "name": "Almendras Hacendado chocolate negro",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "12033",
+    "ean": "8402001025389",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/12033/cerveza-especial-steinburg",
+    "name": "Cerveza especial Steinburg",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "12036",
+    "ean": "8402001025396",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/12036/cerveza-especial-steinburg-lata",
+    "name": "Cerveza especial Steinburg",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "12037",
@@ -6831,6 +6858,15 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "13943",
+    "ean": "8402001035340",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13943/pizza-truffata-con-queso-champinones-trufa-hacendado-ultracongelada",
+    "name": "Pizza Truffata con queso, champiñones y trufa Hacendado ultracongelada",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "13944",
     "ean": "8402001035210",
     "brand": "Hacendado",
@@ -7477,6 +7513,15 @@
     "name": "Galletas de espelta Hacendado 0% azúcares añadidos",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14246",
+    "ean": "8402001036613",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14246/pizza-frankfurt-hacendado",
+    "name": "Pizza Frankfurt Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
   },
   {
     "id": "14247",
@@ -67149,6 +67194,15 @@
     "category": "Carne > Conejo y cordero"
   },
   {
+    "id": "86916",
+    "ean": "8402001032738",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86916/delineador-ojos-deliplus-03-verde",
+    "name": "Delineador de ojos Deliplus 03 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "86918",
     "ean": "8402001032905",
     "brand": "Royal Swan",
@@ -67156,6 +67210,24 @@
     "name": "Licor de chicle Royal Swan",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "86922",
+    "ean": "8402001032745",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86922/delineador-ojos-deliplus-04-azul",
+    "name": "Delineador de ojos Deliplus 04 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86923",
+    "ean": "8402001032752",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86923/delineador-ojos-deliplus-05-rosa",
+    "name": "Delineador de ojos Deliplus 05 rosa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "86927",
