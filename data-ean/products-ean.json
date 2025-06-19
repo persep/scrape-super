@@ -4356,6 +4356,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "12874",
+    "ean": "8436039785434",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12874/tacos-pavo-bandeja",
+    "name": "Tacos de pavo",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "12876",
     "ean": "8402001032141",
     "brand": "Deliplus",
@@ -7027,6 +7036,15 @@
     "name": "Laca de uñas alto brillo Deliplus 113 blanco",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "13978",
+    "ean": "8402001036224",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/13978/bebida-energetica-zero-sunset-energy-drink-lata",
+    "name": "Bebida energética Zero Sunset Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "13991",
