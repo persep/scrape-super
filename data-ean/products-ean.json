@@ -5022,6 +5022,15 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "13040",
+    "ean": "8402001031717",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/13040/ambientador-spray-red-elixir-bosque-verde-spray",
+    "name": "Ambientador spray Red Elixir Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "13042",
     "ean": "8402001033292",
     "brand": "Hacendado",
@@ -7936,6 +7945,24 @@
     "name": "Surtido de galletas y barquillos Hacendado",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14781",
+    "ean": "8436548785475",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14781/muslo-pollo-adobado-con-piel-bandeja",
+    "name": "Muslo de pollo adobado con piel",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "14796",
+    "ean": "8421384154325",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14796/panceta-cerdo-adobada-sin-corteza-bandeja",
+    "name": "Panceta de cerdo adobada sin corteza",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "14926",
