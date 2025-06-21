@@ -5256,6 +5256,15 @@
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
+    "id": "13326",
+    "ean": "8402001034725",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13326/ensalada-china-hacendado-con-mazorquitas-tarro",
+    "name": "Ensalada china Hacendado con mazorquitas",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "13332",
     "ean": "8480000133328",
     "brand": "Compy",
@@ -7623,6 +7632,24 @@
     "category": "Carne > Empanados y elaborados"
   },
   {
+    "id": "14267",
+    "ean": "8402001034336",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14267/aceite-labial-lip-oil-summer-cocktail-deliplus-transparente",
+    "name": "Aceite labial Lip Oil Summer Cocktail Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14268",
+    "ean": "8402001034343",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14268/tinte-color-labios-mejillas-summer-cocktail-deliplus-rojizo",
+    "name": "Tinte de color para labios y mejillas Summer Cocktail Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "14276",
     "ean": "8402001032233",
     "brand": "Deliplus",
@@ -7711,6 +7738,24 @@
     "name": "Laca de uñas alto brillo Deliplus 125 azul pastel",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "14295",
+    "ean": "8402001034367",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14295/polvo-bronceador-facial-compacto-summer-cocktail-deliplus-sunset-bronzer-multicolor",
+    "name": "Polvo bronceador facial compacto Summer Cocktail Deliplus Sunset Bronzer",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "14296",
+    "ean": "8402001034350",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14296/iluminador-facial-compacto-summer-cocktail-deliplus-sunset-highlighter-multicolor",
+    "name": "Iluminador facial compacto Summer Cocktail Deliplus Sunset Highlighter",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "14297",
