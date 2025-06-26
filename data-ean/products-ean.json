@@ -8019,6 +8019,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14713",
+    "ean": "8410076601513",
+    "brand": "Nature Valley",
+    "url": "https://tienda.mercadona.es/product/14713/barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja",
+    "name": "Barritas de avena Crunchy Nature Valley con chocolate negro",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "14781",
     "ean": "8436548785475",
     "brand": "",
@@ -18547,6 +18556,15 @@
     "name": "Agua mineral grande Solán de Cabras",
     "description": "Botella",
     "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "27357",
+    "ean": "8412598000010",
+    "brand": "Estrella Galicia",
+    "url": "https://tienda.mercadona.es/product/27357/cerveza-especial-estrella-galicia-lata",
+    "name": "Cerveza especial Estrella Galicia",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "27366",
@@ -51262,6 +51280,15 @@
     "name": "Cerveza 0,0% sin alcohol San Miguel",
     "description": "Pack-12",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "66586",
+    "ean": "8412598000096",
+    "brand": "Estrella Galicia",
+    "url": "https://tienda.mercadona.es/product/66586/cerveza-especial-estrella-galicia-pack-10",
+    "name": "Cerveza especial Estrella Galicia",
+    "description": "Pack-10",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "66587",
