@@ -4446,6 +4446,15 @@
     "category": "Mascotas > Perro"
   },
   {
+    "id": "12901",
+    "ean": "8402001028106",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12901/dentifrico-encias-protect-deliplus-tubo",
+    "name": "Dentífrico Encías Protect Deliplus",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "12906",
     "ean": "8402001022609",
     "brand": "Deliplus",
@@ -5013,6 +5022,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13037",
+    "ean": "8402001032592",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13037/cacao-soluble-hacendado-bote",
+    "name": "Cacao soluble Hacendado",
+    "description": "Bote",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
     "id": "13038",
     "ean": "8402001032585",
     "brand": "Hacendado",
@@ -5065,6 +5083,15 @@
     "name": "Barritas de cereales con galleta animada Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "13057",
+    "ean": "8402001034299",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13057/desodorante-crema-piel-delicada-deliplus-antitranspirante-0-alcohol",
+    "name": "Desodorante en crema piel delicada Deliplus antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
   },
   {
     "id": "13060",
@@ -70882,6 +70909,15 @@
     "name": "Snack de maíz sabor mantequilla Stars Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "9905",
+    "ean": "8402001026485",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/9905/mousse-sabor-chocolate-proteinas-hacendado-10-g-proteinas",
+    "name": "Mousse sabor chocolate +Proteínas Hacendado 10 g proteínas",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "9907",
