@@ -7785,6 +7785,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "14292",
+    "ean": "8402001036828",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14292/zumo-mandarina-fresa-frambuesa-hacendado-botella",
+    "name": "Zumo mandarina, fresa y frambuesa Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
+  },
+  {
     "id": "14295",
     "ean": "8402001034367",
     "brand": "Deliplus",
@@ -7891,6 +7900,24 @@
     "name": "Preparado de carne picada cerdo sabor chorizo",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "14390",
+    "ean": "8402001034985",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14390/agua-colonia-deliplus-floral-infusion-botella",
+    "name": "Agua de colonia Deliplus Floral Infusion",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "14391",
+    "ean": "8402001034978",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14391/agua-colonia-deliplus-citrus-classic-botella",
+    "name": "Agua de colonia Deliplus Citrus Classic",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "14394",
