@@ -4761,6 +4761,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "12954",
+    "ean": "8402001025006",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12954/kit-nude-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja",
+    "name": "Kit nude de pinceles rostro Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "12955",
     "ean": "8402001025013",
     "brand": "Deliplus",
@@ -5306,6 +5315,24 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/13326/ensalada-china-hacendado-con-mazorquitas-tarro",
     "name": "Ensalada china Hacendado con mazorquitas",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "13327",
+    "ean": "8402001034732",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13327/remolacha-tiras-hacendado-tarro",
+    "name": "Remolacha en tiras Hacendado",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "13328",
+    "ean": "8402001034718",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13328/zanahoria-tiras-hacendado-tarro",
+    "name": "Zanahoria en tiras Hacendado",
     "description": "Tarro",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
@@ -7452,6 +7479,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "14176",
+    "ean": "8402001036903",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14176/horchata-chufa-sin-azucares-anadidos-hacendado-brick",
+    "name": "Horchata de chufa sin azúcares añadidos Hacendado",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "14180",
     "ean": "8402001027895",
     "brand": "Deliplus",
@@ -7909,6 +7945,15 @@
     "name": "Gel corporal aloe vera Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "14337",
+    "ean": "8402001034541",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14337/chicles-cola-xxl-gragea-hacendado-bote",
+    "name": "Chicles cola XXL gragea Hacendado",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "14343",
@@ -18286,6 +18331,15 @@
     "name": "Agua mineral pequeña Neval",
     "description": "Botella",
     "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "27074",
+    "ean": "8410793226136",
+    "brand": "Victoria",
+    "url": "https://tienda.mercadona.es/product/27074/cerveza-victoria-malaga-lata",
+    "name": "Cerveza Victoria Málaga",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "27099",
@@ -51019,6 +51073,15 @@
     "name": "Vino blanco semidulce Diamante D.O Rioja",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "66358",
+    "ean": "8410793226433",
+    "brand": "Victoria",
+    "url": "https://tienda.mercadona.es/product/66358/cerveza-victoria-malaga",
+    "name": "Cerveza Victoria Málaga",
+    "description": null,
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "66369",
