@@ -4113,6 +4113,15 @@
     "category": "Carne > Embutido"
   },
   {
+    "id": "12830",
+    "ean": "8402001027062",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12830/gel-crema-facial-revitalizante-iluminador-anti-ox-deliplus-con-fps-50-vitamina-c-piel-normal-mixta-grasa-tarro",
+    "name": "Gel crema facial revitalizante & iluminador Anti Ox Deliplus con FPS 50 y Vitamina C",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "12832",
     "ean": "8402001026591",
     "brand": "Deliplus",
@@ -66553,6 +66562,15 @@
     "name": "Fideos orientales Yatekomo sabor pollo Gallina Blanca",
     "description": "Pack-3",
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
+    "id": "86450",
+    "ean": "8402001027154",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86450/compresa-con-alas-super-deliplus-cotton-paquete",
+    "name": "Compresa con alas super Deliplus Cotton",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "86452",
