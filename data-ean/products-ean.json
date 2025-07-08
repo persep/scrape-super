@@ -4869,6 +4869,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "12985",
+    "ean": "8402001032974",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12985/suso-relleno-crema-49-bandeja",
+    "name": "3 Susos relleno de crema",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "12987",
     "ean": "8402001030376",
     "brand": "Deliplus",
@@ -5082,6 +5091,15 @@
     "url": "https://tienda.mercadona.es/product/13040/ambientador-spray-red-elixir-bosque-verde-spray",
     "name": "Ambientador spray Red Elixir Bosque Verde",
     "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "13041",
+    "ean": "8402001015953",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/13041/difusor-ambientador-automatico-bosque-verde-incluye-2-pilas-caja",
+    "name": "Difusor ambientador automático Bosque Verde",
+    "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
@@ -7675,6 +7693,15 @@
     "name": "Galletas de espelta Hacendado 0% azúcares añadidos",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14243",
+    "ean": "8402001034671",
+    "brand": "Soplo",
+    "url": "https://tienda.mercadona.es/product/14243/lote-mujer-soplo-intense-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml-caja",
+    "name": "Lote mujer Soplo Intense",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "14246",
