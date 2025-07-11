@@ -8019,6 +8019,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "14347",
+    "ean": "8402001035029",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14347/maiz-palomitas-hacendado-paquete",
+    "name": "Maíz palomitas Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "14379",
     "ean": "8402001037696",
     "brand": "",
@@ -8377,6 +8386,15 @@
     "name": "Porras Hacendado congeladas",
     "description": "Paquete",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "15193",
+    "ean": "8402001038204",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15193/coquito",
+    "name": "Coquito",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "15203",
@@ -66582,6 +66600,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "86449",
+    "ean": "8402001027147",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86449/compresa-con-alas-normal-deliplus-cotton-paquete",
+    "name": "Compresa con alas normal Deliplus Cotton",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "8645",
     "ean": "8410300352914",
     "brand": "Gallina Blanca",
@@ -67596,6 +67623,15 @@
     "url": "https://tienda.mercadona.es/product/86918/licor-chicle-royal-swan-botella",
     "name": "Licor de chicle Royal Swan",
     "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
+    "id": "86920",
+    "ean": "8402001034305",
+    "brand": "La Recompensa",
+    "url": "https://tienda.mercadona.es/product/86920/bebida-preparada-ron-sabor-daiquiri-fresa-recompensa-ice-botellin",
+    "name": "Bebida preparada de ron sabor daiquiri fresa La Recompensa Ice",
+    "description": "Botellín",
     "category": "Bodega > Licores"
   },
   {
