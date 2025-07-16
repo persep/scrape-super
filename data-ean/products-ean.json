@@ -8109,6 +8109,60 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "14471",
+    "ean": "8402001035135",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14471/brillo-labios-lip-gloss-deliplus-01-nude-con-peptidos",
+    "name": "Brillo de labios Lip Gloss Deliplus 01 nude con péptidos",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14472",
+    "ean": "8402001035142",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14472/brillo-labios-lip-gloss-deliplus-02-rosa-medio-con-peptidos",
+    "name": "Brillo de labios Lip Gloss Deliplus 02 rosa medio con péptidos",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14473",
+    "ean": "8402001035159",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14473/brillo-labios-lip-gloss-deliplus-03-rosa-oscuro-con-peptidos",
+    "name": "Brillo de labios Lip Gloss Deliplus 03 rosa oscuro con péptidos",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14476",
+    "ean": "8402001035166",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14476/colorete-crema-cheek-blush-deliplus-mejillas-01-nude",
+    "name": "Colorete crema Cheek Blush Deliplus para mejillas 01 nude",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "14477",
+    "ean": "8402001035173",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14477/colorete-crema-cheek-blush-deliplus-mejillas-02-rosa-medio",
+    "name": "Colorete crema Cheek Blush Deliplus para mejillas 02 rosa medio",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "14478",
+    "ean": "8402001035180",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14478/colorete-crema-cheek-blush-deliplus-mejillas-03-rosa-oscuro",
+    "name": "Colorete crema Cheek Blush Deliplus para mejillas 03 rosa oscuro",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "14500",
     "ean": "8410891060304",
     "brand": "Meivel",
@@ -8260,6 +8314,15 @@
     "name": "Tónico facial vitaminas y minerales Facial Clean Deliplus hidratante y regenerador",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "14946",
+    "ean": "8410436495813",
+    "brand": "Micolor",
+    "url": "https://tienda.mercadona.es/product/14946/detergente-ropa-colada-mixta-micolor-gel-botella",
+    "name": "Detergente ropa colada mixta Micolor en gel",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "15031",
