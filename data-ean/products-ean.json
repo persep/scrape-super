@@ -8280,6 +8280,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "14725",
+    "ean": "8402001039706",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14725/hojaldre-sabor-pizza-pieza",
+    "name": "Hojaldre sabor pizza",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "14781",
     "ean": "8436548785475",
     "brand": "",
@@ -8467,6 +8476,15 @@
     "name": "Porras Hacendado congeladas",
     "description": "Paquete",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "15157",
+    "ean": "8402001039980",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15157/hojaldre-relleno-crema-cacao-hacendado",
+    "name": "Hojaldre relleno de crema de cacao Hacendado",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "15193",
@@ -15397,6 +15415,15 @@
     "name": "Vino tinto D.O Ribera del Duero Deidad crianza",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "23122",
+    "ean": "8480000231222",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23122/boquerones-vinagre-hacendado-aceite-girasol-tarrina",
+    "name": "Boquerones al vinagre Hacendado en aceite de girasol",
+    "description": "Tarrina",
+    "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
     "id": "23123",
