@@ -8091,6 +8091,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14443",
+    "ean": "8402001038211",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14443/bizcocho-azucar-sin-gluten-paquete",
+    "name": "Bizcocho azúcar sin gluten",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "14452",
     "ean": "8410162011110",
     "brand": "Terry",
@@ -8289,6 +8298,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "14726",
+    "ean": "8402001032066",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14726/exfoliante-arcilla-blanca-facial-clean-deliplus-piel-normal-mixta-bote",
+    "name": "Exfoliante Arcilla Blanca Facial Clean Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "14781",
     "ean": "8436548785475",
     "brand": "",
@@ -8332,6 +8350,15 @@
     "name": "Detergente ropa colada mixta Micolor en gel",
     "description": "Botella",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "14954",
+    "ean": "8422767002189",
+    "brand": "Dcoop",
+    "url": "https://tienda.mercadona.es/product/14954/aceitunas-verdes-dcoop-partidas-mantener-frio-bote",
+    "name": "Aceitunas verdes Dcoop partidas",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "15031",
