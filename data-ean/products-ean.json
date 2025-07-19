@@ -3978,6 +3978,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "12784",
+    "ean": "8402001031106",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12784/focaccia-con-tomates-cherry-hacendado-paquete",
+    "name": "Focaccia con tomates cherry Hacendado",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "12795",
     "ean": "8402001030581",
     "brand": "Deliplus",
@@ -8305,6 +8314,15 @@
     "name": "Exfoliante Arcilla Blanca Facial Clean Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "14743",
+    "ean": "8402001034145",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14743/bruma-facial-multifuncional-make-up-fixer-deliplus-bote",
+    "name": "Bruma facial multifuncional Make Up Fixer Deliplus",
+    "description": "Bote",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "14781",
@@ -66679,6 +66697,15 @@
     "name": "Coloración permanente 6.34 caramelo miel Deliplus 0% amoníaco",
     "description": "Caja",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "86416",
+    "ean": "8411767282127",
+    "brand": "Abadía Mantrús",
+    "url": "https://tienda.mercadona.es/product/86416/vino-tinto-do-ribera-duero-abadia-mantrus-crianza-botella",
+    "name": "Vino tinto D.O Ribera del Duero Abadía Mantrús crianza",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
   },
   {
     "id": "86418",
