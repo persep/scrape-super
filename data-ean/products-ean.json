@@ -4266,6 +4266,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "12856",
+    "ean": "80432115985",
+    "brand": "Olmeca",
+    "url": "https://tienda.mercadona.es/product/12856/tequila-reposado-omelca-botella",
+    "name": "Tequila reposado Olmeca",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "12857",
     "ean": "8402001030567",
     "brand": "Hacendado",
@@ -7155,6 +7164,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "13971",
+    "ean": "8402001027949",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13971/manteca-corporal-murumuru-deliplus-tarro",
+    "name": "Manteca corporal Murumuru Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "13972",
     "ean": "8402001027918",
     "brand": "Deliplus",
@@ -8116,6 +8134,24 @@
     "name": "Bebida espirituosa centenario Terry",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "14460",
+    "ean": "8402001029707",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14460/mist-posidonia-con-colageno-facial-clean-deliplus-tipo-pieles-bote",
+    "name": "Mist Posidónia con colágeno Facial Clean Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "14462",
+    "ean": "8402001027420",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14462/parches-ojos-hidrogel-hidratantes-deliplus-con-aloe-vera-centella-asiatica-paquete",
+    "name": "Parches para ojos de hidrogel Hidratantes Deliplus con aloe vera y centella asiática",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "14470",
