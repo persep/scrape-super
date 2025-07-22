@@ -4842,6 +4842,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "12966",
+    "ean": "8402001032936",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12966/contramuslos-pollo-deshuesados-con-piel-congelado-paquete",
+    "name": "Contramuslos de pollo deshuesados y con piel congelado",
+    "description": "Paquete",
+    "category": "Congelados > Carne"
+  },
+  {
     "id": "12968",
     "ean": "8720181072130",
     "brand": "Axe",
@@ -7101,6 +7110,24 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "13955",
+    "ean": "8411090720143",
+    "brand": "Spieler",
+    "url": "https://tienda.mercadona.es/product/13955/bebida-cider-con-gas-spieler-sabor-manzana",
+    "name": "Bebida cider con gas Spieler sabor a manzana",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "13956",
+    "ean": "8411090720136",
+    "brand": "Spieler",
+    "url": "https://tienda.mercadona.es/product/13956/bebida-cider-con-gas-spieler-sabor-manzana-botellin",
+    "name": "Bebida cider con gas Spieler sabor a manzana",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "13959",
     "ean": "8402001031977",
     "brand": "Deliplus",
@@ -7713,6 +7740,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14239",
+    "ean": "8480000142399",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14239/barquillos-rellenos-con-crema-cacao-hacendado-paquete",
+    "name": "Barquillos rellenos con crema de cacao Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "14241",
     "ean": "8480000142412",
     "brand": "Hacendado",
@@ -8096,6 +8132,15 @@
     "brand": "Piccolo Giovanni",
     "url": "https://tienda.mercadona.es/product/14394/vino-blanco-espumoso-sabor-melon-piccolo-giovanni-frizzante-botella",
     "name": "Vino blanco espumoso sabor melón Piccolo Giovanni frizzante",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "14397",
+    "ean": "8402001035371",
+    "brand": "Piccolo Giovanni",
+    "url": "https://tienda.mercadona.es/product/14397/vino-blanco-espumoso-sabor-manzana-pera-piccolo-giovanni-frizzante-botella",
+    "name": "Vino blanco espumoso sabor manzana y pera Piccolo Giovanni frizzante",
     "description": "Botella",
     "category": "Bodega > Vino lambrusco y espumoso"
   },
@@ -8566,6 +8611,15 @@
     "name": "Hojaldre relleno de crema de cacao Hacendado",
     "description": null,
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "15178",
+    "ean": "8436548785499",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15178/filetes-pechuga-pollo-adobada-cocida-bandeja",
+    "name": "Filetes de pechuga de pollo adobada cocida",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "15193",
