@@ -7245,6 +7245,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "13985",
+    "ean": "8402001036163",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13985/masa-fresca-pizza-hacendado",
+    "name": "Masa fresca pizza Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "13991",
     "ean": "8411114095721",
     "brand": "Superman",
@@ -7961,6 +7970,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/14288/laca-unas-alto-brillo-deliplus-125-azul-pastel",
     "name": "Laca de uñas alto brillo Deliplus 125 azul pastel",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "14290",
+    "ean": "8402001032349",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14290/laca-unas-alto-brillo-deliplus-127-azulon",
+    "name": "Laca de uñas alto brillo Deliplus 127 azulón",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
