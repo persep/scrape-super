@@ -7785,6 +7785,24 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "14244",
+    "ean": "8402001036583",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/14244/trozos-gelatina-gato-adulto-esterilizado-delikuit-con-buey-bote",
+    "name": "Trozos en gelatina gato adulto esterilizado Delikuit con buey",
+    "description": "Bote",
+    "category": "Mascotas > Gato"
+  },
+  {
+    "id": "14245",
+    "ean": "8402001036576",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/14245/trozos-gelatina-perro-adulto-delikuit-con-pollo-bote",
+    "name": "Trozos en gelatina perro adulto Delikuit con pollo",
+    "description": "Bote",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "14246",
     "ean": "8402001036613",
     "brand": "Hacendado",
@@ -8296,6 +8314,15 @@
     "name": "Bollitos glaseados Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14510",
+    "ean": "8402001036866",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14510/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
+    "name": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "14555",
