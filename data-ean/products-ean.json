@@ -8037,6 +8037,15 @@
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
+    "id": "14313",
+    "ean": "8402001037191",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14313/refresco-naranja-hacendado-sin-gas-botella",
+    "name": "Refresco de naranja Hacendado sin gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
     "id": "14323",
     "ean": "8414640193633",
     "brand": "Uahuu",
@@ -8197,6 +8206,15 @@
     "name": "Galletas canela Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14432",
+    "ean": "8402001034589",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14432/pimientos-secos-hacendado-paquete",
+    "name": "Pimientos secos Hacendado",
+    "description": "Paquete",
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "14443",
@@ -8503,6 +8521,15 @@
     "name": "Aceitunas verdes Dcoop partidas",
     "description": "Bote",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "14961",
+    "ean": "8402001038990",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14961/pan-molde-espelta-100-integral-hacendado-natural-paquete",
+    "name": "Pan de molde espelta 100% integral Hacendado natural",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "15031",
