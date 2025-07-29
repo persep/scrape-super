@@ -7245,6 +7245,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "13984",
+    "ean": "4009233003976",
+    "brand": "Fiesta",
+    "url": "https://tienda.mercadona.es/product/13984/mini-pizzas-jamon-queso-fiesta-ultracongeladas-paquete",
+    "name": "Mini pizzas jamón y queso Fiesta ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pizzas"
+  },
+  {
     "id": "13985",
     "ean": "8402001036163",
     "brand": "Hacendado",
@@ -8224,6 +8233,15 @@
     "name": "Pimientos secos Hacendado",
     "description": "Paquete",
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "14433",
+    "ean": "8402001038228",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14433/cera-cabello-mate-deliplus-fijacion-4-bote",
+    "name": "Cera cabello Mate Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
   },
   {
     "id": "14443",
