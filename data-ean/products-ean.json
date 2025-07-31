@@ -4212,6 +4212,15 @@
     "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
+    "id": "12847",
+    "ean": "8402001034954",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12847/salsa-brasa-sabor-hacendado-bote",
+    "name": "Salsa Brasa & Sabor Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "12848",
     "ean": "8402001023149",
     "brand": "Deliplus",
@@ -18194,6 +18203,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/24712/langostino-crudo-ultracongelado-caja",
     "name": "Langostino crudo ultracongelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24750",
+    "ean": "8480000247506",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24750/gamba-arrocera-pequena-hacendado-congelada-caja",
+    "name": "Gamba arrocera pequeña Hacendado congelada",
     "description": "Caja",
     "category": "Congelados > Marisco"
   },
