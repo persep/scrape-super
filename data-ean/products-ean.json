@@ -7272,6 +7272,15 @@
     "category": "Pizzas y platos preparados > Pizzas"
   },
   {
+    "id": "13987",
+    "ean": "8402001033896",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13987/caramelos-con-palo-mix-hacendado-sabor-cereza-fresa-paquete",
+    "name": "Caramelos con palo Mix Hacendado sabor cereza y fresa",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
     "id": "13991",
     "ean": "8411114095721",
     "brand": "Superman",
@@ -8566,6 +8575,15 @@
     "name": "Pan de molde espelta 100% integral Hacendado natural",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "14973",
+    "ean": "8411114095714",
+    "brand": "Gabby's Dollhouse",
+    "url": "https://tienda.mercadona.es/product/14973/lote-infantil-gabbys-dollhouse-contiene-eau-toilette-150ml-ganchos-cabello-laminas-magicas-pintar-con-agua-rotulador-caja",
+    "name": "Lote infantil Gabby's Dollhouse",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "15031",
