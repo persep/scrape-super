@@ -8838,6 +8838,24 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "15270",
+    "ean": "8402001041815",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15270/queso-curado-oveja-con-crema-naranja-hacendado-pieza",
+    "name": "Queso curado de oveja con crema de naranja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "15296",
+    "ean": "8436021419743",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15296/kit-burger-meat-vacuno-cerdo-con-cebolla-frita-bacon-queso-ahumado-salsa-smoky-mayo-bandeja",
+    "name": "Kit burger meat de vacuno y cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "15334",
     "ean": "8480000153340",
     "brand": "Hacendado",
