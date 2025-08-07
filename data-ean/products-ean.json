@@ -8172,6 +8172,24 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "14345",
+    "ean": "8402001037955",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14345/bebida-soja-sabor-cafe-0-azucar",
+    "name": "Bebida de soja sabor café 0% azúcar",
+    "description": null,
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "14346",
+    "ean": "8402001037948",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14346/bebida-soja-sabor-cafe-0-azucar-brick",
+    "name": "Bebida de soja sabor café 0% azúcar",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "14347",
     "ean": "8402001035029",
     "brand": "Hacendado",
