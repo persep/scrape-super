@@ -3942,6 +3942,15 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "12772",
+    "ean": "8402001030949",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/12772/snack-liquido-perro-adulto-compy-con-pollo-higado-caja",
+    "name": "Snack líquido perro adulto Compy con pollo e hígado",
+    "description": "Caja",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "12778",
     "ean": "8402001029844",
     "brand": "Deliplus",
@@ -8890,6 +8899,24 @@
     "name": "Queso curado de oveja con crema de naranja Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "15291",
+    "ean": "8402001033773",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/15291/lote-hombre-rebel-contiene-eau-parfum-100ml-gel-champu-100ml-mini-eau-parfum-15ml-caja",
+    "name": "Lote hombre Como Tú Rebel",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15292",
+    "ean": "8402001033735",
+    "brand": "9.60",
+    "url": "https://tienda.mercadona.es/product/15292/lote-hombre-960-accion-contiene-sport-water-200-ml-gel-champu-100-ml-gel-fijador-100-ml-caja",
+    "name": "Lote hombre 9.60 Acción",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "15296",
