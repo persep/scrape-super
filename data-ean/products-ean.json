@@ -8235,6 +8235,15 @@
     "category": "Fruta y verdura > Fruta"
   },
   {
+    "id": "14385",
+    "ean": "8402001038235",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/14385/comida-gato-adulto-esterilizado-light-compy-con-pollo-frutas-verduras-paquete",
+    "name": "Comida gato adulto esterilizado light Compy con pollo, frutas y verduras",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "14390",
     "ean": "8402001034985",
     "brand": "Deliplus",
@@ -8341,6 +8350,15 @@
     "name": "Parches para ojos de hidrogel Hidratantes Deliplus con aloe vera y centella asiática",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "14466",
+    "ean": "8402001039034",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14466/bolsa-basura-envases-bosque-verde-30l-cubo-mediano-paquete",
+    "name": "Bolsa de basura envases Bosque Verde 30L cubo mediano",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Pilas y bolsas de basura"
   },
   {
     "id": "14467",
@@ -69540,6 +69558,15 @@
     "url": "https://tienda.mercadona.es/product/8905/higos-bandeja",
     "name": "Higos",
     "description": "Bandeja",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "8906",
+    "ean": "8480000089069",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/8906/higos-blancos-bandeja",
+    "name": "Higos blancos",
+    "description": null,
     "category": "Fruta y verdura > Fruta"
   },
   {
