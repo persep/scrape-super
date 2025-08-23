@@ -8226,6 +8226,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "14378",
+    "ean": "5036034406834",
+    "brand": "Mission",
+    "url": "https://tienda.mercadona.es/product/14378/pan-pita-mission-paquete",
+    "name": "Pan de pita Mission",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "14379",
     "ean": "8402001037696",
     "brand": "",
@@ -9061,6 +9070,15 @@
     "name": "Miel de eucalipto Hacendado",
     "description": "Bote",
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
+  },
+  {
+    "id": "15470",
+    "ean": "8480000154705",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15470/jamon-serrano-cortado-maquina-envasado-vacio-paquete",
+    "name": "Jamón serrano cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "15520",
