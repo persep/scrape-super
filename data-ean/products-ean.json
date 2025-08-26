@@ -2133,6 +2133,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "11617",
+    "ean": "8402001028748",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11617/wok-verduras-hacendado-ultracongelado-paquete",
+    "name": "Wok de verduras Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "11622",
     "ean": "8402001027888",
     "brand": "Llanto de uva",
@@ -5189,6 +5198,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/13055/ambientador-varitas-magnolia-bosque-verde-caja",
     "name": "Ambientador varitas Magnolia Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "13056",
+    "ean": "8402001034060",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/13056/ambientador-varitas-pistacho-bosque-verde-caja",
+    "name": "Ambientador varitas Pistacho Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
@@ -8251,6 +8269,15 @@
     "name": "Moras",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "14384",
+    "ean": "8402001036835",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14384/esponja-maquillaje-deliplus-caja",
+    "name": "Esponja maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
   },
   {
     "id": "14385",
