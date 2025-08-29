@@ -7128,6 +7128,15 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "13951",
+    "ean": "8402001036606",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13951/yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-sabor-2-fresa-2-frutos-silvestres-2-coco-2-pera",
+    "name": "Yogur sabores Hacendado 0% m.g 0% sin azúcares añadidos",
+    "description": null,
+    "category": "Postres y yogures > Yogures desnatados"
+  },
+  {
     "id": "13952",
     "ean": "8414640193626",
     "brand": "Uhauu",
@@ -48798,6 +48807,15 @@
     "category": "Congelados > Arroz y pasta"
   },
   {
+    "id": "61362",
+    "ean": "8435434311705",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/61362/pasta-con-pollo-pesto-hacendado-ultracongelada-paquete",
+    "name": "Pasta con pollo al pesto Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "61363",
     "ean": "8480000613639",
     "brand": "Hacendado",
@@ -68227,6 +68245,15 @@
     "name": "Burger de pollo gruesa",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "86913",
+    "ean": "8402001034268",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86913/galletas-tostadas-animadas-hacendado-paquete",
+    "name": "Galletas tostadas Animadas Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "86915",
