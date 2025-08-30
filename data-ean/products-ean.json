@@ -4005,6 +4005,15 @@
     "category": "Pizzas y platos preparados > Pizzas"
   },
   {
+    "id": "12794",
+    "ean": "8402001031090",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12794/filetes-caballa-sur-contenido-reducido-sal-hacendado-aceite-oliva",
+    "name": "Filetes de caballa del sur contenido reducido en sal Hacendado en aceite de oliva",
+    "description": null,
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
     "id": "12795",
     "ean": "8402001030581",
     "brand": "Deliplus",
@@ -8262,6 +8271,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "14355",
+    "ean": "8402001034893",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14355/bombones-chocolate-con-leche-mini-peanut-cups-hacendado-relleno-crema-pedazos-cacahuete-paquete",
+    "name": "Bombones de chocolate con leche Mini Peanut Cups Hacendado relleno de crema y pedazos de cacahuete",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "14378",
     "ean": "5036034406834",
     "brand": "Mission",
@@ -8528,6 +8546,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/14510/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
     "name": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "14550",
+    "ean": "8402001036873",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14550/barritas-crujientes-caocream-hacendado-rellenas-galleta-cacao-paquete",
+    "name": "Barritas crujientes Caocream Hacendado rellenas de galleta de cacao",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
