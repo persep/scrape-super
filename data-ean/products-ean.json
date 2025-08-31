@@ -9081,6 +9081,24 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "15342",
+    "ean": "8428390080587",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/15342/mini-eau-parfum-mujer-flor-mayo-ruby-frasco",
+    "name": "Mini eau de parfum mujer Flor De Mayo Ruby",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15343",
+    "ean": "8428390080594",
+    "brand": "Flor De Mayo",
+    "url": "https://tienda.mercadona.es/product/15343/mini-eau-parfum-hombre-flor-mayo-touche-frasco",
+    "name": "Mini eau de parfum hombre Flor De Mayo Touché",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "15428",
     "ean": "8414445101239",
     "brand": "Nuestra Señora del Carmen",
@@ -12391,6 +12409,15 @@
     "name": "Sirope de agave",
     "description": "Bote",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19868",
+    "ean": "8402001029714",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19868/crema-manos-oriental-woods-deliplus-tarro",
+    "name": "Crema de manos Oriental Woods Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "1988",
