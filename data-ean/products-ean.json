@@ -23472,6 +23472,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "3340",
+    "ean": "8413910400006",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/3340/naranjas-malla",
+    "name": "Naranjas",
+    "description": "Malla",
+    "category": "Fruta y verdura > Fruta"
+  },
+  {
     "id": "33407",
     "ean": "8420331000562",
     "brand": null,
@@ -44530,6 +44539,15 @@
     "name": "Longaniza de Pascua Hacendado",
     "description": "Paquete",
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "5520",
+    "ean": "8480000055200",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/5520/naranjas-malla",
+    "name": "Naranjas",
+    "description": "Malla",
+    "category": "Fruta y verdura > Fruta"
   },
   {
     "id": "5530",
