@@ -8739,6 +8739,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "14949",
+    "ean": "8402001040603",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14949/pasta-fresca-ravioli-jamon-serrano-queso-hacendado-bandeja",
+    "name": "Pasta fresca ravioli jamón serrano y queso Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "14954",
     "ean": "8422767002189",
     "brand": "Dcoop",
@@ -46429,6 +46438,15 @@
     "name": "Pan integral 100% fino",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "60364",
+    "ean": "8480000603647",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60364/lenguado-arena-limpio-hacendado-ultracongelado-paquete",
+    "name": "Lenguado de arena limpio Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "60369",
