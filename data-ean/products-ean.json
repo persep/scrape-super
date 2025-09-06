@@ -8523,6 +8523,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "14484",
+    "ean": "8410109131864",
+    "brand": "Senzza",
+    "url": "https://tienda.mercadona.es/product/14484/surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete",
+    "name": "Surtido bombones Senzza de chocolate con avellana, fondant, praliné y almendra",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "14500",
     "ean": "8410891060304",
     "brand": "Meivel",
@@ -8712,6 +8721,60 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "14917",
+    "ean": "8436601370679",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14917/brillo-labios-lip-gloss-terra-deliplus-01-nude-rosado",
+    "name": "Brillo de labios Lip Gloss Terra Deliplus 01 nude rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14918",
+    "ean": "8436601370686",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14918/brillo-labios-lip-gloss-terra-deliplus-02-opal-ciruela",
+    "name": "Brillo de labios Lip Gloss Terra Deliplus 02 opal ciruela",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14919",
+    "ean": "8436601370709",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14919/pintalabios-lipstick-terra-deliplus-01-agate-rosa-medio",
+    "name": "Pintalabios Lipstick Terra Deliplus 01 agate rosa medio",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14920",
+    "ean": "8436601370716",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14920/pintalabios-lipstick-terra-deliplus-02-rosa-intenso",
+    "name": "Pintalabios Lipstick Terra Deliplus 02 rosa intenso",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14921",
+    "ean": "8436601370662",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14921/paleta-rostro-terra-deliplus-contiene-polvo-bronceador-colorete-iluminador",
+    "name": "Paleta de rostro Terra Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "14922",
+    "ean": "8436601370693",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14922/prebase-facial-primer-terra-deliplus-jade",
+    "name": "Prebase facial Primer Terra Deliplus jade",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "14926",
     "ean": "8480000149268",
     "brand": "Hacendado",
@@ -8755,6 +8818,24 @@
     "name": "Aceitunas verdes Dcoop partidas",
     "description": "Bote",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "14956",
+    "ean": "8402001035548",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14956/delineador-cejas-brow-liner-terra-deliplus-01-castano-medio",
+    "name": "Delineador de cejas Brow Liner Terra Deliplus 01 castaño medio",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "14957",
+    "ean": "8402001035555",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14957/delineador-cejas-brow-liner-terra-deliplus-02-castano-oscuro",
+    "name": "Delineador de cejas Brow Liner Terra Deliplus 02 castaño oscuro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "14961",
