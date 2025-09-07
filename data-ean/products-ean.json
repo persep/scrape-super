@@ -9117,6 +9117,33 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "15262",
+    "ean": "8402001036989",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15262/laca-unas-con-queratina-deliplus-129-nude",
+    "name": "Laca de uñas con queratina Deliplus 129 nude",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "15263",
+    "ean": "8402001036972",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15263/laca-unas-base-brillo-deliplus-130",
+    "name": "Laca de uñas base brillo Deliplus 130",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "15268",
+    "ean": "8402001032028",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15268/lote-facial-sisbela-reafirm-deliplus-contiene-crema-revitalizante-50-ml-contorno-ojos-15-ml",
+    "name": "Lote facial Sisbela Reafirm Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "15270",
     "ean": "8402001041815",
     "brand": "Hacendado",
@@ -9133,6 +9160,15 @@
     "name": "Helado sabor chocolate Hacendado",
     "description": "Caja",
     "category": "Congelados > Helados"
+  },
+  {
+    "id": "15290",
+    "ean": "8402001033681",
+    "brand": "Soplo",
+    "url": "https://tienda.mercadona.es/product/15290/lote-mujer-soplo-amor-contiene-eau-parfum-100-ml-leche-corporal-100-ml-eau-parfum-15-ml-caja",
+    "name": "Lote mujer Soplo Amor",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "15291",
@@ -9153,6 +9189,33 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "15293",
+    "ean": "8414640193688",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/15293/neceser-rosa-multifuncion-uahuu-mediano-255-x-110-x-110-mm",
+    "name": "Neceser rosa multifunción Uahuu mediano",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15294",
+    "ean": "8414640193732",
+    "brand": "Mafalda",
+    "url": "https://tienda.mercadona.es/product/15294/neceser-transparente-doble-mafalda-grande-con-asa-240-x-200-x-75-mm",
+    "name": "Neceser transparente doble Mafalda grande con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15295",
+    "ean": "8414640193664",
+    "brand": "Wild & Free",
+    "url": "https://tienda.mercadona.es/product/15295/neceser-leopardo-wild-free-mediano-con-asa-255-x-165-x-80-mm",
+    "name": "Neceser leopardo Wild & Free mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "15296",
     "ean": "8436021419743",
     "brand": "",
@@ -9160,6 +9223,24 @@
     "name": "Kit burger meat de vacuno y cerdo",
     "description": "Bandeja",
     "category": "Carne > Hamburguesas y picadas"
+  },
+  {
+    "id": "15297",
+    "ean": "8414640193725",
+    "brand": "Uahuu",
+    "url": "https://tienda.mercadona.es/product/15297/neceser-azul-espiga-uahuu-mediano-con-asa-250-x-150-x-80-mm",
+    "name": "Neceser azul espiga Uahuu mediano con asa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15298",
+    "ean": "8414640193503",
+    "brand": "Harry Potter",
+    "url": "https://tienda.mercadona.es/product/15298/neceser-blanco-hogwarts-harry-potter-pequeno-140-x-125-x-75-mm",
+    "name": "Neceser blanco Hogwarts Harry Potter pequeño",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "15334",
