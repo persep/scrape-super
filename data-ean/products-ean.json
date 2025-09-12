@@ -5247,6 +5247,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "13064",
+    "ean": "8402001034435",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13064/gel-corporal-infantil-deliplus-bote",
+    "name": "Gel corporal infantil Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
+  },
+  {
     "id": "13069",
     "ean": "8402001034114",
     "brand": "Hacendado",
@@ -9351,6 +9360,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "15472",
+    "ean": "8480000154729",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15472/jamon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Jamón cebo ibérico cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "15520",
     "ean": "8480000155207",
     "brand": "La Recompensa",
@@ -12589,6 +12607,15 @@
     "name": "Sirope de agave",
     "description": "Bote",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19867",
+    "ean": "8007640964060",
+    "brand": "Enervit Sport",
+    "url": "https://tienda.mercadona.es/product/19867/barrita-con-proteinas-enervit-sport-sabor-chocolate-con-leche-caja",
+    "name": "Barrita con proteínas Enervit Sport sabor chocolate con leche",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "19868",
@@ -16297,6 +16324,15 @@
     "name": "Comida gato bolas de pelo Supreme Compy con pollo, frutas y verduras",
     "description": "Paquete",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "23180",
+    "ean": "8411585007995",
+    "brand": "Andares",
+    "url": "https://tienda.mercadona.es/product/23180/jamon-bellota-iberico-100-covap-pieza",
+    "name": "Jamón de bellota ibérico 100% Andares",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "23182",
