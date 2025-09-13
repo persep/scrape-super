@@ -6237,6 +6237,15 @@
     "category": "Panadería y pastelería > Picos, rosquilletas y picatostes"
   },
   {
+    "id": "13632",
+    "ean": "8402001031120",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13632/filetes-caballa-sur-tomate-hacendado-pack-2",
+    "name": "Filetes de caballa del sur en tomate Hacendado",
+    "description": "Pack-2",
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
     "id": "13633",
     "ean": "8410104914073",
     "brand": "Vitroclen",
@@ -8305,6 +8314,15 @@
     "name": "Moras",
     "description": "Bandeja",
     "category": "Fruta y verdura > Fruta"
+  },
+  {
+    "id": "14383",
+    "ean": "8402001041198",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14383/cafe-capsula-sabor-caramel-hacendado-compatibles-maquinas-nespresso-caja",
+    "name": "Café en cápsula sabor Caramel Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
     "id": "14384",
