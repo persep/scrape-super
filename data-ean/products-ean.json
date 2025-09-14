@@ -5238,6 +5238,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "13061",
+    "ean": "8402001031038",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13061/mascarilla-facial-detox-mask-deliplus-con-acido-glicolico-niacinamida-carbon-activo-paquete",
+    "name": "Mascarilla facial Detox Mask Deliplus con ácido glicólico, niacinamida y carbón activo",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "13062",
     "ean": "8402001024801",
     "brand": "Deliplus",
@@ -5252,6 +5261,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/13064/gel-corporal-infantil-deliplus-bote",
     "name": "Gel corporal infantil Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "13065",
+    "ean": "8402001034442",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13065/champu-infantil-deliplus-con-manzanilla-tila-bote",
+    "name": "Champú infantil Deliplus",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
   },
@@ -9060,6 +9078,15 @@
     "url": "https://tienda.mercadona.es/product/15157/hojaldre-relleno-crema-cacao-hacendado",
     "name": "Hojaldre relleno de crema de cacao Hacendado",
     "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "15165",
+    "ean": "8402001037863",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15165/bizcocho-hacendado-paquete",
+    "name": "Bizcocho Hacendado",
+    "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
