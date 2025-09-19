@@ -2700,6 +2700,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "11945",
+    "ean": "8402001037306",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11945/sandwich-gratinado-tosty-hacendado-con-queso-jamon-cocido-bechamel-microondas-paquete",
+    "name": "Sándwich gratinado Tosty Hacendado con queso, jamón cocido y bechamel",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "11946",
     "ean": "8402001029134",
     "brand": "Hacendado",
@@ -12708,6 +12717,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "19880",
+    "ean": "8402001041785",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19880/tarta-infantil-tesia-and-friends-hacendado-congelada",
+    "name": "Tarta infantil Tesia and Friends Hacendado congelada",
+    "description": null,
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "19897",
     "ean": "8480000198976",
     "brand": null,
@@ -12715,6 +12733,24 @@
     "name": "Azúcar blanco",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19956",
+    "ean": "8413194106434",
+    "brand": "Estrella de Levante",
+    "url": "https://tienda.mercadona.es/product/19956/cerveza-sin-gluten-00-sin-alcohol-estrella-levante",
+    "name": "Cerveza sin gluten 0,0% sin alcohol Estrella de Levante",
+    "description": null,
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "19957",
+    "ean": "8413194106137",
+    "brand": "Estrella de Levante",
+    "url": "https://tienda.mercadona.es/product/19957/cerveza-sin-gluten-00-sin-alcohol-estrella-levante-lata",
+    "name": "Cerveza sin gluten 0,0% sin alcohol Estrella de Levante",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "20001",
