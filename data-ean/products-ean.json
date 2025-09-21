@@ -2754,6 +2754,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "11960",
+    "ean": "8402001032707",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11960/almendra-tostada-salada-hacendado-con-piel-paquete",
+    "name": "Almendra tostada y salada Hacendado con piel",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "11963",
     "ean": "8402001029332",
     "brand": "Compy",
@@ -12751,6 +12760,15 @@
     "name": "Cerveza sin gluten 0,0% sin alcohol Estrella de Levante",
     "description": "Lata",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "19980",
+    "ean": "8402001036385",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19980/sazonador-sabor-sour-cream-hacendado-patatas-snacks-carnes-salsas",
+    "name": "Sazonador sabor sour cream Hacendado para patatas, snacks, carnes y salsas",
+    "description": null,
+    "category": "Aceite, especias y salsas > Especias"
   },
   {
     "id": "20001",
