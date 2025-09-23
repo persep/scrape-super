@@ -7965,6 +7965,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "14251",
+    "ean": "8402001036453",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14251/turron-chocolate-blanco-con-galleta-caocream-hacendado-tableta",
+    "name": "Turrón de chocolate blanco con galleta Caocream Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "14260",
     "ean": "8402001032967",
     "brand": "Deliplus",
@@ -8523,6 +8532,24 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "14468",
+    "ean": "8402001038358",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14468/surtido-bombones-chocolate-belga-hacendado-caja",
+    "name": "Surtido bombones de chocolate Belga Hacendado",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "14469",
+    "ean": "8402001038365",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14469/bolitas-coco-hacendado-paquete",
+    "name": "Bolitas de coco Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "14470",
     "ean": "8480000144706",
     "brand": "",
@@ -8863,6 +8890,15 @@
     "name": "Surtido de caramelos Diver Xuxes Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "14937",
+    "ean": "8402001037085",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14937/surtido-chocolates-con-leche-halloween-hacendado-paquete",
+    "name": "Surtido chocolates con leche Halloween Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "14940",
@@ -12715,6 +12751,15 @@
     "name": "Crema de manos Oriental Woods Deliplus",
     "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "19876",
+    "ean": "8410494304195",
+    "brand": "Kas",
+    "url": "https://tienda.mercadona.es/product/19876/bitter-kas-sin-alcohol",
+    "name": "Bitter Kas sin alcohol",
+    "description": null,
+    "category": "Agua y refrescos > Tónica y bitter"
   },
   {
     "id": "1988",
