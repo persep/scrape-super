@@ -7083,6 +7083,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "13914",
+    "ean": "8402001034923",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13914/aceitunas-verdes-rellenas-pimiento-asado-hacendado-bote",
+    "name": "Aceitunas verdes rellenas de pimiento asado Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "13915",
     "ean": "8436039788022",
     "brand": "",
@@ -8478,6 +8487,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "14441",
+    "ean": "8402001037771",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14441/perfilador-ojos-waterproof-deliplus-105-verde",
+    "name": "Perfilador de ojos Waterproof Deliplus 105 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "14443",
     "ean": "8402001038211",
     "brand": "",
@@ -8485,6 +8503,15 @@
     "name": "Bizcocho azúcar sin gluten",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "14448",
+    "ean": "8402001037788",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14448/perfilador-ojos-waterproof-deliplus-106-marron",
+    "name": "Perfilador de ojos Waterproof Deliplus 106 marrón",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "14452",
@@ -8890,6 +8917,15 @@
     "name": "Cocktail galletitas de aperitivo Hacendado",
     "description": "Bote",
     "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "14932",
+    "ean": "8436561132461",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14932/pinchos-cordero-adobados-bandeja",
+    "name": "Pinchos de cordero adobados",
+    "description": "Bandeja",
+    "category": "Carne > Conejo y cordero"
   },
   {
     "id": "14934",
