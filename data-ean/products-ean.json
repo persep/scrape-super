@@ -4545,6 +4545,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "12902",
+    "ean": "8402001032769",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12902/desodorante-dark-deliplus-antimanchas-spray",
+    "name": "Desodorante Dark Deliplus antimanchas",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "12906",
     "ean": "8402001022609",
     "brand": "Deliplus",
@@ -5306,6 +5315,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/13065/champu-infantil-deliplus-con-manzanilla-tila-bote",
     "name": "Champú infantil Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
+  },
+  {
+    "id": "13066",
+    "ean": "8402001034466",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13066/locion-corporal-infantil-hidratante-deliplus-bote",
+    "name": "Loción corporal infantil hidratante Deliplus",
     "description": "Bote",
     "category": "Bebé > Higiene y cuidado"
   },
@@ -13192,6 +13210,15 @@
     "name": "Sazonador sabor sour cream Hacendado para patatas, snacks, carnes y salsas",
     "description": null,
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "19988",
+    "ean": "8402001037078",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19988/chocolate-con-leche-hacendado-almendras-enteras-0-azucares-anadidos-tableta",
+    "name": "Chocolate con leche Hacendado almendras enteras",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "20001",
