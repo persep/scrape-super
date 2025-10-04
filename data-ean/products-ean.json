@@ -7542,6 +7542,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14074",
+    "ean": "8402001041921",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14074/galletas-biscuit-con-relleno-crema-chocolate-hacendado-paquete",
+    "name": "Galletas Biscuit con relleno de crema de chocolate Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "14079",
     "ean": "8480000140791",
     "brand": "Hacendado",
@@ -8836,6 +8845,24 @@
     "name": "Barritas de avena Crunchy Nature Valley con chocolate negro",
     "description": "Caja",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "14714",
+    "ean": "8402001036200",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14714/vela-perfumada-santal-vanilla-bosque-verde-caja",
+    "name": "Vela perfumada Santal Vanilla Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "14717",
+    "ean": "8402001036187",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14717/vela-perfumada-chai-bosque-verde-caja",
+    "name": "Vela perfumada Chai Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "14725",
