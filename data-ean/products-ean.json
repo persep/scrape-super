@@ -8856,6 +8856,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "14716",
+    "ean": "8402001036217",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14716/vela-perfumada-berries-bosque-verde-caja",
+    "name": "Vela perfumada Berries Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "14717",
     "ean": "8402001036187",
     "brand": "Bosque Verde",
@@ -8908,6 +8917,24 @@
     "name": "Tortitas de maíz campestre Hacendado",
     "description": "Paquete",
     "category": "Cereales y galletas > Tortitas"
+  },
+  {
+    "id": "14790",
+    "ean": "8402001034749",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14790/calendario-adviento-24-make-up-treasures-deliplus-contiene-prebase-sombra-ojos-borla-polvo-bronceador-colorete-stick-lima-unas-base-unas-sombra-ojos-crema-pinceles-lapiz-labios-balsamo-labial-labial-liquido-sombra-ojos-brocha-polvo-iluminador-laca-unas-esponja-funda-exfoliante-labial-plantilla-delineador-lapiz-ojos-labial-brillo-labios-neceser",
+    "name": "Calendario Adviento 24 Make up  Treasures Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "14791",
+    "ean": "8436601370723",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14791/lote-12-make-up-essentials-mail-post-deliplus-contiene-iluminador-liquido-bronceador-barra-delineador-labios-labial-liquido-mate-acabado-brillante-delineador-ojos-sombra-liquida-mate-con-brillo-tinte-labios-mejillas-colorete-crema-lapiz-cejas-paleta-sombra-ojos-polvo-crema-esponja-maquillaje-balsamo-labial",
+    "name": "Lote 12 Make up Essentials Mail Post Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "14796",
@@ -9027,6 +9054,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "14948",
+    "ean": "8428390080563",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/14948/mini-eau-parfum-mujer-flor-mayo-diamond-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Diamond",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "14949",
     "ean": "8402001040603",
     "brand": "Hacendado",
@@ -9061,6 +9097,15 @@
     "name": "Delineador de cejas Brow Liner Terra Deliplus 02 castaño oscuro",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "14960",
+    "ean": "8402001040993",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14960/pasta-fresca-girasoles-carrillera-pure-patata-hacendado-bandeja",
+    "name": "Pasta fresca girasoles carrillera y puré de patata Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "14961",
@@ -9486,6 +9531,15 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "15198",
+    "ean": "8402001041846",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15198/bizcocho-con-pistacho-paquete",
+    "name": "Bizcocho con pistacho",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "15203",
     "ean": "8994010000179",
     "brand": "Hacendado",
@@ -9843,6 +9897,24 @@
     "url": "https://tienda.mercadona.es/product/15343/mini-eau-parfum-hombre-flor-mayo-touche-frasco",
     "name": "Mini eau de parfum hombre Flor De Mayo Touché",
     "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15346",
+    "ean": "8402001029684",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/15346/lote-mujer-12-iconic-mini-fragancias-15ml-contiene-eau-parfum-extratime-blue-soiree-amor-atraccion-special-gold-supreme-bright-the-rose-cerise-eclant-caja",
+    "name": "Lote mujer 12 Iconic Como Tú mini fragancias de 15ml",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15347",
+    "ean": "8402001029691",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/15347/lote-hombre-the-6-iconic-mini-fragancias-15ml-contiene-eau-parfum-rebel-el-viento-borealia-fuerza-supreme-caja",
+    "name": "Lote hombre The 6 Iconic Como Tú mini fragancias de 15ml",
+    "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -13183,6 +13255,42 @@
     "name": "Crema de manos Oriental Woods Deliplus",
     "description": "Tarro",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "19869",
+    "ean": "8402001034169",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19869/laca-unas-alto-brillo-deliplus-27-burdeos",
+    "name": "Laca de uñas alto brillo Deliplus 27 burdeos",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "19870",
+    "ean": "8402001034176",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19870/laca-unas-alto-brillo-deliplus-28-cereza",
+    "name": "Laca de uñas alto brillo Deliplus 28 cereza",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "19871",
+    "ean": "8402001036996",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19871/laca-unas-alto-brillo-deliplus-29-marron",
+    "name": "Laca de uñas alto brillo Deliplus 29 marrón",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "19872",
+    "ean": "8402001037252",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19872/laca-unas-alto-brillo-deliplus-30-malva",
+    "name": "Laca de uñas alto brillo Deliplus 30 malva",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "19876",
