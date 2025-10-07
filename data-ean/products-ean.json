@@ -8037,6 +8037,15 @@
     "category": "Azúcar, caramelos y chocolate > Turrones"
   },
   {
+    "id": "14256",
+    "ean": "8402001036743",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14256/ambientador-spray-essence-bosque-verde-spray",
+    "name": "Ambientador spray Essence Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "14260",
     "ean": "8402001032967",
     "brand": "Deliplus",
@@ -8874,6 +8883,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "14719",
+    "ean": "8402001036194",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14719/vela-perfumada-matcha-bosque-verde-caja",
+    "name": "Vela perfumada Matcha Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "14725",
     "ean": "8402001039706",
     "brand": "",
@@ -9529,6 +9547,15 @@
     "name": "Coquito",
     "description": null,
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "15197",
+    "ean": "8402001041730",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15197/bizcocho-con-pistacho-paquete",
+    "name": "Bizcocho con pistacho",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "15198",
