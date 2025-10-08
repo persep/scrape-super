@@ -1746,6 +1746,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "11523",
+    "ean": "8402001027376",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11523/velas-cumpleanos-hacendado-paquete",
+    "name": "Velas de cumpleaños Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
     "id": "11526",
     "ean": "8436590110713",
     "brand": "Flor Sierra de Aracena",
@@ -1753,6 +1762,96 @@
     "name": "Jamón de cebo ibérico 50% Flor Sierra de Aracena",
     "description": "Pieza",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "11529",
+    "ean": "8402001027741",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11529/vela-cumpleanos-0-hacendado-paquete",
+    "name": "Vela de cumpleaños 0 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11530",
+    "ean": "8402001027758",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11530/vela-cumpleanos-1-hacendado-paquete",
+    "name": "Vela de cumpleaños 1 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11531",
+    "ean": "8402001027765",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11531/vela-cumpleanos-2-hacendado-paquete",
+    "name": "Vela de cumpleaños 2 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11532",
+    "ean": "8402001027772",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11532/vela-cumpleanos-3-hacendado-paquete",
+    "name": "Vela de cumpleaños 3 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11533",
+    "ean": "8402001027789",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11533/vela-cumpleanos-4-hacendado-paquete",
+    "name": "Vela de cumpleaños 4 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11534",
+    "ean": "8402001027796",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11534/vela-cumpleanos-5-hacendado-paquete",
+    "name": "Vela de cumpleaños 5 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11535",
+    "ean": "8402001027802",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11535/vela-cumpleanos-6-hacendado-paquete",
+    "name": "Vela de cumpleaños 6 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11536",
+    "ean": "8402001027819",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11536/vela-cumpleanos-7-hacendado-paquete",
+    "name": "Vela de cumpleaños 7 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11537",
+    "ean": "8402001027826",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11537/vela-cumpleanos-8-hacendado-paquete",
+    "name": "Vela de cumpleaños 8 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "11538",
+    "ean": "8402001027833",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11538/vela-cumpleanos-9-hacendado-paquete",
+    "name": "Vela de cumpleaños 9 Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
   },
   {
     "id": "11544",
@@ -5067,6 +5166,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "12996",
+    "ean": "8402001032455",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12996/snack-frito-binkies-sabor-queso-hacendado-paquete",
+    "name": "Snack frito Binkies sabor queso Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "12998",
     "ean": "8402001032196",
     "brand": "Deliplus",
@@ -7531,6 +7639,15 @@
     "name": "Galletas mini Oreo",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14031",
+    "ean": "8436039788039",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14031/filetes-pechuga-pavo-extra-tiernos-bandeja",
+    "name": "Filetes pechuga de pavo extra tiernos",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "14038",
@@ -13318,6 +13435,24 @@
     "name": "Laca de uñas alto brillo Deliplus 30 malva",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "19873",
+    "ean": "8402001040627",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19873/aceite-labial-lip-oil-glow-infusion-deliplus-02-cherry",
+    "name": "Aceite labial Lip Oil glow infusion Deliplus 02 cherry",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "19874",
+    "ean": "8402001040610",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/19874/aceite-labial-lip-oil-glow-infusion-deliplus-01-nude",
+    "name": "Aceite labial Lip Oil glow infusion Deliplus 01 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "19876",
