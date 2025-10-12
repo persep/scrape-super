@@ -7596,6 +7596,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13999",
+    "ean": "8436569263525",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13999/hueso-vacuno-congelado-paquete",
+    "name": "Hueso de vacuno congelado",
+    "description": "Paquete",
+    "category": "Carne > Arreglos"
+  },
+  {
     "id": "14006",
     "ean": "8480000140067",
     "brand": "Hacendado",
@@ -13507,6 +13516,15 @@
     "name": "Azúcar blanco",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19947",
+    "ean": "8402001043536",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19947/postre-capricho-hacendado-yema-huevo",
+    "name": "Postre Capricho Hacendado de yema de huevo",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "19956",
