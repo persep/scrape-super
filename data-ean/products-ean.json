@@ -8550,6 +8550,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "14364",
+    "ean": "8402001036415",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14364/queso-anejo-seco-oveja-hacendado-pieza",
+    "name": "Queso añejo seco de oveja Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "14378",
     "ean": "5036034406834",
     "brand": "Mission",
@@ -9682,6 +9691,15 @@
     "name": "Maquillaje fluido Long Lasting Deliplus mate 310 caramelo",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "15191",
+    "ean": "8402001039645",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15191/crema-queso-mascarpone-queso-azul-hacendado-tarrina",
+    "name": "Crema de queso mascarpone y queso azul Hacendado",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "15193",
