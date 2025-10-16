@@ -4131,6 +4131,15 @@
     "category": "Pizzas y platos preparados > Pizzas"
   },
   {
+    "id": "12786",
+    "ean": "8402001031182",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12786/solomillo-cerdo-adobado-paquete",
+    "name": "Solomillo de cerdo adobado",
+    "description": "Paquete",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "12794",
     "ean": "8402001031090",
     "brand": "Hacendado",
@@ -8656,6 +8665,15 @@
     "name": "Galletas canela Hacendado",
     "description": "Caja",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "14431",
+    "ean": "8402001037733",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14431/6-panes-leche-3-bolsa",
+    "name": "6 Panes de leche 3%",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "14432",
@@ -13426,6 +13444,15 @@
     "name": "Sirope de agave",
     "description": "Bote",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19862",
+    "ean": "8402001037887",
+    "brand": "Montesinos",
+    "url": "https://tienda.mercadona.es/product/19862/queso-cabra-montesinos",
+    "name": "Queso de cabra Montesinos",
+    "description": null,
+    "category": "Charcutería y quesos > Queso untable y fresco"
   },
   {
     "id": "19867",
