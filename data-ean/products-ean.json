@@ -2502,6 +2502,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "11682",
+    "ean": "8402001028953",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11682/queso-curado-mezcla-afrutado-hacendado-cortado-cunitas-pieza",
+    "name": "Queso curado mezcla afrutado Hacendado cortado en cuñitas",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "11687",
     "ean": "8411396001557",
     "brand": "",
@@ -13588,6 +13597,15 @@
     "name": "Azúcar blanco",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19914",
+    "ean": "8402001036941",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/19914/multiusos-cocina-bosque-verde-botella",
+    "name": "Multiusos cocina Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza cocina"
   },
   {
     "id": "19947",
