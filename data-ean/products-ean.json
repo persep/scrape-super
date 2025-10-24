@@ -10017,6 +10017,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "15289",
+    "ean": "8402001041303",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15289/galletas-avena-semillas-hacendado-paquete",
+    "name": "Galletas con avena y semillas Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "15290",
     "ean": "8402001033681",
     "brand": "Soplo",
@@ -10123,6 +10132,15 @@
     "name": "Dulce de membrillo Hacendado categoría primera",
     "description": "Bandeja",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "15340",
+    "ean": "8402001036231",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15340/bebida-energetica-zero-zero-furious-energy-drink-hacendado-lata",
+    "name": "Bebida energética Zero Zero Furious Energy drink Hacendado",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "15342",
@@ -14227,6 +14245,33 @@
     "name": "Bebida láctea tropical Danacol 0% azúcares añadidos",
     "description": "Pack-10",
     "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "20954",
+    "ean": "8006530171540",
+    "brand": "H&S",
+    "url": "https://tienda.mercadona.es/product/20954/champu-acondicionador-anticaspa-classic-2-1-hs-bote",
+    "name": "Champú y acondicionador anticaspa Classic 2 en 1 H&S",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "20955",
+    "ean": "8006530171625",
+    "brand": "H&S",
+    "url": "https://tienda.mercadona.es/product/20955/champu-anticaspa-citrus-fresh-hs-cabello-graso-bote",
+    "name": "Champú anticaspa Citrus Fresh H&S cabello graso",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "20956",
+    "ean": "8006530171632",
+    "brand": "H&S",
+    "url": "https://tienda.mercadona.es/product/20956/champu-anticaspa-menthol-fresh-hs-bote",
+    "name": "Champú anticaspa Menthol Fresh H&S",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
   },
   {
     "id": "20961",
