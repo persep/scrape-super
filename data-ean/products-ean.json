@@ -8775,6 +8775,15 @@
     "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
+    "id": "14457",
+    "ean": "8402001036927",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14457/friegasuelos-tropical-bosque-verde-liquido-botella",
+    "name": "Friegasuelos Tropical Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
+  },
+  {
     "id": "14460",
     "ean": "8402001029707",
     "brand": "Deliplus",
@@ -9077,6 +9086,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/14719/vela-perfumada-matcha-bosque-verde-caja",
     "name": "Vela perfumada Matcha Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "14720",
+    "ean": "8402001038808",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14720/vela-perfumada-creme-brulee-bosque-verde-caja",
+    "name": "Vela perfumada Crème Brûlée Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
