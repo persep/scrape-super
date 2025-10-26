@@ -8199,6 +8199,33 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "14248",
+    "ean": "8402001036484",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14248/turron-imperial-cacahuete-hacendado-tableta",
+    "name": "Turrón imperial de cacahuete Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "14249",
+    "ean": "8402001036477",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14249/turron-crema-cacahuete-hacendado-tableta",
+    "name": "Turrón crema de cacahuete Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
+    "id": "14250",
+    "ean": "8402001036460",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14250/turron-chocolate-negro-crujiente-hacendado-tableta",
+    "name": "Turrón de chocolate negro crujiente Hacendado",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Turrones"
+  },
+  {
     "id": "14251",
     "ean": "8402001036453",
     "brand": "Hacendado",
@@ -13804,6 +13831,15 @@
     "name": "Bebida láctea con fresa y plátano Hacendado",
     "description": "Botella",
     "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "20140",
+    "ean": "8402001044106",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/20140/berlina-con-cobertura-cacao-crunch-rellena-crema-cacao-pieza",
+    "name": "Berlina con cobertura de cacao crunch rellena de crema de cacao",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "20164",
