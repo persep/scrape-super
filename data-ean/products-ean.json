@@ -1872,6 +1872,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "11547",
+    "ean": "8425511819774",
+    "brand": "Villacruz",
+    "url": "https://tienda.mercadona.es/product/11547/pan-higo-con-almendras-villacruz",
+    "name": "Pan de higo con almendras Villacruz",
+    "description": null,
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "11548",
     "ean": "8402001024139",
     "brand": "Hacendado",
@@ -13912,6 +13921,15 @@
     "name": "Yogur natural de cabra Hacendado",
     "description": "Pack-4",
     "category": "Postres y yogures > Yogures naturales y sabores"
+  },
+  {
+    "id": "20292",
+    "ean": "8402001043857",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20292/copos-avena-integral-con-chocolate-hacendado-paquete",
+    "name": "Copos de avena integral con chocolate Hacendado",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "20295",
