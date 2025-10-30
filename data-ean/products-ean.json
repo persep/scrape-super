@@ -8325,6 +8325,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "14270",
+    "ean": "8402001035296",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14270/detergente-ropa-blanca-color-bosque-verde-polvo-contiene-dosificador-caja",
+    "name": "Detergente ropa blanca y de color Bosque Verde en polvo",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "14274",
     "ean": "8402001034374",
     "brand": "Deliplus",
@@ -13669,6 +13678,15 @@
     "name": "Azúcar blanco",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Azúcar y edulcorante"
+  },
+  {
+    "id": "19909",
+    "ean": "8402001042683",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19909/caramelos-fruits-flowers-hacendado-0-azucares-sabor-arandano-grosella-negra-melocoton-te-verde-hierbas-flores-sauco-paquete",
+    "name": "Caramelos Fruits & Flowers Hacendado 0% azúcares",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "19914",
