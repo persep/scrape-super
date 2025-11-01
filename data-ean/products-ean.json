@@ -8298,6 +8298,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "14265",
+    "ean": "8402001041563",
+    "brand": "Glivery",
+    "url": "https://tienda.mercadona.es/product/14265/ginebra-london-dry-gin-glivery-botella",
+    "name": "Ginebra London Dry Gin Glivery",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "14266",
     "ean": "8436021419675",
     "brand": "",
@@ -13579,6 +13588,15 @@
     "name": "Queso de cabra Montesinos",
     "description": null,
     "category": "Charcutería y quesos > Queso untable y fresco"
+  },
+  {
+    "id": "19865",
+    "ean": "8402001044038",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19865/queso-curado-oveja-con-jalapeno-hacendado-pieza",
+    "name": "Queso curado de oveja con jalapeño Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "19867",
@@ -33667,6 +33685,15 @@
     "name": "Aceite de girasol refinado 0,2º Hacendado",
     "description": "Botella",
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
+    "id": "40461",
+    "ean": "8436561134151",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/40461/garreta-cordero-congelada-pieza",
+    "name": "Garreta de cordero congelada",
+    "description": "Pieza",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "4047",
