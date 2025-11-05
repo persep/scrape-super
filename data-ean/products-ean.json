@@ -8343,6 +8343,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "14271",
+    "ean": "8402001035302",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14271/detergente-ropa-jabon-marsella-bosque-verde-polvo-contiene-dosificador-caja",
+    "name": "Detergente ropa jabón de Marsella Bosque Verde en polvo",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "14274",
     "ean": "8402001034374",
     "brand": "Deliplus",
@@ -9158,6 +9167,15 @@
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/14720/vela-perfumada-creme-brulee-bosque-verde-caja",
     "name": "Vela perfumada Crème Brûlée Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "14721",
+    "ean": "8402001038792",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14721/vela-perfumada-latte-bosque-verde-pequena-caja",
+    "name": "Vela perfumada Latte Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
@@ -10114,6 +10132,15 @@
     "name": "Maquillaje mate stick multiusos bronzer Deliplus 400 chocolate",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "15286",
+    "ean": "8711571099844",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15286/patatas-prefritas-waffle-con-piel-hacendado-ultracongeladas-paquete",
+    "name": "Patatas prefritas Waffle con piel Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "15289",
