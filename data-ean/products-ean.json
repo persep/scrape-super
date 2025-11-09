@@ -7569,6 +7569,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "13976",
+    "ean": "8402001036248",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/13976/bebida-energetica-zero-full-tropic-energy-drink-lata",
+    "name": "Bebida energética Zero Full Tropic Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "13978",
     "ean": "8402001036224",
     "brand": "Energy drink",
@@ -7603,6 +7612,15 @@
     "name": "Caramelos con palo Mix Hacendado sabor cereza y fresa",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
+    "id": "13988",
+    "ean": "8402001035609",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13988/jamon-cocido-sandwich-hacendado-lonchas-paquete",
+    "name": "Jamón cocido sándwich Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "13991",
@@ -13966,6 +13984,15 @@
     "name": "Cerveza sin gluten 0,0% sin alcohol Estrella de Levante",
     "description": "Lata",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "19974",
+    "ean": "8422947520502",
+    "brand": "Soria Natural",
+    "url": "https://tienda.mercadona.es/product/19974/seitan-hacendado-lonchas-paquete",
+    "name": "Seitán Soria Natural lonchas",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "19980",
