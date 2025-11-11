@@ -13815,6 +13815,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "19884",
+    "ean": "8411114084176",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/19884/lote-infantil-hello-kitty-contiene-eau-toilette-150-ml-mochila-caja",
+    "name": "Lote infantil Hello Kitty",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "19897",
     "ean": "8480000198976",
     "brand": null,
@@ -13849,6 +13858,24 @@
     "name": "Multiusos cocina Bosque Verde",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza cocina"
+  },
+  {
+    "id": "19921",
+    "ean": "8445326835011",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/19921/lote-infantil-maquillaje-color-up-magical-unicorn-contiene-2-lacas-unas-10-sombras-ojos-10-brillos-labios-lima-unas-2-aplicadores-2-pinceles-separador-pedicura-set-gemas-adhesivas-espejo",
+    "name": "Lote infantil maquillaje Color Up! Magical Unicorn",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "19922",
+    "ean": "8445326885016",
+    "brand": "Color Up",
+    "url": "https://tienda.mercadona.es/product/19922/lote-infantil-maquillaje-color-up-unicorn-power-contiene-2-lacas-unas-8-sombras-ojos-2-aplicadores-separador-pedicura-set-gemas-adhesivas-1-pulsera-1-clip-pelo-2-anillos-con-corazones-espejo-caja",
+    "name": "Lote infantil maquillaje Color Up Unicorn Power",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "19927",
@@ -13905,6 +13932,42 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "19933",
+    "ean": "8402001033766",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/19933/lote-hombre-viento-contiene-eau-parfum-100-ml-mochila",
+    "name": "Lote hombre Como Tú Viento",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "19934",
+    "ean": "8402001033780",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/19934/lote-hombre-fuerza-contiene-eau-parfum-100-ml-bufanda",
+    "name": "Lote hombre Como tú Fuerza",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "19935",
+    "ean": "8402001033759",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/19935/lote-hombre-my-soul-supreme-contiene-eau-parfum-100-ml-gel-champu-100-ml-neceser",
+    "name": "Lote hombre My Soul Supreme",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "19936",
+    "ean": "8402001033797",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/19936/lote-hombre-borealia-shine-contiene-eau-parfum-100-ml-mochila-bandolera",
+    "name": "Lote hombre Borealia Shine",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "19938",
     "ean": "8402001033803",
     "brand": "Deliplus",
@@ -13912,6 +13975,15 @@
     "name": "Lote corporal Vainilla Sunset Deliplus",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "19939",
+    "ean": "8402001033742",
+    "brand": "Dj Mariio",
+    "url": "https://tienda.mercadona.es/product/19939/lote-hombre-dj-mariio-contiene-eau-toilette-100-ml-desodorante-75-ml-spray-bucal-10-ml-caja",
+    "name": "Lote hombre Dj Mariio",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "19947",
