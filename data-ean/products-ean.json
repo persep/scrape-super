@@ -14076,6 +14076,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "19959",
+    "ean": "8402001043192",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19959/corazones-alcachofa-hacendado-con-aceite-bandeja",
+    "name": "Corazones de alcachofa Hacendado",
+    "description": "Bandeja",
+    "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
     "id": "19974",
     "ean": "8422947520502",
     "brand": "Soria Natural",
@@ -70441,6 +70450,15 @@
     "name": "Rodajas de atún",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado en bandeja"
+  },
+  {
+    "id": "87200",
+    "ean": "8402001041297",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87200/porciones-merluza-bandeja",
+    "name": "Porciones de merluza",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "87203",
