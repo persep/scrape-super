@@ -14814,6 +14814,15 @@
     "category": "Postres y yogures > Yogures desnatados"
   },
   {
+    "id": "20929",
+    "ean": "8402001037283",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/20929/mascarilla-facial-elfo-mask-deliplus-con-jengibre-canela-tamano-xs-paquete",
+    "name": "Mascarilla facial Elfo Mask Deliplus con jengibre y canela",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "20940",
     "ean": "8410500017552",
     "brand": "Danacol",
@@ -15307,6 +15316,15 @@
     "name": "Yogur líquido +Proteínas desnatado sabor tropical Hacendado 0% m.g 20 g proteínas",
     "description": "Botella",
     "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "21497",
+    "ean": "8412598004766",
+    "brand": "1906",
+    "url": "https://tienda.mercadona.es/product/21497/cerveza-extra-1906-reserva-especial",
+    "name": "Cerveza extra 1906 reserva especial",
+    "description": null,
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "2155",
