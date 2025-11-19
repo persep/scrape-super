@@ -10197,6 +10197,15 @@
     "category": "Congelados > Verdura"
   },
   {
+    "id": "15287",
+    "ean": "8402001042041",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15287/bastones-batata-hacendado-ultracongelada-paquete",
+    "name": "Bastones de batata Hacendado ultracongelada",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "15289",
     "ean": "8402001041303",
     "brand": "Hacendado",
@@ -14029,6 +14038,15 @@
     "name": "Eau de parfum mujer My Soul Crystal",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "19949",
+    "ean": "8402001043345",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19949/fideos-orientales-sabor-gamba-hacendado-paquete",
+    "name": "Fideos orientales sabor gamba Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "19951",
@@ -47203,6 +47221,15 @@
     "name": "Queso añejo fuerte de oveja Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "5840",
+    "ean": "8480000058409",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/5840/presa-bellota-iberica-hacienda-iberico-pieza",
+    "name": "Presa de bellota ibérica La Hacienda del Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "58421",
