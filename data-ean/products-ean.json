@@ -2475,6 +2475,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "11664",
+    "ean": "8402001041235",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/11664/detergente-ropa-frescura-bosque-verde-liquido-botella",
+    "name": "Detergente ropa Frescura Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "11670",
     "ean": "8402001028793",
     "brand": "Hacendado",
@@ -10359,6 +10368,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "15345",
+    "ean": "8402001041280",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/15345/recambio-ambientador-automatico-pure-cotton-bosque-verde-bote",
+    "name": "Recambio ambientador automático Pure Cotton Bosque Verde",
+    "description": "Bote",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "15346",
     "ean": "8402001029684",
     "brand": "Como Tú",
@@ -13849,6 +13867,15 @@
     "name": "Tarta infantil Tesia and Friends Hacendado congelada",
     "description": null,
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "19882",
+    "ean": "8402001042669",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19882/sopa-hortelana-hacendado-bol",
+    "name": "Sopa hortelana Hacendado",
+    "description": "Bol",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
     "id": "19884",
@@ -23164,6 +23191,15 @@
     "name": "Filetes hígado de cordero",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "28600",
+    "ean": "8410854023452",
+    "brand": "DYC",
+    "url": "https://tienda.mercadona.es/product/28600/whisky-dyc-botella",
+    "name": "Whisky DYC",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "28604",
