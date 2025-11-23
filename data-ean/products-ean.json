@@ -8874,6 +8874,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "14440",
+    "ean": "8402001037757",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14440/perfilador-labios-long-lasting-deliplus-15-canela-claro",
+    "name": "Perfilador de labios Long Lasting Deliplus 15 canela claro",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "14441",
     "ean": "8402001037771",
     "brand": "Deliplus",
@@ -13878,6 +13887,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "19881",
+    "ean": "8402001043918",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/19881/licor-crema-pistacho-royal-swan-botella",
+    "name": "Licor crema de pistacho Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "19882",
     "ean": "8402001042669",
     "brand": "Hacendado",
@@ -14839,6 +14857,15 @@
     "name": "Rotulador de labios Lip Tint Celestial Night Deliplus efecto tinta rosa pétalo",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "20875",
+    "ean": "8402001044885",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20875/pan-tostado-maiz-pipas-hacendado-paquete",
+    "name": "Pan tostado de maíz y pipas Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
   },
   {
     "id": "20876",
@@ -48481,6 +48508,15 @@
     "name": "Mix Golosinas azúcar Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "60389",
+    "ean": "8480000603890",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/60389/alistado-grande-hacendado-congelado-caja",
+    "name": "Alistado grande Hacendado congelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
   },
   {
     "id": "60394",
