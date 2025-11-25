@@ -14175,6 +14175,24 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "19977",
+    "ean": "8402001044069",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/19977/mantel-papel-decoracion-poinsettia-navidad-bosque-verde-textura-tela-28-x-12-m",
+    "name": "Mantel de papel decoración poinsettia Navidad Bosque Verde textura tela",
+    "description": null,
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
+    "id": "19979",
+    "ean": "8402001044113",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/19979/mantel-papel-decoracion-estrellas-navidad-bosque-verde-textura-tela-28-x-12-m",
+    "name": "Mantel de papel decoración estrellas Navidad Bosque Verde textura tela",
+    "description": null,
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "19980",
     "ean": "8402001036385",
     "brand": "Hacendado",
@@ -14382,6 +14400,15 @@
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
+    "id": "20273",
+    "ean": "8402001044052",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20273/jamon-cocido-extrafino-hacendado-lonchas-paquete",
+    "name": "Jamón cocido extrafino Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "20278",
     "ean": "8402001044892",
     "brand": "",
@@ -14434,6 +14461,15 @@
     "name": "Bífidus cremoso con lima y limón Activia",
     "description": "Pack-4",
     "category": "Postres y yogures > Bífidus"
+  },
+  {
+    "id": "20340",
+    "ean": "8402001034756",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/20340/kit-makeup-cloud-deliplus-contiene-polvo-iluminador-brocha-labial-liquido-bolso-con-cadena",
+    "name": "Kit Makeup Cloud Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "20354",
