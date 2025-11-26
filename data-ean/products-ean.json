@@ -4167,6 +4167,24 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "12792",
+    "ean": "8402001047015",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12792/chuletas-lomo-cerdo-finas-bandeja",
+    "name": "Chuletas lomo de cerdo finas",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
+    "id": "12793",
+    "ean": "8421384151577",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/12793/filetes-secreto-cerdo-bandeja",
+    "name": "Filetes secreto de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "12794",
     "ean": "8402001031090",
     "brand": "Hacendado",
@@ -5398,6 +5416,15 @@
     "name": "Esencia facial hidratante, oxigenante y tonificante Prevent Age Skin Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "13046",
+    "ean": "8402001034091",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13046/secreto-cerdo-paquete",
+    "name": "Secreto de cerdo",
+    "description": "Paquete",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "13047",
@@ -9954,6 +9981,15 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "15196",
+    "ean": "8402001041587",
+    "brand": "Marqués de la Viña",
+    "url": "https://tienda.mercadona.es/product/15196/vino-blanco-do-alicante-chardonnay-merseguera-marques-vina-botella",
+    "name": "Vino blanco D.O Alicante Chardonnay y Merseguera Marqués de la Viña",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
     "id": "15197",
     "ean": "8402001041730",
     "brand": "",
@@ -14166,6 +14202,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "19967",
+    "ean": "8402001043529",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19967/topping-turron-almendra-pistacho-hacendado-bote",
+    "name": "Topping de turrón de almendra y pistacho Hacendado",
+    "description": "Bote",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
     "id": "19974",
     "ean": "8422947520502",
     "brand": "Soria Natural",
@@ -14335,6 +14380,15 @@
     "name": "Berlina con cobertura de cacao crunch rellena de crema de cacao",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "20150",
+    "ean": "8402001043543",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20150/longaniza-payes-extra-hacendado-lonchas",
+    "name": "Longaniza de payés extra Hacendado lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "20164",
@@ -69219,6 +69273,15 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "86395",
+    "ean": "8402001047039",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/86395/lomo-cerdo-fino-bandeja",
+    "name": "Filetes lomo de cerdo corte fino",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "86397",
     "ean": "8402001024627",
     "brand": "Bosque Verde",
@@ -70477,6 +70540,15 @@
     "name": "Perfilador de ojos efecto holográfico Mermaid Deliplus morado azulado",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "86928",
+    "ean": "8402001047022",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/86928/entrecot-aguja-cerdo-duroc-bandeja",
+    "name": "Entrecot aguja de cerdo Duroc",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "86933",
