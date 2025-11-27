@@ -8334,6 +8334,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "14258",
+    "ean": "8402001036699",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/14258/paleta-bellota-100-hacienda-iberico-pieza",
+    "name": "Paleta de bellota ibérica 100% La Hacienda del Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "14260",
     "ean": "8402001032967",
     "brand": "Deliplus",
@@ -8602,6 +8611,15 @@
     "name": "Gominolas Regulación del sueño Melatonina Gummies Vitaldin",
     "description": "Bote",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "14301",
+    "ean": "8402001037139",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14301/mix-frutas-fresa-platano-hacendado-congeladas-paquete",
+    "name": "Dúo frutas fresa y plátano Hacendado congeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
   },
   {
     "id": "14313",
@@ -9961,6 +9979,24 @@
     "name": "Maquillaje fluido Long Lasting Deliplus mate 310 caramelo",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "15188",
+    "ean": "8402001020940",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15188/paleta-sombras-ojos-iluminadores-nude-romance-deliplus-contiene-12-sombras-ojos-mates-perladas-2-iluminadores-champagne",
+    "name": "Paleta sombras de ojos e iluminadores Nude Romance Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "15189",
+    "ean": "8402001020964",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15189/paleta-sombras-ojos-iluminadores-pink-romance-deliplus-contiene-12-sombras-ojos-mates-perladas-2-iluminadores-rosados",
+    "name": "Paleta sombras de ojos e iluminadores Pink Romance Deliplus",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "15191",
