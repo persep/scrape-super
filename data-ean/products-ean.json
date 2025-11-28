@@ -10134,6 +10134,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "15267",
+    "ean": "8402001041778",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15267/perfilador-ojos-waterproof-deliplus-109-burgundy",
+    "name": "Perfilador de ojos Waterproof Deliplus 109 burgundy",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "15268",
     "ean": "8402001032028",
     "brand": "Deliplus",
@@ -14571,6 +14580,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "20356",
+    "ean": "8402001034930",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20356/tarta-delicia-fresa-hacendado-congelada",
+    "name": "Tarta delicia de fresa Hacendado congelada",
+    "description": null,
+    "category": "Panadería y pastelería > Tartas y pasteles"
+  },
+  {
     "id": "20376",
     "ean": "8480000203762",
     "brand": "Hacendado",
@@ -15525,6 +15543,15 @@
     "category": "Postres y yogures > Yogures líquidos"
   },
   {
+    "id": "21491",
+    "ean": "8402001043185",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21491/mix-mini-barritas-hacendado-chocolate-contiene-barritas-biscuit-milk-creamy-caramel-coco-peanut-caja",
+    "name": "Mix mini barritas Hacendado de chocolate",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "21497",
     "ean": "8412598004766",
     "brand": "1906",
@@ -15532,6 +15559,15 @@
     "name": "Cerveza extra 1906 reserva especial",
     "description": null,
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21536",
+    "ean": "8402001047046",
+    "brand": "La Hacienda del ibérico",
+    "url": "https://tienda.mercadona.es/product/21536/jamon-bellota-iberico-100-hacienda-iberico-pieza",
+    "name": "Jamón bellota ibérico 100% La Hacienda del ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "2155",
