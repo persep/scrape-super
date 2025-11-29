@@ -4149,6 +4149,15 @@
     "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
+    "id": "12782",
+    "ean": "8402001031694",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12782/arroz-marinera-hacendado-ultracongelado-paquete",
+    "name": "Arroz marinera Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Arroz y pasta"
+  },
+  {
     "id": "12784",
     "ean": "8402001031106",
     "brand": "Hacendado",
@@ -14434,6 +14443,15 @@
     "name": "Longaniza de payés extra Hacendado lonchas",
     "description": null,
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "20154",
+    "ean": "8402001039683",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20154/sticks-longaniza-pavo-extra-hacendado-paquete",
+    "name": "Sticks longaniza de pavo extra Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "20164",
