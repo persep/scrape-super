@@ -5724,6 +5724,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "13324",
+    "ean": "8402001028342",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13324/panales-bebe-talla-6-17-28-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 6 de 17-28 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "13326",
     "ean": "8402001034725",
     "brand": "Hacendado",
@@ -10429,6 +10438,15 @@
     "name": "Dátiles desecados sin hueso Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "15311",
+    "ean": "8402001042140",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/15311/bebida-energetica-zero-berries-energy-drink-lata",
+    "name": "Bebida energética Zero Berries Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "15334",
