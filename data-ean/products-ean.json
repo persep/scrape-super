@@ -1548,6 +1548,15 @@
     "category": "Cacao, café e infusiones > Té e infusiones"
   },
   {
+    "id": "11480",
+    "ean": "8480000114808",
+    "brand": "Listo para Comer",
+    "url": "https://tienda.mercadona.es/product/11480/cuarto-cochinillo-asado-listo-comer-con-cebolla-confitada-patatas-panaderas-2-personas-caja",
+    "name": "Cuarto de cochinillo asado Listo para Comer con cebolla confitada y patatas panaderas",
+    "description": "Caja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "11489",
     "ean": "8402001027031",
     "brand": "Bosque Verde",
@@ -4003,6 +4012,15 @@
     "name": "Prebase facial iluminadora Glowy Primer Silence Deliplus",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "12753",
+    "ean": "8402001030383",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12753/bebida-lactea-desnatada-sabor-fresa-platano-proteinas-hacendado-0-mg-174-g-proteinas-botella",
+    "name": "Bebida láctea desnatada sabor fresa y plátano +Proteínas Hacendado 0% m.g 17,4 g proteínas",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "12754",
@@ -14058,6 +14076,15 @@
     "category": "Limpieza y hogar > Limpieza cocina"
   },
   {
+    "id": "19920",
+    "ean": "8402001042270",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/19920/jamon-cebo-iberico-50-hacienda-iberico-lonchas",
+    "name": "Jamón cebo ibérico 50% La Hacienda del Ibérico lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "19921",
     "ean": "8445326835011",
     "brand": "Color Up!",
@@ -14589,6 +14616,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "20321",
+    "ean": "8411700412321",
+    "brand": "Peques 3",
+    "url": "https://tienda.mercadona.es/product/20321/preparado-lacteo-con-cereales-frutas-peques-3-puleva-12-meses",
+    "name": "Preparado lácteo con cereales y frutas Peques 3 Puleva",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "20324",
     "ean": "8410500017712",
     "brand": "Activia",
@@ -14623,6 +14659,15 @@
     "name": "Tarta delicia de fresa Hacendado congelada",
     "description": null,
     "category": "Panadería y pastelería > Tartas y pasteles"
+  },
+  {
+    "id": "20359",
+    "ean": "83800070817",
+    "brand": "Montagne Jeunesse",
+    "url": "https://tienda.mercadona.es/product/20359/mascarilla-facial-peeling-carbon-montagne-jeunesse",
+    "name": "Mascarilla facial peeling carbón Montagne Jeunesse",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "20376",
@@ -15577,6 +15622,15 @@
     "name": "Yogur líquido +Proteínas desnatado sabor tropical Hacendado 0% m.g 20 g proteínas",
     "description": "Botella",
     "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
+    "id": "21424",
+    "ean": "8413158087335",
+    "brand": "Finura de Ibérico",
+    "url": "https://tienda.mercadona.es/product/21424/cana-lomo-cebo-iberico-finura-iberico-pieza",
+    "name": "Caña de lomo cebo ibérico Finura de Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "21491",
