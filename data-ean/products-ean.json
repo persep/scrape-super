@@ -5742,6 +5742,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "13301",
+    "ean": "8402001028328",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13301/panales-bebe-talla-5-13-18-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 5 de 13-18 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "13324",
     "ean": "8402001028342",
     "brand": "Deliplus",
@@ -15649,6 +15658,15 @@
     "name": "Cerveza extra 1906 reserva especial",
     "description": null,
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21519",
+    "ean": "8402001047152",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21519/guindillas-dulces-hacendado-tarro",
+    "name": "Guindillas dulces Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "21536",
