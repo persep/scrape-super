@@ -4671,6 +4671,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "12893",
+    "ean": "8402001034534",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12893/preparado-polvo-gelatina-frutos-rojos-hacendado-0-azucares-paquete",
+    "name": "Preparado en polvo gelatina frutos rojos Hacendado 0% azúcares",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "12894",
     "ean": "8402001028540",
     "brand": "Bosque Verde",
@@ -7774,6 +7783,15 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Ice Cream",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "13998",
+    "ean": "8402001036347",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13998/caldo-carne-con-sofrito-hacendado-brick",
+    "name": "Caldo de carne con sofrito Hacendado",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
     "id": "13999",
@@ -14616,6 +14634,15 @@
     "category": "Postres y yogures > Yogures naturales y sabores"
   },
   {
+    "id": "20290",
+    "ean": "4015400804406",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/20290/tampones-super-plus-tampax-pearl-con-aplicador-caja",
+    "name": "Tampones super plus Tampax Pearl con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "20292",
     "ean": "8402001043857",
     "brand": "Hacendado",
@@ -15657,6 +15684,15 @@
     "url": "https://tienda.mercadona.es/product/21424/cana-lomo-cebo-iberico-finura-iberico-pieza",
     "name": "Caña de lomo cebo ibérico Finura de Ibérico",
     "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "21435",
+    "ean": "8402001045752",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21435/longaniza-pascua-extra-hacendado-paquete",
+    "name": "Longaniza de Pascua extra Hacendado",
+    "description": "Paquete",
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
@@ -45342,6 +45378,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "52810",
+    "ean": "8402001015786",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/52810/cachopo-vacuno-con-jamon-queso-bandeja",
+    "name": "Cachopo de vacuno con jamón y queso sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
+  },
+  {
     "id": "52814",
     "ean": "8402001016332",
     "brand": "Hacendado",
@@ -70916,6 +70961,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/87194/tiras-poton-pacifico-hacendado-bandeja",
     "name": "Tiras de potón del Pacífico Hacendado",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87196",
+    "ean": "8402001022111",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87196/lenguado-rubio-bandeja",
+    "name": "Lenguado rubio",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
   },
