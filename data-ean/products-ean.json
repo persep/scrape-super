@@ -4671,6 +4671,24 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "12888",
+    "ean": "8402001034480",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12888/preparado-polvo-gelatina-fresa-hacendado-paquete",
+    "name": "Preparado en polvo gelatina fresa Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "12890",
+    "ean": "8402001034503",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/12890/preparado-polvo-gelatina-cereza-hacendado-paquete",
+    "name": "Preparado en polvo gelatina cereza Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "12893",
     "ean": "8402001034534",
     "brand": "Hacendado",
@@ -10287,6 +10305,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "15275",
+    "ean": "8402001041839",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15275/preparado-polvo-gelatina-maracuya-hacendado-paquete",
+    "name": "Preparado en polvo gelatina maracuyá Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "15276",
     "ean": "8402001033636",
     "brand": "Deliplus",
@@ -15687,6 +15714,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "21432",
+    "ean": "8402001045929",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21432/pasta-almendra-hacendado",
+    "name": "Pasta de almendra Hacendado",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "21435",
     "ean": "8402001045752",
     "brand": "Hacendado",
@@ -15748,6 +15784,15 @@
     "name": "Chuletón de vacuno añojo para barbacoa o plancha",
     "description": "Bandeja",
     "category": "Carne > Vacuno"
+  },
+  {
+    "id": "21588",
+    "ean": "8402001047343",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21588/napolitana-chocolate-35-pieza",
+    "name": "Napolitana de chocolate 35%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "2169",
@@ -70819,6 +70864,15 @@
     "name": "Zumo de clementina Hacendado",
     "description": "Botella",
     "category": "Zumos > Naranja"
+  },
+  {
+    "id": "86935",
+    "ean": "8402001028274",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/86935/panales-bebe-talla-1-2-4-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 1 de 2-4 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
   },
   {
     "id": "86998",
