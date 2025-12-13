@@ -14130,6 +14130,15 @@
     "category": "Limpieza y hogar > Limpieza baño y WC"
   },
   {
+    "id": "19908",
+    "ean": "8402001041402",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/19908/limpiador-wc-aqua-bosque-verde-gel-antical-botella",
+    "name": "Limpiador WC Aqua Bosque Verde en gel antical",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza baño y WC"
+  },
+  {
     "id": "19909",
     "ean": "8402001042683",
     "brand": "Hacendado",
@@ -14416,6 +14425,15 @@
     "name": "Sazonador sabor sour cream Hacendado para patatas, snacks, carnes y salsas",
     "description": null,
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "19981",
+    "ean": "8402001041570",
+    "brand": "Marqués de la Viña",
+    "url": "https://tienda.mercadona.es/product/19981/vino-tinto-do-alicante-monastrell-marques-vina-botella",
+    "name": "Vino tinto D.O Alicante Monastrell Marqués de la Viña",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
   },
   {
     "id": "19988",
