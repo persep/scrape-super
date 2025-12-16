@@ -9711,6 +9711,24 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "14988",
+    "ean": "8410700009135",
+    "brand": "Ambar",
+    "url": "https://tienda.mercadona.es/product/14988/cerveza-negra-ambar",
+    "name": "Cerveza negra Ambar",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "14989",
+    "ean": "8410700009111",
+    "brand": "Ambar",
+    "url": "https://tienda.mercadona.es/product/14989/cerveza-negra-ambar-lata",
+    "name": "Cerveza negra Ambar",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "15031",
     "ean": "8424523080066",
     "brand": "Hida",
@@ -9853,6 +9871,15 @@
     "name": "Porras Hacendado congeladas",
     "description": "Paquete",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "15139",
+    "ean": "8402001041594",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15139/tabla-quesos-franceses-hacendado-bandeja",
+    "name": "Tabla de quesos franceses Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "15157",
