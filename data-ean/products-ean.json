@@ -14724,6 +14724,15 @@
     "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
+    "id": "20277",
+    "ean": "8402001041525",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20277/galletas-mini-caocream-cacao-hacendado-rellenas-crema-caja",
+    "name": "Galletas mini Caocream de cacao Hacendado rellenas de crema",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "20278",
     "ean": "8402001044892",
     "brand": "",
@@ -14731,6 +14740,15 @@
     "name": "Codillo de cerdo",
     "description": "Pieza",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "20281",
+    "ean": "4015400804345",
+    "brand": "Tampax",
+    "url": "https://tienda.mercadona.es/product/20281/tampones-regular-tampax-pearl-con-aplicador-caja",
+    "name": "Tampones regular Tampax Pearl con aplicador",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "20287",
