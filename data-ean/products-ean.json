@@ -15930,6 +15930,15 @@
     "category": "Carne > Vacuno"
   },
   {
+    "id": "21567",
+    "ean": "8402001041433",
+    "brand": "Facial Clean",
+    "url": "https://tienda.mercadona.es/product/21567/mascarilla-facial-mask-stick-facial-clean-deliplus-iluminador-detox-tipo-pieles-tubo",
+    "name": "Mascarilla facial stick Facial Clean detox & iluminador",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "21588",
     "ean": "8402001047343",
     "brand": "",
@@ -15937,6 +15946,42 @@
     "name": "Napolitana de chocolate 35%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "21590",
+    "ean": "8402001045073",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21590/laca-unas-alto-brillo-deliplus-131-chocolate",
+    "name": "Laca de uñas alto brillo Deliplus 131 chocolate",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21591",
+    "ean": "8402001045097",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21591/laca-unas-alto-brillo-deliplus-132-dusk",
+    "name": "Laca de uñas alto brillo Deliplus 132 dusk",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21592",
+    "ean": "8402001045042",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21592/laca-unas-alto-brillo-deliplus-133-teal",
+    "name": "Laca de uñas alto brillo Deliplus 133 teal",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21593",
+    "ean": "8402001045080",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21593/laca-unas-alto-brillo-deliplus-134-topo",
+    "name": "Laca de uñas alto brillo Deliplus 134 topo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "21600",
