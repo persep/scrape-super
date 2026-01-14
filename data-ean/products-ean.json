@@ -12159,6 +12159,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16285",
+    "ean": "8445291354548",
+    "brand": "Kit-Kat",
+    "url": "https://tienda.mercadona.es/product/16285/barritas-barquillo-kit-kat-banadas-chocolate-con-leche-nestle-paquete",
+    "name": "Barritas de barquillo Kit-Kat bañadas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16313",
     "ean": "8480000163134",
     "brand": "Hacendado",
@@ -15874,6 +15883,15 @@
     "name": "Champú Color Protect Deliplus cabello teñido",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "21466",
+    "ean": "8402001041624",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21466/mascarilla-color-protect-deliplus-cabello-tenido-con-peptidos-tarro",
+    "name": "Mascarilla Color Protect Deliplus cabello teñido",
+    "description": "Tarro",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
     "id": "21491",
