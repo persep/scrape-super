@@ -9873,6 +9873,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "15101",
+    "ean": "8402001041471",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15101/chocolate-con-leche-classic-hacendado-extrafino-tableta",
+    "name": "Chocolate con leche classic Hacendado extrafino",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "15132",
     "ean": "8480000151322",
     "brand": "Hacendado",
@@ -22237,6 +22246,15 @@
     "name": "Refresco Fanta naranja zero azúcares añadidos",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "27548",
+    "ean": "8480000275486",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/27548/elaborado-merluza-langostino-bandeja",
+    "name": "Elaborado de merluza y langostino",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "27559",
