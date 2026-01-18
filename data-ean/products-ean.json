@@ -45126,6 +45126,24 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "52723",
+    "ean": "8411327013383",
+    "brand": "Corona",
+    "url": "https://tienda.mercadona.es/product/52723/cerveza-corona-pack-6",
+    "name": "Cerveza Corona",
+    "description": "Pack-6",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "52724",
+    "ean": "8411327013376",
+    "brand": "Corona",
+    "url": "https://tienda.mercadona.es/product/52724/cerveza-corona-botellin",
+    "name": "Cerveza Corona",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "52725",
     "ean": "8402001013324",
     "brand": "Deliplus",
