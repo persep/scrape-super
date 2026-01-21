@@ -9333,6 +9333,24 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "14706",
+    "ean": "8402001039249",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14706/bebida-soja-con-calcio-vitaminas-sin-azucares-anadidos-hacendado",
+    "name": "Bebida de soja con calcio y vitaminas sin azúcares añadidos Hacendado",
+    "description": null,
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "14707",
+    "ean": "8402001039232",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14707/bebida-soja-con-calcio-vitaminas-sin-azucares-anadidos-hacendado-brick",
+    "name": "Bebida de soja con calcio y vitaminas sin azúcares añadidos Hacendado",
+    "description": "Brick",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "14711",
     "ean": "8480000147110",
     "brand": "Hacendado",
