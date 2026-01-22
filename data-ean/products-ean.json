@@ -8730,6 +8730,51 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "14316",
+    "ean": "8402001029936",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14316/compresa-con-alas-normal-deliplus-paquete",
+    "name": "Compresa con alas normal Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "14317",
+    "ean": "8402001029950",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14317/compresa-con-alas-super-deliplus-paquete",
+    "name": "Compresa con alas super Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "14320",
+    "ean": "8402001029967",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14320/compresa-sin-alas-super-deliplus-paquete",
+    "name": "Compresa sin alas super Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "14321",
+    "ean": "8402001029974",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14321/compresa-con-alas-noche-deliplus-paquete",
+    "name": "Compresa con alas noche Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
+    "id": "14322",
+    "ean": "8402001029899",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14322/compresa-con-alas-normal-deliplus-paquete",
+    "name": "Compresa con alas normal Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "14323",
     "ean": "8414640193633",
     "brand": "Uahuu",
@@ -15930,6 +15975,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "21472",
+    "ean": "8402001046025",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21472/rosquilla-cacao-caocream-hacendado",
+    "name": "Rosquilla de cacao Caocream Hacendado",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
     "id": "21491",
     "ean": "8402001043185",
     "brand": "Hacendado",
@@ -15982,6 +16036,15 @@
     "name": "Chuletón de vacuno añojo para barbacoa o plancha",
     "description": "Bandeja",
     "category": "Carne > Vacuno"
+  },
+  {
+    "id": "21565",
+    "ean": "8436548785543",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21565/pollo-koreano-con-salsa-bandeja",
+    "name": "Pollo Koreano con salsa",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
   },
   {
     "id": "21567",
