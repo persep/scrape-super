@@ -9495,6 +9495,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "14739",
+    "ean": "8402001036262",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14739/pate-cerdo-sabor-suave-hacendado",
+    "name": "Paté de cerdo sabor suave Hacendado",
+    "description": null,
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "14743",
     "ean": "8402001034145",
     "brand": "Deliplus",
@@ -10735,6 +10744,15 @@
     "name": "Lote hombre The 6 Iconic Como Tú mini fragancias de 15ml",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "15348",
+    "ean": "8402001041051",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/15348/dentifrico-total-expert-deliplus-con-paraprobiotico-tubo",
+    "name": "Dentífrico Total Expert Deliplus con paraprobiótico",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "15349",
@@ -12247,6 +12265,15 @@
     "name": "Solomillos de pollo adobados",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "16281",
+    "ean": "8428390080914",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/16281/mini-eau-parfum-mujer-flor-mayo-amore-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Amore",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "16285",
@@ -14605,6 +14632,15 @@
     "name": "Chocolate con leche Hacendado almendras enteras",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "19994",
+    "ean": "8436565363397",
+    "brand": "La Carloteña",
+    "url": "https://tienda.mercadona.es/product/19994/muslo-pollo-98-mini-relleno-carlotena-asado-horno-paquete",
+    "name": "Mini muslo de pollo 98% relleno La Carloteña asado al horno",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "20001",
