@@ -12276,6 +12276,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "16283",
+    "ean": "8402001045875",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16283/barritas-barquillo-total-choc-hacendado-banadas-chocolate-con-leche-rellenas-cacao-pepitas-chocolate-paquete",
+    "name": "Barritas de barquillo Total Choc Hacendado bañadas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16285",
     "ean": "8445291354548",
     "brand": "Kit-Kat",
@@ -16164,6 +16173,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "21599",
+    "ean": "8402001037979",
+    "brand": "Anti Ox",
+    "url": "https://tienda.mercadona.es/product/21599/serum-facial-iluminador-deliplus-con-15-vitamina-c-anti-ox-bote",
+    "name": "Sérum facial iluminador Anti Ox con 15% vitamina C",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "21600",
     "ean": "8402001027437",
     "brand": "Deliplus",
@@ -16171,6 +16189,24 @@
     "name": "Parches para ojos de hidrogel Energizantes Deliplus con cafeína y ginseng",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21610",
+    "ean": "8402001040634",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21610/paleta-coloretes-faciales-blush-trio-deliplus-01-rosados-contiene-colorete-crema-polvo-iluminador",
+    "name": "Paleta de coloretes faciales Blush trio Deliplus 01 rosados",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "21611",
+    "ean": "8402001040641",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21611/paleta-coloretes-faciales-blush-trio-deliplus-02-corales-contiene-colorete-crema-polvo-iluminador",
+    "name": "Paleta de coloretes faciales Blush trio Deliplus 02 corales",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "2169",
