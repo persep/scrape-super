@@ -15453,6 +15453,15 @@
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
   },
   {
+    "id": "20891",
+    "ean": "8402001045233",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20891/pistachos-caramelizados-con-sal-hacendado-banados-chocolate-con-leche-paquete",
+    "name": "Pistachos bañados de chocolate con leche Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "20908",
     "ean": "8480000209085",
     "brand": "Hacendado",
@@ -16207,6 +16216,15 @@
     "name": "Paleta de coloretes faciales Blush trio Deliplus 02 corales",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "21633",
+    "ean": "8402001046513",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21633/pate-higado-cerdo-iberico-hacendado",
+    "name": "Paté de hígado de cerdo ibérico Hacendado",
+    "description": null,
+    "category": "Charcutería y quesos > Paté y sobrasada"
   },
   {
     "id": "2169",
