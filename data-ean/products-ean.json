@@ -8901,6 +8901,15 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "14344",
+    "ean": "8402001036958",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14344/tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata-bandeja",
+    "name": "Tarta de la abuela Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "14345",
     "ean": "8402001037955",
     "brand": "",
@@ -12274,6 +12283,15 @@
     "name": "Solomillos de pollo adobados",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "16269",
+    "ean": "8402001041440",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16269/serum-reductor-instantaneo-bolsas-sisbela-reafirm-deliplus-con-peptidos-evitar-piel-sensible-tubo",
+    "name": "Sérum reductor instantáneo de bolsas Sisbela Reafirm Deliplus con péptidos",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "16281",
@@ -16126,6 +16144,15 @@
     "name": "Mascarilla facial stick Facial Clean detox & iluminador",
     "description": "Tubo",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21581",
+    "ean": "8402001044434",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21581/queso-rallado-4-quesos-hacendado-paquete",
+    "name": "Queso rallado 4 quesos Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "21584",
