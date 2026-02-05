@@ -9315,6 +9315,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "14513",
+    "ean": "8402001038617",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14513/perfilador-ojos-waterproof-deliplus-108-beige",
+    "name": "Perfilador de ojos Waterproof Deliplus 108 beige",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "14550",
     "ean": "8402001036873",
     "brand": "Hacendado",
@@ -59514,6 +59523,15 @@
     "url": "https://tienda.mercadona.es/product/71227/guantes-nitrilo-bosque-verde-talla-grande-desachables-caja",
     "name": "Guantes de nitrilo Bosque Verde talla grande",
     "description": "Caja",
+    "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
+  },
+  {
+    "id": "71309",
+    "ean": "8480000713094",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/71309/estropajo-bano-bosque-verde-paquete",
+    "name": "Estropajo baño Bosque Verde",
+    "description": "Paquete",
     "category": "Limpieza y hogar > Estropajo, bayeta y guantes"
   },
   {
