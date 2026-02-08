@@ -12303,6 +12303,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "16279",
+    "ean": "8402001046483",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16279/chocolate-con-leche-fussion-hacendado-relleno-crema-pistacho-masa-filo-tostada-tableta",
+    "name": "Chocolate con leche Fussion Hacendado relleno de crema de pistacho y masa filo tostada",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16281",
     "ean": "8428390080914",
     "brand": "Flor de Mayo",
@@ -12364,6 +12373,15 @@
     "name": "Mantecadas Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "16374",
+    "ean": "8402001037054",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16374/lote-corporal-mujer-pistacho-cream-deliplus-contiene-fragancia-mist-250ml-leche-corporal-glitter-100ml",
+    "name": "Lote corporal mujer Pistacho Cream Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "16412",
