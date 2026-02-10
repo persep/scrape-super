@@ -12411,6 +12411,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16442",
+    "ean": "8006530286442",
+    "brand": "Ariel",
+    "url": "https://tienda.mercadona.es/product/16442/detergente-ropa-1-frescor-floral-ariel-pods-capsulas-caja",
+    "name": "Detergente ropa todo en 1 frescor floral Ariel Pods en cápsulas",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "16503",
     "ean": "8480000165039",
     "brand": "Hacendado",
@@ -14173,6 +14182,15 @@
     "name": "Cacao soluble ColaCao original",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "19855",
+    "ean": "8402001042225",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/19855/empanadilla-pollo-7-queso-cabra-4-cebolla-caramelizada-pieza",
+    "name": "Empanadilla de pollo 7% y queso de cabra 4%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "19857",
