@@ -9657,6 +9657,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "14930",
+    "ean": "8402001040122",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14930/crema-calabacin-hacendado-brick",
+    "name": "Crema de calabacín Hacendado",
+    "description": "Brick",
+    "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
     "id": "14932",
     "ean": "8436561132461",
     "brand": "",
@@ -12283,6 +12292,15 @@
     "name": "Corazones de alcachofa Hacendado",
     "description": "Bandeja",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "16260",
+    "ean": "8402001048487",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16260/chopped-cocido-lata-hacendado-finas-lonchas-paquete",
+    "name": "Chopped cocido en lata Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
     "id": "16266",
