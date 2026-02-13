@@ -12429,6 +12429,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16439",
+    "ean": "8421384157555",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16439/chuletas-paleta-cerdo-bandeja",
+    "name": "Chuletas paleta de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "16442",
     "ean": "8006530286442",
     "brand": "Ariel",
@@ -16290,6 +16299,15 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "21594",
+    "ean": "8402001047534",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21594/pizza-kebab-con-pollo-asado-hacendado-ultracongelada",
+    "name": "Pizza Kebab con pollo asado Hacendado ultracongelada",
+    "description": null,
+    "category": "Congelados > Pizzas"
+  },
+  {
     "id": "21597",
     "ean": "8402001040788",
     "brand": "Deliplus",
@@ -16349,6 +16367,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/21633/pate-higado-cerdo-iberico-hacendado",
     "name": "Paté de hígado de cerdo ibérico Hacendado",
+    "description": null,
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "21634",
+    "ean": "8402001046506",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21634/pate-higado-cerdo-sabor-intenso-hacendado",
+    "name": "Paté de hígado de cerdo sabor intenso Hacendado",
     "description": null,
     "category": "Charcutería y quesos > Paté y sobrasada"
   },
@@ -21850,6 +21877,15 @@
     "name": "Cañaílla cocida descongelada",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "26763",
+    "ean": "8402001046094",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26763/rodajas-merluza-cabo-hacendado-ultracongeladas-paquete",
+    "name": "Rodajas de merluza del Cabo Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "26775",
