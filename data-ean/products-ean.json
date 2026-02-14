@@ -1080,6 +1080,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "10869",
+    "ean": "840000108692",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/10869/leche-fermentada-laban-hacendado-botella",
+    "name": "Leche fermentada Laban Hacendado",
+    "description": "Botella",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "10882",
     "ean": "8480000108821",
     "brand": "Listo para Comer",
@@ -5784,6 +5793,15 @@
     "url": "https://tienda.mercadona.es/product/13298/panales-bebe-talla-4-9-15-kg-deliplus-paquete",
     "name": "Pañales bebé talla 4 de 9-15 kg Deliplus",
     "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "13299",
+    "ean": "8402001028311",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13299/panales-bebe-talla-4-9-15-kg-deliplus",
+    "name": "Pañales bebé talla 4 de 9-15 kg Deliplus",
+    "description": null,
     "category": "Bebé > Toallitas y pañales"
   },
   {
@@ -12303,6 +12321,15 @@
     "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
+    "id": "16265",
+    "ean": "8410014519917",
+    "brand": "Nocilla",
+    "url": "https://tienda.mercadona.es/product/16265/crema-cacao-leche-con-avellanas-nocilla-bote",
+    "name": "Crema al cacao y leche con avellanas Nocilla",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16266",
     "ean": "8414129732001",
     "brand": "",
@@ -13586,6 +13613,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/18214/sardinillas-reducidas-sal-aceite-oliva-hacendado-6-12-ud-pack-2",
     "name": "Sardinillas reducidas en sal en aceite de oliva Hacendado",
+    "description": "Pack-2",
+    "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18225",
+    "ean": "8480000182258",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18225/sardinas-aceite-oliva-hacendado-pack-2",
+    "name": "Sardinas en aceite de oliva Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
