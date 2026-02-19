@@ -12321,6 +12321,15 @@
     "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
+    "id": "16264",
+    "ean": "8410014519900",
+    "brand": "Nocilla",
+    "url": "https://tienda.mercadona.es/product/16264/crema-cacao-con-avellanas-nocilla-original-bote",
+    "name": "Crema al cacao con avellanas Nocilla original",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16265",
     "ean": "8410014519917",
     "brand": "Nocilla",
@@ -12384,6 +12393,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "16288",
+    "ean": "8402001047640",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16288/bizcocho-manzana-paquete",
+    "name": "Bizcocho de manzana",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "16313",
     "ean": "8480000163134",
     "brand": "Hacendado",
@@ -12427,6 +12445,15 @@
     "name": "Lote corporal mujer Pistacho Cream Deliplus",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "16382",
+    "ean": "8402001038006",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16382/mousse-facial-limpiadora-purificante-deliplus-oil-free-piel-grasa-acneica-bote",
+    "name": "Mousse facial limpiadora purificante Deliplus Oil Free",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "16412",
@@ -15622,6 +15649,15 @@
     "name": "Mascarilla facial Elfo Mask Deliplus con jengibre y canela",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "20930",
+    "ean": "8402001044342",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/20930/gel-bano-frutal-deliplus-piel-normal-botella",
+    "name": "Gel de baño Frutal Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
   },
   {
     "id": "20940",
@@ -21985,6 +22021,15 @@
     "name": "Cañaílla cocida descongelada",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "26761",
+    "ean": "8402001046070",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26761/medallones-merluza-cabo-hacendado-ultracongelados-paquete",
+    "name": "Medallones de merluza del Cabo Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "26763",
