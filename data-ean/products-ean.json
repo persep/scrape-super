@@ -5490,6 +5490,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "13045",
+    "ean": "8402001034657",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13045/semola-trigo-hacendado-paquete",
+    "name": "Sémola de trigo Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "13046",
     "ean": "8402001034091",
     "brand": "",
@@ -12411,6 +12420,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "16294",
+    "ean": "8428390080952",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/16294/mini-eau-parfum-hombre-flor-mayo-deep-barrel-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Deep Barrel",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "16313",
     "ean": "8480000163134",
     "brand": "Hacendado",
@@ -16470,6 +16488,24 @@
     "category": "Congelados > Pizzas"
   },
   {
+    "id": "21596.1",
+    "ean": "8402001047701",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21596.1/barra-pan-integral-espelta-100",
+    "name": "Barra pan integral de espelta 100%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "21596.2",
+    "ean": "8402001047701",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21596.2/barra-pan-integral-espelta-100-rebanado",
+    "name": "Barra pan integral de espelta 100% rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "21597",
     "ean": "8402001040788",
     "brand": "Deliplus",
@@ -16522,6 +16558,15 @@
     "name": "Paleta de coloretes faciales Blush trio Deliplus 02 corales",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "21628",
+    "ean": "8410973643418",
+    "brand": "La Selva",
+    "url": "https://tienda.mercadona.es/product/21628/bacon-ahumado-selva-lonchas-paquete",
+    "name": "Bacón ahumado La Selva lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "21632",
