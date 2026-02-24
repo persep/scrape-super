@@ -3402,6 +3402,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "12087",
+    "ean": "8402001025839",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/12087/paleta-sombras-ojos-deliplus-07-marrones",
+    "name": "Paleta sombras de ojos Deliplus 07 marrones",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "12088",
     "ean": "8402001025846",
     "brand": "Deliplus",
@@ -12465,6 +12474,24 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "16331",
+    "ean": "8402001037993",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16331/crema-facial-fluida-noche-deliplus-aclarante-anti-manchas-tipo-piel-bote",
+    "name": "Crema facial fluida noche Deliplus aclarante anti-manchas",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "16332",
+    "ean": "8402001038037",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16332/crema-facial-fotocorrector-unificador-anti-manchas-deliplus-fps-50-tipo-piel-bote",
+    "name": "Crema facial fotocorrector unificador anti-manchas Deliplus FPS 50",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "16374",
     "ean": "8402001037054",
     "brand": "Deliplus",
@@ -14769,6 +14796,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "19966",
+    "ean": "8421384153601",
+    "brand": "Incarlopsa",
+    "url": "https://tienda.mercadona.es/product/19966/paleta-cerdo-curada-incarlopsa-pieza",
+    "name": "Paleta de cerdo curada Incarlopsa",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "19967",
     "ean": "8402001043529",
     "brand": "Hacendado",
@@ -15658,6 +15694,15 @@
     "name": "Pistachos bañados de chocolate con leche Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "20893",
+    "ean": "8402001045165",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20893/arroz-pescado-hacendado-bandeja",
+    "name": "Arroz de pescado Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
     "id": "20908",
