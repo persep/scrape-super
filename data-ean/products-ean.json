@@ -324,6 +324,15 @@
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
   },
   {
+    "id": "10346",
+    "ean": "8480000103468",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/10346/horchata-fresca-hacendado-botella",
+    "name": "Horchata fresca Hacendado",
+    "description": "Botella",
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
     "id": "10350",
     "ean": "8480000103505",
     "brand": "Hacendado",
@@ -8755,6 +8764,15 @@
     "name": "Gominolas Regulación del sueño Melatonina Gummies Vitaldin",
     "description": "Bote",
     "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "14298",
+    "ean": "8402001038860",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14298/san-jacobos-cerdo-sin-gluten-bandeja",
+    "name": "San Jacobos de cerdo sin gluten",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "14301",
