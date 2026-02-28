@@ -12429,6 +12429,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "16282",
+    "ean": "8402001048623",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16282/longaniza-payes-extra-hacendado-pieza",
+    "name": "Longaniza de payés extra Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "16283",
     "ean": "8402001045875",
     "brand": "Hacendado",
@@ -15766,6 +15775,15 @@
     "name": "Gel de baño Frutal Deliplus piel normal",
     "description": "Botella",
     "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "20931",
+    "ean": "8402001044120",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20931/aperitivo-patata-sabor-barbacoa-hacendado-bote",
+    "name": "Aperitivo de patata sabor barbacoa Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "20940",
