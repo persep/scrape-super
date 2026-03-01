@@ -12528,6 +12528,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "16356",
+    "ean": "8402001045196",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/16356/lote-hombre-fuerza-contiene-eau-parfum-100-ml-gel-champu-100-ml-neceser",
+    "name": "Lote hombre Como tú Fuerza",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "16374",
     "ean": "8402001037054",
     "brand": "Deliplus",
@@ -12544,6 +12553,24 @@
     "name": "Mousse facial limpiadora purificante Deliplus Oil Free",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "16384",
+    "ean": "8402001044748",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/16384/eau-parfum-hombre-audaz-frasco",
+    "name": "Eau de parfum hombre Como tú Audaz",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "16389",
+    "ean": "8402001043901",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16389/lote-corporal-hombre-deliplus-aqua-men-contiene-desodorante-body-spray-200-ml-gel-fijador-100-ml-gel-champu-200-ml-neceser",
+    "name": "Lote corporal hombre Deliplus Aqua men",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "16412",
@@ -12589,6 +12616,15 @@
     "name": "Detergente ropa todo en 1 frescor floral Ariel Pods en cápsulas",
     "description": "Caja",
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
+    "id": "16446",
+    "ean": "8402001047756",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16446/bruma-facial-multifuncional-make-up-fixer-deliplus",
+    "name": "Bruma facial multifuncional Make Up Fixer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "16503",
