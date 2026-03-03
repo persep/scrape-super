@@ -12420,6 +12420,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "16272",
+    "ean": "8412500691831",
+    "brand": "La Piara",
+    "url": "https://tienda.mercadona.es/product/16272/pate-cerdo-piara-tapa-negra",
+    "name": "Paté de cerdo La Piara tapa negra",
+    "description": null,
+    "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
     "id": "16279",
     "ean": "8402001046483",
     "brand": "Hacendado",
@@ -12535,6 +12544,15 @@
     "name": "Crema facial fotocorrector unificador anti-manchas Deliplus FPS 50",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "16339",
+    "ean": "8402001036729",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16339/protector-labial-deliplus-fps-30-caja",
+    "name": "Protector labial Deliplus FPS 30",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
     "id": "16356",
@@ -15280,6 +15298,24 @@
     "name": "Bífidus cremoso con lima y limón Activia",
     "description": "Pack-4",
     "category": "Postres y yogures > Bífidus"
+  },
+  {
+    "id": "20338",
+    "ean": "8411090310467",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/20338/cerveza-sin-alcohol-falke",
+    "name": "Cerveza sin alcohol Falke",
+    "description": null,
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "20339",
+    "ean": "8411090310450",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/20339/cerveza-sin-alcohol-falke-lata",
+    "name": "Cerveza sin alcohol Falke",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "20340",
