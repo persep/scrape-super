@@ -1215,6 +1215,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "11076",
+    "ean": "8480000110763",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11076/cafe-grano-fuerte-hacendado-paquete",
+    "name": "Café en grano fuerte Hacendado",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Café molido y en grano"
+  },
+  {
     "id": "11077",
     "ean": "8480000110770",
     "brand": "Hacendado",
@@ -12483,6 +12492,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "16292",
+    "ean": "8435361223065",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16292/alas-partidas-pollo-congeladas-paquete",
+    "name": "Alas partidas de pollo congeladas",
+    "description": "Paquete",
+    "category": "Carne > Carne congelada"
+  },
+  {
     "id": "16294",
     "ean": "8428390080952",
     "brand": "Flor de Mayo",
@@ -12562,6 +12580,24 @@
     "name": "Lote hombre Como tú Fuerza",
     "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "16366",
+    "ean": "8402001040726",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16366/sombra-ojos-long-lasting-deliplus-multi-stick-09-azul",
+    "name": "Sombra de ojos Long Lasting Deliplus Multi-Stick 09 azul",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "16367",
+    "ean": "8402001040733",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16367/sombra-ojos-long-lasting-deliplus-multi-stick-10-verde",
+    "name": "Sombra de ojos Long Lasting Deliplus Multi-Stick 10 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "16374",
@@ -12652,6 +12688,15 @@
     "name": "Bruma facial multifuncional Make Up Fixer Deliplus",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "16467",
+    "ean": "8402001046759",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16467/torrijas-fritas-congeladas-bandeja",
+    "name": "Torrijas fritas congeladas",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "16503",
@@ -14920,6 +14965,15 @@
     "name": "Seitán Soria Natural lonchas",
     "description": "Paquete",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "19975",
+    "ean": "8402001044250",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19975/patatas-fritas-sabor-campestre-hacendado-paquete",
+    "name": "Patatas fritas onduladas sabor campestre Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "19977",
