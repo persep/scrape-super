@@ -12375,6 +12375,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16240",
+    "ean": "8402001047954",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16240/barritas-barquillo-cookies-cobertura-cacao-con-pepitas-rellenas-galleta-paquete",
+    "name": "Barritas de barquillo Cookies cobertura de cacao con pepitas y rellenas de galleta",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "16252",
     "ean": "8402001048333",
     "brand": "Hacendado",
@@ -12436,6 +12445,15 @@
     "name": "Paté de cerdo La Piara tapa negra",
     "description": null,
     "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "16278",
+    "ean": "8402001046476",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16278/chocolate-blanco-fussion-hacendado-relleno-crema-avellana-masa-filo-tostada-tableta",
+    "name": "Chocolate blanco Fussion Hacendado relleno de crema de avellana y masa filo tostada",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "16279",
@@ -12544,6 +12562,24 @@
     "name": "Mantecadas Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "16326",
+    "ean": "8402001043697",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16326/huevos-con-disquitos-pascua-chocolate-hacendado-paquete",
+    "name": "Huevos con disquitos Pascua de chocolate Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "16329",
+    "ean": "8402001048005",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16329/barritas-galleta-caramelo-hacendado-banadas-chocolate-con-leche-paquete",
+    "name": "Barritas de galleta y caramelo Hacendado bañadas de chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "16331",
@@ -16603,6 +16639,24 @@
     "name": "Sérum de pestañas y cejas Revival cuida, nutre y fortalece Deliplus transparente",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "21509",
+    "ean": "8411090326260",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21509/cerveza-sin-alcohol-falke",
+    "name": "Cerveza sin alcohol Falke",
+    "description": null,
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "21510",
+    "ean": "8411090326253",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21510/cerveza-sin-alcohol-falke-botellin",
+    "name": "Cerveza sin alcohol Falke",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "21519",
