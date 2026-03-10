@@ -12699,6 +12699,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16438",
+    "ean": "5449000144881",
+    "brand": "Aquarius",
+    "url": "https://tienda.mercadona.es/product/16438/bebida-isotonica-melocoton-rojo-aquarius-botella",
+    "name": "Bebida isotónica melocotón rojo Aquarius",
+    "description": "Botella",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "16439",
     "ean": "8421384157555",
     "brand": "",
@@ -12706,6 +12715,15 @@
     "name": "Chuletas paleta de cerdo",
     "description": "Bandeja",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "16440",
+    "ean": "5056784900826",
+    "brand": "Monster",
+    "url": "https://tienda.mercadona.es/product/16440/bebida-energetica-energy-ultra-zero-strawberry-monster-lata",
+    "name": "Bebida energética Energy Ultra zero Strawberry Monster",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "16442",
@@ -16837,6 +16855,15 @@
     "name": "Parches para ojos de hidrogel Energizantes Deliplus con cafeína y ginseng",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21601",
+    "ean": "8402001048494",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21601/lomo-cerdo-cocido-hacendado-finas-lonchas",
+    "name": "Lomo de cerdo cocido Hacendado finas lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "21610",
