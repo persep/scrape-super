@@ -12636,6 +12636,15 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "16372",
+    "ean": "8402001040740",
+    "brand": "Denim Blossom",
+    "url": "https://tienda.mercadona.es/product/16372/paleta-sombras-ojos-denim-blossom-contiene-2-nudes-mate-2-rosados-luminosos-1-perlado-deliplus",
+    "name": "Paleta sombras de ojos Denim Blossom",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "16374",
     "ean": "8402001037054",
     "brand": "Deliplus",
@@ -12740,6 +12749,24 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/16446/bruma-facial-multifuncional-make-up-fixer-deliplus",
     "name": "Bruma facial multifuncional Make Up Fixer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "16456",
+    "ean": "8402001040764",
+    "brand": "Denim Blossom",
+    "url": "https://tienda.mercadona.es/product/16456/iluminador-facial-compacto-denim-blossom-tricolor-deliplus",
+    "name": "Iluminador facial compacto Denim Blossom tricolor",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "16457",
+    "ean": "8402001040757",
+    "brand": "Denim Blossom",
+    "url": "https://tienda.mercadona.es/product/16457/prebase-facial-active-glow-primer-denim-blossom-efecto-luminoso-contiene-esferas-encapsuladas-con-vitamina-deliplus",
+    "name": "Prebase facial Active Glow Primer Denim Blossom efecto luminoso",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
