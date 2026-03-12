@@ -9900,6 +9900,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "14976",
+    "ean": "8402001041334",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14976/brochetas-cerdo-adobadas-bandeja",
+    "name": "Brochetas de cerdo adobadas",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "14981",
     "ean": "8402001041372",
     "brand": "Hacendado",
@@ -12643,6 +12652,15 @@
     "name": "Paleta sombras de ojos Denim Blossom",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "16373",
+    "ean": "8402001040771",
+    "brand": "Denim Blossom",
+    "url": "https://tienda.mercadona.es/product/16373/balsamo-labial-denim-blossom-efecto-natural-ph-deliplus",
+    "name": "Bálsamo labial Denim Blossom efecto natural al pH",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "16374",
