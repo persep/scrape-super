@@ -5823,6 +5823,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "13297",
+    "ean": "8402001028298",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/13297/panales-bebe-talla-3-4-10-kg-deliplus-paquete",
+    "name": "Pañales bebé talla 3 de 4-10 kg Deliplus",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "13298",
     "ean": "8402001028304",
     "brand": "Deliplus",
@@ -12645,6 +12654,33 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "16369",
+    "ean": "8402001045103",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16369/laca-unas-alto-brillo-deliplus-137-verde",
+    "name": "Laca de uñas alto brillo Deliplus 137 verde",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "16370",
+    "ean": "8402001045110",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16370/laca-unas-alto-brillo-deliplus-138-rosa",
+    "name": "Laca de uñas alto brillo Deliplus 138 rosa",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "16371",
+    "ean": "8402001045127",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16371/laca-unas-alto-brillo-deliplus-139-granate",
+    "name": "Laca de uñas alto brillo Deliplus 139 granate",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "16372",
     "ean": "8402001040740",
     "brand": "Denim Blossom",
@@ -14578,6 +14614,24 @@
     "name": "Cacao soluble ColaCao original",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "19847",
+    "ean": "8402001042058",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19847/petit-sabor-fresa-hacendado",
+    "name": "Petit sabor fresa Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Yogures y postres infantiles"
+  },
+  {
+    "id": "19848",
+    "ean": "8402001042065",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19848/petit-sabor-fresa-platano-hacendado",
+    "name": "Petit sabor fresa y plátano Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Yogures y postres infantiles"
   },
   {
     "id": "19855",
@@ -16756,6 +16810,15 @@
     "name": "Chuletón de vacuno añojo para barbacoa o plancha",
     "description": "Bandeja",
     "category": "Carne > Vacuno"
+  },
+  {
+    "id": "21556",
+    "ean": "8402001046407",
+    "brand": "L-casei",
+    "url": "https://tienda.mercadona.es/product/21556/bebida-lactea-desnatada-fresa-l-casei-0-mg-0-azucares-anadidos-hacendado",
+    "name": "Bebida láctea desnatada de fresa L-casei 0% MG 0% azúcares añadidos",
+    "description": null,
+    "category": "Postres y yogures > Yogures líquidos"
   },
   {
     "id": "21565",
