@@ -12627,6 +12627,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "16354",
+    "ean": "8402001050855",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/16354/berlina-con-cobertura-frutos-rojos-virutas-chocolate-blanco-relleno-30-arandanos-pieza",
+    "name": "Berlina con cobertura de frutos rojos y virutas de chocolate blanco relleno 30% arándanos",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "16356",
     "ean": "8402001045196",
     "brand": "Como tú",
@@ -16666,6 +16675,15 @@
     "name": "Rosquilla de cacao Caocream Hacendado",
     "description": null,
     "category": "Panadería y pastelería > Bollería envasada"
+  },
+  {
+    "id": "21489",
+    "ean": "8410189072958",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21489/eliminador-turbidez-piscina-caja",
+    "name": "Eliminador de turbidez para piscina",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
     "id": "21491",
@@ -45869,6 +45887,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/52667/nuez-natural-troceada-hacendado-paquete",
     "name": "Nuez natural troceada Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "52668",
+    "ean": "8402001014284",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/52668/anacardo-tostado-0-sal-anadida-hacendado-paquete",
+    "name": "Anacardo tostado 0% sal añadida Hacendado",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
