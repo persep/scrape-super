@@ -12402,6 +12402,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16239",
+    "ean": "4006000172255",
+    "brand": "Nivea",
+    "url": "https://tienda.mercadona.es/product/16239/fluido-proteccion-solar-facial-nivea-tono-medio-fps-50-acido-hialuronico-bote",
+    "name": "Fluido protección solar facial Nivea tono medio FPS 50+",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "16240",
     "ean": "8402001047954",
     "brand": "",
@@ -12436,6 +12445,15 @@
     "name": "Chopped cocido en lata Hacendado finas lonchas",
     "description": "Paquete",
     "category": "Charcutería y quesos > Chopped y mortadela"
+  },
+  {
+    "id": "16263",
+    "ean": "8402001049804",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16263/perlas-sol-deliplus-contiene-beta-caroteno-luteina-cobre-caja",
+    "name": "Perlas Sol Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "16264",
@@ -12553,6 +12571,15 @@
     "name": "Alas partidas de pollo congeladas",
     "description": "Paquete",
     "category": "Carne > Carne congelada"
+  },
+  {
+    "id": "16293",
+    "ean": "8006530143127",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/16293/compresa-sin-alas-normal-evax-cotton-like-paquete",
+    "name": "Compresa sin alas normal Evax cotton like",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
     "id": "16294",
@@ -12735,6 +12762,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "16377",
+    "ean": "8402001038099",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16377/crema-corporal-anticelulitico-reafirmante-deliplus-bote",
+    "name": "Crema corporal anticelulítico reafirmante Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "16382",
     "ean": "8402001038006",
     "brand": "Deliplus",
@@ -12769,6 +12805,15 @@
     "name": "Lote mujer Como tú Extratime",
     "description": null,
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "16398",
+    "ean": "8402001043888",
+    "brand": "Elección",
+    "url": "https://tienda.mercadona.es/product/16398/lote-mujer-eleccion-contiene-eau-parfum-100-ml-crema-manos-30-ml-leche-corporal-75-ml",
+    "name": "Lote mujer Elección",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "16412",
@@ -16632,6 +16677,24 @@
     "category": "Zumos > Fruta variada"
   },
   {
+    "id": "21399",
+    "ean": "8402001044083",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21399/aceite-solar-protector-deliplus-fps-30-resistente-agua-toque-seco-spray",
+    "name": "Aceite solar protector Deliplus FPS 30",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "21402",
+    "ean": "8402001044076",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21402/protector-solar-bruma-facial-deliplus-fps-50-resistente-agua-spray",
+    "name": "Protector solar bruma facial Deliplus FPS 50",
+    "description": "Spray",
+    "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
     "id": "21424",
     "ean": "8413158087335",
     "brand": "Finura de Ibérico",
@@ -16902,6 +16965,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "21578",
+    "ean": "8402001047299",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21578/helado-golden-pecan-hacendado-vainilla-con-trozos-nueces-pecan-caramelizadas-dulce-arce-salsa-caramelo-bote",
+    "name": "Helado Golden Pecan Hacendado de vainilla",
+    "description": "Bote",
+    "category": "Congelados > Helados"
+  },
+  {
     "id": "21581",
     "ean": "8402001044434",
     "brand": "Hacendado",
@@ -17035,6 +17107,24 @@
     "name": "Lomo de cerdo cocido Hacendado finas lonchas",
     "description": null,
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "21604",
+    "ean": "8402001045264",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21604/helado-bombon-pistacho-hacendado-con-cobertura-salsa-granillo-pistacho-caja",
+    "name": "Helado bombón pistacho Hacendado con cobertura, salsa y granillo de pistacho",
+    "description": "Caja",
+    "category": "Congelados > Helados"
+  },
+  {
+    "id": "21605",
+    "ean": "8402001045257",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21605/helado-dochi-tarta-abuela-hacendado-vainilla-masa-galleta-con-salsa-avellana-con-trocitos-triturado-galleta-caja",
+    "name": "Helado Dochi tarta de la abuela Hacendado de vainilla y masa de galleta",
+    "description": "Caja",
+    "category": "Congelados > Helados"
   },
   {
     "id": "21610",
