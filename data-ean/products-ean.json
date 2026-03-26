@@ -9252,6 +9252,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "14461",
+    "ean": "8436039781061",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14461/chuletas-pavo-contramuslo-bandeja",
+    "name": "Chuletas de pavo contramuslo",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "14462",
     "ean": "8402001027420",
     "brand": "Deliplus",
@@ -12582,6 +12591,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "16289",
+    "ean": "8402001048654",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16289/galletas-cacao-caocream-hacendado-rellena-crema-chocolate-caja",
+    "name": "Galletas de cacao Caocream Hacendado rellena de crema chocolate",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "16292",
     "ean": "8435361223065",
     "brand": "",
@@ -12831,6 +12849,15 @@
     "url": "https://tienda.mercadona.es/product/16389/lote-corporal-hombre-deliplus-aqua-men-contiene-desodorante-body-spray-200-ml-gel-fijador-100-ml-gel-champu-200-ml-neceser",
     "name": "Lote corporal hombre Deliplus Aqua men",
     "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "16394",
+    "ean": "8445326856009",
+    "brand": "Color Up",
+    "url": "https://tienda.mercadona.es/product/16394/lote-infantil-maquillaje-color-up-unicorn-power-contiene-2-lacas-unas-6-sombras-ojos-1-brillo-labios-1-lima-unas-1-pegatinas-unas-2-anillos-silicona-2-pinzas-pelo-1-bolso-con-pompon-caja",
+    "name": "Lote infantil maquillaje Color Up Unicorn Power",
+    "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
