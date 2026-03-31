@@ -16758,6 +16758,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "21404",
+    "ean": "8437007683165",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21404/lagrimas-hidratantes-ojos-deliplus-con-hialuronato-sodico-02-sin-conservantes-caja",
+    "name": "Lágrimas hidratantes para los ojos Deliplus con hialuronato sódico 0,2%",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
+  },
+  {
     "id": "21424",
     "ean": "8413158087335",
     "brand": "Finura de Ibérico",
@@ -17044,6 +17053,15 @@
     "name": "Cepillo dental Duro Deliplus",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "21576",
+    "ean": "8402001047275",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21576/panecillo-trigo-integral-30",
+    "name": "Panecillo de trigo integral 30%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "21578",
@@ -17350,6 +17368,15 @@
     "name": "Chuletas de cordero pierna",
     "description": "Bandeja",
     "category": "Carne > Conejo y cordero"
+  },
+  {
+    "id": "21834",
+    "ean": "8402001038594",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21834/mist-con-exosomas-cica-deliplus-tipo-pieles-bote",
+    "name": "Mist con exosomas & cica Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "2185",
