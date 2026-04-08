@@ -16803,6 +16803,33 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "21441",
+    "ean": "8402001043710",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21441/kit-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja",
+    "name": "Kit de pinceles rostro Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
+    "id": "21442",
+    "ean": "8402001043727",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21442/kit-pinceles-ojos-deliplus-contiene-pincel-difuminador-pincel-sombra-pincel-precision-pincel-duo-caja",
+    "name": "Kit de pinceles ojos Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
+    "id": "21443",
+    "ean": "8402001043734",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21443/kit-esencial-deliplus-contiene-brocha-polvos-estuche-caja",
+    "name": "Kit Esencial Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "21448",
     "ean": "8402001045820",
     "brand": "Hacendado",
@@ -17262,6 +17289,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "21625",
+    "ean": "8402001048111",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21625/batido-lacteo-sabor-cafe-proteinas-hacendado-30-g-proteinas-brik",
+    "name": "Batido lácteo sabor café +Proteínas Hacendado 30 g proteínas",
+    "description": "Brik",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "21628",
     "ean": "8410973643418",
     "brand": "La Selva",
@@ -17314,6 +17350,15 @@
     "name": "Fluido protección solar facial Deliplus FPS 50+",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "21662",
+    "ean": "8436561134748",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21662/centro-paletilla-cordero-congelada-pieza",
+    "name": "Centro paletilla de cordero congelada",
+    "description": "Pieza",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "2169",
@@ -17422,6 +17467,15 @@
     "name": "Oreja de cerdo cocida adobada Rogusa",
     "description": "Paquete",
     "category": "Carne > Empanados y elaborados"
+  },
+  {
+    "id": "21985",
+    "ean": "8445292642446",
+    "brand": "Nesquik",
+    "url": "https://tienda.mercadona.es/product/21985/cacao-soluble-instantaneo-nesquik-caja",
+    "name": "Cacao soluble instantáneo Nesquik",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
     "id": "22001",
