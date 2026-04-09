@@ -12708,6 +12708,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "16334",
+    "ean": "8402001049088",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16334/salteado-verduras-asadas-hacendado-ultracongeladas-paquete",
+    "name": "Salteado de verduras asadas Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Verdura"
+  },
+  {
     "id": "16339",
     "ean": "8402001036729",
     "brand": "Deliplus",
@@ -12715,6 +12724,15 @@
     "name": "Protector labial Deliplus FPS 30",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
+  },
+  {
+    "id": "16352",
+    "ean": "8402001049453",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16352/jamon-cocido-jugoso-hacendado-lonchas-paquete",
+    "name": "Jamón cocido jugoso Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "16354",
@@ -12913,6 +12931,15 @@
     "name": "Guisantes extra Hacendado",
     "description": "Bote",
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
+  },
+  {
+    "id": "16431",
+    "ean": "8402001027901",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16431/crema-corporal-africa-oil-deliplus-tarro",
+    "name": "Crema corporal Africa oil Deliplus",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "16438",
@@ -22939,6 +22966,15 @@
     "name": "Vinagre balsámico de Módena Hacendado",
     "description": "Botella",
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
+    "id": "26749",
+    "ean": "8480000267498",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26749/medallones-salmon-hacendado-cocinar-congelados-paquete",
+    "name": "Medallones de salmón Hacendado cocinar congelados",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "26750",
@@ -56581,6 +56617,15 @@
     "name": "Cerveza sin gluten Steinburg",
     "description": "Lata",
     "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "66836",
+    "ean": "8437003519154",
+    "brand": "Ponte Tamuxe",
+    "url": "https://tienda.mercadona.es/product/66836/vino-blanco-do-rias-baixas-albarino-ponte-tamuxe-botella",
+    "name": "Vino blanco albariño Ponte Tamuxe DO Rías Baixas",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "66864",
