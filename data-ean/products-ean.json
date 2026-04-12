@@ -12978,6 +12978,15 @@
     "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
+    "id": "16443",
+    "ean": "8402001050152",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16443/golosinas-rega-pica-mix-hacendado-sabor-fresa-frambuesa-manzana-cola-acida-paquete",
+    "name": "Golosinas Rega Pica Mix Hacendado sabor fresa, frambuesa, manzana y cola ácida",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "16446",
     "ean": "8402001047756",
     "brand": "Deliplus",
@@ -17503,6 +17512,24 @@
     "name": "Parches para ojos de hidrogel Regeneradores Deliplus con péptidos y bakuchiol",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21859",
+    "ean": "8402001050770",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21859/laca-unas-alto-brillo-deliplus-140-blanco",
+    "name": "Laca de uñas alto brillo Deliplus 140 blanco",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21860",
+    "ean": "8402001050930",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21860/tratamiento-unas-base-blanqueante-calcio-deliplus-58",
+    "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "21985",
