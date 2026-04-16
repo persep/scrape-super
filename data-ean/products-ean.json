@@ -10143,6 +10143,60 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "15103",
+    "ean": "8402001041693",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15103/lomo-cebo-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+    "name": "Lomo de cebo ibérico 50% raza ibérica cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "15104",
+    "ean": "8402001041686",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15104/chorizo-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Chorizo de cebo ibérico cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "15109",
+    "ean": "8402001041679",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15109/salchichon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Salchichón de cebo ibérico cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "15110",
+    "ean": "8402001041662",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15110/lomo-bellota-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+    "name": "Lomo de bellota ibérico 50% raza ibérica cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "15112",
+    "ean": "8402001041655",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15112/chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Chorizo de bellota ibérico cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "15116",
+    "ean": "8402001041648",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/15116/salchichon-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+    "name": "Salchichón de bellota ibérico cortado a máquina",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "15132",
     "ean": "8480000151322",
     "brand": "Hacendado",
@@ -13021,6 +13075,15 @@
     "name": "Torrijas fritas congeladas",
     "description": "Bandeja",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "16483",
+    "ean": "8402001049590",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/16483/ambientador-spray-hogar-peonia-bosque-verde-con-pistola-botella",
+    "name": "Ambientador spray hogar Peonía Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "16503",
@@ -16929,6 +16992,15 @@
     "category": "Limpieza y hogar > Lejía y líquidos fuertes"
   },
   {
+    "id": "21490",
+    "ean": "8402001047947",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/21490/bocaditos-gelatina-gato-adulto-delikuit-contiene-6-con-atun-trucha-verduras-6-con-salmon-bacalo-verduras-caja",
+    "name": "Bocaditos en gelatina gato adulto Delikuit",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "21491",
     "ean": "8402001043185",
     "brand": "Hacendado",
@@ -17478,6 +17550,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "21789",
+    "ean": "8402001048593",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21789/colorete-cream-blush-deliplus-01-nude-rosado-acabado-natural",
+    "name": "Colorete Cream Blush Deliplus 01 nude rosado",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "2179",
     "ean": "8411713111068",
     "brand": "Rogusa",
@@ -17485,6 +17566,15 @@
     "name": "Callos preparados de ternera Rogusa",
     "description": "Paquete",
     "category": "Carne > Empanados y elaborados"
+  },
+  {
+    "id": "21790",
+    "ean": "8402001048609",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21790/colorete-cream-blush-deliplus-02-rosa-intenso-acabado-natural",
+    "name": "Colorete Cream Blush Deliplus 02 rosa intenso",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "21807",
@@ -17548,6 +17638,24 @@
     "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21885",
+    "ean": "8402001040849",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21885/pintalabios-duo-ink-gloss-deliplus-02-rosa-intenso",
+    "name": "Pintalabios dúo Ink & Gloss Deliplus 02 rosa intenso",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "21886",
+    "ean": "8402001040870",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21886/pintalabios-duo-ink-gloss-deliplus-01-nude-rosado",
+    "name": "Pintalabios dúo Ink & Gloss Deliplus 01 nude rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "21985",
