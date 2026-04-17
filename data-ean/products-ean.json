@@ -16983,6 +16983,15 @@
     "category": "Panadería y pastelería > Bollería envasada"
   },
   {
+    "id": "21487",
+    "ean": "8402001047930",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/21487/bocaditos-gelatina-gato-adulto-delikuit-contiene-6-con-ternera-higado-verduras-6-con-pato-pollo-verduras-caja",
+    "name": "Bocaditos en gelatina gato adulto Delikuit",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "21489",
     "ean": "8410189072958",
     "brand": "",
@@ -17656,6 +17665,15 @@
     "name": "Pintalabios dúo Ink & Gloss Deliplus 01 nude rosado",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "21960",
+    "ean": "8402001052040",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21960/pan-hamburguesa-hacendado-rustico-100-integral-paquete",
+    "name": "Pan de hamburguesa Hacendado Rústico 100% integral",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "21985",
@@ -22219,6 +22237,15 @@
     "name": "Bebida de almendras zero Hacendado",
     "description": "Brick",
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
+  },
+  {
+    "id": "23976",
+    "ean": "8414129701007",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/23976/medio-pollo-partido-marinado-troceado-bandeja",
+    "name": "Medio pollo partido marinado troceado",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "24016",
