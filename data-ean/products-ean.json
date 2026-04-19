@@ -12780,6 +12780,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "16344",
+    "ean": "8402001049958",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16344/refresco-te-sabor-manzana-hacendado-diluir-caja",
+    "name": "Refresco té sabor manzana Hacendado para diluir",
+    "description": "Caja",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
     "id": "16352",
     "ean": "8402001049453",
     "brand": "Hacendado",
@@ -17487,6 +17496,15 @@
     "category": "Cuidado facial y corporal > Protector solar y aftersun"
   },
   {
+    "id": "21644",
+    "ean": "8402001037702",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21644/ampollas-capilares-concentradas-deliplus-tratamiento-reparacion-molecular-contienen-peptidos-acido-hialuronico-acido-glicolico-caja",
+    "name": "Ampollas capilares concentradas Deliplus tratamiento de reparación molecular",
+    "description": "Caja",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "21662",
     "ean": "8436561134748",
     "brand": "",
@@ -17574,6 +17592,24 @@
     "url": "https://tienda.mercadona.es/product/21766/eau-toilette-hombre-aqua-royale-vitae-frasco",
     "name": "Eau de toilette hombre Aqua Royale Vitae",
     "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "21768",
+    "ean": "8402001040504",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/21768/lote-mujer-amor-contiene-eau-parfum-100-ml-neceser",
+    "name": "Lote mujer Como tú Amor",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "21769",
+    "ean": "8402001040474",
+    "brand": "Shine",
+    "url": "https://tienda.mercadona.es/product/21769/lote-mujer-shine-special-contiene-eau-parfum-100-ml-bolso",
+    "name": "Lote mujer Shine Special",
+    "description": null,
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
