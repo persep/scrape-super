@@ -5904,6 +5904,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "13330",
+    "ean": "8436021419644",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/13330/pluma-cerdo-bandeja",
+    "name": "Pluma de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "13332",
     "ean": "8480000133328",
     "brand": "Compy",
@@ -9826,6 +9835,15 @@
     "name": "Tónico facial vitaminas y minerales Facial Clean Deliplus hidratante y regenerador",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "14943",
+    "ean": "8421384154509",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/14943/taquitos-cerdo-bandeja",
+    "name": "Taquitos de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "14946",
@@ -42226,6 +42244,15 @@
     "name": "Vinagre de Limpieza Bosque Verde concentrado",
     "description": "Botella",
     "category": "Limpieza y hogar > Limpieza muebles y multiusos"
+  },
+  {
+    "id": "4949",
+    "ean": "2105100049497",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/4949/lagarto-cerdo-bandeja",
+    "name": "Lagarto de cerdo",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "49504",
