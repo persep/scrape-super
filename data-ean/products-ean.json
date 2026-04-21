@@ -17190,6 +17190,24 @@
     "category": "Carne > Vacuno"
   },
   {
+    "id": "21551",
+    "ean": "8402001041396",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/21551/ambientador-spray-tejidos-bosque-verde-con-pistola-botella",
+    "name": "Ambientador spray de tejidos Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "21552",
+    "ean": "8402001046957",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21552/cayena-guindillas-hacendado-bote",
+    "name": "Cayena guindillas Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Especias"
+  },
+  {
     "id": "21556",
     "ean": "8402001046407",
     "brand": "L-casei",
@@ -17631,6 +17649,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "21770",
+    "ean": "8402001044359",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/21770/eau-parfum-mujer-my-soul-sucrette-contiene-pulverizador-perilla-frasco",
+    "name": "Eau de parfum mujer My Soul Sucrette",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "21771",
     "ean": "8428390081058",
     "brand": "Flor de Mayo",
@@ -17638,6 +17665,15 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Blue Bloom",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "21784",
+    "ean": "8402001051487",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21784/zumo-maracuya-chia-hacendado-botella",
+    "name": "Zumo maracuyá y chía Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "21789",
@@ -17728,6 +17764,15 @@
     "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21881",
+    "ean": "8402001044472",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21881/crema-facial-dia-antiarrugas-regen-skin-deliplus-con-exosomas-spf-30-piel-normal-seca-muy-seca-tarro",
+    "name": "Crema facial día antiarrugas Regen Skin Deliplus con exosomas",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "21885",
@@ -66641,6 +66686,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/80771/tortilla-patata-hacendado-bandeja",
     "name": "Tortilla de patata Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
+    "id": "80773",
+    "ean": "8480000807731",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/80773/tortilla-patata-con-chorizo-hacendado-con-aceite-oliva-bandeja",
+    "name": "Tortilla de patata con chorizo Hacendado",
     "description": "Bandeja",
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
