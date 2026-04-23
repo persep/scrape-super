@@ -12510,6 +12510,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16238",
+    "ean": "8402001047749",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16238/kit-esponjas-maquillaje-deliplus-contiene-esponja-aplicar-bases-esponja-fijar-polvos-sueltos-neceser-caja",
+    "name": "Kit de esponjas maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "16239",
     "ean": "4006000172255",
     "brand": "Nivea",
@@ -13084,6 +13093,24 @@
     "name": "Bruma facial multifuncional Make Up Fixer Deliplus",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "16453",
+    "ean": "8402001043444",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16453/aceitunas-verdes-rellenas-jalapeno-hacendado-picantes",
+    "name": "Aceitunas verdes rellenas de jalapeño Hacendado picantes",
+    "description": null,
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "16454",
+    "ean": "8402001043468",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16454/aceitunas-verdes-rellenas-jalapeno-hacendado-picantes-bote",
+    "name": "Aceitunas verdes rellenas de jalapeño Hacendado picantes",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "16456",
@@ -17683,6 +17710,15 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Blue Bloom",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "21772",
+    "ean": "8402001051630",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21772/smoothie-fresa-platano-hacendado-botella",
+    "name": "Smoothie fresa y plátano Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "21774",
