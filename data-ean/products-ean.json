@@ -2529,6 +2529,15 @@
     "category": "Pizzas y platos preparados > Platos preparados calientes"
   },
   {
+    "id": "11672",
+    "ean": "8402001028861",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/11672/queso-semicurado-oveja-hacendado-cortado-cunitas-pieza",
+    "name": "Queso semicurado de oveja Hacendado cortado en cuñitas",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
     "id": "11673",
     "ean": "8410843155577",
     "brand": "El Pozo",
@@ -17613,6 +17622,24 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "21721",
+    "ean": "8402001047848",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21721/refresco-naranja-hacendado-zero-fresh-gas",
+    "name": "Refresco de naranja Hacendado zero fresh gas",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "21722",
+    "ean": "8402001042942",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21722/refresco-naranja-hacendado-zero-azucar-fresh-gas-lata",
+    "name": "Refresco de naranja Hacendado Zero azúcar fresh gas",
+    "description": "Lata",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
     "id": "21759",
     "ean": "8402001049873",
     "brand": "Hacendado",
@@ -17726,6 +17753,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/21774/smoothie-mango-coco-hacendado-botella",
     "name": "Smoothie mango y coco Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "21775",
+    "ean": "8402001051548",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21775/shot-jengibre-manzana-limon-hacendado-botella",
+    "name": "Shot jengibre, manzana y limón Hacendado",
     "description": "Botella",
     "category": "Zumos > Fruta variada"
   },
