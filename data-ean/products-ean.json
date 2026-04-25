@@ -35631,6 +35631,15 @@
     "category": "Zumos > Melocotón y piña"
   },
   {
+    "id": "39216",
+    "ean": "8480000392169",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/39216/zumo-melocoton-uva-hacendado-pack-6",
+    "name": "Zumo de melocotón y uva Hacendado",
+    "description": "Pack-6",
+    "category": "Zumos > Melocotón y piña"
+  },
+  {
     "id": "39219",
     "ean": "8480000392190",
     "brand": "Hacendado",
@@ -41800,6 +41809,15 @@
     "ean": "8480000478344",
     "brand": "Bosque Verde",
     "url": "https://tienda.mercadona.es/product/47834/papel-higienico-doble-hoja-bosque-verde-paquete",
+    "name": "Papel higiénico doble hoja Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Papel higiénico y celulosa"
+  },
+  {
+    "id": "47835",
+    "ean": "8402001042423",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/47835/papel-higienico-doble-hoja-bosque-verde-paquete",
     "name": "Papel higiénico doble hoja Bosque Verde",
     "description": "Paquete",
     "category": "Limpieza y hogar > Papel higiénico y celulosa"
@@ -73753,6 +73771,15 @@
     "name": "Levadura fresca Levital",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "8789",
+    "ean": "8436612582634",
+    "brand": "Descorche",
+    "url": "https://tienda.mercadona.es/product/8789/vino-blanco-do-catalunya-descorche-garnacha-blanca-botella",
+    "name": "Vino blanco Garnacha Blanca Descorche DO Catalunya",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "8790",
