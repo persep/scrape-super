@@ -17217,6 +17217,15 @@
     "category": "Charcutería y quesos > Jamón serrano"
   },
   {
+    "id": "21537",
+    "ean": "8402001046964",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21537/salteado-rustico-hacendado-ultracongelado-patata-boniato-cebolla-asada-paquete",
+    "name": "Salteado rústico Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Fruta y verdura"
+  },
+  {
     "id": "21540",
     "ean": "8402001046872",
     "brand": "",
@@ -17586,6 +17595,15 @@
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
+    "id": "21649",
+    "ean": "8402001050848",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21649/empanada-carne-35-pieza",
+    "name": "Empanada de carne 35%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "21662",
     "ean": "8436561134748",
     "brand": "",
@@ -17620,6 +17638,24 @@
     "name": "Bebida preparada de vodka sabor maracuyá Knebep Passion fruit",
     "description": "Botellín",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21719",
+    "ean": "8402001047831",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21719/refresco-naranja-hacendado-fresh-gas",
+    "name": "Refresco de naranja Hacendado fresh gas",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "21720",
+    "ean": "8402001042935",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21720/refresco-naranja-hacendado-fresh-gas-lata",
+    "name": "Refresco de naranja Hacendado fresh gas",
+    "description": "Lata",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
     "id": "21721",
