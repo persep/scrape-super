@@ -13140,6 +13140,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "16462",
+    "ean": "8410261201207",
+    "brand": "Castillo San Simón",
+    "url": "https://tienda.mercadona.es/product/16462/vino-tinto-12-meses-monastrell-castillo-san-simon-do-jumilla-botella",
+    "name": "Vino tinto 12 meses Monastrell Castillo San Simón DO Jumilla",
+    "description": "Botella",
+    "category": "Bodega > Vino tinto"
+  },
+  {
     "id": "16467",
     "ean": "8402001046759",
     "brand": "",
@@ -17928,6 +17937,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "21890",
+    "ean": "8402001051777",
+    "brand": "Glivery",
+    "url": "https://tienda.mercadona.es/product/21890/ginebra-watermelon-gin-glivery-botella",
+    "name": "Ginebra watermelon Gin Glivery",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "21960",
     "ean": "8402001052040",
     "brand": "Hacendado",
@@ -17944,6 +17962,15 @@
     "name": "Cacao soluble instantáneo Nesquik",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "21990",
+    "ean": "8436554810161",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21990/fartons-bandeja",
+    "name": "Fartons",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "22001",
