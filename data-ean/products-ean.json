@@ -9144,6 +9144,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "14393",
+    "ean": "8410783356430",
+    "brand": "Noel",
+    "url": "https://tienda.mercadona.es/product/14393/jamon-cocido-extra-50-raza-iberica-noel-lonchas-paquete",
+    "name": "Jamón cocido extra 50% raza ibérica Noel lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "14394",
     "ean": "8427894029924",
     "brand": "Piccolo Giovanni",
@@ -16495,6 +16504,15 @@
     "name": "Champú anticaspa Menthol Fresh H&S",
     "description": "Bote",
     "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "20959",
+    "ean": "8402001045578",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/20959/detergente-ropa-blanca-color-floral-sensation-bosque-verde-capsulas-caja",
+    "name": "Detergente ropa Blanca y de Color floral sensation Bosque Verde en cápsulas",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "20961",
