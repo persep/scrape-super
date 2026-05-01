@@ -5562,6 +5562,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "13053",
+    "ean": "8402001030987",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13053/cheesecake-con-arandanos-hacendado",
+    "name": "Cheesecake con arándanos Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "13055",
     "ean": "8402001034084",
     "brand": "Bosque Verde",
@@ -17244,6 +17253,15 @@
     "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
+    "id": "21533",
+    "ean": "8402001046988",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/21533/comida-gato-adulto-compy-con-pollo-pavo-verduras-paquete",
+    "name": "Comida gato adulto Compy con pollo, pavo y verduras",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "21536",
     "ean": "8402001047046",
     "brand": "La Hacienda del ibérico",
@@ -17971,6 +17989,60 @@
     "name": "Ginebra watermelon Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21940",
+    "ean": "8402001045646",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21940/laca-unas-alto-brillo-deliplus-143-amarillo",
+    "name": "Laca de uñas alto brillo Deliplus 143 amarillo",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21941",
+    "ean": "8402001045653",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21941/laca-unas-alto-brillo-deliplus-144-verde-pastel",
+    "name": "Laca de uñas alto brillo Deliplus 144 verde pastel",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21942",
+    "ean": "8402001045660",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21942/laca-unas-alto-brillo-deliplus-145-azul-pastel",
+    "name": "Laca de uñas alto brillo Deliplus 145 azul pastel",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21943",
+    "ean": "8402001045677",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21943/laca-unas-alto-brillo-deliplus-146-rosa-pastel",
+    "name": "Laca de uñas alto brillo Deliplus 146 rosa pastel",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21944",
+    "ean": "8402001045684",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21944/laca-unas-alto-brillo-deliplus-147-naranja-claro",
+    "name": "Laca de uñas alto brillo Deliplus 147 naranja claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21945",
+    "ean": "8402001045691",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21945/laca-unas-alto-brillo-deliplus-148-naranja-medio",
+    "name": "Laca de uñas alto brillo Deliplus 148 naranja medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "21960",
