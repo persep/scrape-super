@@ -10188,6 +10188,15 @@
     "category": "Azúcar, caramelos y chocolate > Mermelada y miel"
   },
   {
+    "id": "15099",
+    "ean": "8402001041518",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/15099/te-matcha-polvo-hacendado-caja",
+    "name": "Té Matcha en polvo Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Té e infusiones"
+  },
+  {
     "id": "15101",
     "ean": "8402001041471",
     "brand": "Hacendado",
@@ -17289,6 +17298,24 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "21544",
+    "ean": "8006530342520",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/21544/champu-hydra-revitaliza-pantene-cabello-muy-seco-bote",
+    "name": "Champú Hydra revitaliza Pantene cabello muy seco",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "21545",
+    "ean": "8006530342537",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/21545/mascarilla-hydra-revitaliza-pantene-cabello-muy-seco-tarro",
+    "name": "Mascarilla Hydra revitaliza Pantene cabello muy seco",
+    "description": "Tarro",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "2155",
     "ean": "8436569260784",
     "brand": null,
@@ -17314,6 +17341,15 @@
     "name": "Cayena guindillas Hacendado",
     "description": "Bote",
     "category": "Aceite, especias y salsas > Especias"
+  },
+  {
+    "id": "21553",
+    "ean": "8700216590846",
+    "brand": "Fairy",
+    "url": "https://tienda.mercadona.es/product/21553/lavavajillas-poder-3-1-fairy-liquido-lavado-mano-botella",
+    "name": "Lavavajillas Poder 3 en 1 Fairy líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpieza vajilla"
   },
   {
     "id": "21556",
@@ -17730,6 +17766,24 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "21725",
+    "ean": "8402001042966",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21725/refresco-lima-limon-hacendado-zero-azucar-fresh-gas-botella",
+    "name": "Refresco lima limón Hacendado zero azúcar fresh gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "21757",
+    "ean": "8402001051135",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/21757/ambientador-spray-oud-bosque-verde-spray",
+    "name": "Ambientador spray Oud Bosque Verde",
+    "description": "Spray",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "21759",
     "ean": "8402001049873",
     "brand": "Hacendado",
@@ -18070,6 +18124,24 @@
     "name": "Fartons",
     "description": "Bandeja",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "21994",
+    "ean": "8402001045493",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21994/fragancia-mist-berry-sorbet-deliplus-pelo-cuerpo-frasco",
+    "name": "Fragancia Mist Berry Sorbet Deliplus",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "22000",
+    "ean": "8411090620030",
+    "brand": "Desperados",
+    "url": "https://tienda.mercadona.es/product/22000/cerveza-con-sabor-tequila-mojito-desperados-heineken",
+    "name": "Cerveza con sabor a tequila y mojito Desperados",
+    "description": null,
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "22001",
@@ -22626,6 +22698,15 @@
     "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
+    "id": "23956",
+    "ean": "8411090620023",
+    "brand": "Desperados",
+    "url": "https://tienda.mercadona.es/product/23956/cerveza-con-sabor-tequila-mojito-desperados-heineken-botellin",
+    "name": "Cerveza con sabor a tequila y mojito Desperados",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "23976",
     "ean": "8414129701007",
     "brand": "",
@@ -22633,6 +22714,15 @@
     "name": "Medio pollo partido marinado troceado",
     "description": "Bandeja",
     "category": "Carne > Aves y pollo"
+  },
+  {
+    "id": "23977",
+    "ean": "8402001038105",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23977/tratamiento-corporal-reductor-grasa-push-up-deliplus-sculpt-intense-con-peptido-biomimetico-bote",
+    "name": "Tratamiento corporal reductor de grasa & push up Deliplus Sculpt Intense",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "24016",
