@@ -9135,6 +9135,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "14388",
+    "ean": "8402001037689",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/14388/recipiente-plastico-rectangular-11l-bosque-verde-paquete",
+    "name": "Recipiente de plástico rectangular 1,1L Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
+  },
+  {
     "id": "14390",
     "ean": "8402001034985",
     "brand": "Deliplus",
@@ -13111,6 +13120,15 @@
     "name": "Bebida energética Energy Ultra zero Strawberry Monster",
     "description": "Lata",
     "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "16441",
+    "ean": "8411402285360",
+    "brand": "Fiesta",
+    "url": "https://tienda.mercadona.es/product/16441/caramelos-masticables-con-palo-lolipop-fiesta-sabor-fresa-paquete",
+    "name": "Caramelos masticables con palo Lolipop Fiesta sabor fresa",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "16442",
@@ -17730,6 +17748,51 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "21698",
+    "ean": "8402001047794",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21698/bebida-energetica-energy-drink-hacendado",
+    "name": "Bebida energética Energy Drink Hacendado",
+    "description": null,
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "21709",
+    "ean": "8402001043130",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21709/refresco-te-sabor-melocoton-hacendado-zero-botella",
+    "name": "Refresco té sabor melocotón Hacendado zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "21710",
+    "ean": "8402001043147",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21710/refresco-te-verde-sabor-maracuya-mango-hacendado-zero-botella",
+    "name": "Refresco té verde sabor maracuyá y mango Hacendado zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "21714",
+    "ean": "8402001047817",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21714/refresco-cola-hacendado-zero-azucar",
+    "name": "Refresco cola Hacendado Zero azúcar",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "21715",
+    "ean": "8402001042911",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21715/refresco-cola-hacendado-zero-azucar-lata",
+    "name": "Refresco cola Hacendado Zero azúcar",
+    "description": "Lata",
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
     "id": "21719",
     "ean": "8402001047831",
     "brand": "Hacendado",
@@ -17771,6 +17834,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/21725/refresco-lima-limon-hacendado-zero-azucar-fresh-gas-botella",
     "name": "Refresco lima limón Hacendado zero azúcar fresh gas",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "21730",
+    "ean": "8402001043017",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21730/refresco-naranja-hacendado-zero-fresh-gas-botella",
+    "name": "Refresco de naranja Hacendado zero fresh gas",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
@@ -18043,6 +18115,15 @@
     "name": "Ginebra watermelon Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21936",
+    "ean": "8402001052262",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21936/pintalabios-fluido-mate-deliplus-16-rojo-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 16 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "21940",
@@ -23137,6 +23218,15 @@
     "name": "Lomos de salmón sin piel y sin espinas Hacendado congelado",
     "description": "Paquete",
     "category": "Congelados > Pescado"
+  },
+  {
+    "id": "24551",
+    "ean": "8410261640082",
+    "brand": "Don Simon",
+    "url": "https://tienda.mercadona.es/product/24551/fruta-leche-tropical-don-simon-sin-azucares-anadidos-zero-materia-grasa",
+    "name": "Fruta + leche tropical Don Simon sin azúcares añadidos y zero materia grasa",
+    "description": null,
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "24700",
@@ -57462,6 +57552,15 @@
     "url": "https://tienda.mercadona.es/product/67060/bebida-cider-con-gas-wild-panther-sabor-manzana-botellin",
     "name": "Bebida cider con gas Wild panther sabor manzana",
     "description": "Botellín",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "67090",
+    "ean": "8410569019641",
+    "brand": "Amstel",
+    "url": "https://tienda.mercadona.es/product/67090/cerveza-amstel",
+    "name": "Cerveza Amstel",
+    "description": null,
     "category": "Bodega > Cerveza"
   },
   {
