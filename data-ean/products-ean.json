@@ -17838,6 +17838,24 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "21727",
+    "ean": "8402001042980",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21727/refresco-cola-hacendado-zero-azucar-botella",
+    "name": "Refresco cola Hacendado Zero azúcar",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "21728",
+    "ean": "8402001042997",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21728/refresco-cola-hacendado-zero-azucar-zero-cafeina-botella",
+    "name": "Refresco cola Hacendado Zero azúcar Zero cafeína",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
     "id": "21730",
     "ean": "8402001043017",
     "brand": "Hacendado",
@@ -18126,6 +18144,24 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "21937",
+    "ean": "8402001040900",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21937/pintalabios-mate-deliplus-119-rosado",
+    "name": "Pintalabios Mate Deliplus 119 rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "21939",
+    "ean": "8402001040894",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21939/pintalabios-creamy-deliplus-220-rosado",
+    "name": "Pintalabios Creamy Deliplus 220 rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "21940",
     "ean": "8402001045646",
     "brand": "Deliplus",
@@ -18187,6 +18223,15 @@
     "name": "Pan de hamburguesa Hacendado Rústico 100% integral",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "21979",
+    "ean": "8402001050787",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21979/gelatina-sabores-mango-maracuya-guayaba-pina-coco-hacendado",
+    "name": "Gelatina sabores mango maracuyá, guayaba y piña coco Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "21985",
