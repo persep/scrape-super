@@ -17757,6 +17757,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "21699",
+    "ean": "8402001042850",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21699/bebida-energetica-energy-drink-hacendado-lata",
+    "name": "Bebida energética Energy Drink Hacendado",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "21709",
     "ean": "8402001043130",
     "brand": "Hacendado",
@@ -17793,6 +17802,24 @@
     "category": "Agua y refrescos > Refresco de cola"
   },
   {
+    "id": "21716",
+    "ean": "8402001047824",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21716/refresco-cola-hacendado-zero-azucar-zero-cafeina",
+    "name": "Refresco cola Hacendado Zero azúcar Zero cafeína",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "21717",
+    "ean": "8402001042928",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21717/refresco-cola-hacendado-zero-zero-lata",
+    "name": "Refresco cola Hacendado Zero Zero",
+    "description": "Lata",
+    "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
     "id": "21719",
     "ean": "8402001047831",
     "brand": "Hacendado",
@@ -17825,6 +17852,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/21722/refresco-naranja-hacendado-zero-azucar-fresh-gas-lata",
     "name": "Refresco de naranja Hacendado Zero azúcar fresh gas",
+    "description": "Lata",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "21724",
+    "ean": "8402001042959",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21724/refresco-lima-limon-hacendado-fresh-gas-lata",
+    "name": "Refresco lima limón Hacendado fresh gas",
     "description": "Lata",
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
@@ -18034,6 +18070,15 @@
     "name": "Shot jengibre, manzana y limón Hacendado",
     "description": "Botella",
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "21776",
+    "ean": "8402001051524",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21776/zumo-naranja-hacendado-botella",
+    "name": "Zumo de naranja Hacendado",
+    "description": "Botella",
+    "category": "Zumos > Naranja"
   },
   {
     "id": "21778",
