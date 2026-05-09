@@ -13203,6 +13203,15 @@
     "category": "Bodega > Vino tinto"
   },
   {
+    "id": "16463",
+    "ean": "8402001050572",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16463/papilla-manzana-mango-frambuesa-platano-papaya-hacendado-6-meses",
+    "name": "Papilla manzana, mango, frambuesa, plátano y papaya Hacendado +6 meses",
+    "description": null,
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "16467",
     "ean": "8402001046759",
     "brand": "",
@@ -17856,6 +17865,15 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "21723",
+    "ean": "8402001047855",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21723/refresco-lima-limon-hacendado-fresh-gas",
+    "name": "Refresco lima limón Hacendado fresh gas",
+    "description": null,
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
     "id": "21724",
     "ean": "8402001042959",
     "brand": "Hacendado",
@@ -17935,6 +17953,15 @@
     "name": "Refresco Tropical Hacendado sin gas",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de té y sin gas"
+  },
+  {
+    "id": "21733",
+    "ean": "8402001042836",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21733/gaseosa-grande-hacendado-botella",
+    "name": "Gaseosa grande Hacendado",
+    "description": "Botella",
+    "category": "Agua y refrescos > Agua"
   },
   {
     "id": "21757",
@@ -18322,6 +18349,15 @@
     "name": "Pan de hamburguesa Hacendado Rústico 100% integral",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "21964",
+    "ean": "8402001047725",
+    "brand": "Convidado de Baco",
+    "url": "https://tienda.mercadona.es/product/21964/bebida-espirituosa-convidado-baco-botella",
+    "name": "Bebida espirituosa Convidado de Baco",
+    "description": "Botella",
+    "category": "Bodega > Licores"
   },
   {
     "id": "21979",
