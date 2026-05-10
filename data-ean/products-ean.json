@@ -17991,6 +17991,15 @@
     "category": "Cereales y galletas > Cereales"
   },
   {
+    "id": "21761",
+    "ean": "8402001049866",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21761/barritas-cereales-sabor-mandarina-hacendado-0-azucares-anadidos-caja",
+    "name": "Barritas de cereales sabor mandarina Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "21762",
     "ean": "8402001051647",
     "brand": "Hacendado",
@@ -66310,6 +66319,15 @@
     "name": "Salsa fresca Setas Hacendado",
     "description": "Tarrina",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "7973",
+    "ean": "8402001023040",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/7973/alioli-canario-hacendado-bote",
+    "name": "Alioli con perejil Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Mayonesa, ketchup y mostaza"
   },
   {
     "id": "7974",
