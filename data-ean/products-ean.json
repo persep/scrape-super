@@ -7884,6 +7884,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13994",
+    "ean": "8402001036408",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/13994/abrillantador-suelos-bosque-verde-botella",
+    "name": "Abrillantador suelos Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
+  },
+  {
     "id": "13995",
     "ean": "8402001036392",
     "brand": "Bosque Verde",
@@ -12688,6 +12697,15 @@
     "name": "Chocolate con leche Fussion Hacendado relleno de crema de pistacho y masa filo tostada",
     "description": "Tableta",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "16280",
+    "ean": "8402001048616",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16280/longaniza-pavo-imperial-extra-hacendado-pieza",
+    "name": "Longaniza de pavo Imperial extra Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "16281",
@@ -17757,6 +17775,24 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "21696",
+    "ean": "8402001047770",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21696/bebida-energetica-energy-drink-zero-hacendado",
+    "name": "Bebida energética Energy Drink Zero Hacendado",
+    "description": null,
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "21697",
+    "ean": "8402001042812",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21697/bebida-energetica-energy-drink-zero-hacendado-lata",
+    "name": "Bebida energética Energy Drink Zero Hacendado",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "21698",
     "ean": "8402001047794",
     "brand": "Hacendado",
@@ -17854,6 +17890,15 @@
     "name": "Refresco cola Hacendado Zero Zero",
     "description": "Lata",
     "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "21718",
+    "ean": "8402001051210",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21718/pasta-fresca-girasoles-rellena-tomate-frito-queso-mozarella-hacendado-bandeja",
+    "name": "Pasta fresca girasoles rellena de tomate frito y queso mozarella Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "21719",
