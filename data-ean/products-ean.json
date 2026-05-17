@@ -17838,6 +17838,24 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "21703",
+    "ean": "8402001047787",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21703/tonica-hacendado",
+    "name": "Tónica Hacendado",
+    "description": null,
+    "category": "Agua y refrescos > Tónica y bitter"
+  },
+  {
+    "id": "21704",
+    "ean": "8402001042843",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21704/tonica-hacendado-lata",
+    "name": "Tónica Hacendado",
+    "description": "Lata",
+    "category": "Agua y refrescos > Tónica y bitter"
+  },
+  {
     "id": "21707",
     "ean": "8402001043079",
     "brand": "Energy drink",
