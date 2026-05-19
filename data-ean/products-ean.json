@@ -17496,6 +17496,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "21571",
+    "ean": "8402001047473",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21571/caprichos-camembert-hacendado-ultracongelados-paquete",
+    "name": "Croquetas caprichos de camembert Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
     "id": "21576",
     "ean": "8402001047275",
     "brand": "",
@@ -17764,6 +17773,15 @@
     "name": "Empanada de carne 35%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "21653",
+    "ean": "8402001051104",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21653/refresco-te-rojo-sabor-frutos-rojos-hibisco-granada-hacendado-zero-botella",
+    "name": "Refresco té rojo sabor frutos rojos, hibisco y granada Hacendado zero",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "21662",
@@ -18088,6 +18106,42 @@
     "name": "Gaseosa grande Hacendado",
     "description": "Botella",
     "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "21738",
+    "ean": "8411090310559",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21738/cerveza-radler-falke-00-sin-alcohol",
+    "name": "Cerveza Radler Falke 0,0% sin alcohol",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21739",
+    "ean": "8411090310542",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21739/cerveza-radler-falke-00-sin-alcohol-lata",
+    "name": "Cerveza Radler Falke 0,0% sin alcohol",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21746",
+    "ean": "8411090310580",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21746/cerveza-00-sin-alcohol-falke",
+    "name": "Cerveza 0,0% sin alcohol Falke",
+    "description": null,
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "21747",
+    "ean": "8411090310573",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21747/cerveza-00-sin-alcohol-falke-lata",
+    "name": "Cerveza 0,0% sin alcohol Falke",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "21757",
@@ -18547,6 +18601,15 @@
     "name": "Bebida espirituosa Convidado de Baco",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21972",
+    "ean": "8402001052538",
+    "brand": "Piccolo Giovanni",
+    "url": "https://tienda.mercadona.es/product/21972/vino-rosado-frizzante-sabor-sandia-piccolo-giovanni-botella",
+    "name": "Vino rosado frizzante sabor sandía Piccolo Giovanni",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
   },
   {
     "id": "21979",
