@@ -17838,6 +17838,15 @@
     "category": "Bodega > Licores"
   },
   {
+    "id": "21695",
+    "ean": "8402001042867",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21695/bebida-energetica-energy-drink-hacendado-botella",
+    "name": "Bebida energética Energy Drink Hacendado",
+    "description": "Botella",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "21696",
     "ean": "8402001047770",
     "brand": "Hacendado",
@@ -18529,6 +18538,15 @@
     "name": "Ginebra watermelon Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21896",
+    "ean": "8402001052279",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21896/aceitunas-verdes-sin-hueso-hacendado-tarro",
+    "name": "Aceitunas verdes sin hueso Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "21928",
@@ -23274,6 +23292,15 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "23961",
+    "ean": "8402001052224",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23961/aceitunas-verdes-gazpacha-hacendado-partidas-tarro",
+    "name": "Aceitunas verdes Gazpacha Hacendado partidas",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "23976",
     "ean": "8414129701007",
     "brand": "",
@@ -23722,6 +23749,15 @@
     "name": "Vino tinto roble Pata Negra DO Ribera del Duero",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "24541",
+    "ean": "8402001050428",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24541/golosinas-tubos-rellenos-hacendado-sabor-nata-fresa-caja",
+    "name": "Golosinas tubos rellenos Hacendado sabor nata y fresa",
+    "description": "Caja",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "24551",
