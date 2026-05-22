@@ -17361,6 +17361,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "21534",
+    "ean": "8402001046926",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/21534/detergente-ropa-color-oscura-bosque-verde-liquido-botella",
+    "name": "Detergente ropa de Color y Oscura Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "21536",
     "ean": "8402001047046",
     "brand": "La Hacienda del ibérico",
@@ -17919,6 +17928,15 @@
     "category": "Agua y refrescos > Isotónico y energético"
   },
   {
+    "id": "21708",
+    "ean": "8402001043123",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21708/bebida-energetica-zero-furious-hacendado-energy-drink-lata",
+    "name": "Bebida energética Zero Furious Hacendado Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "21709",
     "ean": "8402001043130",
     "brand": "Hacendado",
@@ -18177,6 +18195,15 @@
     "url": "https://tienda.mercadona.es/product/21739/cerveza-radler-falke-00-sin-alcohol-lata",
     "name": "Cerveza Radler Falke 0,0% sin alcohol",
     "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21744",
+    "ean": "8411090115383",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21744/cerveza-especial-sin-gluten-falke",
+    "name": "Cerveza especial sin gluten Falke",
+    "description": null,
     "category": "Bodega > Cerveza"
   },
   {
@@ -48454,6 +48481,15 @@
     "name": "Lote higiene bucal Vitality Pro Precision Clean Oral-B",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "52803",
+    "ean": "8436039785410",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/52803/pechuga-entera-pavo-bandeja",
+    "name": "Pechuga de pavo trozo",
+    "description": "Bandeja",
+    "category": "Carne > Aves y pollo"
   },
   {
     "id": "52804",
