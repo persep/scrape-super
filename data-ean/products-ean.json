@@ -17775,6 +17775,24 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "21637",
+    "ean": "8402001040986",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21637/polvo-compacto-matificante-efecto-seda-deliplus-tipo-pieles",
+    "name": "Polvo compacto matificante efecto seda Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "21638",
+    "ean": "8402001050619",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21638/polvo-suelto-translucido-deliplus-con-acido-hialuronico-contiene-esponja",
+    "name": "Polvo suelto translúcido Deliplus con ácido hialurónico",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "21643",
     "ean": "8402001044175",
     "brand": "Deliplus",
@@ -17917,6 +17935,15 @@
     "name": "Tónica Hacendado",
     "description": "Lata",
     "category": "Agua y refrescos > Tónica y bitter"
+  },
+  {
+    "id": "21705",
+    "ean": "8402001043048",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21705/bebida-energetica-furious-energy-drink-hacendado-lata",
+    "name": "Bebida energética Furious Energy drink Hacendado",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "21707",
@@ -18204,6 +18231,15 @@
     "url": "https://tienda.mercadona.es/product/21744/cerveza-especial-sin-gluten-falke",
     "name": "Cerveza especial sin gluten Falke",
     "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21745",
+    "ean": "8411090115376",
+    "brand": "Falke",
+    "url": "https://tienda.mercadona.es/product/21745/cerveza-especial-sin-gluten-falke-lata",
+    "name": "Cerveza especial sin gluten Falke",
+    "description": "Lata",
     "category": "Bodega > Cerveza"
   },
   {
@@ -23425,6 +23461,15 @@
     "name": "Buey de mar cocido Hacendado congelado",
     "description": "Pieza",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24078",
+    "ean": "8402001053627",
+    "brand": "Mar De Uvas",
+    "url": "https://tienda.mercadona.es/product/24078/vino-rosado-tempranillo-garnacha-mar-uvas-do-navarra-botella",
+    "name": "Vino rosado tempranillo garnacha Mar De Uvas DO Navarra",
+    "description": "Botella",
+    "category": "Bodega > Vino rosado"
   },
   {
     "id": "24102",
