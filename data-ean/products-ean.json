@@ -14211,6 +14211,15 @@
     "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
+    "id": "17458",
+    "ean": "8436021419842",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17458/costillas-cerdo-marinadas-smoke-honey-bandeja",
+    "name": "Costillas de cerdo marinadas Smoke Honey",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
+  },
+  {
     "id": "17502",
     "ean": "8480000175021",
     "brand": "Hacendado",
@@ -14218,6 +14227,15 @@
     "name": "Salsa pimienta verde Hacendado",
     "description": "Sobre",
     "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
+    "id": "17537",
+    "ean": "8436021419828",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17537/panceta-cerdo-adobada-bandeja",
+    "name": "Panceta de cerdo adobada",
+    "description": "Bandeja",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "17542",
@@ -18619,6 +18637,15 @@
     "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21879",
+    "ean": "8402001052163",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21879/pepito-crema-bandeja",
+    "name": "Pepito de crema",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "21881",
@@ -23569,6 +23596,15 @@
     "name": "Vino rosado tempranillo garnacha Mar De Uvas DO Navarra",
     "description": "Botella",
     "category": "Bodega > Vino rosado"
+  },
+  {
+    "id": "24081",
+    "ean": "8436548785680",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/24081/pinchos-pollo-adobado-con-varilla-con-pepperoni-bacon-bandeja",
+    "name": "Pinchos de pollo adobado con varilla con pepperoni y bacon",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
   },
   {
     "id": "24102",
