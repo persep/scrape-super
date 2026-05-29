@@ -17865,6 +17865,15 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "21654",
+    "ean": "8402001052095",
+    "brand": "Energy drink",
+    "url": "https://tienda.mercadona.es/product/21654/bebida-energetica-zero-melow-energy-drink-lata",
+    "name": "Bebida energética Zero Melow Energy drink",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
     "id": "21662",
     "ean": "8436561134748",
     "brand": "",
@@ -23974,6 +23983,15 @@
     "name": "Golosinas Mini Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "24549",
+    "ean": "8402001054228",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/24549/bizcocho-relleno-caramelo-salado-paquete",
+    "name": "Bizcocho relleno de caramelo salado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "24551",
