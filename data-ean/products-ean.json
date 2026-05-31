@@ -13077,6 +13077,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "16391",
+    "ean": "8402001044632",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/16391/eau-parfum-mujer-alma-frasco",
+    "name": "Eau de parfum mujer Alma Como Tú",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "16394",
     "ean": "8445326856009",
     "brand": "Color Up",
@@ -13257,6 +13266,15 @@
     "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
+    "id": "16459",
+    "ean": "8402001051913",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/16459/snacks-gato-rellenos-con-salmon-malta-compy-paquete",
+    "name": "Snacks gato rellenos con salmón y malta Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "16462",
     "ean": "8410261201207",
     "brand": "Castillo San Simón",
@@ -13291,6 +13309,24 @@
     "name": "Parches faciales Hidrocoloides Deliplus Oil Free",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "16475",
+    "ean": "8402001048241",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16475/acondicionador-instantaneo-melon-bloom-deliplus-bote",
+    "name": "Acondicionador instantáneo Melón Bloom Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "16476",
+    "ean": "8402001048234",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16476/aceite-capilar-luminous-berry-vitamin-deliplus-bote",
+    "name": "Aceite capilar Luminous Berry & Vitamin E Deliplus",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
   },
   {
     "id": "16483",
@@ -23544,6 +23580,15 @@
     "category": "Carne > Aves y pollo"
   },
   {
+    "id": "23996",
+    "ean": "8402001043895",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23996/lote-corporal-mujer-posidonia-deliplus-contiene-crema-manos-30-ml-gel-bano-245-ml-sorbete-corporal-300-ml-neceser",
+    "name": "Lote corporal mujer Posidonia Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "24016",
     "ean": "8480000240163",
     "brand": "Hacendado",
@@ -23614,6 +23659,15 @@
     "name": "Buey de mar cocido Hacendado congelado",
     "description": "Pieza",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "24041",
+    "ean": "8428390081171",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/24041/mini-eau-parfum-mujer-flor-mayo-seashell-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Seashell",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "24078",
@@ -24019,6 +24073,15 @@
     "name": "Fruta + leche tropical Don Simon sin azúcares añadidos y zero materia grasa",
     "description": null,
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "24559",
+    "ean": "8402001045462",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/24559/crema-corporal-hidratante-double-matcha-centella-asiatica-deliplus-bote",
+    "name": "Crema corporal hidratante Double \nMatcha y Centella Asiática Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "24700",
