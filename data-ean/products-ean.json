@@ -55413,6 +55413,15 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "62705",
+    "ean": "8480000627056",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/62705/alistado-mediano-hacendado-congelado-caja",
+    "name": "Alistado mediano Hacendado congelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
+  },
+  {
     "id": "6277",
     "ean": "8480000062772",
     "brand": "Hacendado",
@@ -71586,6 +71595,42 @@
     "category": "Marisco y pescado > Marisco"
   },
   {
+    "id": "85149",
+    "ean": "8402001002762",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85149/chirla-viva-bandeja",
+    "name": "Chirla viva",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "85186",
+    "ean": "8480000851864",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85186/berberecho-vivo-bandeja",
+    "name": "Berberecho vivo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "85187",
+    "ean": "8480000851871",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85187/navaja-viva-bandeja",
+    "name": "Navaja viva",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "85190",
+    "ean": "8439001340006",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/85190/ostra-viva-bandeja",
+    "name": "Ostra viva",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Marisco"
+  },
+  {
     "id": "85200",
     "ean": "8480000852007",
     "brand": null,
@@ -74563,6 +74608,15 @@
     "name": "Crema de verduras Hacendado",
     "description": "Bol",
     "category": "Conservas, caldos y cremas > Gazpacho y cremas"
+  },
+  {
+    "id": "87225",
+    "ean": "8480000872258",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87225/rodajas-merluza-cabo-descongelada-con-agua-anadida-bandeja",
+    "name": "Rodajas de merluza del Cabo descongelada",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "8723",
