@@ -5922,6 +5922,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "13329",
+    "ean": "8402001034763",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13329/callos-madrilena-hacendado-paquete",
+    "name": "Callos a la madrileña Hacendado",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "13330",
     "ean": "8436021419644",
     "brand": "",
@@ -18729,6 +18738,15 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "21887",
+    "ean": "8402001052583",
+    "brand": "Royal Swan",
+    "url": "https://tienda.mercadona.es/product/21887/licor-maracuya-royal-swan-botella",
+    "name": "Licor de maracuyá Royal Swan",
+    "description": "Botella",
+    "category": "Bodega > Licores"
+  },
+  {
     "id": "21889",
     "ean": "8402001051784",
     "brand": "Pi.omka",
@@ -24073,6 +24091,15 @@
     "name": "Fruta + leche tropical Don Simon sin azúcares añadidos y zero materia grasa",
     "description": null,
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "24558",
+    "ean": "8402001045479",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/24558/exfoliante-corporal-berry-acido-hialuronico-deliplus-piel-normal-bote",
+    "name": "Exfoliante corporal Berry & Ácido Hialurónico Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "24559",
