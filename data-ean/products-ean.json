@@ -14283,6 +14283,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "17539",
+    "ean": "8402001054181",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17539/tarta-tropical-hacendado-congelada-con-mango-maracuya-melocoton-bandeja",
+    "name": "Tarta tropical Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
     "id": "17542",
     "ean": "5449000350923",
     "brand": "Fanta",
@@ -15172,6 +15181,15 @@
     "name": "Petit sabor fresa y plátano Hacendado",
     "description": null,
     "category": "Postres y yogures > Yogures y postres infantiles"
+  },
+  {
+    "id": "19852",
+    "ean": "8402001042218",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19852/bolitas-pollo-hacendado-congeladas-bolsa",
+    "name": "Bolitas de pollo Hacendado congeladas",
+    "description": "Bolsa",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "19855",
@@ -18639,6 +18657,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "21841",
+    "ean": "8402001051760",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/21841/panes-semillas-bolsa",
+    "name": "Panes de semillas",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "21842",
     "ean": "8402001040948",
     "brand": "Deliplus",
@@ -18916,6 +18943,15 @@
     "name": "Vino rosado frizzante sabor sandía Piccolo Giovanni",
     "description": "Botella",
     "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "21975",
+    "ean": "8402001053825",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/21975/sangria-rose-cason-historico-botella",
+    "name": "Sangría Rosé Casón Histórico",
+    "description": "Botella",
+    "category": "Bodega > Tinto de verano y sangría"
   },
   {
     "id": "21979",
