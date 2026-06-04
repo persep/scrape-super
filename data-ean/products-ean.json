@@ -12933,6 +12933,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "16362",
+    "ean": "8402001049132",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16362/golosinas-llaves-super-acidas-hacendado-paquete",
+    "name": "Golosinas llaves super ácidas Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "16364",
     "ean": "8402001040801",
     "brand": "Deliplus",
@@ -13075,6 +13084,15 @@
     "name": "Stick antirozaduras Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "16387",
+    "ean": "8402001049750",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16387/nachos-padrisimos-hacendado-sabor-guacamole-paquete",
+    "name": "Nachos Padrísimos Hacendado sabor guacamole",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
     "id": "16389",
@@ -17512,6 +17530,15 @@
     "name": "Mascarilla Hydra revitaliza Pantene cabello muy seco",
     "description": "Tarro",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "21549",
+    "ean": "8402001047053",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21549/torrezno-precocinado-hacendado-bandeja",
+    "name": "Torrezno precocinado Hacendado",
+    "description": "Bandeja",
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "2155",
@@ -23625,6 +23652,24 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "23978",
+    "ean": "8402001040955",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23978/balsamo-labial-gloss-perfectionist-deliplus-01-nude",
+    "name": "Bálsamo labial Gloss Perfectionist Deliplus 01 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "23979",
+    "ean": "8402001040962",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23979/balsamo-labial-gloss-perfectionist-deliplus-02-frambuesa",
+    "name": "Bálsamo labial Gloss Perfectionist Deliplus 02 frambuesa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "23990",
     "ean": "8402001053344",
     "brand": "",
@@ -23720,6 +23765,24 @@
     "brand": "Flor de Mayo",
     "url": "https://tienda.mercadona.es/product/24041/mini-eau-parfum-mujer-flor-mayo-seashell-frasco",
     "name": "Mini eau de parfum mujer Flor de Mayo Seashell",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "24062",
+    "ean": "8402001044724",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/24062/eau-parfum-hombre-virent-my-soul-frasco",
+    "name": "Eau de parfum hombre Virent My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "24063",
+    "ean": "8402001044625",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/24063/eau-parfum-mujer-rubis-my-soul-frasco",
+    "name": "Eau de parfum mujer Rubis My Soul",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
