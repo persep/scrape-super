@@ -9252,6 +9252,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "14438",
+    "ean": "8402001036255",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14438/postre-lacteo-lemon-cake-hacendado",
+    "name": "Postre lácteo Lemon Cake Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "14440",
     "ean": "8402001037757",
     "brand": "Deliplus",
@@ -13300,6 +13309,15 @@
     "name": "Snacks gato rellenos con salmón y malta Compy",
     "description": "Paquete",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "16461",
+    "ean": "8414100381631",
+    "brand": "Schweppes",
+    "url": "https://tienda.mercadona.es/product/16461/tonica-original-schweppes-botella",
+    "name": "Tónica original Schweppes",
+    "description": "Botella",
+    "category": "Agua y refrescos > Tónica y bitter"
   },
   {
     "id": "16462",
@@ -17935,6 +17953,15 @@
     "name": "Ampollas capilares concentradas Deliplus tratamiento de reparación molecular",
     "description": "Caja",
     "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "21646",
+    "ean": "8402001050817",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21646/pechuga-pavo-cocida-extrafino-hacendado-lonchas-paquete",
+    "name": "Pechuga pavo cocida extrafino Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "21649",
