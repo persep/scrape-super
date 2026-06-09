@@ -14346,6 +14346,15 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "17613",
+    "ean": "8402001056116",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17613/pan-hot-dog-brioche-hacendado-paquete",
+    "name": "Pan hot dog Brioche Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "18002",
     "ean": "8480000180025",
     "brand": "Hacendado",
@@ -18419,6 +18428,24 @@
     "brand": "Falke",
     "url": "https://tienda.mercadona.es/product/21739/cerveza-radler-falke-00-sin-alcohol-lata",
     "name": "Cerveza Radler Falke 0,0% sin alcohol",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21742",
+    "ean": "8402001048043",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/21742/cerveza-radler-steinburg-con-zumo-natural-limon",
+    "name": "Cerveza Radler Steinburg con zumo natural de limón",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21743",
+    "ean": "8402001048098",
+    "brand": "Steinburg",
+    "url": "https://tienda.mercadona.es/product/21743/cerveza-radler-steinburg-con-zumo-natural-limon-lata",
+    "name": "Cerveza Radler Steinburg con zumo natural de limón",
     "description": "Lata",
     "category": "Bodega > Cerveza"
   },
@@ -23823,6 +23850,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "24077",
+    "ean": "8402001054136",
+    "brand": "Finca La Malcriada",
+    "url": "https://tienda.mercadona.es/product/24077/vino-blanco-semidulce-verdejo-finca-malcriada-botella",
+    "name": "Vino blanco semidulce verdejo Finca La Malcriada",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
     "id": "24078",
     "ean": "8402001053627",
     "brand": "Mar De Uvas",
@@ -24208,6 +24244,15 @@
     "name": "Golosinas Mini Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "24547",
+    "ean": "9002490206130",
+    "brand": "Red Bull",
+    "url": "https://tienda.mercadona.es/product/24547/bebida-energetica-red-bull",
+    "name": "Bebida energética Red Bull",
+    "description": null,
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "24549",
@@ -77803,6 +77848,15 @@
     "name": "Masa gruesa para empanadas Buitoni estilo Argentino",
     "description": "Paquete",
     "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
+    "id": "9861",
+    "ean": "8402001020636",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/9861/noodles-ramen-paquete",
+    "name": "Noodles Ramen",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "9863",
