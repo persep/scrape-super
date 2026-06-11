@@ -18828,6 +18828,24 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "21882",
+    "ean": "8402001048944",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21882/gotas-bronceadoras-drop-bronzer-deliplus",
+    "name": "Gotas bronceadoras Drop Bronzer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "21883",
+    "ean": "8402001048951",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21883/gotas-iluminadoras-drop-highlighter-deliplus",
+    "name": "Gotas iluminadoras Drop Highlighter Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
     "id": "21884",
     "ean": "8402001046933",
     "brand": "Deliplus",
@@ -23697,6 +23715,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "23967",
+    "ean": "8402001053818",
+    "brand": "Piccolo Giovanni",
+    "url": "https://tienda.mercadona.es/product/23967/frizzante-sabor-mango-piccolo-giovanni-botella",
+    "name": "Frizzante sabor mango Piccolo Giovanni",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
     "id": "23976",
     "ean": "8414129701007",
     "brand": "",
@@ -24226,6 +24253,24 @@
     "name": "Vino tinto roble Pata Negra DO Ribera del Duero",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "24530",
+    "ean": "8402001053832",
+    "brand": "Casón Histórico",
+    "url": "https://tienda.mercadona.es/product/24530/sangria-rose-cason-historico-lata",
+    "name": "Sangría Rosé Casón Histórico",
+    "description": "Lata",
+    "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "24532",
+    "ean": "8402001055720",
+    "brand": "Piccolo Giovanni",
+    "url": "https://tienda.mercadona.es/product/24532/frizzante-blanco-dulce-sin-alcohol-piccolo-giovanni-botella",
+    "name": "Frizzante dulce sin alcohol Piccolo Giovanni",
+    "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
   },
   {
     "id": "24541",
