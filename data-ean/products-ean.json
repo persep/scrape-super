@@ -13455,6 +13455,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16665",
+    "ean": "8402001051395",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16665/pizza-burger-hacendado",
+    "name": "Pizza burger Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
+  },
+  {
     "id": "16671",
     "ean": "8480000166715",
     "brand": "Hacendado",
@@ -14353,6 +14362,24 @@
     "name": "Pan hot dog Brioche Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "17618",
+    "ean": "8006530081597",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/17618/maquinilla-afeitar-recargable-gillette-labs-body-intimate-2-hojas-contiene-soporte-magnetico-caja",
+    "name": "Maquinilla de afeitar recargable Gillette Labs Body + Intimate",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "17619",
+    "ean": "8006530113816",
+    "brand": "Gillette",
+    "url": "https://tienda.mercadona.es/product/17619/recambios-maquinilla-afeitar-gillette-labs-body-intimate-2-hojas-caja",
+    "name": "Recambios maquinilla de afeitar Gillette Labs Body + Intimate",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
   },
   {
     "id": "18002",
@@ -23730,6 +23757,15 @@
     "url": "https://tienda.mercadona.es/product/23967/frizzante-sabor-mango-piccolo-giovanni-botella",
     "name": "Frizzante sabor mango Piccolo Giovanni",
     "description": "Botella",
+    "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "23972",
+    "ean": "8402001053801",
+    "brand": "DulZ.Ze",
+    "url": "https://tienda.mercadona.es/product/23972/frizzante-blanco-verdejo-dulzze-lata",
+    "name": "Frizzante blanco verdejo DulZ.Ze",
+    "description": "Lata",
     "category": "Bodega > Vino lambrusco y espumoso"
   },
   {
