@@ -13383,6 +13383,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "16485",
+    "ean": "8402001050503",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16485/salami-extra-pimienta-hacendado-finas-lonchas-paquete",
+    "name": "Salami extra pimienta Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "16503",
     "ean": "8480000165039",
     "brand": "Hacendado",
@@ -14355,6 +14364,24 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "17549",
+    "ean": "8402001049514",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17549/mascarilla-facial-infantil-koala-mask-deliplus-con-cereza-manzana-paquete",
+    "name": "Mascarilla facial infantil Koala Mask Deliplus con cereza y manzana",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "17572",
+    "ean": "7300400482615",
+    "brand": "Wasa",
+    "url": "https://tienda.mercadona.es/product/17572/pan-tostado-fino-con-sesamo-sal-marina-delicate-crisp-wasa-paquete",
+    "name": "Pan tostado fino con sésamo y sal marina Delicate Crisp Wasa",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
     "id": "17575",
     "ean": "8436548785734",
     "brand": "",
@@ -14389,6 +14416,24 @@
     "name": "Recambios maquinilla de afeitar Gillette Labs Body + Intimate",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "17626",
+    "ean": "8402001054198",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17626/tarta-infantil-deportes-hacendado-congelada-bandeja",
+    "name": "Tarta infantil deportes Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "17649",
+    "ean": "8402001057274",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17649/bocadillo",
+    "name": "Bocadillo",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "18002",
@@ -18817,6 +18862,15 @@
     "name": "Iluminador Face & Body Stick Fireworks Deliplus efecto refrescante brillo metálico",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "21848",
+    "ean": "8402001052217",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21848/bastoncillos-algodon-100-deliplus-caja",
+    "name": "Bastoncillos de algodón 100% Deliplus",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
     "id": "2185",
