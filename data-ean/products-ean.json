@@ -14364,6 +14364,15 @@
     "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
+    "id": "17546",
+    "ean": "8402001054785",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17546/chocolate-blanco-fussion-hacendado-relleno-mango-crujiente-sabor-maracuya-caramelo-tableta",
+    "name": "Chocolate blanco Fussion Hacendado relleno de mango y crujiente sabor a maracuyá y caramelo",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "17549",
     "ean": "8402001049514",
     "brand": "Deliplus",
@@ -18034,6 +18043,15 @@
     "name": "Polvo suelto translúcido Deliplus con ácido hialurónico",
     "description": null,
     "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "21640",
+    "ean": "8402001051036",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21640/leche-proteinas-desnatada-hacendado",
+    "name": "Leche desnatada +Proteínas & calcio Hacendado",
+    "description": null,
+    "category": "Huevos, leche y mantequilla > Leche y bebidas vegetales"
   },
   {
     "id": "21643",
@@ -24388,6 +24406,15 @@
     "name": "Frizzante dulce sin alcohol Piccolo Giovanni",
     "description": "Botella",
     "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "24538",
+    "ean": "8447218238917",
+    "brand": "Clipper",
+    "url": "https://tienda.mercadona.es/product/24538/encendedor-cocina-largo-clipper-recargable-paquete",
+    "name": "Encendedor cocina largo Clipper recargable",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "24541",
