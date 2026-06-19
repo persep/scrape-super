@@ -14382,6 +14382,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "17559",
+    "ean": "8402001055645",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17559/empanadilla-bacon-11-queso-32-pieza",
+    "name": "Empanadilla de bacon 11% y queso 32%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "17572",
     "ean": "7300400482615",
     "brand": "Wasa",
@@ -24039,6 +24048,15 @@
     "category": "Carne > Empanados y elaborados"
   },
   {
+    "id": "24083",
+    "ean": "8402001054921",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24083/ensalada-pasta-estilo-italiana-hacendado-con-pollo-queso-tomate-seco-salsa-pesto-tarrina",
+    "name": "Ensalada de pasta al pesto Estilo Italiana Hacendado",
+    "description": "Tarrina",
+    "category": "Pizzas y platos preparados > Platos preparados fríos"
+  },
+  {
     "id": "24102",
     "ean": "8480000241023",
     "brand": "Hacendado",
@@ -24379,6 +24397,15 @@
     "name": "Lomos de salmón sin piel y sin espinas Hacendado congelado",
     "description": "Paquete",
     "category": "Congelados > Pescado"
+  },
+  {
+    "id": "24527",
+    "ean": "5999546884463",
+    "brand": "Scrub Daddy",
+    "url": "https://tienda.mercadona.es/product/24527/pasta-piedra-blanca-multiusos-power-paste-scrub-daddy-contiene-estropajo-scrub-mommy-tarro",
+    "name": "Pasta Piedra blanca multiusos Power Paste Scrub Daddy",
+    "description": "Tarro",
+    "category": "Limpieza y hogar > Limpieza muebles y multiusos"
   },
   {
     "id": "24529",
