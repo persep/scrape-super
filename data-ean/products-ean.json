@@ -13383,6 +13383,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "16484",
+    "ean": "8402001050527",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16484/salchichon-extra-pimienta-hacendado-finas-lonchas-paquete",
+    "name": "Salchichón extra pimienta Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
     "id": "16485",
     "ean": "8402001050503",
     "brand": "Hacendado",
@@ -14418,6 +14427,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "17617",
+    "ean": "8402001054792",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17617/conos-sabor-bacon-queso-hacendado-paquete",
+    "name": "Conos sabor bacón y queso Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "17618",
     "ean": "8006530081597",
     "brand": "Gillette",
@@ -14443,6 +14461,33 @@
     "name": "Tarta infantil deportes Hacendado congelada",
     "description": "Bandeja",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "17627",
+    "ean": "8402001054204",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17627/tarta-infantil-cantantes-hacendado-congelada-bandeja",
+    "name": "Tarta infantil cantantes Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "17629",
+    "ean": "8411327013772",
+    "brand": "Mahou",
+    "url": "https://tienda.mercadona.es/product/17629/cerveza-sin-gluten-00-sin-alcohol-rubia-mahou",
+    "name": "Cerveza sin gluten 0,0% sin alcohol rubia Mahou",
+    "description": null,
+    "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "17630",
+    "ean": "8411327013758",
+    "brand": "Mahou",
+    "url": "https://tienda.mercadona.es/product/17630/cerveza-sin-gluten-00-sin-alcohol-rubia-mahou-lata",
+    "name": "Cerveza sin gluten 0,0% sin alcohol rubia Mahou",
+    "description": "Lata",
+    "category": "Bodega > Cerveza sin alcohol"
   },
   {
     "id": "17649",
@@ -19159,6 +19204,60 @@
     "name": "Paleta sombras de ojos Fireworks Deliplus",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "21948",
+    "ean": "8402001045707",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21948/laca-unas-alto-brillo-deliplus-149-rosa-medio",
+    "name": "Laca de uñas alto brillo Deliplus 149 rosa medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21949",
+    "ean": "8402001045714",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21949/laca-unas-alto-brillo-deliplus-150-coral",
+    "name": "Laca de uñas alto brillo Deliplus 150 coral",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21950",
+    "ean": "8402001045721",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21950/laca-unas-alto-brillo-deliplus-151-verde-medio",
+    "name": "Laca de uñas alto brillo Deliplus 151 verde medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21951",
+    "ean": "8402001045738",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21951/laca-unas-alto-brillo-deliplus-152-azul-medio",
+    "name": "Laca de uñas alto brillo Deliplus 152 azul medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21952",
+    "ean": "8402001045745",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21952/laca-unas-alto-brillo-deliplus-153-magenta",
+    "name": "Laca de uñas alto brillo Deliplus 153 magenta",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "21959",
+    "ean": "8402001045134",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21959/laca-unas-alto-brillo-deliplus-154-fucsia",
+    "name": "Laca de uñas alto brillo Deliplus 154 fucsia",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "21960",
@@ -24010,6 +24109,24 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Seashell",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "24058",
+    "ean": "8436601370730",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/24058/paleta-rostro-total-face-malva-contiene-sombra-ojos-iluminador-colorete-bronceador-claro-medio",
+    "name": "Paleta de rostro Total Face Malva",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "24059",
+    "ean": "8436601370747",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/24059/balsamo-labial-malva-deliplus-efecto-natural-ph-contiene-funda-con-anilla-charms-espejo",
+    "name": "Bálsamo labial Malva Deliplus efecto natural al pH",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "24062",
