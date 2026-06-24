@@ -13131,6 +13131,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "16395",
+    "ean": "8402001050688",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16395/jamon-cocido-hacendado-finas-lonchas",
+    "name": "Jamón cocido Hacendado finas lonchas",
+    "description": null,
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "16397",
     "ean": "8402001037023",
     "brand": "Como tú",
@@ -14468,6 +14477,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/17627/tarta-infantil-cantantes-hacendado-congelada-bandeja",
     "name": "Tarta infantil cantantes Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "17628",
+    "ean": "8402001054211",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17628/tarta-infantil-paw-patrol-hacendado-congelada-bandeja",
+    "name": "Tarta infantil Paw Patrol Hacendado congelada",
     "description": "Bandeja",
     "category": "Congelados > Tartas y churros"
   },
@@ -24109,6 +24127,15 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Seashell",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "24049",
+    "ean": "8402001036934",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/24049/friegasuelos-cotton-bosque-verde-liquido-botella",
+    "name": "Friegasuelos Cotton Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Limpiahogar y friegasuelos"
   },
   {
     "id": "24058",
@@ -59596,6 +59623,15 @@
     "name": "Cepillo dental Eléctrico Oral-B Vitality",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
+    "id": "67664",
+    "ean": "8411454221057",
+    "brand": "Panda Verdia",
+    "url": "https://tienda.mercadona.es/product/67664/vino-dulce-pedro-ximenez-panda-verdia-do-malaga-botella",
+    "name": "Vino dulce Pedro Ximénez Panda Verdia DO Málaga",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
   },
   {
     "id": "67693",
