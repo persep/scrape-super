@@ -13320,6 +13320,15 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "16460",
+    "ean": "8402001051906",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/16460/snacks-gato-rellenos-con-pollo-malta-compy-paquete",
+    "name": "Snacks gato rellenos con pollo y malta Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "16461",
     "ean": "8414100381631",
     "brand": "Schweppes",
@@ -14407,6 +14416,15 @@
     "name": "Empanadilla de bacon 11% y queso 32%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "17571",
+    "ean": "8402001053665",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17571/bruma-facial-bifasica-multifuncional-make-up-fixer-deliplus-tipo-pieles",
+    "name": "Bruma facial bifásica multifuncional Make Up Fixer Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "17572",
