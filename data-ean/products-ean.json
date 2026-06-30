@@ -13464,6 +13464,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16565",
+    "ean": "8001090362841",
+    "brand": "Evax",
+    "url": "https://tienda.mercadona.es/product/16565/compresa-normal-evax-liberty-con-alas-caja",
+    "name": "Compresa normal Evax Liberty con alas",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "16566",
     "ean": "8001090370587",
     "brand": "Evax",
@@ -19006,6 +19015,15 @@
     "name": "Iluminador Face & Body Stick Fireworks Deliplus efecto refrescante brillo metálico",
     "description": null,
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "21846",
+    "ean": "8402001052118",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21846/bocaditos-queso-chile-hot-cheese-hacendado-ultracongelados-paquete",
+    "name": "Bocaditos de queso y chile Hot Cheese Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
   },
   {
     "id": "21848",
@@ -56228,6 +56246,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/63163/anillas-pota-romana-hacendado-ultracongeladas-paquete",
     "name": "Anillas de pota a la romana Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
+    "id": "63168",
+    "ean": "8480000631688",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/63168/tortillitas-camarones-hacendado-ultracongeladas-paquete",
+    "name": "Tortillitas de camarones Hacendado ultracongeladas",
     "description": "Paquete",
     "category": "Congelados > Rebozados"
   },
