@@ -13275,6 +13275,24 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "16451",
+    "ean": "8402001048258",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16451/aceitunas-verdes-rellenas-anchoa-hacendado",
+    "name": "Aceitunas verdes rellenas de anchoa Hacendado",
+    "description": null,
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "16452",
+    "ean": "8402001048265",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16452/aceitunas-verdes-rellenas-anchoa-hacendado-bote",
+    "name": "Aceitunas verdes rellenas de anchoa Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "16453",
     "ean": "8402001043444",
     "brand": "Hacendado",
@@ -14524,6 +14542,15 @@
     "name": "Recambios maquinilla de afeitar Gillette Labs Body + Intimate",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "17620",
+    "ean": "8402001057816",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17620/bocado-vacuno-bomba-carrillada-empanada-bandeja",
+    "name": "Bocado de vacuno bomba de carrillada empanada",
+    "description": "Bandeja",
+    "category": "Carne > Empanados y elaborados"
   },
   {
     "id": "17626",
@@ -16873,6 +16900,15 @@
     "name": "Margarina con sal Hacendado",
     "description": "Tarrina",
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
+    "id": "20889",
+    "ean": "8402001047176",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20889/salsa-fresca-trufa-hacendado-tarrina",
+    "name": "Salsa fresca Trufa Hacendado",
+    "description": "Tarrina",
+    "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
     "id": "20891",
@@ -73690,6 +73726,15 @@
     "name": "Eau de parfum mujer Como Tú The Rose",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "86383",
+    "ean": "8402001024863",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86383/fruta-leche-melon-sandia-hacendado-sin-azucares-anadidos",
+    "name": "Fruta + leche melón y sandía Hacendado sin azúcares añadidos",
+    "description": null,
+    "category": "Zumos > Fruta variada"
   },
   {
     "id": "86384",
