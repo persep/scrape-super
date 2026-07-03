@@ -12654,6 +12654,15 @@
     "category": "Charcutería y quesos > Chopped y mortadela"
   },
   {
+    "id": "16261",
+    "ean": "8402001039973",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16261/protegeslip-suave-normal-deliplus-caja",
+    "name": "Protegeslip suave normal Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene íntima"
+  },
+  {
     "id": "16263",
     "ean": "8402001049804",
     "brand": "Deliplus",
@@ -13525,6 +13534,15 @@
     "name": "Paté gato adulto Delikuit con pollo",
     "description": "Tarrina",
     "category": "Mascotas > Gato"
+  },
+  {
+    "id": "16581",
+    "ean": "8402001053917",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16581/tratamiento-unas-protector-solar-base-top-coat-deliplus",
+    "name": "Tratamiento para uñas protector solar  base & top coat Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
     "id": "16616",
@@ -14463,6 +14481,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17548",
+    "ean": "8402001047527",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17548/preparado-polvo-instantaneo-crepes-hacendado-bote",
+    "name": "Preparado en polvo instantáneo para crepes Hacendado",
+    "description": "Bote",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "17549",
     "ean": "8402001049514",
     "brand": "Deliplus",
@@ -14614,6 +14641,15 @@
     "name": "Barritas de barquillo Kit-Kat con cobertura blanca",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "17706",
+    "ean": "5449000052926",
+    "brand": "Fanta",
+    "url": "https://tienda.mercadona.es/product/17706/refresco-fanta-naranja-botella",
+    "name": "Refresco Fanta naranja",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
   },
   {
     "id": "18002",
