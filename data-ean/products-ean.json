@@ -17442,6 +17442,15 @@
     "category": "Postres y yogures > Bífidus"
   },
   {
+    "id": "21356",
+    "ean": "8402001045271",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/21356/delicias-salsa-gato-adulto-delikuit-contiene-2-con-atun-2-con-pavo-caja",
+    "name": "Delicias en salsa gato adulto Delikuit",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
+  },
+  {
     "id": "21358",
     "ean": "8480000213587",
     "brand": "Hacendado",
@@ -20185,6 +20194,24 @@
     "name": "Pechuguita de pollo asada La Carloteña lonchas",
     "description": "Paquete",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "22336",
+    "ean": "8413681305678",
+    "brand": "Alhambra",
+    "url": "https://tienda.mercadona.es/product/22336/cerveza-lager-alhambra-pack-12",
+    "name": "Cerveza lager Alhambra Especial",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "22337",
+    "ean": "8413681307719",
+    "brand": "Alhambra",
+    "url": "https://tienda.mercadona.es/product/22337/cerveza-lager-alhambra-botellin",
+    "name": "Cerveza lager Alhambra Especial",
+    "description": "Botellín",
+    "category": "Bodega > Cerveza"
   },
   {
     "id": "22343",
