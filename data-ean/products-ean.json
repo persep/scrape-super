@@ -13518,6 +13518,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "16574",
+    "ean": "8402001052477",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16574/crema-corporal-bifasica-double-peach-deliplus-bote",
+    "name": "Crema corporal bifásica Double Peach Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "16578",
     "ean": "8402001055300",
     "brand": "Delikuit",
@@ -14506,6 +14515,15 @@
     "name": "Empanadilla de bacon 11% y queso 32%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "17569",
+    "ean": "8402001056185",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17569/salchichas-estilo-frankfurt-serrana-hacendado-cerdo-pollo",
+    "name": "Salchichas estilo Frankfurt Serrana Hacendado de cerdo y pollo",
+    "description": null,
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "17571",
@@ -24207,6 +24225,15 @@
     "url": "https://tienda.mercadona.es/product/23993/lote-infantil-disney-vaiana-contiene-eau-toilette-150-ml-3-pinzas-cabello-1-collar-caja",
     "name": "Lote infantil Disney Vaiana",
     "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "23994",
+    "ean": "8402001050947",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/23994/fragancia-mist-peach-bloom-deliplus-pelo-cuerpo-frasco",
+    "name": "Fragancia Mist Peach Bloom Deliplus",
+    "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -59054,6 +59081,15 @@
     "brand": "Ponte Tamuxe",
     "url": "https://tienda.mercadona.es/product/66836/vino-blanco-do-rias-baixas-albarino-ponte-tamuxe-botella",
     "name": "Vino blanco albariño Ponte Tamuxe DO Rías Baixas",
+    "description": "Botella",
+    "category": "Bodega > Vino blanco"
+  },
+  {
+    "id": "66846",
+    "ean": "8480000668462",
+    "brand": "Mar de Uvas",
+    "url": "https://tienda.mercadona.es/product/66846/vino-blanco-godello-do-monterrei-mar-uvas-botella",
+    "name": "Vino blanco Godello Mar de Uvas DO Monterrei",
     "description": "Botella",
     "category": "Bodega > Vino blanco"
   },
