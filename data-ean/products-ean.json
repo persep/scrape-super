@@ -9801,6 +9801,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "14798",
+    "ean": "8402001037320",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14798/cafe-grano-colombia-hacendado-paquete",
+    "name": "Café en grano Colombia Hacendado",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Café molido y en grano"
+  },
+  {
     "id": "14915",
     "ean": "8402001040542",
     "brand": "Delikuit",
@@ -13554,6 +13563,24 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "16585",
+    "ean": "8402001055430",
+    "brand": "Aquadeus",
+    "url": "https://tienda.mercadona.es/product/16585/agua-mineral-con-gas-pequena-aquadeus",
+    "name": "Agua mineral con gas pequeña Aquadeus",
+    "description": null,
+    "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "16586",
+    "ean": "8402001055638",
+    "brand": "Aquadeus",
+    "url": "https://tienda.mercadona.es/product/16586/agua-mineral-con-gas-pequena-aquadeus-botella",
+    "name": "Agua mineral con gas pequeña Aquadeus",
+    "description": "Botella",
+    "category": "Agua y refrescos > Agua"
+  },
+  {
     "id": "16616",
     "ean": "8480000166166",
     "brand": "Hacendado",
@@ -14650,6 +14677,15 @@
     "name": "Bocadillo",
     "description": null,
     "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "17650",
+    "ean": "8402001057175",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17650/refresco-sin-gas-melon-pina-hacendado-botella",
+    "name": "Refresco sin gas de melón y piña Hacendado",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
     "id": "17661",
@@ -24793,6 +24829,15 @@
     "name": "Frizzante dulce sin alcohol Piccolo Giovanni",
     "description": "Botella",
     "category": "Bodega > Vino lambrusco y espumoso"
+  },
+  {
+    "id": "24534",
+    "ean": "8435605401839",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24534/ensaladilla-estilo-portuguesa-hacendado-compuesta-alubias-atun-huevo-cocido-tarrina",
+    "name": "Ensaladilla al estilo Portuguesa Hacendado",
+    "description": "Tarrina",
+    "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
     "id": "24538",
