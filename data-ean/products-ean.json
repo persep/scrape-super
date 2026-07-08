@@ -12978,6 +12978,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "16363",
+    "ean": "8402001049651",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16363/cafe-capsula-extra-forte-hacendado-compatibles-maquinas-dolce-gusto-caja",
+    "name": "Café en cápsula extra forte Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
     "id": "16364",
     "ean": "8402001040801",
     "brand": "Deliplus",
@@ -13577,6 +13586,24 @@
     "brand": "Aquadeus",
     "url": "https://tienda.mercadona.es/product/16586/agua-mineral-con-gas-pequena-aquadeus-botella",
     "name": "Agua mineral con gas pequeña Aquadeus",
+    "description": "Botella",
+    "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "16587",
+    "ean": "8402001055423",
+    "brand": "Aquadeus",
+    "url": "https://tienda.mercadona.es/product/16587/agua-mineral-con-gas-grande-aquadeus",
+    "name": "Agua mineral con gas grande Aquadeus",
+    "description": null,
+    "category": "Agua y refrescos > Agua"
+  },
+  {
+    "id": "16588",
+    "ean": "8402001055621",
+    "brand": "Aquadeus",
+    "url": "https://tienda.mercadona.es/product/16588/agua-mineral-con-gas-grande-aquadeus-botella",
+    "name": "Agua mineral con gas grande Aquadeus",
     "description": "Botella",
     "category": "Agua y refrescos > Agua"
   },
