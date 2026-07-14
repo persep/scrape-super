@@ -14724,6 +14724,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "17647",
+    "ean": "8402001057205",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17647/tomate-untar-hacendado-con-aceite-oliva-tarro",
+    "name": "Tomate para untar Hacendado con aceite de oliva",
+    "description": "Tarro",
+    "category": "Conservas, caldos y cremas > Tomate"
+  },
+  {
     "id": "17649",
     "ean": "8402001057274",
     "brand": "",
@@ -14758,6 +14767,15 @@
     "name": "Refresco Fanta naranja",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
+    "id": "17707",
+    "ean": "5449000223555",
+    "brand": "Coca-Cola",
+    "url": "https://tienda.mercadona.es/product/17707/refresco-coca-cola-zero-azucar-zero-cafeina-botella",
+    "name": "Refresco Coca-Cola zero azúcar zero cafeína",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de cola"
   },
   {
     "id": "17713",
@@ -17487,6 +17505,15 @@
     "category": "Postres y yogures > Bífidus"
   },
   {
+    "id": "21326",
+    "ean": "8005709105805",
+    "brand": "Armando",
+    "url": "https://tienda.mercadona.es/product/21326/pasta-rigatoni-armando-paquete",
+    "name": "Pasta rigatoni Armando",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "21327",
     "ean": "8480000213273",
     "brand": "Hacendado",
@@ -19618,6 +19645,15 @@
     "name": "Fartons",
     "description": "Bandeja",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "21993",
+    "ean": "8006530424592",
+    "brand": "Ariel",
+    "url": "https://tienda.mercadona.es/product/21993/detergente-ropa-1-ariel-pods-capsulas-caja",
+    "name": "Detergente ropa todo en 1 Ariel Pods en cápsulas",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "21994",
@@ -24424,6 +24460,15 @@
     "name": "Mini eau de parfum mujer Flor de Mayo Seashell",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "24048",
+    "ean": "8402001051340",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/24048/perfumador-ropa-dahlia-bosque-verde-botella",
+    "name": "Perfumador ropa Dahlía Bosque Verde",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "24049",
