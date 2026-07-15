@@ -14787,6 +14787,24 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "17730",
+    "ean": "8445290870698",
+    "brand": "Dolce Gusto",
+    "url": "https://tienda.mercadona.es/product/17730/cafe-capsula-ristretto-ardenza-dolce-gusto-caja",
+    "name": "Café en cápsula ristretto ardenza Dolce Gusto",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
+    "id": "17747",
+    "ean": "8721497075594",
+    "brand": "Rexona",
+    "url": "https://tienda.mercadona.es/product/17747/desodorante-stick-cobalt-dry-rexona-antitranspirante",
+    "name": "Desodorante stick Cobalt Dry Rexona antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
     "id": "18002",
     "ean": "8480000180025",
     "brand": "Hacendado",
@@ -73708,6 +73726,15 @@
     "name": "Gelatina 0% azúcar sabor cereza, cola y sandía Hacendado",
     "description": "Pack-6",
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "86338",
+    "ean": "8402001020667",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/86338/queso-lonchas-gouda-vaca-hacendado-paquete",
+    "name": "Queso lonchas gouda de vaca Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
   },
   {
     "id": "86339",
