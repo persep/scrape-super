@@ -14724,6 +14724,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "17640",
+    "ean": "8402001056918",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17640/pasta-fusilloni-vegetal-hacendado-paquete",
+    "name": "Pasta fusilloni vegetal Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "17647",
     "ean": "8402001057205",
     "brand": "Hacendado",
@@ -19440,6 +19449,33 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "21930",
+    "ean": "8402001051623",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21930/mascara-cejas-fixing-gel-deliplus-transparente",
+    "name": "Máscara de cejas Fixing Gel Deliplus transparente",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "21931",
+    "ean": "8402001051609",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21931/mascara-cejas-deliplus-01-marron-claro",
+    "name": "Máscara de cejas Deliplus 01 marrón claro",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "21932",
+    "ean": "8402001051616",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21932/mascara-cejas-deliplus-02-marron-medio",
+    "name": "Máscara de cejas Deliplus 02 marrón medio",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "21936",
     "ean": "8402001052262",
     "brand": "Deliplus",
@@ -19654,6 +19690,15 @@
     "name": "Maquinilla depilación recargable Gillette Venus 3 hojas ComfortGlide",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Depilación"
+  },
+  {
+    "id": "21988",
+    "ean": "8402001052620",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21988/pappardelle-hacendado-paquete",
+    "name": "Pappardelle Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
     "id": "21990",
