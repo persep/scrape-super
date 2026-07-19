@@ -14769,6 +14769,24 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17687",
+    "ean": "8402001038174",
+    "brand": "Aqua Royale",
+    "url": "https://tienda.mercadona.es/product/17687/eau-toilette-mujer-aqua-royale-wonder-frasco",
+    "name": "Eau de toilette mujer Aqua Royale Wonder",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17688",
+    "ean": "8402001044663",
+    "brand": "Aqua Royale",
+    "url": "https://tienda.mercadona.es/product/17688/eau-toilette-hombre-aqua-royale-faris-frasco",
+    "name": "Eau de toilette hombre Aqua Royale Faris",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "17706",
     "ean": "5449000052926",
     "brand": "Fanta",
@@ -14821,6 +14839,15 @@
     "name": "Desodorante stick Cobalt Dry Rexona antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "17961",
+    "ean": "8410261152110",
+    "brand": "Don Simón",
+    "url": "https://tienda.mercadona.es/product/17961/tinto-verano-limon-don-simon",
+    "name": "Tinto de verano limón Don Simón",
+    "description": null,
+    "category": "Bodega > Tinto de verano y sangría"
   },
   {
     "id": "18002",
@@ -19321,6 +19348,15 @@
     "name": "Parches para ojos de hidrogel Regeneradores Deliplus con péptidos y bakuchiol",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21853",
+    "ean": "8402001045547",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21853/tiras-adhesivas-protectoras-infantiles-deliplus-surtidas-elasticas-transpirables-caja",
+    "name": "Tiras adhesivas protectoras infantiles Deliplus surtidas, elásticas y transpirables",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Parafarmacia"
   },
   {
     "id": "21859",
