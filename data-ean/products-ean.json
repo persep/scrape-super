@@ -14832,6 +14832,15 @@
     "category": "Cuidado del cabello > Fijación cabello"
   },
   {
+    "id": "17724",
+    "ean": "8006540637234",
+    "brand": "Pantene",
+    "url": "https://tienda.mercadona.es/product/17724/espuma-cabello-rizos-definidos-pantene-fijacion-5-con-aceite-coco-bote",
+    "name": "Espuma cabello rizos definidos Pantene fijación 5",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "17730",
     "ean": "8445290870698",
     "brand": "Dolce Gusto",
@@ -14848,6 +14857,15 @@
     "name": "Desodorante stick Cobalt Dry Rexona antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "17944",
+    "ean": "8402001059353",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17944/panceta-cerdo-pieza-pieza",
+    "name": "Panceta de cerdo pieza",
+    "description": "Pieza",
+    "category": "Carne > Cerdo"
   },
   {
     "id": "17961",
@@ -52162,6 +52180,15 @@
     "name": "Presa de bellota ibérica La Hacienda del Ibérico",
     "description": "Pieza",
     "category": "Charcutería y quesos > Embutido curado"
+  },
+  {
+    "id": "5841",
+    "ean": "8402001052811",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/5841/11-panecillos",
+    "name": "11 Panecillos",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "58421",
