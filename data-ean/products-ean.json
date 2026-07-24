@@ -14625,6 +14625,15 @@
     "category": "Carne > Empanados y elaborados"
   },
   {
+    "id": "17607",
+    "ean": "8402001052057",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17607/dentifrico-kids-6-anos-deliplus-sabor-cereza-tubo",
+    "name": "Dentífrico Kids +6 años Deliplus sabor cereza",
+    "description": "Tubo",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "17613",
     "ean": "8402001056116",
     "brand": "Hacendado",
@@ -14785,6 +14794,15 @@
     "name": "Pan de molde 15% maíz Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "17684",
+    "ean": "8402001044649",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/17684/eau-parfum-mujer-rose-nude-frasco",
+    "name": "Eau de parfum mujer Como Tú Rose Nude",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "17687",
