@@ -14787,6 +14787,24 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17665",
+    "ean": "8402001057403",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17665/pan-burger-hacendado-rustico-paquete",
+    "name": "Pan de burger Hacendado Rústico",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "17666",
+    "ean": "8402001055416",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17666/cocktail-frutos-secos-twist-up-hacendado-sabor-lima-pimienta-paquete",
+    "name": "Cocktail frutos secos Twist Up Hacendado sabor lima y pimienta",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "17667",
     "ean": "8402001057397",
     "brand": "Hacendado",
