@@ -3159,6 +3159,15 @@
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
+    "id": "12018",
+    "ean": "7622210293381",
+    "brand": "Milka",
+    "url": "https://tienda.mercadona.es/product/12018/chocolate-con-leche-milka-galleta-oreo-tableta",
+    "name": "Chocolate con leche Milka galleta Oreo",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "12020",
     "ean": "8480000120205",
     "brand": "Hacendado",
@@ -9970,6 +9979,15 @@
     "name": "Aceitunas verdes Dcoop partidas",
     "description": "Bote",
     "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "14955",
+    "ean": "8402001040528",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14955/maquinillas-depilacion-desechables-deliplus-body-2-hojas-paquete",
+    "name": "Maquinillas depilación desechables Deliplus Body 2 hojas",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Depilación"
   },
   {
     "id": "14956",
@@ -19618,6 +19636,24 @@
     "name": "Máscara de cejas Deliplus 02 marrón medio",
     "description": null,
     "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "21933",
+    "ean": "8402001040825",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21933/prebase-maquillaje-mate-deliplus-efecto-rellenador-poros-con-niacinamida",
+    "name": "Prebase de maquillaje Mate Deliplus efecto rellenador de poros",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "21934",
+    "ean": "8402001040832",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/21934/prebase-maquillaje-hydra-deliplus-con-acido-hialuronico",
+    "name": "Prebase de maquillaje Hydra Deliplus",
+    "description": null,
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "21936",
