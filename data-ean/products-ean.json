@@ -5445,6 +5445,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "13025",
+    "ean": "8402001033933",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13025/macarron-grueso-hacendado-paquete",
+    "name": "Macarrón grueso Hacendado",
+    "description": "Paquete",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "13026",
     "ean": "8402001031786",
     "brand": "Deliplus",
@@ -24714,6 +24723,15 @@
     "category": "Congelados > Marisco"
   },
   {
+    "id": "24040",
+    "ean": "8402001054716",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24040/patatas-fritas-paja-hacendado-paquete",
+    "name": "Patatas fritas paja Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "24041",
     "ean": "8428390081171",
     "brand": "Flor de Mayo",
@@ -25792,6 +25810,15 @@
     "name": "Cañaílla cocida descongelada",
     "description": "Bandeja",
     "category": "Marisco y pescado > Marisco"
+  },
+  {
+    "id": "26760",
+    "ean": "8402001046032",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/26760/filetes-merluza-grandes-cabo-sin-piel-hacendado-ultracongelados-paquete",
+    "name": "Filetes de merluza  grandes del Cabo sin piel Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Pescado"
   },
   {
     "id": "26761",
