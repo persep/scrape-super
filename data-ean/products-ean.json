@@ -13257,6 +13257,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "16435",
+    "ean": "8402001050008",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16435/canelones-carne-hacendado-bandeja",
+    "name": "Canelones de carne Hacendado",
+    "description": "Bandeja",
+    "category": "Pizzas y platos preparados > Platos preparados calientes"
+  },
+  {
     "id": "16438",
     "ean": "5449000144881",
     "brand": "Aquarius",
@@ -14974,6 +14983,15 @@
     "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
     "description": null,
     "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "17926",
+    "ean": "8402001058929",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17926/queso-curado-mezcla-afrutado-hacendado-pieza",
+    "name": "Queso curado mezcla afrutado Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "17944",
@@ -24631,6 +24649,15 @@
     "name": "Bálsamo labial Gloss Perfectionist Deliplus 02 frambuesa",
     "description": null,
     "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "23982",
+    "ean": "8402001050879",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/23982/colgador-wc-glow-oxi-active-bosque-verde-paquete",
+    "name": "Colgador WC Glow Bosque Verde oxi active",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza baño y WC"
   },
   {
     "id": "23990",
