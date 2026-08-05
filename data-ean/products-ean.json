@@ -14562,6 +14562,24 @@
     "category": "Maquillaje > Ojos"
   },
   {
+    "id": "17475",
+    "ean": "8402001051586",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17475/perfilador-ojos-eyeliner-multicromatico-long-lasting-deliplus-01-rosa",
+    "name": "Perfilador de ojos Eyeliner Multicromático Long Lasting Deliplus 01 rosa",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "17476",
+    "ean": "8402001051593",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17476/perfilador-ojos-eyeliner-multicromatico-long-lasting-deliplus-02-verde",
+    "name": "Perfilador de ojos Eyeliner Multicromático Long Lasting Deliplus 02 verde",
+    "description": null,
+    "category": "Maquillaje > Ojos"
+  },
+  {
     "id": "17502",
     "ean": "8480000175021",
     "brand": "Hacendado",
@@ -14659,6 +14677,15 @@
     "name": "Pan tostado fino con sésamo y sal marina Delicate Crisp Wasa",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
+    "id": "17573",
+    "ean": "8402001040979",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17573/polvo-compacto-perfeccionador-efecto-seda-deliplus-250-marron-medio",
+    "name": "Polvo compacto perfeccionador efecto seda Deliplus 250 marrón medio",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
   },
   {
     "id": "17575",
@@ -14983,6 +15010,15 @@
     "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
     "description": null,
     "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "17810",
+    "ean": "8402001055942",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17810/vela-perfumada-neroli-bosque-verde-pequena-caja",
+    "name": "Vela perfumada Neroli Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "17926",
@@ -19143,6 +19179,24 @@
     "category": "Bodega > Cerveza"
   },
   {
+    "id": "21740",
+    "ean": "8402001050596",
+    "brand": "1897",
+    "url": "https://tienda.mercadona.es/product/21740/cerveza-doble-malta-1897",
+    "name": "Cerveza doble malta 1897",
+    "description": null,
+    "category": "Bodega > Cerveza"
+  },
+  {
+    "id": "21741",
+    "ean": "8402001050602",
+    "brand": "1897",
+    "url": "https://tienda.mercadona.es/product/21741/cerveza-doble-malta-1897-lata",
+    "name": "Cerveza doble malta 1897",
+    "description": "Lata",
+    "category": "Bodega > Cerveza"
+  },
+  {
     "id": "21742",
     "ean": "8402001048043",
     "brand": "Steinburg",
@@ -19924,6 +19978,15 @@
     "name": "Cacao soluble instantáneo Nesquik",
     "description": "Caja",
     "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
+  },
+  {
+    "id": "21986",
+    "ean": "8402001052576",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21986/galletas-classic-choc-hacendado-caja",
+    "name": "Galletas Classic Choc Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "21987",
@@ -24660,6 +24723,15 @@
     "category": "Limpieza y hogar > Limpieza baño y WC"
   },
   {
+    "id": "23988",
+    "ean": "8402001053566",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/23988/baguette-jamon-queso-hacendado-ultracongeladas-caja",
+    "name": "Baguette jamón y queso Hacendado ultracongeladas",
+    "description": "Caja",
+    "category": "Congelados > Pizzas"
+  },
+  {
     "id": "23990",
     "ean": "8402001053344",
     "brand": "",
@@ -25270,6 +25342,15 @@
     "name": "Ensaladilla al estilo Portuguesa Hacendado",
     "description": "Tarrina",
     "category": "Pizzas y platos preparados > Platos preparados fríos"
+  },
+  {
+    "id": "24537",
+    "ean": "8402001053481",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24537/chicles-original-sabor-frutas-gragea-hacendado-bote",
+    "name": "Chicles gragea original frutas sin azúcar Hacendado",
+    "description": "Bote",
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
     "id": "24538",
