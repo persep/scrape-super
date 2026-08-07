@@ -14652,6 +14652,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "17567",
+    "ean": "8437011504265",
+    "brand": "Delibreads",
+    "url": "https://tienda.mercadona.es/product/17567/tortillas-trigo-delibreads-30-cm-paquete",
+    "name": "Tortillas de trigo Delibreads 30 cm",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
     "id": "17569",
     "ean": "8402001056185",
     "brand": "Hacendado",
@@ -14985,6 +14994,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "17733",
+    "ean": "8402001051463",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17733/mascarilla-facial-exosome-mask-deliplus-con-xilitol-vitamina-b3-paquete",
+    "name": "Mascarilla facial Exosome Mask Deliplus con xilitol y vitamina B3",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "17747",
     "ean": "8721497075594",
     "brand": "Rexona",
@@ -14992,6 +15010,15 @@
     "name": "Desodorante stick Cobalt Dry Rexona antitranspirante",
     "description": null,
     "category": "Cuidado facial y corporal > Desodorante"
+  },
+  {
+    "id": "17770",
+    "ean": "8402001051203",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17770/discos-acido-salicilico-deliplus-facial-clean-purificantes-seborreguladores-piel-grasa-acneica-bote",
+    "name": "Discos ácido salicílico Deliplus Facial Clean purificantes y seborreguladores",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "17773",
