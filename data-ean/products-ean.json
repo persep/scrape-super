@@ -14895,6 +14895,15 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "17668",
+    "ean": "8402001057496",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17668/almendra-tostada-hacendado-0-sal-anadida-pelada-paquete",
+    "name": "Almendra tostada Hacendado 0% sal añadida pelada",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
     "id": "17677",
     "ean": "8402001053078",
     "brand": "Deliplus",
@@ -15046,6 +15055,15 @@
     "name": "Vela perfumada Neroli Bosque Verde",
     "description": "Caja",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "17925",
+    "ean": "8402001058936",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17925/empanadilla-cheese-burger-pieza",
+    "name": "Empanadilla Cheese Burger",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "17926",
