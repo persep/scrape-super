@@ -13572,6 +13572,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16562",
+    "ean": "8402001055881",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16562/fingers-merluza-hacendado-ultracongelados-paquete",
+    "name": "Fingers de merluza Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
     "id": "16565",
     "ean": "8001090362841",
     "brand": "Evax",
@@ -14992,6 +15001,15 @@
     "name": "Refresco Coca-Cola zero azúcar zero cafeína",
     "description": "Botella",
     "category": "Agua y refrescos > Refresco de cola"
+  },
+  {
+    "id": "17709",
+    "ean": "8402001059575",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17709/empanadilla-pollo-bechamel-pieza",
+    "name": "Empanadilla de pollo y bechamel",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "17713",
