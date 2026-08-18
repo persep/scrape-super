@@ -9108,6 +9108,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "14349",
+    "ean": "8402001037269",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14349/cafe-soluble-classic-sobres-hacendado-caja",
+    "name": "Café soluble classic en sobres Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
+  },
+  {
     "id": "14352",
     "ean": "8402001037146",
     "brand": "Hacendado",
@@ -15244,6 +15253,15 @@
     "name": "Atún en aceite de girasol Hacendado",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18090",
+    "ean": "8402001037030",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/18090/lote-hombre-extratime-contiene-eau-parfum-100-ml-gel-champu-100-ml-gel-fijador-100-ml-caja",
+    "name": "Lote hombre Como tú Extratime",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "18092",
@@ -25504,6 +25522,15 @@
     "name": "Golosinas Mini Mix Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "24545",
+    "ean": "8402001056376",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24545/mini-sandwich-pavo-huevo-revuelto-mini-go-hacendado-paquete",
+    "name": "Mini sándwich de pavo y huevo revuelto Mini & Go Hacendado",
+    "description": "Paquete",
+    "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
     "id": "24547",
