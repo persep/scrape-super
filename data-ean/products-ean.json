@@ -13680,6 +13680,15 @@
     "category": "Agua y refrescos > Agua"
   },
   {
+    "id": "16590",
+    "ean": "8402001055447",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16590/bocaditos-queso-mozzarella-tomate-oregano-pizza-bites-hacendado-ultracongelados-paquete",
+    "name": "Bocaditos de queso mozzarella, tomate y orégano Pizza Bites Hacendado ultracongelados",
+    "description": "Paquete",
+    "category": "Congelados > Rebozados"
+  },
+  {
     "id": "16616",
     "ean": "8480000166166",
     "brand": "Hacendado",
@@ -25603,6 +25612,15 @@
     "name": "Crema corporal hidratante Double \nMatcha y Centella Asiática Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "24563",
+    "ean": "8402001057342",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24563/muesli-crunchy-hacendado-con-legumbres-paquete",
+    "name": "Muesli Crunchy Hacendado con legumbres",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
   },
   {
     "id": "24570",
