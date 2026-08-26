@@ -12717,6 +12717,15 @@
     "category": "Cuidado facial y corporal > Higiene íntima"
   },
   {
+    "id": "16262",
+    "ean": "8402001052774",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16262/panales-bebe-talla-6-deliplus-17-kg-paquete",
+    "name": "Pañales bebé talla 6 Deliplus de +17 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "16263",
     "ean": "8402001049804",
     "brand": "Deliplus",
@@ -14922,6 +14931,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17662",
+    "ean": "8402001053580",
+    "brand": "Valblu",
+    "url": "https://tienda.mercadona.es/product/17662/queso-cottage-valblu-tarrina",
+    "name": "Queso cottage Valblu",
+    "description": "Tarrina",
+    "category": "Charcutería y quesos > Queso untable, fresco y especialidades"
+  },
+  {
     "id": "17665",
     "ean": "8402001057403",
     "brand": "Hacendado",
@@ -15046,6 +15064,15 @@
     "name": "Berlina con cobertura blanca y trozos de galleta relleno de crema de galleta 30%",
     "description": "Pieza",
     "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
+    "id": "17719",
+    "ean": "8402001055973",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17719/golosinas-jelly-beans-acidas-hacendado-paquete",
+    "name": "Golosinas Jelly Beans ácidas Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "17721",
