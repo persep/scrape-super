@@ -15048,6 +15048,15 @@
     "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
   },
   {
+    "id": "17705",
+    "ean": "8402001057151",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17705/barritas-crujientes-crunchy-milk-hacendado-con-relleno-cereales-chocolate-con-leche-paquete",
+    "name": "Barritas crujientes Crunchy Milk Hacendado con relleno de cereales y chocolate con leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "17706",
     "ean": "5449000052926",
     "brand": "Fanta",
@@ -19933,6 +19942,15 @@
     "name": "Ginebra watermelon Gin Glivery",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21892",
+    "ean": "8402001053191",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21892/guanciale-cerdo-paquete",
+    "name": "Guanciale Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "21896",
@@ -25693,6 +25711,15 @@
     "name": "Muesli Crunchy Hacendado con legumbres",
     "description": "Paquete",
     "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "24568",
+    "ean": "8402001054037",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24568/barritas-barquillo-cheesecake-caramel-hacendado-con-cobertura-blanca-relleno-sabor-cheesecake-paquete",
+    "name": "Barritas de barquillo Cheesecake Caramel Hacendado con cobertura blanca y relleno sabor cheesecake",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "24570",
