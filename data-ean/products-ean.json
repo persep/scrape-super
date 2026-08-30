@@ -15129,6 +15129,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "17731",
+    "ean": "4014400928884",
+    "brand": "Knoppers",
+    "url": "https://tienda.mercadona.es/product/17731/barquillos-rellenos-con-crema-leche-avellanas-knoppers",
+    "name": "Barquillos de cacao rellenos con crema de leche y de avellanas Knoppers",
+    "description": null,
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "17733",
     "ean": "8402001051463",
     "brand": "Deliplus",
@@ -15152,6 +15161,15 @@
     "brand": "My Soul",
     "url": "https://tienda.mercadona.es/product/17768/eau-parfum-mujer-bright-my-soul-frasco",
     "name": "Eau de parfum mujer Bright My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17769",
+    "ean": "8402001044779",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/17769/eau-parfum-mujer-my-soul-frasco",
+    "name": "Eau de parfum mujer Ella My Soul",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
@@ -15183,6 +15201,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "17790",
+    "ean": "8402001052736",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17790/panales-bebe-talla-4-deliplus-10-15-kg-paquete",
+    "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "17810",
     "ean": "8402001055942",
     "brand": "Bosque Verde",
@@ -15199,6 +15226,15 @@
     "name": "Ambientador spray Blossom Bosque Verde",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "17917",
+    "ean": "8402001043659",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17917/chocolate-con-leche-fussion-hacendado-relleno-caramelo-con-leche-aireado-paquete",
+    "name": "Chocolate con leche Fussion Hacendado relleno de caramelo con leche aireado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "17922",
@@ -15244,6 +15280,15 @@
     "name": "Tinto de verano limón Don Simón",
     "description": null,
     "category": "Bodega > Tinto de verano y sangría"
+  },
+  {
+    "id": "17985",
+    "ean": "8436601370761",
+    "brand": "Smile Vibes",
+    "url": "https://tienda.mercadona.es/product/17985/lote-infantil-smile-vibes-contiene-eau-toilette-120-ml-taza-pegatinas-caja",
+    "name": "Lote infantil Smile Vibes",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "17991",
@@ -15458,6 +15503,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/18135/exfoliante-corporal-ambar-deliplus-bote",
     "name": "Exfoliante corporal Ámbar Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "18162",
+    "ean": "8402001054013",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18162/crema-manos-hidratante-con-aloe-vera-acido-hialuronico-deliplus-bote",
+    "name": "Crema de manos hidratante con aloe vera y ácido hialurónico Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
@@ -20194,6 +20248,15 @@
     "name": "Bebida espirituosa Convidado de Baco",
     "description": "Botella",
     "category": "Bodega > Licores"
+  },
+  {
+    "id": "21969",
+    "ean": "8402001049149",
+    "brand": "Facial Clean",
+    "url": "https://tienda.mercadona.es/product/21969/desmaquillador-ojos-labios-bifasico-waterproof-facial-clean-tipo-piel-deliplus-bote",
+    "name": "Desmaquillador de ojos y labios bifásico Waterproof Facial Clean",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "21972",
