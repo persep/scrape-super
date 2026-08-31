@@ -13581,6 +13581,15 @@
     "category": "Conservas, caldos y cremas > Conservas de verdura y frutas"
   },
   {
+    "id": "16551",
+    "ean": "8402001055249",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16551/queso-lonchas-tierno-vaca-hacendado-paquete",
+    "name": "Queso lonchas tierno de vaca Hacendado",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Queso lonchas, rallado y en porciones"
+  },
+  {
     "id": "16554",
     "ean": "8402001054860",
     "brand": "Delikuit",
@@ -15271,6 +15280,15 @@
     "name": "Panceta de cerdo pieza",
     "description": "Pieza",
     "category": "Carne > Cerdo"
+  },
+  {
+    "id": "17951",
+    "ean": "8402001059254",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17951/volcano-con-crema-coco",
+    "name": "Volcano con crema y coco",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "17961",
