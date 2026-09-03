@@ -14904,6 +14904,15 @@
     "category": "Bodega > Cerveza sin alcohol"
   },
   {
+    "id": "17639",
+    "ean": "8402001056321",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17639/galletas-avena-semillas-hacendado-caja",
+    "name": "Galletas avena y semillas Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "17640",
     "ean": "8402001056918",
     "brand": "Hacendado",
@@ -15048,6 +15057,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "17702",
+    "ean": "8402001057168",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17702/barritas-chocolate-con-leche-hacendado-rellenas-leche-paquete",
+    "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "17704",
     "ean": "8411500114432",
     "brand": "Damel",
@@ -15118,6 +15136,15 @@
     "name": "Laca cabello ultra fuerte Pantene fijación 5",
     "description": "Spray",
     "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "17723",
+    "ean": "8402001058073",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17723/aceitunas-verdes-con-hueso-hacendado-tarro",
+    "name": "Aceitunas verdes con hueso Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "17724",
@@ -15201,6 +15228,24 @@
     "category": "Zumos > Tomate y otros sabores"
   },
   {
+    "id": "17783",
+    "ean": "8402001051562",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17783/polvo-compacto-sol-deliplus-claro",
+    "name": "Polvo compacto Sol Deliplus claro",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "17784",
+    "ean": "8402001051579",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17784/polvo-compacto-sol-deliplus-oscuro",
+    "name": "Polvo compacto Sol Deliplus oscuro",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
     "id": "17789",
     "ean": "8402001052729",
     "brand": "Deliplus",
@@ -15217,6 +15262,24 @@
     "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
     "description": "Paquete",
     "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "17797",
+    "ean": "8421384162382",
+    "brand": "Incarlopsa",
+    "url": "https://tienda.mercadona.es/product/17797/jamon-serrano-incarlopsa-lonchas-paquete",
+    "name": "Jamón serrano Incarlopsa lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "17798",
+    "ean": "8402001058684",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/17798/jamon-cebo-iberico-50-raza-iberica-hacienda-iberico-lonchas-paquete",
+    "name": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "17810",
@@ -15604,6 +15667,15 @@
     "name": "Sardinas en aceite de oliva Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18299",
+    "ean": "8402001050985",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18299/crema-manos-nutritiva-murumuru-deliplus-fps-20-bote",
+    "name": "Crema de manos nutritiva Murumuru Deliplus FPS 20",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "18310",
