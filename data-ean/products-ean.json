@@ -9126,6 +9126,15 @@
     "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
   },
   {
+    "id": "14350",
+    "ean": "8402001037276",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/14350/cafe-soluble-descafeinado-sobres-hacendado-caja",
+    "name": "Café soluble descafeinado en sobres Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café soluble y otras bebidas"
+  },
+  {
     "id": "14352",
     "ean": "8402001037146",
     "brand": "Hacendado",
@@ -14778,6 +14787,15 @@
     "category": "Carne > Empanados y elaborados"
   },
   {
+    "id": "17577",
+    "ean": "8402001055799",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17577/pasta-fresca-girasoles-rellena-pesto-queso-oveja-hacendado-bandeja",
+    "name": "Pasta fresca girasoles rellena de pesto y queso de oveja Hacendado",
+    "description": "Bandeja",
+    "category": "Arroz, legumbres y pasta > Pasta y fideos"
+  },
+  {
     "id": "17607",
     "ean": "8402001052057",
     "brand": "Deliplus",
@@ -15369,6 +15387,24 @@
     "url": "https://tienda.mercadona.es/product/17985/lote-infantil-smile-vibes-contiene-eau-toilette-120-ml-taza-pegatinas-caja",
     "name": "Lote infantil Smile Vibes",
     "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17989",
+    "ean": "8428390081218",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/17989/mini-eau-parfum-mujer-flor-mayo-meilyn-frasco",
+    "name": "Mini eau de parfum mujer Flor de Mayo Meilyn",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17990",
+    "ean": "8428390081225",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/17990/mini-eau-parfum-hombre-flor-mayo-meilon-frasco",
+    "name": "Mini eau de parfum hombre Flor de Mayo Meilon",
+    "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
