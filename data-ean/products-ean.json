@@ -14796,6 +14796,24 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "17583",
+    "ean": "8402001052354",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17583/laca-unas-alto-brillo-deliplus-155-chocolate-intenso",
+    "name": "Laca de uñas alto brillo Deliplus 155 chocolate intenso",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "17584",
+    "ean": "8402001052361",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17584/laca-unas-alto-brillo-deliplus-156-chocolate-medio",
+    "name": "Laca de uñas alto brillo Deliplus 156 chocolate medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "17607",
     "ean": "8402001052057",
     "brand": "Deliplus",
@@ -15073,6 +15091,15 @@
     "name": "Eau de toilette hombre Aqua Royale Faris",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17698",
+    "ean": "8402001058332",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17698/magdalenas-con-azucar-bolsa",
+    "name": "Magdalenas con azúcar",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "17702",
