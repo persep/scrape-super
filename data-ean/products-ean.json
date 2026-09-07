@@ -14814,6 +14814,24 @@
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
   {
+    "id": "17585",
+    "ean": "8402001052385",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17585/laca-unas-alto-brillo-deliplus-157-tierra-medio",
+    "name": "Laca de uñas alto brillo Deliplus 157 tierra medio",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "17586",
+    "ean": "8402001052378",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17586/laca-unas-alto-brillo-deliplus-158-tierra-claro",
+    "name": "Laca de uñas alto brillo Deliplus 158 tierra claro",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "17607",
     "ean": "8402001052057",
     "brand": "Deliplus",
@@ -14938,6 +14956,15 @@
     "name": "Cerveza sin gluten 0,0% sin alcohol rubia Mahou",
     "description": "Lata",
     "category": "Bodega > Cerveza sin alcohol"
+  },
+  {
+    "id": "17631",
+    "ean": "8402001044687",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/17631/eau-parfum-hombre-my-soul-frasco",
+    "name": "Eau de parfum hombre My Soul Él",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "17639",
