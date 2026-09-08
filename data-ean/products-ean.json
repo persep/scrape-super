@@ -12717,6 +12717,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "16257",
+    "ean": "8402001048470",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/16257/lote-flection-sports-edition-6-hojas-deliplus-caja",
+    "name": "Lote Flection Sports Edition 6 hojas Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
     "id": "16260",
     "ean": "8402001048487",
     "brand": "Hacendado",
@@ -15471,6 +15480,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "17996",
+    "ean": "8402001055874",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17996/chocolate-con-leche-fussion-hacendado-relleno-galleta-caramelizada-tableta",
+    "name": "Chocolate con leche Fussion Hacendado relleno de galleta caramelizada",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "18002",
     "ean": "8480000180025",
     "brand": "Hacendado",
@@ -15685,6 +15703,15 @@
     "name": "Crema de manos hidratante con aloe vera y ácido hialurónico Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "18165",
+    "ean": "8402001059582",
+    "brand": "Delikuit",
+    "url": "https://tienda.mercadona.es/product/18165/bocaditos-salsa-gato-adulto-delikuit-contiene-6-con-ternera-6-con-pollo-6-con-salmon-6-con-trucha-caja",
+    "name": "Bocaditos en salsa gato adulto Delikuit",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "18209",
@@ -17870,6 +17897,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/20920/almendra-laminada-hacendado-paquete",
     "name": "Almendra laminada Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
+  },
+  {
+    "id": "20924",
+    "ean": "8402001047084",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20924/almendra-molida-hacendado-paquete",
+    "name": "Almendra molida Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Velas y decoración"
   },
