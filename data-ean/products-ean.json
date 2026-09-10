@@ -15021,6 +15021,15 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "17651",
+    "ean": "8436021419835",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17651/hamburguesa-lomo-cerdo-duroc-paquete",
+    "name": "Hamburguesa de lomo de cerdo duroc",
+    "description": "Paquete",
+    "category": "Carne > Hamburguesas y picadas"
+  },
+  {
     "id": "17661",
     "ean": "3800020401200",
     "brand": "Kit-Kat",
@@ -15309,6 +15318,15 @@
     "category": "Zumos > Tomate y otros sabores"
   },
   {
+    "id": "17775",
+    "ean": "8402001058417",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17775/pechuga-pavo-hacendado-finas-lonchas-paquete",
+    "name": "Pechuga de pavo Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
     "id": "17783",
     "ean": "8402001051562",
     "brand": "Deliplus",
@@ -15415,6 +15433,15 @@
     "name": "Queso curado mezcla afrutado Hacendado",
     "description": "Pieza",
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
+  },
+  {
+    "id": "17929",
+    "ean": "8402001057335",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17929/galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete",
+    "name": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
   },
   {
     "id": "17944",
@@ -15793,6 +15820,15 @@
     "name": "Sardinas en aceite de oliva Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18255",
+    "ean": "8402001044755",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18255/eau-parfum-mujer-blue-my-soul-frasco",
+    "name": "Eau de parfum mujer Blue My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
     "id": "18295",
