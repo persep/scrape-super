@@ -15147,6 +15147,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "17700",
+    "ean": "8402001058349",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17700/magdalenas-con-pepitas-chocolate-bolsa",
+    "name": "Magdalenas con pepitas de chocolate",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "17702",
     "ean": "8402001057168",
     "brand": "Hacendado",
@@ -15397,6 +15406,24 @@
     "name": "Ambientador spray Blossom Bosque Verde",
     "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "17912.1",
+    "ean": "8402001058868",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17912.1/barra-pan-integral-100",
+    "name": "Barra pan integral 100%",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "17912.2",
+    "ean": "8402001058868",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17912.2/barra-pan-integral-100-rebanado",
+    "name": "Barra pan integral 100% rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
   },
   {
     "id": "17917",
