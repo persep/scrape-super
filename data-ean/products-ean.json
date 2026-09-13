@@ -15462,6 +15462,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "17928",
+    "ean": "8410376012699",
+    "brand": "Gullón",
+    "url": "https://tienda.mercadona.es/product/17928/galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete",
+    "name": "Galletas Choco Bom Gullón con chips de chocolate recubiertas de chocolate blanco",
+    "description": "Paquete",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "17929",
     "ean": "8402001057335",
     "brand": "Hacendado",
@@ -15856,6 +15865,15 @@
     "name": "Eau de parfum mujer Blue My Soul",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18294",
+    "ean": "8402001059247",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18294/pan-molde-integral-con-20-avena-5-trigo-sarraceno-hacendado-paquete",
+    "name": "Pan de molde integral con 20% avena 5% trigo sarraceno Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
     "id": "18295",
