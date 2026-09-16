@@ -15093,6 +15093,15 @@
     "category": "Cacao, café e infusiones > Café molido y en grano"
   },
   {
+    "id": "17674",
+    "ean": "8402001057489",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17674/cafe-capsula-peru-hacendado-compatibles-maquinas-nespresso-caja",
+    "name": "Café en cápsula Perú Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
+  },
+  {
     "id": "17677",
     "ean": "8402001053078",
     "brand": "Deliplus",
@@ -15368,6 +15377,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/17790/panales-bebe-talla-4-deliplus-10-15-kg-paquete",
     "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "17792",
+    "ean": "8402001052750",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17792/panales-bebe-talla-5-deliplus-14-18-kg-paquete",
+    "name": "Pañales bebé talla 5 Deliplus de 14-18 kg",
     "description": "Paquete",
     "category": "Bebé > Toallitas y pañales"
   },
@@ -15741,6 +15759,15 @@
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
   {
+    "id": "18123",
+    "ean": "8402001044557",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18123/eau-parfum-mujer-soiree-my-soul-frasco",
+    "name": "Eau de parfum mujer Soirée My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "18125",
     "ean": "8402001055508",
     "brand": "Deliplus",
@@ -15847,6 +15874,15 @@
     "name": "Sardinas en aceite de oliva Hacendado",
     "description": "Pack-2",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18235",
+    "ean": "8445293020588",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18235/cacao-soluble-instantaneo-paquete",
+    "name": "Cacao soluble instantáneo",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Cacao soluble y chocolate a la taza"
   },
   {
     "id": "18247",
@@ -26161,6 +26197,15 @@
     "name": "Parches para ojos de hidrogel Efecto Lifting Deliplus con pdrn & colágeno",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "24585",
+    "ean": "8402001060199",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24585/bizcocho-con-zanahoria-hacendado-paquete",
+    "name": "Bizcocho con zanahoria Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "24586",
