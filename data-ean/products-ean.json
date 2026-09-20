@@ -14724,6 +14724,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "17555",
+    "ean": "8402001056000",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17555/kit-esponjas-maquillaje-deliplus-caja",
+    "name": "Kit esponjas de maquillaje Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Pinceles y brochas"
+  },
+  {
     "id": "17559",
     "ean": "8402001055645",
     "brand": "",
@@ -16063,6 +16072,15 @@
     "name": "Zumo tropical Hacendado",
     "description": "Botella",
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "18398",
+    "ean": "8402001055355",
+    "brand": "Facial Clean",
+    "url": "https://tienda.mercadona.es/product/18398/tonico-facial-glicolico-6-acidos-4-facial-clean-renovador-hidratante-tipo-piel-deliplus-bote",
+    "name": "Tónico facial glicólico + 6 ácidos 4% Facial Clean renovador e hidratante",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "18400",
@@ -25740,6 +25758,15 @@
     "category": "Bodega > Vino rosado"
   },
   {
+    "id": "24080",
+    "ean": "8402001053924",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24080/postre-soja-con-caramelo-hacendado",
+    "name": "Postre de soja con caramelo Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Postres de soja"
+  },
+  {
     "id": "24081",
     "ean": "8436548785680",
     "brand": "",
@@ -26241,6 +26268,15 @@
     "url": "https://tienda.mercadona.es/product/24563/muesli-crunchy-hacendado-con-legumbres-paquete",
     "name": "Muesli Crunchy Hacendado con legumbres",
     "description": "Paquete",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
+    "id": "24565",
+    "ean": "8402001057380",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24565/barritas-cereales-avellana-cacao-hacendado-caja",
+    "name": "Barritas de cereales avellana y cacao Hacendado",
+    "description": "Caja",
     "category": "Cereales y galletas > Cereales"
   },
   {
