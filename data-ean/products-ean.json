@@ -15939,6 +15939,15 @@
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
   {
+    "id": "18234",
+    "ean": "5449000028938",
+    "brand": "Fanta",
+    "url": "https://tienda.mercadona.es/product/18234/refresco-fanta-naranja-botella",
+    "name": "Refresco Fanta naranja",
+    "description": "Botella",
+    "category": "Agua y refrescos > Refresco de naranja y de limón"
+  },
+  {
     "id": "18235",
     "ean": "8445293020588",
     "brand": "",
@@ -15953,6 +15962,15 @@
     "brand": "My Soul",
     "url": "https://tienda.mercadona.es/product/18247/eau-parfum-hombre-borealia-my-soul-frasco",
     "name": "Eau de parfum hombre Borealia My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18248",
+    "ean": "8402001044700",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18248/eau-parfum-hombre-my-soul-glacier-frasco",
+    "name": "Eau de parfum hombre Glacier My Soul",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
