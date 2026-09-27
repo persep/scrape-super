@@ -15129,6 +15129,15 @@
     "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
+    "id": "17676",
+    "ean": "8402001057410",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17676/barritas-galleta-frutos-rojos-hacendado-caja",
+    "name": "Barritas de galleta y frutos rojos Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Cereales"
+  },
+  {
     "id": "17677",
     "ean": "8402001053078",
     "brand": "Deliplus",
@@ -26331,6 +26340,15 @@
     "url": "https://tienda.mercadona.es/product/24542/golosinas-mini-mix-hacendado-paquete",
     "name": "Golosinas Mini Mix Hacendado",
     "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
+    "id": "24543",
+    "ean": "8402001054631",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24543/snacks-golosinas-top-xuxes-hacendado-caja",
+    "name": "Snacks de golosinas Top Xuxes Hacendado",
+    "description": "Caja",
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
