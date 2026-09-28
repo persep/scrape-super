@@ -12717,6 +12717,15 @@
     "category": "Aperitivos > Patatas fritas y snacks"
   },
   {
+    "id": "16254",
+    "ean": "8402001048302",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16254/aceitunas-verdes-rellenas-con-pepinillo-hacendado-tarro",
+    "name": "Aceitunas verdes rellenas con pepinillo Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "16257",
     "ean": "8402001048470",
     "brand": "Deliplus",
@@ -15543,6 +15552,24 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "17815",
+    "ean": "8006530557498",
+    "brand": "Fairy",
+    "url": "https://tienda.mercadona.es/product/17815/lavavajillas-ultra-plus-naranja-fairy-pastillas-paquete",
+    "name": "Lavavajillas Ultra Plus naranja Fairy en pastillas",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "17816",
+    "ean": "8436047152099",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17816/costilla-cerdo-marinada-congelada-paquete",
+    "name": "Costilla de cerdo marinada congelada",
+    "description": "Paquete",
+    "category": "Congelados > Carne"
+  },
+  {
     "id": "17828",
     "ean": "8402001058691",
     "brand": "Hacendado",
@@ -16270,6 +16297,15 @@
     "name": "Vino tinto Apasionado Pata Negra DO Jumilla",
     "description": "Botella",
     "category": "Bodega > Vino tinto"
+  },
+  {
+    "id": "18480",
+    "ean": "8410300349013",
+    "brand": "Gallina blanca",
+    "url": "https://tienda.mercadona.es/product/18480/caldo-verduras-casero-gallina-blanca-brik",
+    "name": "Caldo de verduras casero Gallina blanca",
+    "description": "Brik",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
     "id": "18509",
@@ -20878,6 +20914,15 @@
     "name": "Desmaquillador de ojos y labios bifásico Waterproof Facial Clean",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "21970",
+    "ean": "8402001053849",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/21970/snack-gato-aperitivo-liquido-compy-contine-6-con-pollo-higado-6-con-salmon-caja",
+    "name": "Snack gato aperitivo líquido Compy",
+    "description": "Caja",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "21972",
