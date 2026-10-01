@@ -15696,6 +15696,51 @@
     "category": "Bodega > Tinto de verano y sangría"
   },
   {
+    "id": "17979",
+    "ean": "8402001055188",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17979/balsamo-labial-color-balm-deliplus-301-perlado",
+    "name": "Bálsamo labial Color Balm Deliplus 301 perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17980",
+    "ean": "8402001055195",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17980/balsamo-labial-color-balm-deliplus-302-rosa",
+    "name": "Bálsamo labial Color Balm Deliplus 302 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17982",
+    "ean": "8402001055218",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17982/balsamo-labial-color-balm-deliplus-304-nude-rosa",
+    "name": "Bálsamo labial Color Balm Deliplus 304 nude rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17983",
+    "ean": "8402001055225",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17983/balsamo-labial-color-balm-deliplus-305-rojo",
+    "name": "Bálsamo labial Color Balm Deliplus 305 rojo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17984",
+    "ean": "8402001055232",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17984/balsamo-labial-color-balm-deliplus-306-rosa-perlado",
+    "name": "Bálsamo labial Color Balm Deliplus 306 rosa perlado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "17985",
     "ean": "8436601370761",
     "brand": "Smile Vibes",
@@ -15748,6 +15793,15 @@
     "name": "Atún claro en aceite de oliva Hacendado",
     "description": "Pack-6",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18004",
+    "ean": "8402001054938",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18004/mascara-pestanas-burgundy-xtrem-efecto-longitud-infinita-deliplus-borgona",
+    "name": "Máscara de pestañas Burgundy Xtrem efecto longitud infinita Deliplus borgoña",
+    "description": null,
+    "category": "Maquillaje > Ojos"
   },
   {
     "id": "18008",
@@ -16110,6 +16164,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "18256",
+    "ean": "8402001044762",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18256/eau-parfum-mujer-eclant-my-soul-frasco",
+    "name": "Eau de parfum mujer Éclant My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "18257",
     "ean": "8402001044731",
     "brand": "My Soul",
@@ -16315,6 +16378,15 @@
     "name": "Filetes de sardina ahumada Hacendado en aceite de girasol",
     "description": "Bandeja",
     "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
+    "id": "18444",
+    "ean": "8410320433396",
+    "brand": "Oscar Mayer",
+    "url": "https://tienda.mercadona.es/product/18444/bacon-ahumado-natural-oscar-mayer-lonchas-paquete",
+    "name": "Bacón ahumado natural Oscar Mayer lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
     "id": "18478",
@@ -26530,6 +26602,15 @@
     "name": "Parches para ojos de hidrogel Efecto Lifting Deliplus con pdrn & colágeno",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "24583",
+    "ean": "8402001060717",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/24583/croissant-relleno-cacao-32-pieza",
+    "name": "Croissant relleno de cacao 32%",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "24585",
