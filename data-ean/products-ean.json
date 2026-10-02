@@ -15453,6 +15453,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "17791",
+    "ean": "8402001052743",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17791/panales-bebe-talla-4-deliplus-10-15-kg",
+    "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
+    "description": null,
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "17792",
     "ean": "8402001052750",
     "brand": "Deliplus",
@@ -15710,6 +15719,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/17980/balsamo-labial-color-balm-deliplus-302-rosa",
     "name": "Bálsamo labial Color Balm Deliplus 302 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17981",
+    "ean": "8402001055201",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17981/balsamo-labial-color-balm-deliplus-303-nude-beige",
+    "name": "Bálsamo labial Color Balm Deliplus 303 nude beige",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -16252,6 +16270,15 @@
     "name": "Hígado de bacalao ahumado Hacendado",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18336",
+    "ean": "8402001055706",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18336/mousse-chocolate-hacendado",
+    "name": "Mousse de chocolate Hacendado",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
     "id": "18339",
