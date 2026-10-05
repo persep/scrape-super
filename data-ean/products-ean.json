@@ -15372,6 +15372,15 @@
     "category": "Cuidado facial y corporal > Desodorante"
   },
   {
+    "id": "17755",
+    "ean": "8402001058394",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17755/patatas-fritas-0-sal-anadida-aceite-oliva-virgen-hacendado-paquete",
+    "name": "Patatas fritas 0% sal añadida en aceite de oliva virgen Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
     "id": "17768",
     "ean": "8402001044618",
     "brand": "My Soul",
@@ -15676,6 +15685,24 @@
     "name": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
     "description": "Paquete",
     "category": "Cereales y galletas > Galletas"
+  },
+  {
+    "id": "17941",
+    "ean": "8402001052422",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17941/lote-12-makeup-essentials-express-deliplus",
+    "name": "Lote 12 Makeup Essentials Express Deliplus",
+    "description": null,
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "17942",
+    "ean": "8402001052415",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17942/calendario-adviento-24-makeup-glam-secrets-deliplus",
+    "name": "Calendario Adviento 24 Makeup  Glam Secrets Deliplus",
+    "description": null,
+    "category": "Maquillaje > Labios"
   },
   {
     "id": "17944",
@@ -16072,6 +16099,15 @@
     "name": "Exfoliante corporal Ámbar Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "18158",
+    "ean": "8402001057755",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18158/bollo-con-cobertura-cacao-huevo-sorpresa-con-disquitos-bandeja",
+    "name": "Bollo bañado de chocolate y huevo con disquitos",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "18162",
@@ -77207,6 +77243,15 @@
     "brand": "",
     "url": "https://tienda.mercadona.es/product/87186/tira-rodaballo-bandeja",
     "name": "Medio rodaballo",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87189",
+    "ean": "8480000871893",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87189/sepia-troceada-faraonica-con-agua-anadida-bandeja",
+    "name": "Sepia troceada Faraónica",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
   },
