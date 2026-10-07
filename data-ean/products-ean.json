@@ -15579,6 +15579,15 @@
     "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
+    "id": "17807",
+    "ean": "8402001058585",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17807/golosinas-llaves-super-acidas-hacendado-paquete",
+    "name": "Golosinas llaves super ácidas Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
+  },
+  {
     "id": "17810",
     "ean": "8402001055942",
     "brand": "Bosque Verde",
@@ -16110,6 +16119,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "18145",
+    "ean": "8402001059056",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18145/rosquillas-mantequilla-hacendado-caja",
+    "name": "Rosquillas de mantequilla Hacendado",
+    "description": "Caja",
+    "category": "Cereales y galletas > Galletas"
+  },
+  {
     "id": "18158",
     "ean": "8402001057755",
     "brand": "",
@@ -16279,6 +16297,15 @@
     "name": "Pipas de calabaza natural Hacendado peladas",
     "description": "Paquete",
     "category": "Aperitivos > Frutos secos y fruta desecada"
+  },
+  {
+    "id": "18290",
+    "ean": "5056784925201",
+    "brand": "Monster",
+    "url": "https://tienda.mercadona.es/product/18290/bebida-energetica-vice-guava-monster-energy-ultra-zero-azucar-lata",
+    "name": "Bebida energética Vice Guava Monster Energy Ultra zero azúcar",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
   },
   {
     "id": "18294",
@@ -16711,6 +16738,24 @@
     "name": "Mejillones en salsa de vieira Hacendado pequeños",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
+    "id": "18627",
+    "ean": "8402001055577",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18627/crema-gel-facial-hidrata-ilumina-k-skin-deliplus-con-capsulas-niacinamida-colageno-tipo-piel-tarro",
+    "name": "Crema en gel facial Hidrata & Ilumina K-Skin Deliplus con cápsulas de niacinamida & colágeno",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18657",
+    "ean": "8402001055584",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18657/serum-facial-k-skin-efecto-lifting-deliplus-con-pdrn-colageno-caja",
+    "name": "Sérum facial K-Skin efecto lifting Deliplus con PDRN & colágeno",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
     "id": "18713",
@@ -19436,6 +19481,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/21537/salteado-rustico-hacendado-ultracongelado-patata-boniato-cebolla-asada-paquete",
     "name": "Salteado rústico Hacendado ultracongelado",
+    "description": "Paquete",
+    "category": "Congelados > Fruta y verdura"
+  },
+  {
+    "id": "21538",
+    "ean": "8402001047107",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/21538/salteado-patata-salchicha-frankfurt-hacendado-ultracongelado-paquete",
+    "name": "Salteado de patata y salchicha frankfurt Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Fruta y verdura"
   },
