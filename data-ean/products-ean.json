@@ -14841,6 +14841,15 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "17578",
+    "ean": "8402001056161",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17578/salchichas-cocidas-cocktail-hacendado-cerdo-paquete",
+    "name": "Salchichas cocidas cocktail Hacendado de cerdo",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
     "id": "17583",
     "ean": "8402001052354",
     "brand": "Deliplus",
@@ -15363,6 +15372,24 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "17741",
+    "ean": "8402001043482",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17741/aceitunas-negras-sin-hueso-hacendado",
+    "name": "Aceitunas negras sin hueso Hacendado",
+    "description": null,
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
+    "id": "17742",
+    "ean": "8402001043499",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17742/aceitunas-negras-sin-hueso-hacendado-bote",
+    "name": "Aceitunas negras sin hueso Hacendado",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "17747",
     "ean": "8721497075594",
     "brand": "Rexona",
@@ -15847,6 +15874,15 @@
     "name": "Lote infantil maquillaje Color Up Glam Studio",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "17995",
+    "ean": "8402001055850",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17995/baguette-ajo-finas-hierbas-hacendado-ultracongeladas-paquete",
+    "name": "Baguette ajo y finas hierbas Hacendado ultracongeladas",
+    "description": "Paquete",
+    "category": "Congelados > Pizzas"
   },
   {
     "id": "17996",
@@ -16488,6 +16524,15 @@
     "category": "Marisco y pescado > Salazones y ahumados"
   },
   {
+    "id": "18418",
+    "ean": "8402001053443",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18418/balsamo-reparador-sos-nariz-labios-deliplus-tarro",
+    "name": "Bálsamo reparador SOS nariz & labios Deliplus",
+    "description": "Tarro",
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "18419",
     "ean": "8402001034251",
     "brand": "Deliplus",
@@ -16495,6 +16540,15 @@
     "name": "Parches hidrogel para ojos Antiarrugas Deliplus con oro y péptidos",
     "description": "Paquete",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18424",
+    "ean": "8402001059193",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18424/chorizo-extra-pimienta-hacendado-finas-lonchas-paquete",
+    "name": "Chorizo extra pimienta Hacendado finas lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "18433",
