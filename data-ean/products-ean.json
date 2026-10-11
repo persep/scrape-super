@@ -15363,6 +15363,15 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "17732",
+    "ean": "8412016387105",
+    "brand": "Ynsadiet",
+    "url": "https://tienda.mercadona.es/product/17732/creatina-sabor-neutro-ynsadiet-complemento-alimenticio-incluye-cacito-dosificador-bote",
+    "name": "Creatina sabor neutro Ynsadiet complemento alimenticio",
+    "description": "Bote",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
     "id": "17733",
     "ean": "8402001051463",
     "brand": "Deliplus",
@@ -15485,6 +15494,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/17787/panales-bebe-talla-2-deliplus-3-6-kg-paquete",
     "name": "Pañales bebé talla 2 Deliplus de 3-6 kg",
+    "description": "Paquete",
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
+    "id": "17788",
+    "ean": "8402001052712",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17788/panales-bebe-talla-3-deliplus-5-10-kg-paquete",
+    "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
     "description": "Paquete",
     "category": "Bebé > Toallitas y pañales"
   },
@@ -16592,6 +16610,15 @@
     "brand": "Gallina blanca",
     "url": "https://tienda.mercadona.es/product/18480/caldo-verduras-casero-gallina-blanca-brik",
     "name": "Caldo de verduras casero Gallina blanca",
+    "description": "Brik",
+    "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "18499",
+    "ean": "8410300370130",
+    "brand": "Gallina blanca",
+    "url": "https://tienda.mercadona.es/product/18499/caldo-pescado-con-bogavante-gourmet-gallina-blanca-brik",
+    "name": "Caldo de pescado con bogavante Gourmet Gallina blanca",
     "description": "Brik",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
@@ -22192,6 +22219,15 @@
     "name": "Paté de foie de pato con cebolla caramelizada Hacendado",
     "description": "Paquete",
     "category": "Charcutería y quesos > Paté y sobrasada"
+  },
+  {
+    "id": "22428",
+    "ean": "8436565363557",
+    "brand": "La Carloteña",
+    "url": "https://tienda.mercadona.es/product/22428/lomo-cerdo-98-florencia-carlotena-asado-horno-lonchas-paquete",
+    "name": "Lomo cerdo 98% Florencia La Carloteña asado al horno lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Aves y jamón cocido"
   },
   {
     "id": "22430",
