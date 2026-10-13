@@ -16497,6 +16497,15 @@
     "category": "Congelados > Rebozados"
   },
   {
+    "id": "18390",
+    "ean": "8402001052408",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18390/laca-unas-color-queratina-deliplus-159-lavanda",
+    "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
     "id": "18398",
     "ean": "8402001055355",
     "brand": "Facial Clean",
@@ -16504,6 +16513,15 @@
     "name": "Tónico facial glicólico + 6 ácidos 4% Facial Clean renovador e hidratante",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18399",
+    "ean": "8402001060403",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18399/tarta-infantil-paw-patrol-congelada-bandeja",
+    "name": "Tarta infantil Paw Patrol congelada",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Tartas y pasteles"
   },
   {
     "id": "18400",
@@ -16540,6 +16558,15 @@
     "name": "Filetes de anchoa en aceite de oliva Hacendado",
     "description": "Pack-3",
     "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
+    "id": "18417",
+    "ean": "8402001060410",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18417/tarta-infantil-k-pop-kandy-stars-hacendado-congelada-bandeja",
+    "name": "Tarta infantil K-Pop Kandy Stars Hacendado congelada",
+    "description": "Bandeja",
+    "category": "Panadería y pastelería > Tartas y pasteles"
   },
   {
     "id": "18418",
@@ -16711,6 +16738,24 @@
     "name": "Almejas blancas del norte al natural Hacendado",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
+  },
+  {
+    "id": "18594",
+    "ean": "8402001049699",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18594/chupete-silicona-reversible-tacto-suave-deliplus-0-6-meses-paquete",
+    "name": "Chupete silicona reversible tacto suave Deliplus +0 a 6 meses",
+    "description": "Paquete",
+    "category": "Bebé > Biberón y chupete"
+  },
+  {
+    "id": "18595",
+    "ean": "8402001049705",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18595/chupete-silicona-reversible-tacto-suave-deliplus-6-18-meses-luminiscente-paquete",
+    "name": "Chupete silicona reversible tacto suave Deliplus +6 a 18 meses luminiscente",
+    "description": "Paquete",
+    "category": "Bebé > Biberón y chupete"
   },
   {
     "id": "18601",
