@@ -16497,6 +16497,15 @@
     "category": "Congelados > Rebozados"
   },
   {
+    "id": "18382",
+    "ean": "8402001056383",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18382/postre-caramel-cake-hacendado-con-queso-caramelo-salado",
+    "name": "Postre Caramel Cake Hacendado con queso y caramelo salado",
+    "description": null,
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
     "id": "18389",
     "ean": "8402001052392",
     "brand": "Deliplus",
@@ -16763,6 +16772,15 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/18595/chupete-silicona-reversible-tacto-suave-deliplus-6-18-meses-luminiscente-paquete",
     "name": "Chupete silicona reversible tacto suave Deliplus +6 a 18 meses luminiscente",
+    "description": "Paquete",
+    "category": "Bebé > Biberón y chupete"
+  },
+  {
+    "id": "18596",
+    "ean": "8402001049712",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18596/chupete-silicona-reversible-tacto-suave-deliplus-18-meses-luminiscente-paquete",
+    "name": "Chupete silicona reversible tacto suave Deliplus +18 meses luminiscente",
     "description": "Paquete",
     "category": "Bebé > Biberón y chupete"
   },
@@ -17771,6 +17789,15 @@
     "brand": "Hacendado",
     "url": "https://tienda.mercadona.es/product/19975/patatas-fritas-sabor-campestre-hacendado-paquete",
     "name": "Patatas fritas onduladas sabor campestre Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Patatas fritas y snacks"
+  },
+  {
+    "id": "19976",
+    "ean": "8402001044267",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/19976/patatas-fritas-onduladas-sabor-sal-vinagre-paquete",
+    "name": "Patatas fritas onduladas sabor sal y vinagre",
     "description": "Paquete",
     "category": "Aperitivos > Patatas fritas y snacks"
   },
