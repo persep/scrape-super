@@ -14895,6 +14895,15 @@
     "category": "Congelados > Fruta y verdura"
   },
   {
+    "id": "17603",
+    "ean": "8402001055348",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17603/porciones-chocolate-con-leche-classic-hacendado-extrafino-paquete",
+    "name": "Porciones de chocolate con leche classic Hacendado extrafino",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "17607",
     "ean": "8402001052057",
     "brand": "Deliplus",
@@ -16371,6 +16380,15 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "18288",
+    "ean": "8402001060847",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18288/salsa-especiada-agridulce-hannibal-hacendado-bote",
+    "name": "Salsa especiada y agridulce Hannibal Hacendado",
+    "description": "Bote",
+    "category": "Aceite, especias y salsas > Otras salsas"
+  },
+  {
     "id": "18290",
     "ean": "5056784925201",
     "brand": "Monster",
@@ -16441,6 +16459,15 @@
     "name": "Tarta tres leches con dulce de leche Hacendado congelada",
     "description": "Bandeja",
     "category": "Congelados > Tartas y churros"
+  },
+  {
+    "id": "18319",
+    "ean": "8445293160345",
+    "brand": "Purina",
+    "url": "https://tienda.mercadona.es/product/18319/mousse-carne-pescado-gourmet-gold-gato-adulto-purina-contiene-2-unidades-pollo-2-salmon-tarrina",
+    "name": "Mousse de carne y pescado Gourmet Gold gato adulto Purina",
+    "description": "Tarrina",
+    "category": "Mascotas > Gato"
   },
   {
     "id": "18330",
@@ -16675,6 +16702,24 @@
     "name": "Bacón ahumado natural Oscar Mayer lonchas",
     "description": "Paquete",
     "category": "Charcutería y quesos > Bacón y salchichas"
+  },
+  {
+    "id": "18455",
+    "ean": "8402001060342",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/18455/vela-perfumada-red-elixir-bosque-verde-caja",
+    "name": "Vela perfumada Red Elixir Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "18470",
+    "ean": "8721497117843",
+    "brand": "Rexona",
+    "url": "https://tienda.mercadona.es/product/18470/desodorante-stick-antibacteriano-rexona-antitranspirante",
+    "name": "Desodorante stick antibacteriano Rexona antitranspirante",
+    "description": null,
+    "category": "Cuidado facial y corporal > Desodorante"
   },
   {
     "id": "18478",
