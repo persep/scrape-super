@@ -14724,6 +14724,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17547",
+    "ean": "8402001048319",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17547/aceitunas-negras-cuquillo-con-hueso-hacendado-tarro",
+    "name": "Aceitunas negras Cuquillo con hueso Hacendado",
+    "description": "Tarro",
+    "category": "Aperitivos > Aceitunas y encurtidos"
+  },
+  {
     "id": "17548",
     "ean": "8402001047527",
     "brand": "Hacendado",
@@ -16747,6 +16756,15 @@
     "name": "Caldo de verduras casero Gallina blanca",
     "description": "Brik",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "18498",
+    "ean": "8445292869287",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/18498/papilla-8-cereales-con-miel-nestle-6-meses-0-azucares-producidos-caja",
+    "name": "Papilla 8 cereales con miel Nestlé +6 meses",
+    "description": "Caja",
+    "category": "Bebé > Alimentación infantil"
   },
   {
     "id": "18499",
