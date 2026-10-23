@@ -5508,6 +5508,15 @@
     "category": "Maquillaje > Colorete y polvos"
   },
   {
+    "id": "13034",
+    "ean": "8402001034961",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/13034/tostadas-marinheiras-trigo-con-semillas-chia-hacendado-paquete",
+    "name": "Tostadas con semillas de chía Marinheiras Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Pan tostado y rallado"
+  },
+  {
     "id": "13035",
     "ean": "8402001027024",
     "brand": "Como Tú",
@@ -15237,6 +15246,33 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "17690",
+    "ean": "8402001054884",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17690/gel-fijador-cabello-xtra-forte-deliplus-fijacion-4-bote",
+    "name": "Gel fijador cabello Xtra Forte Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "17693",
+    "ean": "8402001054891",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17693/gel-fijador-cabello-x-trem-deliplus-fijacion-6-bote",
+    "name": "Gel fijador cabello X-trem Deliplus fijación 6",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "17695",
+    "ean": "8402001054877",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17695/gel-fijador-cabello-forte-deliplus-fijacion-3-bote",
+    "name": "Gel fijador cabello Forte Deliplus fijación 3",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "17698",
     "ean": "8402001058332",
     "brand": "",
@@ -16209,6 +16245,78 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "18136",
+    "ean": "8402001055102",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18136/pintalabios-creamy-deliplus-201-nude",
+    "name": "Pintalabios Creamy Deliplus 201 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18137",
+    "ean": "8402001055119",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18137/pintalabios-creamy-deliplus-202-rosa-calido",
+    "name": "Pintalabios Creamy Deliplus 202 rosa cálido",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18138",
+    "ean": "8402001055126",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18138/pintalabios-creamy-deliplus-203-nude-rosado",
+    "name": "Pintalabios Creamy Deliplus 203 nude rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18139",
+    "ean": "8402001055133",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18139/pintalabios-creamy-deliplus-204-rosa-petalo",
+    "name": "Pintalabios Creamy Deliplus 204 rosa pétalo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18140",
+    "ean": "8402001055140",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18140/pintalabios-creamy-deliplus-205-marron-crema",
+    "name": "Pintalabios Creamy Deliplus 205 marrón crema",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18141",
+    "ean": "8402001055157",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18141/pintalabios-creamy-deliplus-206-ciruela",
+    "name": "Pintalabios Creamy Deliplus 206 ciruela",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18142",
+    "ean": "8402001055164",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18142/pintalabios-creamy-deliplus-207-rojo-suave",
+    "name": "Pintalabios Creamy Deliplus 207 rojo suave",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18143",
+    "ean": "8402001055171",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18143/pintalabios-creamy-deliplus-208-marsala",
+    "name": "Pintalabios Creamy Deliplus 208 marsala",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "18145",
     "ean": "8402001059056",
     "brand": "Hacendado",
@@ -16412,6 +16520,15 @@
     "brand": "Monster",
     "url": "https://tienda.mercadona.es/product/18290/bebida-energetica-vice-guava-monster-energy-ultra-zero-azucar-lata",
     "name": "Bebida energética Vice Guava Monster Energy Ultra zero azúcar",
+    "description": "Lata",
+    "category": "Agua y refrescos > Isotónico y energético"
+  },
+  {
+    "id": "18291",
+    "ean": "8402001058950",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18291/bebida-energetica-zero-nefara-energy-drink-hacendado-lata",
+    "name": "Bebida energética Zero Nefara Energy drink Hacendado",
     "description": "Lata",
     "category": "Agua y refrescos > Isotónico y energético"
   },
@@ -16891,6 +17008,15 @@
     "name": "Chupete silicona reversible tacto suave Deliplus +18 meses luminiscente",
     "description": "Paquete",
     "category": "Bebé > Biberón y chupete"
+  },
+  {
+    "id": "18599",
+    "ean": "8402001055775",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18599/agua-colonia-infantil-deliplus-con-notas-citricas-florales-bote",
+    "name": "Agua de colonia infantil Deliplus con notas cítricas y florales",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
   },
   {
     "id": "18601",
@@ -27061,6 +27187,15 @@
     "name": "Crema corporal hidratante Double \nMatcha y Centella Asiática Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "24561",
+    "ean": "8402001058745",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24561/semillas-chia-hacendado-paquete",
+    "name": "Semillas de chía Hacendado",
+    "description": "Paquete",
+    "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
     "id": "24563",
