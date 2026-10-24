@@ -15786,6 +15786,15 @@
     "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
+    "id": "17927",
+    "ean": "8402001058943",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17927/bebida-kefir-lima-limon-suave-hacendado-0-mg-botella",
+    "name": "Bebida Kéfir de lima y limón suave Hacendado 0% MG",
+    "description": "Botella",
+    "category": "Postres y yogures > Yogures líquidos"
+  },
+  {
     "id": "17928",
     "ean": "8410376012699",
     "brand": "Gullón",
@@ -16875,6 +16884,15 @@
     "category": "Conservas, caldos y cremas > Sopa y caldo"
   },
   {
+    "id": "18497",
+    "ean": "8445292870009",
+    "brand": "Nestlé",
+    "url": "https://tienda.mercadona.es/product/18497/papilla-8-cereales-con-galleta-maria-nestle-6-meses-0-azucares-anadidos-producidos-caja",
+    "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
+    "description": "Caja",
+    "category": "Bebé > Alimentación infantil"
+  },
+  {
     "id": "18498",
     "ean": "8445292869287",
     "brand": "Nestlé",
@@ -17206,6 +17224,15 @@
     "name": "Lavavajillas Classic limón Finish en pastillas",
     "description": "Caja",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "18752",
+    "ean": "8402001059391",
+    "brand": "La Muralla",
+    "url": "https://tienda.mercadona.es/product/18752/hojaldrada-crema-muralla",
+    "name": "Hojaldrada de crema La Muralla",
+    "description": null,
+    "category": "Panadería y pastelería > Bollería envasada"
   },
   {
     "id": "18754",
@@ -18835,6 +18862,15 @@
     "name": "Mantequilla con sal Hacendado",
     "description": "Tarrina",
     "category": "Huevos, leche y mantequilla > Mantequilla y margarina"
+  },
+  {
+    "id": "20734",
+    "ean": "8402001044373",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/20734/queso-viejo-intenso-mezcla-hacendado-pieza",
+    "name": "Queso viejo intenso mezcla Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso curado, semicurado y tierno"
   },
   {
     "id": "20735",
@@ -63222,6 +63258,15 @@
     "url": "https://tienda.mercadona.es/product/68275/gelatina-0-azucar-sabores-fresa-multifrutas-limon-hacendado-gellytina-pack-6",
     "name": "Gelatina 0% azúcar sabores fresa, multifrutas y limón Hacendado",
     "description": "Pack-6",
+    "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "68279",
+    "ean": "8402001057854",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/68279/postre-chocolate-caramelo-hacendado-pack-3",
+    "name": "Postre chocolate caramelo Hacendado",
+    "description": "Pack-3",
     "category": "Postres y yogures > Gelatina y otros postres"
   },
   {
