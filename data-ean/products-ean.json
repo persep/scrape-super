@@ -15597,6 +15597,15 @@
     "category": "Bebé > Toallitas y pañales"
   },
   {
+    "id": "17793",
+    "ean": "8402001052767",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17793/panales-bebe-talla-5-deliplus-14-18-kg",
+    "name": "Pañales bebé talla 5 Deliplus de 14-18 kg",
+    "description": null,
+    "category": "Bebé > Toallitas y pañales"
+  },
+  {
     "id": "17797",
     "ean": "8421384162382",
     "brand": "Incarlopsa",
@@ -16569,6 +16578,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "18297",
+    "ean": "8402001062063",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18297/napolitana-mixta-pieza",
+    "name": "Napolitana mixta",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
+  },
+  {
     "id": "18299",
     "ean": "8402001050985",
     "brand": "Deliplus",
@@ -17010,6 +17028,24 @@
     "category": "Conservas, caldos y cremas > Berberechos y mejillones"
   },
   {
+    "id": "18592",
+    "ean": "8402001049682",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18592/biberon-360-ml-tetina-silicona-tres-posiciones-deliplus-1-mes",
+    "name": "Biberón 360 ml tetina silicona tres posiciones Deliplus +1 mes",
+    "description": null,
+    "category": "Bebé > Biberón y chupete"
+  },
+  {
+    "id": "18593",
+    "ean": "8402001049675",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18593/biberon-150-ml-tetina-silicona-flujo-lento-anticolicos-deliplus-0-meses",
+    "name": "Biberón 150 ml tetina silicona flujo lento anticólicos Deliplus +0 meses",
+    "description": null,
+    "category": "Bebé > Biberón y chupete"
+  },
+  {
     "id": "18594",
     "ean": "8402001049699",
     "brand": "Deliplus",
@@ -17251,6 +17287,15 @@
     "name": "Pan de burger Bretzel Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "18787",
+    "ean": "5410126116953",
+    "brand": "Lotus Biscoff",
+    "url": "https://tienda.mercadona.es/product/18787/crema-galleta-caramelizada-lotus-biscoff-tarro",
+    "name": "Crema de galleta caramelizada Lotus Biscoff",
+    "description": "Tarro",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "18808",
