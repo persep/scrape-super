@@ -14940,6 +14940,24 @@
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
   },
   {
+    "id": "17615",
+    "ean": "8402001056222",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/17615/snack-barritas-con-ternera-cordero-perro-adulto-compy-paquete",
+    "name": "Snack barritas con ternera y cordero perro adulto Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
+    "id": "17616",
+    "ean": "8402001056215",
+    "brand": "Compy",
+    "url": "https://tienda.mercadona.es/product/17616/snack-barritas-con-pollo-higado-perro-adulto-compy-paquete",
+    "name": "Snack barritas con pollo e hígado perro adulto Compy",
+    "description": "Paquete",
+    "category": "Mascotas > Perro"
+  },
+  {
     "id": "17617",
     "ean": "8402001054792",
     "brand": "Hacendado",
@@ -15730,6 +15748,24 @@
     "name": "Costilla de cerdo marinada congelada",
     "description": "Paquete",
     "category": "Congelados > Carne"
+  },
+  {
+    "id": "17819",
+    "ean": "8402001058103",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17819/ambientador-varitas-bambu-bosque-verde-caja",
+    "name": "Ambientador varitas Bambú Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "17822",
+    "ean": "8402001058110",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17822/ambientador-varitas-frambuesa-bosque-verde-caja",
+    "name": "Ambientador varitas Frambuesa Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
     "id": "17828",
@@ -18223,6 +18259,15 @@
     "name": "Mini muslo de pollo 98% relleno La Carloteña asado al horno",
     "description": "Paquete",
     "category": "Charcutería y quesos > Aves y jamón cocido"
+  },
+  {
+    "id": "19996",
+    "ean": "8402001043260",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja",
+    "name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
+    "description": "Caja",
+    "category": "Carne > Carne congelada"
   },
   {
     "id": "20001",
