@@ -1791,6 +1791,15 @@
     "category": "Panadería y pastelería > Velas y decoración"
   },
   {
+    "id": "11525",
+    "ean": "8402001027277",
+    "brand": "La Hacienda del Ibérico",
+    "url": "https://tienda.mercadona.es/product/11525/paleta-cebo-iberica-50-hacienda-iberico-pieza",
+    "name": "Paleta de cebo ibérica 50% La Hacienda del Ibérico",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
     "id": "11526",
     "ean": "8436590110713",
     "brand": "Flor Sierra de Aracena",
@@ -15768,6 +15777,24 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "17823",
+    "ean": "8402001058127",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17823/ambientador-varitas-magnolia-bosque-verde-caja",
+    "name": "Ambientador varitas Magnolia Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "17824",
+    "ean": "8402001058134",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17824/ambientador-varitas-chai-addiction-bosque-verde-caja",
+    "name": "Ambientador varitas Chai Addiction Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "17828",
     "ean": "8402001058691",
     "brand": "Hacendado",
@@ -16119,6 +16146,15 @@
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
   },
   {
+    "id": "18035",
+    "ean": "8402001055904",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18035/surtido-bombones-chocolate-con-leche-navidad-hacendado-malla",
+    "name": "Surtido bombones de chocolate con leche Navidad Hacendado",
+    "description": "Malla",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "18037",
     "ean": "8480000180377",
     "brand": "Hacendado",
@@ -16416,6 +16452,150 @@
     "category": "Mascotas > Gato"
   },
   {
+    "id": "18176",
+    "ean": "8402001053634",
+    "brand": "Aqua Royale",
+    "url": "https://tienda.mercadona.es/product/18176/lote-mujer-wonder-aqua-royale",
+    "name": "Lote mujer Wonder Aqua Royale",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18177",
+    "ean": "8402001050015",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/18177/lote-mujer-rose-nude",
+    "name": "Lote mujer Rose Nude Como tú",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18178",
+    "ean": "8402001050039",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/18178/lote-mujer-gold",
+    "name": "Lote mujer Gold Como Tú",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18179",
+    "ean": "8402001050053",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18179/lote-corporal-mujer-dolce-latto-deliplus",
+    "name": "Lote corporal mujer Dolce Latto Deliplus",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18180",
+    "ean": "8402001050022",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/18180/lote-mujer-cerise",
+    "name": "Lote mujer Cerise Como tú",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18181",
+    "ean": "8402001050060",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18181/lote-mujer-my-soul",
+    "name": "Lote mujer Ella My Soul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18183",
+    "ean": "8402001050077",
+    "brand": "Aqua Royale",
+    "url": "https://tienda.mercadona.es/product/18183/lote-hombre-faris-aqua-royale-caja",
+    "name": "Lote hombre Faris Aqua Royale",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18184",
+    "ean": "8402001050091",
+    "brand": "Como tú",
+    "url": "https://tienda.mercadona.es/product/18184/lote-hombre-fuerza",
+    "name": "Lote hombre Fuerza Como tú",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18185",
+    "ean": "8402001050084",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18185/lote-hombre-borealia-my-soul",
+    "name": "Lote hombre Borealia My Soul",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18186",
+    "ean": "8402001050107",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18186/lote-hombre-960-volt",
+    "name": "Lote hombre 9.60 Volt",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18187",
+    "ean": "8412300059923",
+    "brand": "Nivea Men",
+    "url": "https://tienda.mercadona.es/product/18187/lote-corporal-nivea-men",
+    "name": "Lote corporal Nivea Men",
+    "description": null,
+    "category": "Cuidado facial y corporal > Afeitado y cuidado para hombre"
+  },
+  {
+    "id": "18188",
+    "ean": "8436601370778",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18188/lote-infantil-granja-caja",
+    "name": "Lote infantil Granja",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18189",
+    "ean": "8436601370792",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18189/lote-infantil-game-on",
+    "name": "Lote infantil Game On!",
+    "description": null,
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18190",
+    "ean": "8436601370785",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18190/lote-infantil-lush-light-caja",
+    "name": "Lote infantil Lush Light",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18191",
+    "ean": "8436601370808",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18191/lote-infantil-digitron-caja",
+    "name": "Lote infantil Digitron",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18192",
+    "ean": "8445326876021",
+    "brand": "Color Up!",
+    "url": "https://tienda.mercadona.es/product/18192/lote-infantil-maquillaje-color-up-magic-makeup-caja",
+    "name": "Lote infantil maquillaje Color Up! Magic Makeup",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "18209",
     "ean": "8480000182098",
     "brand": "Hacendado",
@@ -16693,6 +16873,15 @@
     "name": "Hígado de bacalao ahumado Hacendado",
     "description": "Lata",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18334",
+    "ean": "8436036180492",
+    "brand": "Trolli",
+    "url": "https://tienda.mercadona.es/product/18334/golosinas-rellenas-bolas-navidad-trolli-jingle-balls-paquete",
+    "name": "Golosinas rellenas bolas de Navidad Trolli Jingle Balls",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Golosinas"
   },
   {
     "id": "18336",
@@ -17332,6 +17521,15 @@
     "name": "Pan de burger Bretzel Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "18765",
+    "ean": "8421384164683",
+    "brand": "Incarlopsa",
+    "url": "https://tienda.mercadona.es/product/18765/jamon-serrano-incarlopsa-pieza",
+    "name": "Jamón serrano Incarlopsa",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Jamón serrano"
   },
   {
     "id": "18768",
