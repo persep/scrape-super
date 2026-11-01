@@ -10170,6 +10170,15 @@
     "category": "Aceite, especias y salsas > Especias"
   },
   {
+    "id": "14982",
+    "ean": "8402001041389",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/14982/cepillo-dental-electrico-deliplus-caja",
+    "name": "Cepillo dental Eléctrico Deliplus",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Higiene bucal"
+  },
+  {
     "id": "14983",
     "ean": "8402001033551",
     "brand": "Deliplus",
@@ -15147,6 +15156,15 @@
     "category": "Limpieza y hogar > Limpieza baño y WC"
   },
   {
+    "id": "17657",
+    "ean": "8402001057212",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17657/pintalabios-fluido-mate-deliplus-17-rojo-destellos-larga-duracion",
+    "name": "Pintalabios Fluido Mate Deliplus 17 rojo destellos",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "17661",
     "ean": "3800020401200",
     "brand": "Kit-Kat",
@@ -15208,6 +15226,15 @@
     "name": "Café en grano Brasil Hacendado",
     "description": "Paquete",
     "category": "Cacao, café e infusiones > Café molido y en grano"
+  },
+  {
+    "id": "17671",
+    "ean": "8402001057465",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17671/cafe-capsula-sabor-biscuit-hacendado-compatibles-maquinas-nespresso-caja",
+    "name": "Café en cápsula sabor Biscuit Hacendado",
+    "description": "Caja",
+    "category": "Cacao, café e infusiones > Café cápsula y monodosis"
   },
   {
     "id": "17674",
@@ -16506,6 +16533,15 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "18182",
+    "ean": "8402001050114",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/18182/lote-hombre-rebel-caja",
+    "name": "Lote hombre Rebel Como Tú",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "18183",
     "ean": "8402001050077",
     "brand": "Aqua Royale",
@@ -17115,6 +17151,15 @@
     "url": "https://tienda.mercadona.es/product/18455/vela-perfumada-red-elixir-bosque-verde-caja",
     "name": "Vela perfumada Red Elixir Bosque Verde",
     "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
+    "id": "18466",
+    "ean": "8402001061226",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/18466/recambio-ambientador-automatico-acqua-bosque-verde-spray",
+    "name": "Recambio ambientador automático Acqua Bosque Verde",
+    "description": "Spray",
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
@@ -19357,6 +19402,15 @@
     "name": "Pistachos bañados de chocolate con leche Hacendado",
     "description": "Paquete",
     "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
+    "id": "20892",
+    "ean": "8402001045561",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/20892/cepillo-dental-junior-electrico-deliplus-incluye-pilas-paquete",
+    "name": "Cepillo dental junior eléctrico Deliplus",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
     "id": "20893",
