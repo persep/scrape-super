@@ -15822,6 +15822,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "17825",
+    "ean": "8402001058097",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/17825/ambientador-varitas-peonia-bosque-verde-caja",
+    "name": "Ambientador varitas Peonía Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Insecticida y ambientador"
+  },
+  {
     "id": "17828",
     "ean": "8402001058691",
     "brand": "Hacendado",
@@ -16794,6 +16803,24 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "18284",
+    "ean": "8402001060748",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18284/jabon-manos-vanilla-noir-deliplus-bote",
+    "name": "Jabón de manos Vanilla Noir Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
+    "id": "18285",
+    "ean": "8402001060731",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18285/gel-bano-exfoliante-vanilla-noir-deliplus-piel-normal-botella",
+    "name": "Gel de baño exfoliante Vanilla Noir Deliplus piel normal",
+    "description": "Botella",
+    "category": "Cuidado facial y corporal > Gel y jabón de manos"
+  },
+  {
     "id": "18288",
     "ean": "8402001060847",
     "brand": "Hacendado",
@@ -17485,6 +17512,15 @@
     "name": "Sérum facial K-Skin efecto lifting Deliplus con PDRN & colágeno",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18692",
+    "ean": "8402001059520",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18692/roscon-reyes-relleno-crema-preparado-base-nata-banado-cacao-hacendado-congelado-caja",
+    "name": "Roscón de Reyes bañado en cacao relleno de crema y preparado a base de nata Hacendado congelado",
+    "description": "Caja",
+    "category": "Congelados > Tartas y churros"
   },
   {
     "id": "18698",
@@ -78449,6 +78485,15 @@
     "brand": null,
     "url": "https://tienda.mercadona.es/product/87313/filete-lubina-bandeja",
     "name": "Filete de lubina",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87341",
+    "ean": "8402001021961",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87341/trucha-arco-iris-abierta-espalda-bandeja",
+    "name": "Trucha Arco iris abierta a la espalda",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
   },
