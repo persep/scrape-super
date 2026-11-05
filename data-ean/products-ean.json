@@ -15867,6 +15867,24 @@
     "category": "Panadería y pastelería > Pan de horno"
   },
   {
+    "id": "17914.1",
+    "ean": "8402001061738",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17914.1/barra-pan-espiga",
+    "name": "Barra de pan espiga",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
+    "id": "17914.2",
+    "ean": "8402001061738",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17914.2/barra-pan-espiga-rebanado",
+    "name": "Barra de pan espiga rebanado",
+    "description": null,
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "17917",
     "ean": "8402001043659",
     "brand": "Hacendado",
