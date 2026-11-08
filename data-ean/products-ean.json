@@ -16668,6 +16668,42 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "18195",
+    "ean": "8402001046438",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18195/eau-parfum-mujer-lyra-my-soul-frasco",
+    "name": "Eau de parfum mujer Lyra My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18196",
+    "ean": "8402001046445",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18196/eau-parfum-hombre-orion-my-soul-frasco",
+    "name": "Eau de parfum hombre Orion My Soul",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18197",
+    "ean": "8428390081232",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/18197/mini-eau-parfum-mujer-red-velvet-flor-mayo-frasco",
+    "name": "Mini eau de parfum mujer Red Velvet Flor de Mayo",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18199",
+    "ean": "8428390081249",
+    "brand": "Flor de Mayo",
+    "url": "https://tienda.mercadona.es/product/18199/mini-eau-parfum-hombre-zymerai-flor-mayo-frasco",
+    "name": "Mini eau de parfum hombre Zymerai Flor de Mayo",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
     "id": "18209",
     "ean": "8480000182098",
     "brand": "Hacendado",
@@ -16821,11 +16857,29 @@
     "category": "Aperitivos > Frutos secos y fruta desecada"
   },
   {
+    "id": "18265",
+    "ean": "8402001055027",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18265/pintalabios-mate-deliplus-101-nude",
+    "name": "Pintalabios Mate Deliplus 101 nude",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "18266",
     "ean": "8402001055034",
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/18266/pintalabios-mate-deliplus-102-rosa-petalo",
     "name": "Pintalabios Mate Deliplus 102 rosa pétalo",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18267",
+    "ean": "8402001055041",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18267/pintalabios-mate-deliplus-103-caramelo",
+    "name": "Pintalabios Mate Deliplus 103 caramelo",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -16839,11 +16893,29 @@
     "category": "Maquillaje > Labios"
   },
   {
+    "id": "18269",
+    "ean": "8402001055065",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18269/pintalabios-mate-deliplus-105-rosa",
+    "name": "Pintalabios Mate Deliplus 105 rosa",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "18270",
     "ean": "8402001055072",
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/18270/pintalabios-mate-deliplus-106-caldera",
     "name": "Pintalabios Mate Deliplus 106 caldera",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "18271",
+    "ean": "8402001055089",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18271/pintalabios-mate-deliplus-107-marron",
+    "name": "Pintalabios Mate Deliplus 107 marrón",
     "description": null,
     "category": "Maquillaje > Labios"
   },
@@ -17105,6 +17177,24 @@
     "brand": "Deliplus",
     "url": "https://tienda.mercadona.es/product/18390/laca-unas-color-queratina-deliplus-159-lavanda",
     "name": "Laca de uñas color & queratina Deliplus 159 lavanda",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "18391",
+    "ean": "8402001052446",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18391/laca-unas-felin-deliplus-160-burdeos",
+    "name": "Laca de uñas Felin Deliplus 160 burdeos",
+    "description": null,
+    "category": "Cuidado facial y corporal > Manicura y pedicura"
+  },
+  {
+    "id": "18392",
+    "ean": "8402001052453",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18392/tratamiento-unas-aceite-felin-deliplus-161",
+    "name": "Tratamiento para uñas aceite Felin Deliplus 161",
     "description": null,
     "category": "Cuidado facial y corporal > Manicura y pedicura"
   },
@@ -17674,6 +17764,15 @@
     "name": "Pan de burger Bretzel Hacendado",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "18755",
+    "ean": "8402001059919",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18755/bruma-facial-multifuncional-make-up-fixer-felin-deliplus-hidrata-prepara-protege-fija-refresca-spray",
+    "name": "Bruma facial multifuncional Make Up Fixer Felin Deliplus",
+    "description": "Spray",
+    "category": "Maquillaje > Bases de maquillaje y corrector"
   },
   {
     "id": "18765",
