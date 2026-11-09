@@ -13608,6 +13608,15 @@
     "category": "Charcutería y quesos > Embutido curado"
   },
   {
+    "id": "16486",
+    "ean": "8402001050732",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/16486/vinagre-manzana-hacendado-sin-filtrar-botella",
+    "name": "Vinagre de manzana Hacendado sin filtrar",
+    "description": "Botella",
+    "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
+  },
+  {
     "id": "16503",
     "ean": "8480000165039",
     "brand": "Hacendado",
@@ -14796,6 +14805,15 @@
     "category": "Maquillaje > Pinceles y brochas"
   },
   {
+    "id": "17556",
+    "ean": "8402001055560",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17556/magret-pato-pieza",
+    "name": "Magret de pato",
+    "description": "Pieza",
+    "category": "Carne > Aves y pollo"
+  },
+  {
     "id": "17559",
     "ean": "8402001055645",
     "brand": "",
@@ -15768,6 +15786,15 @@
     "category": "Limpieza y hogar > Insecticida y ambientador"
   },
   {
+    "id": "17813",
+    "ean": "8402001058561",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17813/11-panecillos-integrales-100-bolsa",
+    "name": "11 Panecillos integrales 100%",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Pan de horno"
+  },
+  {
     "id": "17815",
     "ean": "8006530557498",
     "brand": "Fairy",
@@ -16288,6 +16315,24 @@
     "name": "Atún claro en aceite de girasol Hacendado",
     "description": "Pack-3",
     "category": "Conservas, caldos y cremas > Atún y otras conservas de pescado"
+  },
+  {
+    "id": "18095",
+    "ean": "8435472605897",
+    "brand": "Vitaldin",
+    "url": "https://tienda.mercadona.es/product/18095/gel-energetico-performance-con-electrolitos-cafeina-vitaldin-sabor-cherry-caja",
+    "name": "Gel energético con cafeína y electrolitos Vitaldin sabor cherry",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
+  },
+  {
+    "id": "18096",
+    "ean": "8435472605910",
+    "brand": "Vitaldin",
+    "url": "https://tienda.mercadona.es/product/18096/gel-energetico-performance-con-electrolitos-vitaldin-sabor-lima-limon-caja",
+    "name": "Gel energético con electrolitos Vitaldin sabor lima limón",
+    "description": "Caja",
+    "category": "Fitoterapia y parafarmacia > Fitoterapia"
   },
   {
     "id": "18102",
@@ -17100,6 +17145,15 @@
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
   },
   {
+    "id": "18340",
+    "ean": "8402001051005",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18340/crema-manos-velvet-deliplus-con-karite-vitamina-tarro",
+    "name": "Crema de manos Velvet Deliplus con karité & vitamina E",
+    "description": "Tarro",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
     "id": "18341",
     "ean": "8402001062094",
     "brand": "Hacendado",
@@ -17746,6 +17800,15 @@
     "name": "Lavavajillas Classic limón Finish en pastillas",
     "description": "Caja",
     "category": "Limpieza y hogar > Limpieza vajilla"
+  },
+  {
+    "id": "18744",
+    "ean": "8402001062940",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18744/berlina-con-cobertura-glaseada-trozos-almendra-rellena-crema-turron-pieza",
+    "name": "Berlina rellena de crema de turrón con cobertura glaseada y trozos de almendra",
+    "description": "Pieza",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "18752",
