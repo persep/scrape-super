@@ -16020,6 +16020,15 @@
     "category": "Carne > Cerdo"
   },
   {
+    "id": "17946",
+    "ean": "8402001060083",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17946/queso-gorgonzola-vaca-hacendado-pieza",
+    "name": "Queso gorgonzola de vaca Hacendado",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Queso untable, fresco y especialidades"
+  },
+  {
     "id": "17947",
     "ean": "8402001057793",
     "brand": "Hacendado",
@@ -17845,6 +17854,15 @@
     "name": "Bruma facial multifuncional Make Up Fixer Felin Deliplus",
     "description": "Spray",
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "18762",
+    "ean": "8421384165352",
+    "brand": "La Hacienda",
+    "url": "https://tienda.mercadona.es/product/18762/cana-lomo-cebo-iberico-felix-murtiga-hacienda-pieza",
+    "name": "Caña de lomo cebo ibérico Félix de Múrtiga La Hacienda",
+    "description": "Pieza",
+    "category": "Charcutería y quesos > Embutido curado"
   },
   {
     "id": "18765",
