@@ -17082,6 +17082,15 @@
     "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
+    "id": "18300",
+    "ean": "8402001060885",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18300/masa-polvo-bizcocho-hacendado-sabor-vainilla-paquete",
+    "name": "Masa en polvo para bizcocho Hacendado sabor vainilla",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Harina y preparado repostería"
+  },
+  {
     "id": "18310",
     "ean": "8480000183101",
     "brand": "Hacendado",
@@ -17233,6 +17242,15 @@
     "name": "Postre Caramel Cake Hacendado con queso y caramelo salado",
     "description": null,
     "category": "Postres y yogures > Gelatina y otros postres"
+  },
+  {
+    "id": "18384",
+    "ean": "8402001054006",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18384/crema-manos-reparadora-deliplus-glicerina-pantenol-vitamina-bote",
+    "name": "Crema de manos reparadora Deliplus glicerina, pantenol y vitamina E",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "18389",
@@ -22354,6 +22372,15 @@
     "name": "Pan de hamburguesa Hacendado Rústico 100% integral",
     "description": "Paquete",
     "category": "Panadería y pastelería > Pan de molde y otras especialidades"
+  },
+  {
+    "id": "21961",
+    "ean": "8402001052484",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/21961/papel-vegetal-bosque-verde-38-x-42-cm-caja",
+    "name": "Papel vegetal Bosque Verde",
+    "description": "Caja",
+    "category": "Limpieza y hogar > Menaje y conservación de alimentos"
   },
   {
     "id": "21964",
