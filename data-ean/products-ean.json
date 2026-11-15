@@ -14742,6 +14742,15 @@
     "category": "Congelados > Tartas y churros"
   },
   {
+    "id": "17540",
+    "ean": "8402001041181",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17540/cafe-grano-extra-fuerte-hacendado-paquete",
+    "name": "Café en grano extra fuerte Hacendado",
+    "description": "Paquete",
+    "category": "Cacao, café e infusiones > Café molido y en grano"
+  },
+  {
     "id": "17542",
     "ean": "5449000350923",
     "brand": "Fanta",
@@ -56293,6 +56302,15 @@
     "name": "Alistado grande Hacendado congelado",
     "description": "Caja",
     "category": "Congelados > Marisco"
+  },
+  {
+    "id": "60393",
+    "ean": "8402001034770",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/60393/gambon-grande-congelado-caja",
+    "name": "Gambón grande congelado",
+    "description": "Caja",
+    "category": "Marisco y pescado > Marisco"
   },
   {
     "id": "60394",
