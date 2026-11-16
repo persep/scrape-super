@@ -15993,6 +15993,33 @@
     "category": "Cereales y galletas > Galletas"
   },
   {
+    "id": "17938",
+    "ean": "8402001053887",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17938/set-rostro-felin-deliplus-caja",
+    "name": "Set de rostro Felin Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Colorete y polvos"
+  },
+  {
+    "id": "17939",
+    "ean": "8402001053900",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17939/set-ojos-felin-deliplus-caja",
+    "name": "Set de ojos Felin Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Ojos"
+  },
+  {
+    "id": "17940",
+    "ean": "8402001053894",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17940/set-labios-felin-deliplus-caja",
+    "name": "Set de labios Felin Deliplus",
+    "description": "Caja",
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "17941",
     "ean": "8402001052422",
     "brand": "Deliplus",
@@ -16737,6 +16764,24 @@
     "url": "https://tienda.mercadona.es/product/18192/lote-infantil-maquillaje-color-up-magic-makeup-caja",
     "name": "Lote infantil maquillaje Color Up! Magic Makeup",
     "description": "Caja",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18193",
+    "ean": "8402001046452",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/18193/eau-parfum-mujer-onyx-frasco",
+    "name": "Eau de parfum mujer Onyx Como Tú",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18194",
+    "ean": "8402001046469",
+    "brand": "Como Tú",
+    "url": "https://tienda.mercadona.es/product/18194/eau-parfum-hombre-caiman-frasco",
+    "name": "Eau de parfum hombre Caimán Como Tú",
+    "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
@@ -17649,6 +17694,15 @@
     "category": "Bebé > Higiene y cuidado"
   },
   {
+    "id": "18600",
+    "ean": "8402001057649",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18600/polvos-corporales-deliplus-bote",
+    "name": "Polvos corporales Deliplus",
+    "description": "Bote",
+    "category": "Bebé > Higiene y cuidado"
+  },
+  {
     "id": "18601",
     "ean": "8480000186010",
     "brand": "Hacendado",
@@ -17928,6 +17982,33 @@
     "category": "Agua y refrescos > Refresco de té y sin gas"
   },
   {
+    "id": "18781",
+    "ean": "8721601034929",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/18781/champu-liso-brillante-tresemme-cabello-apagado-sin-brillo-bote",
+    "name": "Champú Liso Brillante TRESemmé cabello apagado o sin brillo",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Champú"
+  },
+  {
+    "id": "18782",
+    "ean": "8721601034936",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/18782/acondicionador-liso-brillante-tresemme-cabello-apagado-sin-brillo-bote",
+    "name": "Acondicionador Liso Brillante TRESemmé cabello apagado o sin brillo",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
+    "id": "18783",
+    "ean": "8721601034943",
+    "brand": "TRESemmé",
+    "url": "https://tienda.mercadona.es/product/18783/serum-anti-frizz-liso-brillante-tresemme-bote",
+    "name": "Sérum Anti Frizz Liso Brillante TRESemmé",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Acondicionador y mascarilla"
+  },
+  {
     "id": "18787",
     "ean": "5410126116953",
     "brand": "Lotus Biscoff",
@@ -17962,6 +18043,15 @@
     "name": "Huevas de lumpo Hacendado",
     "description": "Tarro",
     "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
+    "id": "18845",
+    "ean": "8402001050992",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18845/crema-manos-hidrata-perfuma-deliplus-bote",
+    "name": "Crema de manos hidrata y perfuma Deliplus",
+    "description": "Bote",
+    "category": "Cuidado facial y corporal > Cuidado corporal"
   },
   {
     "id": "1886",
