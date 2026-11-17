@@ -14976,6 +14976,15 @@
     "category": "Cuidado facial y corporal > Higiene bucal"
   },
   {
+    "id": "17611",
+    "ean": "8402001056642",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/17611/sardina-sin-limpiar-bandeja",
+    "name": "Sardina sin limpiar",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "17613",
     "ean": "8402001056116",
     "brand": "Hacendado",
@@ -17827,6 +17836,15 @@
     "name": "Sérum facial K-Skin efecto lifting Deliplus con PDRN & colágeno",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18682",
+    "ean": "8402001062087",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18682/coco-rallado-hacendado-paquete",
+    "name": "Coco rallado Hacendado",
+    "description": "Paquete",
+    "category": "Panadería y pastelería > Velas y decoración"
   },
   {
     "id": "18692",
@@ -28620,6 +28638,15 @@
     "category": "Aceite, especias y salsas > Aceite, vinagre y sal"
   },
   {
+    "id": "26727",
+    "ean": "8480000267276",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/26727/sepia-faraonica-con-agua-anadida-bandeja",
+    "name": "Sepia Faraónica",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "26749",
     "ean": "8480000267498",
     "brand": "Hacendado",
@@ -28672,6 +28699,15 @@
     "name": "Chipirones enharinados Hacendado ultracongelado",
     "description": "Paquete",
     "category": "Congelados > Rebozados"
+  },
+  {
+    "id": "26797",
+    "ean": "8402001058622",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/26797/pota-limpia-descongelada-bandeja",
+    "name": "Pota limpia descongelada",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "2684",
@@ -28735,6 +28771,15 @@
     "name": "Champiñones blancos",
     "description": "Bandeja",
     "category": "Fruta y verdura > Verdura"
+  },
+  {
+    "id": "26981",
+    "ean": "8480000269812",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja",
+    "name": "Boquerón sin limpiar",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "26989",
@@ -78813,6 +78858,15 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "87241",
+    "ean": "8402001029585",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87241/merluza-cabo-abierta-libro-bandeja",
+    "name": "Merluza del Cabo abierta en libro",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87265",
     "ean": "8480000872654",
     "brand": "Hacendado",
@@ -78885,6 +78939,24 @@
     "category": "Arroz, legumbres y pasta > Pasta y fideos"
   },
   {
+    "id": "87300",
+    "ean": "8402001021930",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87300/dorada-limpia-bandeja",
+    "name": "Dorada limpia",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87301",
+    "ean": "8402001021947",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87301/dorada-abierta-espalda-bandeja",
+    "name": "Dorada abierta a la espalda",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87302",
     "ean": "8480000873026",
     "brand": null,
@@ -78903,11 +78975,38 @@
     "category": "Marisco y pescado > Pescado fresco"
   },
   {
+    "id": "87310",
+    "ean": "8402001021916",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87310/lubina-limpia-bandeja",
+    "name": "Lubina limpia",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87311",
+    "ean": "8402001021923",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87311/lubina-abierta-espalda-bandeja",
+    "name": "Lubina abierta a la espalda",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "87313",
     "ean": "8480000873132",
     "brand": null,
     "url": "https://tienda.mercadona.es/product/87313/filete-lubina-bandeja",
     "name": "Filete de lubina",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87326",
+    "ean": "8402001044991",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/87326/filete-corvina-bandeja",
+    "name": "Filete de corvina",
     "description": "Bandeja",
     "category": "Marisco y pescado > Pescado fresco"
   },
@@ -79263,6 +79362,33 @@
     "category": "Zumos > Naranja"
   },
   {
+    "id": "87916",
+    "ean": "8480000879165",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87916/sardina-sin-limpiar-bandeja",
+    "name": "Sardina sin limpiar",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87929",
+    "ean": "8480000879295",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87929/boqueron-limpio-sin-cabeza-sin-tripa-bandeja",
+    "name": "Boquerón limpio sin cabeza",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87930",
+    "ean": "8480000879301",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87930/boqueron-limpio-sin-espina-bandeja",
+    "name": "Boquerón limpio sin espina",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
     "id": "8794",
     "ean": "8412941006249",
     "brand": "Convite",
@@ -79306,6 +79432,33 @@
     "name": "Retoca raíces instantáneo L'Oréal castaño caoba",
     "description": "Spray",
     "category": "Cuidado del cabello > Coloración cabello"
+  },
+  {
+    "id": "87995",
+    "ean": "8402001031052",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87995/sardina-limpia-descongelada-bandeja",
+    "name": "Sardina limpia descongelada",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87996",
+    "ean": "8436045960429",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87996/bacaladilla-limpia-descongelada-bandeja",
+    "name": "Bacaladilla limpia",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
+  },
+  {
+    "id": "87997",
+    "ean": "8436045960412",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/87997/bacaladilla-abierta-hacendado-bandeja",
+    "name": "Bacaladilla abierta",
+    "description": "Bandeja",
+    "category": "Marisco y pescado > Pescado fresco"
   },
   {
     "id": "8802",
