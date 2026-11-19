@@ -18072,6 +18072,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "18793",
+    "ean": "8402001061301",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/18793/detergente-ropa-frescura-bosque-verde-liquido-botella",
+    "name": "Detergente ropa Frescura Bosque Verde líquido",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
+  },
+  {
     "id": "18808",
     "ean": "8435129718062",
     "brand": "Ubago",
@@ -18097,6 +18106,24 @@
     "name": "Huevas de lumpo Hacendado",
     "description": "Tarro",
     "category": "Marisco y pescado > Salazones y ahumados"
+  },
+  {
+    "id": "18822",
+    "ean": "8402001055492",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18822/lote-facial-mujer-deliplus-tratamiento-intensivo-jalea-real-colageno-caja",
+    "name": "Lote facial mujer Deliplus tratamiento intensivo de jalea real y colágeno",
+    "description": "Caja",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18836",
+    "ean": "8402001060229",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18836/salsa-fresca-cheddar-hacendado-tarrina",
+    "name": "Salsa fresca Cheddar Hacendado",
+    "description": "Tarrina",
+    "category": "Aceite, especias y salsas > Otras salsas"
   },
   {
     "id": "18845",
@@ -28177,6 +28204,15 @@
     "name": "Fruta + leche Proteina 20 gr Don Simón con colágeno y vitamina C",
     "description": "Brik",
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "24608",
+    "ean": "8402001049811",
+    "brand": null,
+    "url": "https://tienda.mercadona.es/product/24608/gambon-grande-congelado-caja",
+    "name": "Gambón grande congelado",
+    "description": "Caja",
+    "category": "Congelados > Marisco"
   },
   {
     "id": "24700",
