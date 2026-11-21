@@ -16497,6 +16497,24 @@
     "category": "Carne > Hamburguesas y picadas"
   },
   {
+    "id": "18132",
+    "ean": "8402001057359",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/18132/servilleta-papel-color-rojo-bosque-verde-2-capas-39-x-385-cm-paquete",
+    "name": "Servilleta papel color rojo Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Papel higiénico y celulosa"
+  },
+  {
+    "id": "18133",
+    "ean": "8402001057366",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/18133/servilleta-papel-decoracion-navidad-bosque-verde-2-capas-39-x-385-cm-paquete",
+    "name": "Servilleta papel decoración Navidad Bosque Verde",
+    "description": "Paquete",
+    "category": "Limpieza y hogar > Papel higiénico y celulosa"
+  },
+  {
     "id": "18135",
     "ean": "8402001044427",
     "brand": "Deliplus",
