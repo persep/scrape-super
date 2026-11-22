@@ -15219,6 +15219,24 @@
     "category": "Charcutería y quesos > Queso untable, fresco y especialidades"
   },
   {
+    "id": "17663",
+    "ean": "8402001054846",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17663/perfilador-labios-liquido-tint-deliplus-01-nude-rosado",
+    "name": "Perfilador de labios líquido Tint Deliplus 01 nude rosado",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
+    "id": "17664",
+    "ean": "8402001054853",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17664/perfilador-labios-liquido-tint-deliplus-02-canela",
+    "name": "Perfilador de labios líquido Tint Deliplus 02 canela",
+    "description": null,
+    "category": "Maquillaje > Labios"
+  },
+  {
     "id": "17665",
     "ean": "8402001057403",
     "brand": "Hacendado",
@@ -18025,6 +18043,15 @@
     "name": "Jamón serrano Incarlopsa",
     "description": "Pieza",
     "category": "Charcutería y quesos > Jamón serrano"
+  },
+  {
+    "id": "18766",
+    "ean": "8402001062803",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18766/avellanas-banadas-chocolate-blanco-con-azucar-caramelizado-hacendado-con-sal-paquete",
+    "name": "Avellanas bañadas de chocolate blanco con azúcar caramelizado Hacendado",
+    "description": "Paquete",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
     "id": "18768",
@@ -28053,6 +28080,15 @@
     "category": "Pizzas y platos preparados > Platos preparados fríos"
   },
   {
+    "id": "24535",
+    "ean": "8402001025792",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/24535/chicles-hierbabuena-gragea-hacendado",
+    "name": "Chicles gragea hierbabuena sin azúcar Hacendado",
+    "description": null,
+    "category": "Azúcar, caramelos y chocolate > Chicles y caramelos"
+  },
+  {
     "id": "24537",
     "ean": "8402001053481",
     "brand": "Hacendado",
@@ -28132,6 +28168,15 @@
     "name": "Fruta + leche tropical Don Simon sin azúcares añadidos y zero materia grasa",
     "description": null,
     "category": "Zumos > Fruta variada"
+  },
+  {
+    "id": "24557",
+    "ean": "8402001054242",
+    "brand": "Bosque Verde",
+    "url": "https://tienda.mercadona.es/product/24557/planchado-facil-bosque-verde-perfumado-con-pistola-botella",
+    "name": "Planchado fácil Bosque Verde perfumado",
+    "description": "Botella",
+    "category": "Limpieza y hogar > Detergente y suavizante ropa"
   },
   {
     "id": "24558",
