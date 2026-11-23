@@ -16236,6 +16236,15 @@
     "category": "Azúcar, caramelos y chocolate > Chocolate"
   },
   {
+    "id": "17997",
+    "ean": "8402001060069",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/17997/chocolate-con-leche-fussion-hacendado-relleno-crema-fresa-tableta",
+    "name": "Chocolate con leche Fussion Hacendado relleno crema de fresa",
+    "description": "Tableta",
+    "category": "Azúcar, caramelos y chocolate > Chocolate"
+  },
+  {
     "id": "17999",
     "ean": "8402001058462",
     "brand": "Deliplus",
@@ -17523,6 +17532,15 @@
     "category": "Charcutería y quesos > Bacón y salchichas"
   },
   {
+    "id": "18451",
+    "ean": "8402001061875",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18451/mortadela-extrafina-hacendado-lonchas-paquete",
+    "name": "Mortadela extrafina Hacendado lonchas",
+    "description": "Paquete",
+    "category": "Charcutería y quesos > Chopped y mortadela"
+  },
+  {
     "id": "18455",
     "ean": "8402001060342",
     "brand": "Bosque Verde",
@@ -17566,6 +17584,15 @@
     "name": "Caldo de verduras casero Gallina blanca",
     "description": "Brik",
     "category": "Conservas, caldos y cremas > Sopa y caldo"
+  },
+  {
+    "id": "18490",
+    "ean": "8402001062049",
+    "brand": "",
+    "url": "https://tienda.mercadona.es/product/18490/6-pasteles-boniato-bolsa",
+    "name": "6 Pasteles de boniato",
+    "description": "Bolsa",
+    "category": "Panadería y pastelería > Bollería de horno"
   },
   {
     "id": "18497",
@@ -18178,6 +18205,15 @@
     "name": "Crema de manos hidrata y perfuma Deliplus",
     "description": "Bote",
     "category": "Cuidado facial y corporal > Cuidado corporal"
+  },
+  {
+    "id": "18855",
+    "ean": "8402001053573",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18855/aceitunas-verdes-sin-hueso-hacendado-sin-liquido-bote",
+    "name": "Aceitunas verdes sin hueso Hacendado y sin líquido",
+    "description": "Bote",
+    "category": "Aperitivos > Aceitunas y encurtidos"
   },
   {
     "id": "1886",
