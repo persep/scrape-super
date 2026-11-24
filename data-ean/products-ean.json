@@ -16218,6 +16218,33 @@
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
   {
+    "id": "17992",
+    "ean": "8402001059896",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17992/espuma-cabello-xtra-forte-deliplus-fijacion-4-bote",
+    "name": "Espuma cabello Xtra Forte Deliplus fijación 4",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "17993",
+    "ean": "8402001059889",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17993/espuma-cabello-ondas-curly-deliplus-fijacion-3-bote",
+    "name": "Espuma cabello Ondas Curly Deliplus fijación 3",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
+    "id": "17994",
+    "ean": "8402001059902",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/17994/espuma-cabello-volum-deliplus-fijacion-2-bote",
+    "name": "Espuma cabello Volum Deliplus fijación 2",
+    "description": "Bote",
+    "category": "Cuidado del cabello > Fijación cabello"
+  },
+  {
     "id": "17995",
     "ean": "8402001055850",
     "brand": "Hacendado",
@@ -17312,6 +17339,15 @@
     "brand": "My Soul",
     "url": "https://tienda.mercadona.es/product/18354/eau-parfum-hombre-my-soul-supreme-frasco",
     "name": "Eau de parfum hombre My Soul Supreme",
+    "description": "Frasco",
+    "category": "Cuidado facial y corporal > Perfume y colonia"
+  },
+  {
+    "id": "18355",
+    "ean": "8402001044793",
+    "brand": "My Soul",
+    "url": "https://tienda.mercadona.es/product/18355/eau-parfum-mujer-special-my-soul-frasco",
+    "name": "Eau de parfum mujer Special My Soul",
     "description": "Frasco",
     "category": "Cuidado facial y corporal > Perfume y colonia"
   },
