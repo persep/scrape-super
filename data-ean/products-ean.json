@@ -18027,6 +18027,15 @@
     "category": "Panadería y pastelería > Bollería de horno"
   },
   {
+    "id": "18750",
+    "ean": "8402001052798",
+    "brand": "Deliplus",
+    "url": "https://tienda.mercadona.es/product/18750/mascarilla-facial-navidena-cookie-mask-deliplus-con-extracto-cacao-tamano-xs-paquete",
+    "name": "Mascarilla facial Navideña Cookie Mask Deliplus con extracto de cacao",
+    "description": "Paquete",
+    "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
     "id": "18752",
     "ean": "8402001059391",
     "brand": "La Muralla",
@@ -18052,6 +18061,15 @@
     "name": "Bruma facial multifuncional Make Up Fixer Felin Deliplus",
     "description": "Spray",
     "category": "Maquillaje > Bases de maquillaje y corrector"
+  },
+  {
+    "id": "18756",
+    "ean": "8402001062841",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18756/masa-fresca-empanada-hacendado",
+    "name": "Masa fresca empanada Hacendado",
+    "description": null,
+    "category": "Panadería y pastelería > Harina y preparado repostería"
   },
   {
     "id": "18758",
@@ -18223,6 +18241,15 @@
     "name": "Lote facial mujer Deliplus tratamiento intensivo de jalea real y colágeno",
     "description": "Caja",
     "category": "Cuidado facial y corporal > Cuidado e higiene facial"
+  },
+  {
+    "id": "18825",
+    "ean": "8402001063206",
+    "brand": "Hacendado",
+    "url": "https://tienda.mercadona.es/product/18825/masa-fresca-pizza-cereales-semillas-hacendado",
+    "name": "Masa fresca pizza de cereales y semillas Hacendado",
+    "description": null,
+    "category": "Pizzas y platos preparados > Pizzas"
   },
   {
     "id": "18836",
